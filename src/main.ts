@@ -1,12 +1,15 @@
-// For more information, see https://crawlee.dev/
 import { CheerioCrawler, ProxyConfiguration } from 'crawlee';
 
 import { router } from './routes.js';
 
-const startUrls = ['https://crawlee.dev'];
+// Note: W3C does have a JSON API, see https://api.w3.org/doc, that can be used
+// to retrieve some of the necessary information. It does not have all of it,
+// however, and so it may be easier just to scrape the site like for all of the
+// others.
+
+const startUrls = ['https://www.w3.org/TR/'];
 
 const crawler = new CheerioCrawler({
-    // proxyConfiguration: new ProxyConfiguration({ proxyUrls: ['...'] }),
     requestHandler: router,
     // Comment this option to scrape the full website.
     maxRequestsPerCrawl: 20,
