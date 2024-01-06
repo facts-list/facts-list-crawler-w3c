@@ -1,5 +1,10 @@
 import { createCheerioRouter } from 'crawlee';
 
+import { toString } from 'nlcst-to-string';
+import { retext } from 'retext';
+import retextKeywords from 'retext-keywords';
+import retextPos from 'retext-pos';
+
 export const router = createCheerioRouter();
 
 router.addDefaultHandler(async ({ request, enqueueLinks, pushData, log, $ }) => {
@@ -61,17 +66,16 @@ router.addDefaultHandler(async ({ request, enqueueLinks, pushData, log, $ }) => 
     for (var rec of records)
       await pushData(rec);
 
+/*
     await enqueueLinks({
         urls: urlsHist,
         label: 'history',
     });
-
-/*
+*/
     await enqueueLinks({
         urls: urls,
         label: 'detail',
     });
-*/
 });
 
 router.addHandler('history', async ({ request, $, log, pushData }) => {
@@ -114,10 +118,22 @@ router.addHandler('history', async ({ request, $, log, pushData }) => {
 
 router.addHandler('detail', async ({ request, $, log, pushData }) => {
     const title = $('title').text();
-    log.info(`${title}`, { url: request.loadedUrl });
+    log.info(`detail: ${title}`, { url: request.loadedUrl });
+
+    const keyphrases = {};
+
+    const file = await retext()
+      .use(retextPos) // Make sure to use `retext-pos` before `retext-keywords`.
+      .use(retextKeywords, { maximum: 100 })
+      .process($('body').text().replace(/\s+/g, ' '));
+
+    if (file.data.keyphrases)
+      for (const phrase of file.data.keyphrases)
+        keyphrases[toString(phrase.matches[0].nodes)] = phrase.weight;
 
     await pushData({
+        type: 'keyphrases',
         url: request.loadedUrl,
-        title,
+        keyphrases: keyphrases
     });
 });

@@ -4,13 +4,16 @@
     "type": "module",
     "description": "This is an example of a Crawlee project.",
     "dependencies": {
-        "crawlee": "^3.0.0"
+        "crawlee": "^3.0.0",
+        "retext": "^9.0.0",
+        "retext-keywords": "^8.0.1",
+        "retext-pos": "^5.0.0"
     },
     "devDependencies": {
         "@apify/tsconfig": "^0.1.0",
+        "@types/node": "^20.0.0",
         "tsx": "^4.4.0",
-        "typescript": "~5.3.0",
-        "@types/node": "^20.0.0"
+        "typescript": "~5.3.0"
     },
     "scripts": {
         "start": "npm run start:dev",
