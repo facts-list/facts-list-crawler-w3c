@@ -66,12 +66,11 @@ router.addDefaultHandler(async ({ request, enqueueLinks, pushData, log, $ }) => 
     for (var rec of records)
       await pushData(rec);
 
-/*
     await enqueueLinks({
         urls: urlsHist,
         label: 'history',
     });
-*/
+
     await enqueueLinks({
         urls: urls,
         label: 'detail',
@@ -111,7 +110,7 @@ router.addHandler('history', async ({ request, $, log, pushData }) => {
 
     await pushData({
         type: 'history',
-        url: request.loadedUrl,
+        url: request.url,
         history: records
     });
 });
@@ -124,7 +123,7 @@ router.addHandler('detail', async ({ request, $, log, pushData }) => {
 
     const file = await retext()
       .use(retextPos) // Make sure to use `retext-pos` before `retext-keywords`.
-      .use(retextKeywords, { maximum: 100 })
+      .use(retextKeywords, { maximum: 40 })
       .process($('body').text().replace(/\s+/g, ' '));
 
     if (file.data.keyphrases)
@@ -133,7 +132,7 @@ router.addHandler('detail', async ({ request, $, log, pushData }) => {
 
     await pushData({
         type: 'keyphrases',
-        url: request.loadedUrl,
+        url: request.url,
         keyphrases: keyphrases
     });
 });

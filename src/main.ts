@@ -1,4 +1,4 @@
-import { CheerioCrawler, ProxyConfiguration } from 'crawlee';
+import { CheerioCrawler, ProxyConfiguration, Dataset } from 'crawlee';
 
 import { router } from './routes.js';
 
@@ -12,7 +12,29 @@ const startUrls = ['https://www.w3.org/TR/'];
 const crawler = new CheerioCrawler({
     requestHandler: router,
     // Comment this option to scrape the full website.
-    maxRequestsPerCrawl: 20,
+    // maxRequestsPerCrawl: 20,
 });
 
 await crawler.run(startUrls);
+
+var urlFromHist = {};
+var all = {};
+const dataset = await crawler.getDataset();
+await dataset.forEach(async (item, index) => {
+  if (item['type'] == 'record') {
+    urlFromHist[item['histUrl']] = item['url'];
+    all[item['url']] = item;
+  } else if (item['type'] == 'history') {
+    all[urlFromHist[item['url']]]['history'] = item['history'];
+  } else if (item['type'] == 'keyphrases') {
+    all[item['url']]['keyphrases'] = item['keyphrases'];
+  }
+});
+
+const datasetCombined = await Dataset.open('combined');
+for (var rec of Object.values(all)) {
+  const  {type, ...newRec} = rec;
+  await datasetCombined.pushData(newRec);
+}
+await datasetCombined.exportToJSON('result');
+
