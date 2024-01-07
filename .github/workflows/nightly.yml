@@ -1,0 +1,36 @@
+name: W3C Crawl
+
+on:
+  schedule:
+    - cron:  '5 8 * * *'
+
+jobs:
+  W3C-Crawl:
+    runs-on: ubuntu-latest
+    env: 
+      CI_COMMIT_MESSAGE: Scheduled Crawl Artifacts
+      CI_COMMIT_AUTHOR: Scheduled Crawl
+      CI_COMMIT_EMAIL: does-not-exist@users.noreply.github.com
+    steps:
+      - name: Clone Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20.x
+          cache: 'npm'
+
+      - name: Install and Run
+      - run: npm ci
+      - run: npm start
+      - run: mkdir -p latest
+      - run: mv -f storage/key_value_stores/default/result.json latest/
+
+      - name: Add Results
+      - run: git add latest/result.json
+      - run: git config --global user.name "${{ env.CI_COMMIT_AUTHOR }}"
+      - run: git config --global user.email "${{ env.CI_COMMIT_EMAIL }}"
+      - run: git commit -a -m "${{ env.CI_COMMIT_MESSAGE }}"
+      - run: git push
+
