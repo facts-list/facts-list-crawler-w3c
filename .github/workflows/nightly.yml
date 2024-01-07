@@ -5,6 +5,9 @@ on:
     - cron:  '5 8 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   W3C-Crawl:
     runs-on: ubuntu-latest
