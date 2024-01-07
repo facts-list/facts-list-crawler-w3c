@@ -136,7 +136,49 @@ router.addHandler('detail', async ({ request, $, log, pushData }) => {
     log.info(`detail: ${title}`, { url: request.loadedUrl });
 
     const keyphrases = {};
+    var abstract = '';
 
+    for (var nm of [ 'ABSTRACT', 'INTRODUCTION' ]) {
+      for (var hn of [ 'h2', 'h3', 'h4' ]) {
+        $(hn).each((index, el) => {
+          if (abstract.length !== 0)
+            return;
+
+          if ($(el).text().trim().toUpperCase() != nm)
+            return;
+
+          $(el).nextAll('p').first().each((index0, el0) => {
+            abstract = $(el0).text().trim().replace(/\s+/g, ' ');
+          });
+
+          if (abstract.length !== 0)
+            return;
+
+          $(el).nextAll('div').first().find('p').first().each((index0, el0) => {
+            abstract = $(el0).text().trim().replace(/\s+/g, ' ');
+          });
+
+          if (abstract.length !== 0)
+            return;
+
+          const mnm = new RegExp('^' + nm + '\\s*', 'i');
+          $(el).parents('section').first().each((index0, el0) => {
+            abstract = $(el0).text().trim().replace(/\s+/g, ' ')
+                         .replace(mnm, '');
+          });
+
+          if (abstract.length !== 0)
+            return;
+
+          $(el).parents('div').first().each((index0, el0) => {
+            abstract = $(el0).text().trim().replace(/\s+/g, ' ')
+                         .replace(mnm, '');
+          });
+        });
+      }
+    }
+
+/*
     const file = await retext()
       .use(retextPos) // Make sure to use `retext-pos` before `retext-keywords`.
       .use(retextKeywords, { maximum: 40 })
@@ -145,10 +187,11 @@ router.addHandler('detail', async ({ request, $, log, pushData }) => {
     if (file.data.keyphrases)
       for (const phrase of file.data.keyphrases)
         keyphrases[toString(phrase.matches[0].nodes)] = phrase.weight;
+*/
 
     await pushData({
-        type: 'keyphrases',
+        type: 'abstract',
         url: request.url,
-        keyphrases: keyphrases
+        abstract: abstract
     });
 });

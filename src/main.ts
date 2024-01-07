@@ -42,15 +42,24 @@ await dataset.forEach(async (item, index) => {
     all[item['url']] = item;
   } else if (item['type'] == 'history') {
     all[urlFromHist[item['url']]]['history'] = item['history'];
-  } else if (item['type'] == 'keyphrases') {
-    all[item['url']]['keyphrases'] = item['keyphrases'];
+  } else if (item['type'] == 'abstract') {
+    all[item['url']]['abstract'] = item['abstract'];
   }
 });
 
-const datasetCombined = await Dataset.open('combined');
+const allSorted = [];
 for (var rec of Object.values(all)) {
   const  {type, ...newRec} = rec;
-  await datasetCombined.pushData(newRec);
+  allSorted.push(newRec);
 }
+
+allSorted.sort((a, b) => {
+  return a.date.localeCompare(b.date) || a.title.localeCompare(b.title);
+});
+
+const datasetCombined = await Dataset.open('combined');
+for (var rec of allSorted)
+  await datasetCombined.pushData(rec);
+
 await datasetCombined.exportToJSON('result');
 
