@@ -40,6 +40,13 @@ router.addDefaultHandler(async ({ request, enqueueLinks, pushData, log, $ }) => 
       if (stdTitle.length === 0)
         return;
 
+      // There are a couple of places where some links point to series summary
+      // pages, instead of the first standard in the series.
+      if (stdUrl == 'https://www.w3.org/TR/xpath/')
+        stdUrl = 'https://www.w3.org/TR/1999/REC-xpath-19991116/';
+      else if (stdUrl == 'https://www.w3.org/TR/xquery/')
+        stdUrl = 'https://www.w3.org/TR/2010/REC-xquery-20101214/';
+
       $(el).find('.maturity-level').first().each((index0, el0) => {
         status = $(el0).text();
       });
