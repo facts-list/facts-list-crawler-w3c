@@ -2,7 +2,7 @@
     "name": "facts-list-crawler-w3c",
     "version": "0.0.1",
     "type": "module",
-    "description": "This is an example of a Crawlee project.",
+    "description": "W3C crawler for the FACTS project.",
     "dependencies": {
         "crawlee": "^3.0.0",
         "retext": "^9.0.0",
@@ -22,6 +22,5 @@
         "build": "tsc",
         "test": "echo \"Error: oops, the actor has no tests yet, sad!\" && exit 1"
     },
-    "author": "It's not you it's me",
-    "license": "ISC"
+    "license": "Apache-2.0"
 }
