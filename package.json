@@ -4,10 +4,7 @@
     "type": "module",
     "description": "W3C crawler for the FACTS project.",
     "dependencies": {
-        "crawlee": "^3.0.0",
-        "retext": "^9.0.0",
-        "retext-keywords": "^8.0.1",
-        "retext-pos": "^5.0.0"
+        "crawlee": "^3.0.0"
     },
     "devDependencies": {
         "@apify/tsconfig": "^0.1.0",
