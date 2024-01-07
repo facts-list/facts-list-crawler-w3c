@@ -14,7 +14,7 @@ jobs:
     env: 
       CI_COMMIT_MESSAGE: Scheduled Crawl Artifacts
       CI_COMMIT_AUTHOR: Scheduled Crawl
-      CI_COMMIT_EMAIL: does-not-exist@users.noreply.github.com
+      CI_COMMIT_EMAIL: does-not-exist@automated.invalid
     steps:
       - name: Clone Repository
         uses: actions/checkout@v4
