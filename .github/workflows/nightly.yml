@@ -37,6 +37,6 @@ jobs:
           git add latest/result.json
           git config --global user.name "${{ env.CI_COMMIT_AUTHOR }}"
           git config --global user.email "${{ env.CI_COMMIT_EMAIL }}"
-          git commit -a -m "${{ env.CI_COMMIT_MESSAGE }}"
+          git commit -a -m "${{ env.CI_COMMIT_MESSAGE }}" || true
           git push
 
