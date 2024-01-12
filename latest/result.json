@@ -49337,331 +49337,6 @@
     "abstract": "Secure Payment Confirmation (SPC) is a Web API to support streamlined authentication during a payment transaction. It is designed to scale authentication across merchants, to be used within a wide range of authentication protocols, and to produce cryptographic evidence that the user has confirmed transaction details."
   },
   {
-    "url": "https://www.w3.org/TR/webrtc-stats/",
-    "title": "Identifiers for WebRTC's Statistics API",
-    "status": "Candidate Standard",
-    "date": "2023-12-14",
-    "histUrl": "https://www.w3.org/standards/history/webrtc-stats/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-webrtc-stats-20231214/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-12-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-webrtc-stats-20230804/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-08-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-webrtc-stats-20230803/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-08-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-webrtc-stats-20230720/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-07-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-webrtc-stats-20230615/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-06-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-webrtc-stats-20230511/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-05-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-webrtc-stats-20230427/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-04-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-webrtc-stats-20230421/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-04-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-webrtc-stats-20230330/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-03-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-webrtc-stats-20230321/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-03-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-webrtc-stats-20230309/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-03-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-webrtc-stats-20230307/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-03-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-webrtc-stats-20230303/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-03-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-webrtc-stats-20230224/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-02-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-webrtc-stats-20230125/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-01-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-webrtc-stats-20230110/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-01-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20221225/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2022-12-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20221216/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2022-12-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20221214/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2022-12-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20221207/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2022-12-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20221129/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2022-11-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20221011/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2022-10-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20220928/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2022-09-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20220927/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2022-09-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20220926/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2022-09-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20220921/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2022-09-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20220920/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2022-09-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20220726/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2022-07-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20220725/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2022-07-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20220630/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2022-06-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20220629/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2022-06-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20220614/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2022-06-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20220609/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2022-06-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20220517/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2022-05-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20220422/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2022-04-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20220421/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2022-04-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/CRD-webrtc-stats-20211110/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2021-11-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/CRD-webrtc-stats-20210715/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2021-07-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/CRD-webrtc-stats-20210623/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2021-06-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/CRD-webrtc-stats-20210215/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2021-02-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/CRD-webrtc-stats-20210120/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2021-01-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/CRD-webrtc-stats-20210119/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2021-01-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/CRD-webrtc-stats-20201201/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2020-12-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/CRD-webrtc-stats-20201006/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2020-10-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/CR-webrtc-stats-20200114/",
-        "status": "Candidate Recommendation Snapshot",
-        "date": "2020-01-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/CR-webrtc-stats-20180703/",
-        "status": "Candidate Recommendation Snapshot",
-        "date": "2018-07-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-webrtc-stats-20180627/",
-        "status": "Working Draft",
-        "date": "2018-06-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-webrtc-stats-20180519/",
-        "status": "Working Draft",
-        "date": "2018-05-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-webrtc-stats-20180516/",
-        "status": "Working Draft",
-        "date": "2018-05-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-webrtc-stats-20180328/",
-        "status": "Working Draft",
-        "date": "2018-03-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-webrtc-stats-20180314/",
-        "status": "Working Draft",
-        "date": "2018-03-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-webrtc-stats-20180307/",
-        "status": "Working Draft",
-        "date": "2018-03-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-webrtc-stats-20180227/",
-        "status": "Working Draft",
-        "date": "2018-02-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-webrtc-stats-20180226/",
-        "status": "Working Draft",
-        "date": "2018-02-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-webrtc-stats-20180131/",
-        "status": "Working Draft",
-        "date": "2018-01-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-webrtc-stats-20180117/",
-        "status": "Working Draft",
-        "date": "2018-01-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-webrtc-stats-20180110/",
-        "status": "Working Draft",
-        "date": "2018-01-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2016/WD-webrtc-stats-20161214/",
-        "status": "Working Draft",
-        "date": "2016-12-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2016/WD-webrtc-stats-20160921/",
-        "status": "Working Draft",
-        "date": "2016-09-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2016/WD-webrtc-stats-20160527/",
-        "status": "Working Draft",
-        "date": "2016-05-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2016/WD-webrtc-stats-20160524/",
-        "status": "Working Draft",
-        "date": "2016-05-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2015/WD-webrtc-stats-20150206/",
-        "status": "Working Draft",
-        "date": "2015-02-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2014/WD-webrtc-stats-20141021/",
-        "status": "First Public Working Draft",
-        "date": "2014-10-21"
-      }
-    ],
-    "abstract": "This document defines a set of WebIDL objects that allow access to the statistical information about a RTCPeerConnection."
-  },
-  {
     "url": "https://www.w3.org/TR/screen-capture/",
     "title": "Screen Capture",
     "status": "Draft Standard",
@@ -53780,121 +53455,6 @@
       }
     ],
     "abstract": "The European Accessibility Act (EAA) is an EU directive that establishes binding accessibility targets that must be met by many different types of products and services to strengthen the rights of people with disabilities to access goods and services, including ebooks, dedicated reading software, ereading devices, and ecommerce."
-  },
-  {
-    "url": "https://www.w3.org/TR/imsc-hrm/",
-    "title": "IMSC Hypothetical Render Model",
-    "status": "Candidate Standard",
-    "date": "2023-12-28",
-    "histUrl": "https://www.w3.org/standards/history/imsc-hrm/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-imsc-hrm-20231228/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-12-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-imsc-hrm-20231220/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-12-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-imsc-hrm-20231123/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-11-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CR-imsc-hrm-20230622/",
-        "status": "Candidate Recommendation Snapshot",
-        "date": "2023-06-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-imsc-hrm-20230620/",
-        "status": "Working Draft",
-        "date": "2023-06-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-imsc-hrm-20230619/",
-        "status": "Working Draft",
-        "date": "2023-06-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-imsc-hrm-20230227/",
-        "status": "Working Draft",
-        "date": "2023-02-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-imsc-hrm-20230202/",
-        "status": "Working Draft",
-        "date": "2023-02-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-imsc-hrm-20221107/",
-        "status": "Working Draft",
-        "date": "2022-11-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-imsc-hrm-20220322/",
-        "status": "Working Draft",
-        "date": "2022-03-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-imsc-hrm-20220316/",
-        "status": "Working Draft",
-        "date": "2022-03-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-imsc-hrm-20220315/",
-        "status": "Working Draft",
-        "date": "2022-03-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-imsc-hrm-20220310/",
-        "status": "Working Draft",
-        "date": "2022-03-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-imsc-hrm-20220307/",
-        "status": "Working Draft",
-        "date": "2022-03-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-imsc-hrm-20220304/",
-        "status": "Working Draft",
-        "date": "2022-03-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-imsc-hrm-20220303/",
-        "status": "Working Draft",
-        "date": "2022-03-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-imsc-hrm-20220201/",
-        "status": "Working Draft",
-        "date": "2022-02-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-imsc-hrm-20220106/",
-        "status": "Working Draft",
-        "date": "2022-01-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-imsc-hrm-20211214/",
-        "status": "Working Draft",
-        "date": "2021-12-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-imsc-hrm-20211209/",
-        "status": "Working Draft",
-        "date": "2021-12-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-imsc-hrm-20211109/",
-        "status": "First Public Working Draft",
-        "date": "2021-11-09"
-      }
-    ],
-    "abstract": "This specification specifies an Hypothetical Render Model (HRM) that constrains the presentation complexity of documents that conform to any of the TTML Profiles for Internet Media Subtitles and Captions ([IMSC])."
   },
   {
     "url": "https://www.w3.org/TR/vc-jose-cose/",
@@ -65685,5 +65245,455 @@
       }
     ],
     "abstract": "Shading language for WebGPU."
+  },
+  {
+    "url": "https://www.w3.org/TR/webrtc-stats/",
+    "title": "Identifiers for WebRTC's Statistics API",
+    "status": "Candidate Standard",
+    "date": "2024-01-11",
+    "histUrl": "https://www.w3.org/standards/history/webrtc-stats/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webrtc-stats-20240111/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-01-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-webrtc-stats-20231214/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-12-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-webrtc-stats-20230804/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-08-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-webrtc-stats-20230803/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-08-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-webrtc-stats-20230720/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-07-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-webrtc-stats-20230615/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-06-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-webrtc-stats-20230511/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-05-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-webrtc-stats-20230427/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-04-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-webrtc-stats-20230421/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-04-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-webrtc-stats-20230330/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-03-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-webrtc-stats-20230321/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-03-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-webrtc-stats-20230309/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-03-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-webrtc-stats-20230307/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-03-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-webrtc-stats-20230303/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-03-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-webrtc-stats-20230224/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-02-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-webrtc-stats-20230125/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-01-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-webrtc-stats-20230110/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-01-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20221225/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2022-12-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20221216/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2022-12-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20221214/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2022-12-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20221207/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2022-12-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20221129/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2022-11-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20221011/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2022-10-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20220928/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2022-09-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20220927/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2022-09-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20220926/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2022-09-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20220921/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2022-09-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20220920/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2022-09-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20220726/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2022-07-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20220725/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2022-07-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20220630/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2022-06-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20220629/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2022-06-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20220614/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2022-06-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20220609/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2022-06-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20220517/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2022-05-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20220422/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2022-04-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20220421/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2022-04-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/CRD-webrtc-stats-20211110/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2021-11-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/CRD-webrtc-stats-20210715/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2021-07-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/CRD-webrtc-stats-20210623/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2021-06-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/CRD-webrtc-stats-20210215/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2021-02-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/CRD-webrtc-stats-20210120/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2021-01-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/CRD-webrtc-stats-20210119/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2021-01-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/CRD-webrtc-stats-20201201/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2020-12-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/CRD-webrtc-stats-20201006/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2020-10-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/CR-webrtc-stats-20200114/",
+        "status": "Candidate Recommendation Snapshot",
+        "date": "2020-01-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/CR-webrtc-stats-20180703/",
+        "status": "Candidate Recommendation Snapshot",
+        "date": "2018-07-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-webrtc-stats-20180627/",
+        "status": "Working Draft",
+        "date": "2018-06-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-webrtc-stats-20180519/",
+        "status": "Working Draft",
+        "date": "2018-05-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-webrtc-stats-20180516/",
+        "status": "Working Draft",
+        "date": "2018-05-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-webrtc-stats-20180328/",
+        "status": "Working Draft",
+        "date": "2018-03-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-webrtc-stats-20180314/",
+        "status": "Working Draft",
+        "date": "2018-03-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-webrtc-stats-20180307/",
+        "status": "Working Draft",
+        "date": "2018-03-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-webrtc-stats-20180227/",
+        "status": "Working Draft",
+        "date": "2018-02-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-webrtc-stats-20180226/",
+        "status": "Working Draft",
+        "date": "2018-02-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-webrtc-stats-20180131/",
+        "status": "Working Draft",
+        "date": "2018-01-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-webrtc-stats-20180117/",
+        "status": "Working Draft",
+        "date": "2018-01-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-webrtc-stats-20180110/",
+        "status": "Working Draft",
+        "date": "2018-01-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/WD-webrtc-stats-20161214/",
+        "status": "Working Draft",
+        "date": "2016-12-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/WD-webrtc-stats-20160921/",
+        "status": "Working Draft",
+        "date": "2016-09-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/WD-webrtc-stats-20160527/",
+        "status": "Working Draft",
+        "date": "2016-05-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/WD-webrtc-stats-20160524/",
+        "status": "Working Draft",
+        "date": "2016-05-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2015/WD-webrtc-stats-20150206/",
+        "status": "Working Draft",
+        "date": "2015-02-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2014/WD-webrtc-stats-20141021/",
+        "status": "First Public Working Draft",
+        "date": "2014-10-21"
+      }
+    ],
+    "abstract": "This document defines a set of WebIDL objects that allow access to the statistical information about a RTCPeerConnection."
+  },
+  {
+    "url": "https://www.w3.org/TR/imsc-hrm/",
+    "title": "IMSC Hypothetical Render Model",
+    "status": "Candidate Standard",
+    "date": "2024-01-11",
+    "histUrl": "https://www.w3.org/standards/history/imsc-hrm/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-imsc-hrm-20240111/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-01-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-imsc-hrm-20231228/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-12-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-imsc-hrm-20231220/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-12-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-imsc-hrm-20231123/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-11-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CR-imsc-hrm-20230622/",
+        "status": "Candidate Recommendation Snapshot",
+        "date": "2023-06-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-imsc-hrm-20230620/",
+        "status": "Working Draft",
+        "date": "2023-06-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-imsc-hrm-20230619/",
+        "status": "Working Draft",
+        "date": "2023-06-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-imsc-hrm-20230227/",
+        "status": "Working Draft",
+        "date": "2023-02-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-imsc-hrm-20230202/",
+        "status": "Working Draft",
+        "date": "2023-02-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-imsc-hrm-20221107/",
+        "status": "Working Draft",
+        "date": "2022-11-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-imsc-hrm-20220322/",
+        "status": "Working Draft",
+        "date": "2022-03-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-imsc-hrm-20220316/",
+        "status": "Working Draft",
+        "date": "2022-03-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-imsc-hrm-20220315/",
+        "status": "Working Draft",
+        "date": "2022-03-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-imsc-hrm-20220310/",
+        "status": "Working Draft",
+        "date": "2022-03-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-imsc-hrm-20220307/",
+        "status": "Working Draft",
+        "date": "2022-03-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-imsc-hrm-20220304/",
+        "status": "Working Draft",
+        "date": "2022-03-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-imsc-hrm-20220303/",
+        "status": "Working Draft",
+        "date": "2022-03-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-imsc-hrm-20220201/",
+        "status": "Working Draft",
+        "date": "2022-02-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-imsc-hrm-20220106/",
+        "status": "Working Draft",
+        "date": "2022-01-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-imsc-hrm-20211214/",
+        "status": "Working Draft",
+        "date": "2021-12-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-imsc-hrm-20211209/",
+        "status": "Working Draft",
+        "date": "2021-12-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-imsc-hrm-20211109/",
+        "status": "First Public Working Draft",
+        "date": "2021-11-09"
+      }
+    ],
+    "abstract": "This specification specifies an Hypothetical Render Model (HRM) that constrains the presentation complexity of documents that conform to the Text Profiles specified in any edition of Internet Media Subtitles and Captions ([IMSC])."
   }
 ]
