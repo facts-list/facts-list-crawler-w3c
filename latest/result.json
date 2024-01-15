@@ -1964,7 +1964,7 @@
     "title": "Portable Network Graphics (PNG) Specification (Second Edition)",
     "status": "Standard",
     "date": "2003-11-10",
-    "histUrl": "https://www.w3.org/standards/history/png-1/",
+    "histUrl": "https://www.w3.org/standards/history/png-2/",
     "history": [
       {
         "url": "https://www.w3.org/TR/2003/REC-PNG-20031110/",
@@ -1980,6 +1980,36 @@
         "url": "https://www.w3.org/TR/REC-png-961001",
         "status": "Recommendation",
         "date": "1996-10-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/PR-png-960701",
+        "status": "Proposed Recommendation",
+        "date": "1996-07-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/PR-png-960528",
+        "status": "Working Draft",
+        "date": "1996-05-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/PR-png-960311",
+        "status": "Working Draft",
+        "date": "1996-03-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/PR-png-960221",
+        "status": "Working Draft",
+        "date": "1996-02-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/PR-png-960128",
+        "status": "Working Draft",
+        "date": "1996-01-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/PR-png-951126",
+        "status": "Working Draft",
+        "date": "1995-11-26"
       }
     ],
     "abstract": "This document describes PNG (Portable Network Graphics), an extensible file format for the lossless, portable, well-compressed storage of static and animated raster images. PNG provides a patent-free replacement for GIF and can also replace many common uses of TIFF. Indexed-colour, greyscale, and truecolour images are supported, plus an optional alpha channel. Sample depths range from 1 to 16 bits."
