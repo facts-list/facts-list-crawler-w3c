@@ -29877,31 +29877,6 @@
     "abstract": "This document defines how a browser viewport can be used as the source of a media stream using getViewportMedia, an extension to the Screen Capture API [screen-capture]."
   },
   {
-    "url": "https://www.w3.org/TR/miniapp-addressing/",
-    "title": "MiniApp Addressing",
-    "status": "Note",
-    "date": "2022-06-27",
-    "histUrl": "https://www.w3.org/standards/history/miniapp-addressing/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-miniapp-addressing-20220627/",
-        "status": "Draft Note",
-        "date": "2022-06-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-miniapp-addressing-20220311/",
-        "status": "Draft Note",
-        "date": "2022-03-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-miniapp-addressing-20220310/",
-        "status": "Draft Note",
-        "date": "2022-03-10"
-      }
-    ],
-    "abstract": "This specification defines how MiniApps are located, which is called MiniApp Addressing, including the specifications for specific MiniApp URI syntax components based on the URI specification, and the process to dereference the MiniApp URI. Implementing this specification enables the user agent to locate the resources of MiniApp."
-  },
-  {
     "url": "https://www.w3.org/TR/css-color-5/",
     "title": "CSS Color Module Level 5",
     "status": "Draft Standard",
@@ -39525,51 +39500,6 @@
       }
     ],
     "abstract": "This document defines a web platform API that allows script to query the device for information about its screens, and place content on specific screens."
-  },
-  {
-    "url": "https://www.w3.org/TR/design-principles/",
-    "title": "Web Platform Design Principles",
-    "status": "Note",
-    "date": "2023-09-07",
-    "histUrl": "https://www.w3.org/standards/history/design-principles/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-design-principles-20230907/",
-        "status": "Note",
-        "date": "2023-09-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-design-principles-20230426/",
-        "status": "Note",
-        "date": "2023-04-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-design-principles-20230224/",
-        "status": "Note",
-        "date": "2023-02-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-design-principles-20220824/",
-        "status": "Note",
-        "date": "2022-08-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-design-principles-20211216/",
-        "status": "Note",
-        "date": "2021-12-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-design-principles-20210923/",
-        "status": "Note",
-        "date": "2021-09-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/NOTE-design-principles-20201110/",
-        "status": "Note",
-        "date": "2020-11-10"
-      }
-    ],
-    "abstract": "This document contains a set of design principles to be used when designing web platform technologies. These principles have been collected during the Technical Architecture Group’s discussions in reviewing developing specifications, and build upon the Ethical Web Principles [ETHICAL-WEB]. We encourage specification designers to read this document and use it as a resource when making design decisions."
   },
   {
     "url": "https://www.w3.org/TR/did-spec-registries/",
@@ -61652,131 +61582,6 @@
     "abstract": "This registration is entered into the [webcodecs-codec-registry]. It describes, for AVC (H.264), the (1) fully qualified codec strings, (2) the codec-specific EncodedVideoChunk [[internal data]] bytes, (3) the VideoDecoderConfig.description bytes, (4) the values of EncodedVideoChunk [[type]], (5) the codec-specific extensions to VideoEncoderConfig, and (6) the codec-specific extensions to VideoEncoderEncodeOptions."
   },
   {
-    "url": "https://www.w3.org/TR/orientation-event/",
-    "title": "DeviceOrientation Event Specification",
-    "status": "Draft Standard",
-    "date": "2024-01-29",
-    "histUrl": "https://www.w3.org/standards/history/orientation-event/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-orientation-event-20240129/",
-        "status": "Working Draft",
-        "date": "2024-01-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-orientation-event-20240122/",
-        "status": "Working Draft",
-        "date": "2024-01-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-orientation-event-20240105/",
-        "status": "Working Draft",
-        "date": "2024-01-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-orientation-event-20240104/",
-        "status": "Working Draft",
-        "date": "2024-01-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-orientation-event-20231211/",
-        "status": "Working Draft",
-        "date": "2023-12-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-orientation-event-20231205/",
-        "status": "Working Draft",
-        "date": "2023-12-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-orientation-event-20231204/",
-        "status": "Working Draft",
-        "date": "2023-12-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-orientation-event-20231113/",
-        "status": "Working Draft",
-        "date": "2023-11-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-orientation-event-20231110/",
-        "status": "Working Draft",
-        "date": "2023-11-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-orientation-event-20231107/",
-        "status": "Working Draft",
-        "date": "2023-11-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-orientation-event-20230421/",
-        "status": "Working Draft",
-        "date": "2023-04-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-orientation-event-20230412/",
-        "status": "Working Draft",
-        "date": "2023-04-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-orientation-event-20230403/",
-        "status": "Working Draft",
-        "date": "2023-04-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-orientation-event-20230322/",
-        "status": "Working Draft",
-        "date": "2023-03-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-orientation-event-20230130/",
-        "status": "Working Draft",
-        "date": "2023-01-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-orientation-event-20230109/",
-        "status": "Working Draft",
-        "date": "2023-01-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-orientation-event-20220919/",
-        "status": "Working Draft",
-        "date": "2022-09-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-orientation-event-20220610/",
-        "status": "Working Draft",
-        "date": "2022-06-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-orientation-event-20190416/",
-        "status": "Working Draft",
-        "date": "2019-04-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/NOTE-orientation-event-20170530/",
-        "status": "Retired",
-        "date": "2017-05-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2016/CR-orientation-event-20160818/",
-        "status": "Candidate Recommendation Snapshot",
-        "date": "2016-08-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2011/WD-orientation-event-20111201/",
-        "status": "Last Call Working Draft",
-        "date": "2011-12-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2011/WD-orientation-event-20110628/",
-        "status": "Working Draft",
-        "date": "2011-06-28"
-      }
-    ],
-    "abstract": "This specification defines several new DOM events that provide information about the physical orientation and motion of a hosting device."
-  },
-  {
     "url": "https://www.w3.org/TR/webcodecs-flac-codec-registration/",
     "title": "FLAC WebCodecs Registration",
     "status": "Note",
@@ -66275,5 +66080,210 @@
       }
     ],
     "abstract": "This registry is intended to enhance interoperability among implementations and users of [WEBCODECS]. In particular, this registry provides the means to identify and avoid collisions among codec strings and provides a mechanism to define codec-specific members of [WEBCODECS] codec configuration dictionaries."
+  },
+  {
+    "url": "https://www.w3.org/TR/orientation-event/",
+    "title": "DeviceOrientation Event Specification",
+    "status": "Draft Standard",
+    "date": "2024-01-30",
+    "histUrl": "https://www.w3.org/standards/history/orientation-event/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-orientation-event-20240130/",
+        "status": "Working Draft",
+        "date": "2024-01-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-orientation-event-20240129/",
+        "status": "Working Draft",
+        "date": "2024-01-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-orientation-event-20240122/",
+        "status": "Working Draft",
+        "date": "2024-01-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-orientation-event-20240105/",
+        "status": "Working Draft",
+        "date": "2024-01-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-orientation-event-20240104/",
+        "status": "Working Draft",
+        "date": "2024-01-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-orientation-event-20231211/",
+        "status": "Working Draft",
+        "date": "2023-12-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-orientation-event-20231205/",
+        "status": "Working Draft",
+        "date": "2023-12-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-orientation-event-20231204/",
+        "status": "Working Draft",
+        "date": "2023-12-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-orientation-event-20231113/",
+        "status": "Working Draft",
+        "date": "2023-11-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-orientation-event-20231110/",
+        "status": "Working Draft",
+        "date": "2023-11-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-orientation-event-20231107/",
+        "status": "Working Draft",
+        "date": "2023-11-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-orientation-event-20230421/",
+        "status": "Working Draft",
+        "date": "2023-04-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-orientation-event-20230412/",
+        "status": "Working Draft",
+        "date": "2023-04-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-orientation-event-20230403/",
+        "status": "Working Draft",
+        "date": "2023-04-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-orientation-event-20230322/",
+        "status": "Working Draft",
+        "date": "2023-03-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-orientation-event-20230130/",
+        "status": "Working Draft",
+        "date": "2023-01-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-orientation-event-20230109/",
+        "status": "Working Draft",
+        "date": "2023-01-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-orientation-event-20220919/",
+        "status": "Working Draft",
+        "date": "2022-09-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-orientation-event-20220610/",
+        "status": "Working Draft",
+        "date": "2022-06-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-orientation-event-20190416/",
+        "status": "Working Draft",
+        "date": "2019-04-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/NOTE-orientation-event-20170530/",
+        "status": "Retired",
+        "date": "2017-05-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/CR-orientation-event-20160818/",
+        "status": "Candidate Recommendation Snapshot",
+        "date": "2016-08-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2011/WD-orientation-event-20111201/",
+        "status": "Last Call Working Draft",
+        "date": "2011-12-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2011/WD-orientation-event-20110628/",
+        "status": "Working Draft",
+        "date": "2011-06-28"
+      }
+    ],
+    "abstract": "This specification defines several new DOM events that provide information about the physical orientation and motion of a hosting device."
+  },
+  {
+    "url": "https://www.w3.org/TR/design-principles/",
+    "title": "Web Platform Design Principles",
+    "status": "Note",
+    "date": "2024-01-30",
+    "histUrl": "https://www.w3.org/standards/history/design-principles/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/NOTE-design-principles-20240130/",
+        "status": "Note",
+        "date": "2024-01-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-design-principles-20230907/",
+        "status": "Note",
+        "date": "2023-09-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-design-principles-20230426/",
+        "status": "Note",
+        "date": "2023-04-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-design-principles-20230224/",
+        "status": "Note",
+        "date": "2023-02-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-design-principles-20220824/",
+        "status": "Note",
+        "date": "2022-08-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-design-principles-20211216/",
+        "status": "Note",
+        "date": "2021-12-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-design-principles-20210923/",
+        "status": "Note",
+        "date": "2021-09-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/NOTE-design-principles-20201110/",
+        "status": "Note",
+        "date": "2020-11-10"
+      }
+    ],
+    "abstract": "This document contains a set of design principles to be used when designing web platform technologies. These principles have been collected during the Technical Architecture Group’s discussions in reviewing developing specifications, and build upon the Ethical Web Principles [ETHICAL-WEB]. We encourage specification designers to read this document and use it as a resource when making design decisions."
+  },
+  {
+    "url": "https://www.w3.org/TR/miniapp-addressing/",
+    "title": "MiniApp Addressing",
+    "status": "Draft Standard",
+    "date": "2024-01-31",
+    "histUrl": "https://www.w3.org/standards/history/miniapp-addressing/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-miniapp-addressing-20220627/",
+        "status": "Draft Note",
+        "date": "2022-06-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-miniapp-addressing-20220311/",
+        "status": "Draft Note",
+        "date": "2022-03-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-miniapp-addressing-20220310/",
+        "status": "Draft Note",
+        "date": "2022-03-10"
+      }
+    ],
+    "abstract": "This specification defines how MiniApps are located, which is called MiniApp Addressing, including the specifications for specific MiniApp URI syntax components based on the URI specification and the process to dereference the MiniApp URI. Implementing this specification enables the user agent to locate MiniApp resources."
   }
 ]
