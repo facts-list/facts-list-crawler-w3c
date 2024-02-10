@@ -34687,81 +34687,6 @@
     "abstract": "This specification defines standard HTTP headers and a value format to propagate context information that enables distributed tracing scenarios. The specification standardizes how context information is sent and modified between services. Context information uniquely identifies individual requests in a distributed system and also defines a means to add and propagate provider-specific context information."
   },
   {
-    "url": "https://www.w3.org/TR/webxrlayers-1/",
-    "title": "WebXR Layers API Level 1",
-    "status": "Draft Standard",
-    "date": "2023-05-02",
-    "histUrl": "https://www.w3.org/standards/history/webxrlayers-1/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2023/WD-webxrlayers-1-20230502/",
-        "status": "Working Draft",
-        "date": "2023-05-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-webxrlayers-1-20230125/",
-        "status": "Working Draft",
-        "date": "2023-01-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webxrlayers-1-20220922/",
-        "status": "Working Draft",
-        "date": "2022-09-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webxrlayers-1-20220921/",
-        "status": "Working Draft",
-        "date": "2022-09-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webxrlayers-1-20220919/",
-        "status": "Working Draft",
-        "date": "2022-09-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webxrlayers-1-20220826/",
-        "status": "Working Draft",
-        "date": "2022-08-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webxrlayers-1-20220719/",
-        "status": "Working Draft",
-        "date": "2022-07-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webxrlayers-1-20220426/",
-        "status": "Working Draft",
-        "date": "2022-04-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webxrlayers-1-20220421/",
-        "status": "Working Draft",
-        "date": "2022-04-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webxrlayers-1-20220105/",
-        "status": "Working Draft",
-        "date": "2022-01-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webxrlayers-1-20211207/",
-        "status": "Working Draft",
-        "date": "2021-12-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webxrlayers-1-20210824/",
-        "status": "Working Draft",
-        "date": "2021-08-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-webxrlayers-1-20201203/",
-        "status": "First Public Working Draft",
-        "date": "2020-12-03"
-      }
-    ],
-    "abstract": "This specification describes support for various layer types used in a WebXR session."
-  },
-  {
     "url": "https://www.w3.org/TR/badging/",
     "title": "Badging API",
     "status": "Draft Standard",
@@ -40850,141 +40775,6 @@
       }
     ],
     "abstract": "Web Content Accessibility Guidelines (WCAG) 2.2 covers a wide range of recommendations for making Web content more accessible. Following these guidelines will make content more accessible to a wider range of people with disabilities, including accommodations for blindness and low vision, deafness and hearing loss, limited movement, speech disabilities, photosensitivity, and combinations of these, and some accommodation for learning disabilities and cognitive limitations; but will not address every user need for people with these disabilities. These guidelines address accessibility of web content on desktops, laptops, tablets, and mobile devices. Following these guidelines will also often make Web content more usable to users in general."
-  },
-  {
-    "url": "https://www.w3.org/TR/webxr/",
-    "title": "WebXR Device API",
-    "status": "Candidate Standard",
-    "date": "2023-10-05",
-    "histUrl": "https://www.w3.org/standards/history/webxr/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-webxr-20231005/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-10-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-webxr-20230901/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-09-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-webxr-20230621/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-06-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-webxr-20230303/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-03-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/CRD-webxr-20220824/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2022-08-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/CRD-webxr-20220601/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2022-06-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/CRD-webxr-20220526/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2022-05-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/CRD-webxr-20220426/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2022-04-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/CR-webxr-20220331/",
-        "status": "Candidate Recommendation Snapshot",
-        "date": "2022-03-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webxr-20220330/",
-        "status": "Working Draft",
-        "date": "2022-03-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webxr-20220328/",
-        "status": "Working Draft",
-        "date": "2022-03-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webxr-20220325/",
-        "status": "Working Draft",
-        "date": "2022-03-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webxr-20220314/",
-        "status": "Working Draft",
-        "date": "2022-03-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webxr-20220208/",
-        "status": "Working Draft",
-        "date": "2022-02-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webxr-20220207/",
-        "status": "Working Draft",
-        "date": "2022-02-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webxr-20220105/",
-        "status": "Working Draft",
-        "date": "2022-01-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webxr-20211224/",
-        "status": "Working Draft",
-        "date": "2021-12-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webxr-20211026/",
-        "status": "Working Draft",
-        "date": "2021-10-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webxr-20211021/",
-        "status": "Working Draft",
-        "date": "2021-10-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webxr-20210930/",
-        "status": "Working Draft",
-        "date": "2021-09-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webxr-20210824/",
-        "status": "Working Draft",
-        "date": "2021-08-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-webxr-20200724/",
-        "status": "Working Draft",
-        "date": "2020-07-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-webxr-20191010/",
-        "status": "Working Draft",
-        "date": "2019-10-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-webxr-20190521/",
-        "status": "Working Draft",
-        "date": "2019-05-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-webxr-20190205/",
-        "status": "First Public Working Draft",
-        "date": "2019-02-05"
-      }
-    ],
-    "abstract": "This specification describes support for accessing virtual reality (VR) and augmented reality (AR) devices, including sensors and head-mounted displays, on the Web."
   },
   {
     "url": "https://www.w3.org/TR/presentation-api/",
@@ -57352,161 +57142,6 @@
     "abstract": "This specification defines modifications to the existing CSS Fonts 4 specification along with additional features."
   },
   {
-    "url": "https://www.w3.org/TR/vc-di-ecdsa/",
-    "title": "Data Integrity ECDSA Cryptosuites v1.0",
-    "status": "Candidate Standard",
-    "date": "2024-02-06",
-    "histUrl": "https://www.w3.org/standards/history/vc-di-ecdsa/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-vc-di-ecdsa-20240206/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-02-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-vc-di-ecdsa-20231227/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-12-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-vc-di-ecdsa-20231210/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-12-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CR-vc-di-ecdsa-20231121/",
-        "status": "Candidate Recommendation Snapshot",
-        "date": "2023-11-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-di-ecdsa-20231101/",
-        "status": "Working Draft",
-        "date": "2023-11-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-di-ecdsa-20231021/",
-        "status": "Working Draft",
-        "date": "2023-10-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-di-ecdsa-20231017/",
-        "status": "Working Draft",
-        "date": "2023-10-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-di-ecdsa-20231013/",
-        "status": "Working Draft",
-        "date": "2023-10-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-di-ecdsa-20231012/",
-        "status": "Working Draft",
-        "date": "2023-10-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-di-ecdsa-20231006/",
-        "status": "Working Draft",
-        "date": "2023-10-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-di-ecdsa-20231002/",
-        "status": "Working Draft",
-        "date": "2023-10-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-di-ecdsa-20230928/",
-        "status": "Working Draft",
-        "date": "2023-09-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-di-ecdsa-20230902/",
-        "status": "Working Draft",
-        "date": "2023-09-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-di-ecdsa-20230826/",
-        "status": "Working Draft",
-        "date": "2023-08-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-di-ecdsa-20230822/",
-        "status": "Working Draft",
-        "date": "2023-08-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-di-ecdsa-20230819/",
-        "status": "Working Draft",
-        "date": "2023-08-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-di-ecdsa-20230817/",
-        "status": "Working Draft",
-        "date": "2023-08-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-di-ecdsa-20230810/",
-        "status": "Working Draft",
-        "date": "2023-08-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-di-ecdsa-20230806/",
-        "status": "Working Draft",
-        "date": "2023-08-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-di-ecdsa-20230723/",
-        "status": "Working Draft",
-        "date": "2023-07-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-di-ecdsa-20230713/",
-        "status": "Working Draft",
-        "date": "2023-07-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-di-ecdsa-20230709/",
-        "status": "Working Draft",
-        "date": "2023-07-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-di-ecdsa-20230706/",
-        "status": "Working Draft",
-        "date": "2023-07-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-di-ecdsa-20230626/",
-        "status": "Working Draft",
-        "date": "2023-06-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-di-ecdsa-20230616/",
-        "status": "Working Draft",
-        "date": "2023-06-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-di-ecdsa-20230603/",
-        "status": "Working Draft",
-        "date": "2023-06-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-di-ecdsa-20230518/",
-        "status": "Working Draft",
-        "date": "2023-05-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-di-ecdsa-20230420/",
-        "status": "Working Draft",
-        "date": "2023-04-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-di-ecdsa-20230418/",
-        "status": "First Public Working Draft",
-        "date": "2023-04-18"
-      }
-    ],
-    "abstract": "This specification describes a Data Integrity Cryptosuite for use when generating a digital signature using the Elliptic Curve Digital Signature Algorithm (ECDSA)."
-  },
-  {
     "url": "https://www.w3.org/TR/contact-picker/",
     "title": "Contact Picker API",
     "status": "Draft Standard",
@@ -66447,12 +66082,177 @@
     "abstract": "This registry is intended to enhance interoperability among implementations and users of [WEBCODECS]. In particular, this registry provides the means to identify and avoid collisions among codec strings and provides a mechanism to define codec-specific members of [WEBCODECS] codec configuration dictionaries."
   },
   {
+    "url": "https://www.w3.org/TR/vc-di-ecdsa/",
+    "title": "Data Integrity ECDSA Cryptosuites v1.0",
+    "status": "Candidate Standard",
+    "date": "2024-02-09",
+    "histUrl": "https://www.w3.org/standards/history/vc-di-ecdsa/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-di-ecdsa-20240209/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-02-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-di-ecdsa-20240206/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-02-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-vc-di-ecdsa-20231227/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-12-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-vc-di-ecdsa-20231210/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-12-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CR-vc-di-ecdsa-20231121/",
+        "status": "Candidate Recommendation Snapshot",
+        "date": "2023-11-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-di-ecdsa-20231101/",
+        "status": "Working Draft",
+        "date": "2023-11-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-di-ecdsa-20231021/",
+        "status": "Working Draft",
+        "date": "2023-10-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-di-ecdsa-20231017/",
+        "status": "Working Draft",
+        "date": "2023-10-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-di-ecdsa-20231013/",
+        "status": "Working Draft",
+        "date": "2023-10-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-di-ecdsa-20231012/",
+        "status": "Working Draft",
+        "date": "2023-10-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-di-ecdsa-20231006/",
+        "status": "Working Draft",
+        "date": "2023-10-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-di-ecdsa-20231002/",
+        "status": "Working Draft",
+        "date": "2023-10-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-di-ecdsa-20230928/",
+        "status": "Working Draft",
+        "date": "2023-09-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-di-ecdsa-20230902/",
+        "status": "Working Draft",
+        "date": "2023-09-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-di-ecdsa-20230826/",
+        "status": "Working Draft",
+        "date": "2023-08-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-di-ecdsa-20230822/",
+        "status": "Working Draft",
+        "date": "2023-08-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-di-ecdsa-20230819/",
+        "status": "Working Draft",
+        "date": "2023-08-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-di-ecdsa-20230817/",
+        "status": "Working Draft",
+        "date": "2023-08-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-di-ecdsa-20230810/",
+        "status": "Working Draft",
+        "date": "2023-08-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-di-ecdsa-20230806/",
+        "status": "Working Draft",
+        "date": "2023-08-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-di-ecdsa-20230723/",
+        "status": "Working Draft",
+        "date": "2023-07-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-di-ecdsa-20230713/",
+        "status": "Working Draft",
+        "date": "2023-07-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-di-ecdsa-20230709/",
+        "status": "Working Draft",
+        "date": "2023-07-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-di-ecdsa-20230706/",
+        "status": "Working Draft",
+        "date": "2023-07-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-di-ecdsa-20230626/",
+        "status": "Working Draft",
+        "date": "2023-06-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-di-ecdsa-20230616/",
+        "status": "Working Draft",
+        "date": "2023-06-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-di-ecdsa-20230603/",
+        "status": "Working Draft",
+        "date": "2023-06-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-di-ecdsa-20230518/",
+        "status": "Working Draft",
+        "date": "2023-05-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-di-ecdsa-20230420/",
+        "status": "Working Draft",
+        "date": "2023-04-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-di-ecdsa-20230418/",
+        "status": "First Public Working Draft",
+        "date": "2023-04-18"
+      }
+    ],
+    "abstract": "This specification describes a Data Integrity Cryptosuite for use when generating a digital signature using the Elliptic Curve Digital Signature Algorithm (ECDSA)."
+  },
+  {
     "url": "https://www.w3.org/TR/media-capabilities/",
     "title": "Media Capabilities",
     "status": "Draft Standard",
     "date": "2024-02-09",
     "histUrl": "https://www.w3.org/standards/history/media-capabilities/",
     "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-media-capabilities-20240209/",
+        "status": "Working Draft",
+        "date": "2024-02-09"
+      },
       {
         "url": "https://www.w3.org/TR/2022/WD-media-capabilities-20221117/",
         "status": "Working Draft",
@@ -66505,5 +66305,225 @@
       }
     ],
     "abstract": "This specification intends to provide APIs to allow websites to make an optimal decision when picking media content for the user. The APIs will expose information about the decoding and encoding capabilities for a given format but also output capabilities to find the best match based on the device’s display."
+  },
+  {
+    "url": "https://www.w3.org/TR/webxr/",
+    "title": "WebXR Device API",
+    "status": "Candidate Standard",
+    "date": "2024-02-10",
+    "histUrl": "https://www.w3.org/standards/history/webxr/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webxr-20240210/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-02-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-webxr-20231005/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-10-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-webxr-20230901/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-09-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-webxr-20230621/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-06-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-webxr-20230303/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-03-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/CRD-webxr-20220824/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2022-08-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/CRD-webxr-20220601/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2022-06-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/CRD-webxr-20220526/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2022-05-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/CRD-webxr-20220426/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2022-04-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/CR-webxr-20220331/",
+        "status": "Candidate Recommendation Snapshot",
+        "date": "2022-03-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webxr-20220330/",
+        "status": "Working Draft",
+        "date": "2022-03-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webxr-20220328/",
+        "status": "Working Draft",
+        "date": "2022-03-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webxr-20220325/",
+        "status": "Working Draft",
+        "date": "2022-03-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webxr-20220314/",
+        "status": "Working Draft",
+        "date": "2022-03-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webxr-20220208/",
+        "status": "Working Draft",
+        "date": "2022-02-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webxr-20220207/",
+        "status": "Working Draft",
+        "date": "2022-02-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webxr-20220105/",
+        "status": "Working Draft",
+        "date": "2022-01-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-webxr-20211224/",
+        "status": "Working Draft",
+        "date": "2021-12-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-webxr-20211026/",
+        "status": "Working Draft",
+        "date": "2021-10-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-webxr-20211021/",
+        "status": "Working Draft",
+        "date": "2021-10-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-webxr-20210930/",
+        "status": "Working Draft",
+        "date": "2021-09-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-webxr-20210824/",
+        "status": "Working Draft",
+        "date": "2021-08-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-webxr-20200724/",
+        "status": "Working Draft",
+        "date": "2020-07-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-webxr-20191010/",
+        "status": "Working Draft",
+        "date": "2019-10-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-webxr-20190521/",
+        "status": "Working Draft",
+        "date": "2019-05-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-webxr-20190205/",
+        "status": "First Public Working Draft",
+        "date": "2019-02-05"
+      }
+    ],
+    "abstract": "This specification describes support for accessing virtual reality (VR) and augmented reality (AR) devices, including sensors and head-mounted displays, on the Web."
+  },
+  {
+    "url": "https://www.w3.org/TR/webxrlayers-1/",
+    "title": "WebXR Layers API Level 1",
+    "status": "Draft Standard",
+    "date": "2024-02-10",
+    "histUrl": "https://www.w3.org/standards/history/webxrlayers-1/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-webxrlayers-1-20240210/",
+        "status": "Working Draft",
+        "date": "2024-02-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-webxrlayers-1-20230502/",
+        "status": "Working Draft",
+        "date": "2023-05-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-webxrlayers-1-20230125/",
+        "status": "Working Draft",
+        "date": "2023-01-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webxrlayers-1-20220922/",
+        "status": "Working Draft",
+        "date": "2022-09-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webxrlayers-1-20220921/",
+        "status": "Working Draft",
+        "date": "2022-09-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webxrlayers-1-20220919/",
+        "status": "Working Draft",
+        "date": "2022-09-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webxrlayers-1-20220826/",
+        "status": "Working Draft",
+        "date": "2022-08-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webxrlayers-1-20220719/",
+        "status": "Working Draft",
+        "date": "2022-07-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webxrlayers-1-20220426/",
+        "status": "Working Draft",
+        "date": "2022-04-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webxrlayers-1-20220421/",
+        "status": "Working Draft",
+        "date": "2022-04-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webxrlayers-1-20220105/",
+        "status": "Working Draft",
+        "date": "2022-01-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-webxrlayers-1-20211207/",
+        "status": "Working Draft",
+        "date": "2021-12-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-webxrlayers-1-20210824/",
+        "status": "Working Draft",
+        "date": "2021-08-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-webxrlayers-1-20201203/",
+        "status": "First Public Working Draft",
+        "date": "2020-12-03"
+      }
+    ],
+    "abstract": "This specification describes support for various layer types used in a WebXR session."
   }
 ]
