@@ -29207,36 +29207,6 @@
     "abstract": "This document describes version 2.0 of the core WebAssembly standard, a safe, portable, low-level code format designed for efficient execution and compact representation. WebAseembly Core is part of a collection of WebAssembly specifications: the Core WebAssembly Specification, the WebAssembly JS Interface, and the WebAssembly Web API."
   },
   {
-    "url": "https://www.w3.org/TR/wasm-js-api-2/",
-    "title": "WebAssembly JavaScript Interface",
-    "status": "Draft Standard",
-    "date": "2022-04-19",
-    "histUrl": "https://www.w3.org/standards/history/wasm-js-api-2/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2022/WD-wasm-js-api-2-20220419/",
-        "status": "First Public Working Draft",
-        "date": "2022-04-19"
-      }
-    ],
-    "abstract": "This document provides an explicit JavaScript API for interacting with WebAssembly."
-  },
-  {
-    "url": "https://www.w3.org/TR/wasm-web-api-2/",
-    "title": "WebAssembly Web API",
-    "status": "Draft Standard",
-    "date": "2022-04-19",
-    "histUrl": "https://www.w3.org/standards/history/wasm-web-api-2/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2022/WD-wasm-web-api-2-20220419/",
-        "status": "First Public Working Draft",
-        "date": "2022-04-19"
-      }
-    ],
-    "abstract": "This document describes the integration of WebAssembly with the broader web platform."
-  },
-  {
     "url": "https://www.w3.org/TR/webxr-depth-sensing-1/",
     "title": "WebXR Depth Sensing Module",
     "status": "Draft Standard",
@@ -50257,226 +50227,6 @@
     "abstract": "This document defines a mechanism by which web developers can control the resources which a particular page can fetch or execute, as well as a number of security-relevant policy decisions."
   },
   {
-    "url": "https://www.w3.org/TR/webdriver2/",
-    "title": "WebDriver",
-    "status": "Draft Standard",
-    "date": "2024-01-23",
-    "histUrl": "https://www.w3.org/standards/history/webdriver2/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-webdriver2-20240123/",
-        "status": "Working Draft",
-        "date": "2024-01-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-webdriver2-20240115/",
-        "status": "Working Draft",
-        "date": "2024-01-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-webdriver2-20240104/",
-        "status": "Working Draft",
-        "date": "2024-01-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-webdriver2-20231215/",
-        "status": "Working Draft",
-        "date": "2023-12-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-webdriver2-20231213/",
-        "status": "Working Draft",
-        "date": "2023-12-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-webdriver2-20231114/",
-        "status": "Working Draft",
-        "date": "2023-11-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-webdriver2-20230807/",
-        "status": "Working Draft",
-        "date": "2023-08-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-webdriver2-20230804/",
-        "status": "Working Draft",
-        "date": "2023-08-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-webdriver2-20230607/",
-        "status": "Working Draft",
-        "date": "2023-06-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-webdriver2-20230321/",
-        "status": "Working Draft",
-        "date": "2023-03-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-webdriver2-20230303/",
-        "status": "Working Draft",
-        "date": "2023-03-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-webdriver2-20230222/",
-        "status": "Working Draft",
-        "date": "2023-02-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-webdriver2-20230119/",
-        "status": "Working Draft",
-        "date": "2023-01-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-webdriver2-20230113/",
-        "status": "Working Draft",
-        "date": "2023-01-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-webdriver2-20230106/",
-        "status": "Working Draft",
-        "date": "2023-01-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-webdriver2-20230105/",
-        "status": "Working Draft",
-        "date": "2023-01-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webdriver2-20221216/",
-        "status": "Working Draft",
-        "date": "2022-12-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webdriver2-20221025/",
-        "status": "Working Draft",
-        "date": "2022-10-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webdriver2-20221019/",
-        "status": "Working Draft",
-        "date": "2022-10-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webdriver2-20221013/",
-        "status": "Working Draft",
-        "date": "2022-10-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webdriver2-20220921/",
-        "status": "Working Draft",
-        "date": "2022-09-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webdriver2-20220825/",
-        "status": "Working Draft",
-        "date": "2022-08-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webdriver2-20220624/",
-        "status": "Working Draft",
-        "date": "2022-06-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webdriver2-20220615/",
-        "status": "Working Draft",
-        "date": "2022-06-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webdriver2-20220525/",
-        "status": "Working Draft",
-        "date": "2022-05-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webdriver2-20220401/",
-        "status": "Working Draft",
-        "date": "2022-04-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webdriver2-20220315/",
-        "status": "Working Draft",
-        "date": "2022-03-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webdriver2-20220214/",
-        "status": "Working Draft",
-        "date": "2022-02-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webdriver2-20211122/",
-        "status": "Working Draft",
-        "date": "2021-11-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webdriver2-20211013/",
-        "status": "Working Draft",
-        "date": "2021-10-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webdriver2-20210921/",
-        "status": "Working Draft",
-        "date": "2021-09-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-webdriver2-20200824/",
-        "status": "Working Draft",
-        "date": "2020-08-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-webdriver2-20200717/",
-        "status": "Working Draft",
-        "date": "2020-07-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-webdriver2-20200610/",
-        "status": "Working Draft",
-        "date": "2020-06-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-webdriver2-20200604/",
-        "status": "Working Draft",
-        "date": "2020-06-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-webdriver2-20200529/",
-        "status": "Working Draft",
-        "date": "2020-05-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-webdriver2-20200528/",
-        "status": "Working Draft",
-        "date": "2020-05-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-webdriver2-20200521/",
-        "status": "Working Draft",
-        "date": "2020-05-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-webdriver2-20200519/",
-        "status": "Working Draft",
-        "date": "2020-05-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-webdriver2-20200327/",
-        "status": "Working Draft",
-        "date": "2020-03-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-webdriver2-20191124/",
-        "status": "Working Draft",
-        "date": "2019-11-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-webdriver2-20190912/",
-        "status": "First Public Working Draft",
-        "date": "2019-09-12"
-      }
-    ],
-    "abstract": "WebDriver is a remote control interface that enables introspection and control of user agents. It provides a platform- and language-neutral wire protocol as a way for out-of-process programs to remotely instruct the behavior of web browsers."
-  },
-  {
     "url": "https://www.w3.org/TR/ambient-light/",
     "title": "Ambient Light Sensor",
     "status": "Draft Standard",
@@ -65907,101 +65657,6 @@
     "abstract": "Enabling users of assistive technologies to find their way through web content requires embedding semantic metadata about web document structural divisions. This is particularly important for structural divisions of long-form documents and goes along with embedding semantic metadata about web-application widgets and behaviors for assistive technologies. This specification defines a set of WAI-ARIA roles specific to helping users of assistive technologies navigate through such long-form documents."
   },
   {
-    "url": "https://www.w3.org/TR/dapt/",
-    "title": "Dubbing and Audio description Profiles of TTML2",
-    "status": "Draft Standard",
-    "date": "2024-02-13",
-    "histUrl": "https://www.w3.org/standards/history/dapt/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20240213/",
-        "status": "Working Draft",
-        "date": "2024-02-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20240208/",
-        "status": "Working Draft",
-        "date": "2024-02-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20231221/",
-        "status": "Working Draft",
-        "date": "2023-12-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20231123/",
-        "status": "Working Draft",
-        "date": "2023-11-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20231102/",
-        "status": "Working Draft",
-        "date": "2023-11-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20231019/",
-        "status": "Working Draft",
-        "date": "2023-10-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20231013/",
-        "status": "Working Draft",
-        "date": "2023-10-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20231011/",
-        "status": "Working Draft",
-        "date": "2023-10-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20231006/",
-        "status": "Working Draft",
-        "date": "2023-10-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20230801/",
-        "status": "Working Draft",
-        "date": "2023-08-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20230727/",
-        "status": "Working Draft",
-        "date": "2023-07-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20230628/",
-        "status": "Working Draft",
-        "date": "2023-06-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20230619/",
-        "status": "Working Draft",
-        "date": "2023-06-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20230606/",
-        "status": "Working Draft",
-        "date": "2023-06-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20230505/",
-        "status": "Working Draft",
-        "date": "2023-05-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20230504/",
-        "status": "Working Draft",
-        "date": "2023-05-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20230425/",
-        "status": "First Public Working Draft",
-        "date": "2023-04-25"
-      }
-    ],
-    "abstract": "This specification defines DAPT, a TTML-based file format for the exchange of timed text content in dubbing and audio description workflows."
-  },
-  {
     "url": "https://www.w3.org/TR/orientation-event/",
     "title": "DeviceOrientation Event Specification",
     "status": "Draft Standard",
@@ -66147,12 +65802,197 @@
     "abstract": "This specification defines several new DOM events that provide information about the physical orientation and motion of a hosting device."
   },
   {
+    "url": "https://www.w3.org/TR/dapt/",
+    "title": "Dubbing and Audio description Profiles of TTML2",
+    "status": "Draft Standard",
+    "date": "2024-02-15",
+    "histUrl": "https://www.w3.org/standards/history/dapt/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20240215/",
+        "status": "Working Draft",
+        "date": "2024-02-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20240213/",
+        "status": "Working Draft",
+        "date": "2024-02-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20240208/",
+        "status": "Working Draft",
+        "date": "2024-02-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20231221/",
+        "status": "Working Draft",
+        "date": "2023-12-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20231123/",
+        "status": "Working Draft",
+        "date": "2023-11-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20231102/",
+        "status": "Working Draft",
+        "date": "2023-11-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20231019/",
+        "status": "Working Draft",
+        "date": "2023-10-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20231013/",
+        "status": "Working Draft",
+        "date": "2023-10-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20231011/",
+        "status": "Working Draft",
+        "date": "2023-10-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20231006/",
+        "status": "Working Draft",
+        "date": "2023-10-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20230801/",
+        "status": "Working Draft",
+        "date": "2023-08-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20230727/",
+        "status": "Working Draft",
+        "date": "2023-07-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20230628/",
+        "status": "Working Draft",
+        "date": "2023-06-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20230619/",
+        "status": "Working Draft",
+        "date": "2023-06-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20230606/",
+        "status": "Working Draft",
+        "date": "2023-06-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20230505/",
+        "status": "Working Draft",
+        "date": "2023-05-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20230504/",
+        "status": "Working Draft",
+        "date": "2023-05-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20230425/",
+        "status": "First Public Working Draft",
+        "date": "2023-04-25"
+      }
+    ],
+    "abstract": "This specification defines DAPT, a TTML-based file format for the exchange of timed text content in dubbing and audio description workflows."
+  },
+  {
+    "url": "https://www.w3.org/TR/mediasession/",
+    "title": "Media Session",
+    "status": "Draft Standard",
+    "date": "2024-02-15",
+    "histUrl": "https://www.w3.org/standards/history/mediasession/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-mediasession-20240215/",
+        "status": "Working Draft",
+        "date": "2024-02-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-mediasession-20240122/",
+        "status": "Working Draft",
+        "date": "2024-01-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-mediasession-20240119/",
+        "status": "Working Draft",
+        "date": "2024-01-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-mediasession-20231011/",
+        "status": "Working Draft",
+        "date": "2023-10-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-mediasession-20230918/",
+        "status": "Working Draft",
+        "date": "2023-09-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-mediasession-20230915/",
+        "status": "Working Draft",
+        "date": "2023-09-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-mediasession-20230912/",
+        "status": "Working Draft",
+        "date": "2023-09-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-mediasession-20220920/",
+        "status": "Working Draft",
+        "date": "2022-09-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-mediasession-20220919/",
+        "status": "Working Draft",
+        "date": "2022-09-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-mediasession-20220913/",
+        "status": "Working Draft",
+        "date": "2022-09-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-mediasession-20220912/",
+        "status": "Working Draft",
+        "date": "2022-09-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-mediasession-20210604/",
+        "status": "Working Draft",
+        "date": "2021-06-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-mediasession-20210504/",
+        "status": "Working Draft",
+        "date": "2021-05-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-mediasession-20200130/",
+        "status": "First Public Working Draft",
+        "date": "2020-01-30"
+      }
+    ],
+    "abstract": "This specification enables web developers to show customized media metadata on platform UI, customize available platform media controls, and access platform media keys such as hardware keys found on keyboards, headsets, remote controls, and software keys found in notification areas and on lock screens of mobile devices."
+  },
+  {
     "url": "https://www.w3.org/TR/webnn/",
     "title": "Web Neural Network API",
     "status": "Candidate Standard",
-    "date": "2024-02-14",
+    "date": "2024-02-15",
     "histUrl": "https://www.w3.org/standards/history/webnn/",
     "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240215/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-02-15"
+      },
       {
         "url": "https://www.w3.org/TR/2024/CRD-webnn-20240214/",
         "status": "Candidate Recommendation Draft",
@@ -66512,83 +66352,273 @@
     "abstract": "This document describes a dedicated low-level API for neural network inference hardware acceleration."
   },
   {
-    "url": "https://www.w3.org/TR/mediasession/",
-    "title": "Media Session",
+    "url": "https://www.w3.org/TR/webdriver2/",
+    "title": "WebDriver",
     "status": "Draft Standard",
     "date": "2024-02-15",
-    "histUrl": "https://www.w3.org/standards/history/mediasession/",
+    "histUrl": "https://www.w3.org/standards/history/webdriver2/",
     "history": [
       {
-        "url": "https://www.w3.org/TR/2024/WD-mediasession-20240215/",
+        "url": "https://www.w3.org/TR/2024/WD-webdriver2-20240215/",
         "status": "Working Draft",
         "date": "2024-02-15"
       },
       {
-        "url": "https://www.w3.org/TR/2024/WD-mediasession-20240122/",
+        "url": "https://www.w3.org/TR/2024/WD-webdriver2-20240123/",
         "status": "Working Draft",
-        "date": "2024-01-22"
+        "date": "2024-01-23"
       },
       {
-        "url": "https://www.w3.org/TR/2024/WD-mediasession-20240119/",
+        "url": "https://www.w3.org/TR/2024/WD-webdriver2-20240115/",
         "status": "Working Draft",
-        "date": "2024-01-19"
+        "date": "2024-01-15"
       },
       {
-        "url": "https://www.w3.org/TR/2023/WD-mediasession-20231011/",
+        "url": "https://www.w3.org/TR/2024/WD-webdriver2-20240104/",
         "status": "Working Draft",
-        "date": "2023-10-11"
+        "date": "2024-01-04"
       },
       {
-        "url": "https://www.w3.org/TR/2023/WD-mediasession-20230918/",
+        "url": "https://www.w3.org/TR/2023/WD-webdriver2-20231215/",
         "status": "Working Draft",
-        "date": "2023-09-18"
+        "date": "2023-12-15"
       },
       {
-        "url": "https://www.w3.org/TR/2023/WD-mediasession-20230915/",
+        "url": "https://www.w3.org/TR/2023/WD-webdriver2-20231213/",
         "status": "Working Draft",
-        "date": "2023-09-15"
+        "date": "2023-12-13"
       },
       {
-        "url": "https://www.w3.org/TR/2023/WD-mediasession-20230912/",
+        "url": "https://www.w3.org/TR/2023/WD-webdriver2-20231114/",
         "status": "Working Draft",
-        "date": "2023-09-12"
+        "date": "2023-11-14"
       },
       {
-        "url": "https://www.w3.org/TR/2022/WD-mediasession-20220920/",
+        "url": "https://www.w3.org/TR/2023/WD-webdriver2-20230807/",
         "status": "Working Draft",
-        "date": "2022-09-20"
+        "date": "2023-08-07"
       },
       {
-        "url": "https://www.w3.org/TR/2022/WD-mediasession-20220919/",
+        "url": "https://www.w3.org/TR/2023/WD-webdriver2-20230804/",
         "status": "Working Draft",
-        "date": "2022-09-19"
+        "date": "2023-08-04"
       },
       {
-        "url": "https://www.w3.org/TR/2022/WD-mediasession-20220913/",
+        "url": "https://www.w3.org/TR/2023/WD-webdriver2-20230607/",
         "status": "Working Draft",
-        "date": "2022-09-13"
+        "date": "2023-06-07"
       },
       {
-        "url": "https://www.w3.org/TR/2022/WD-mediasession-20220912/",
+        "url": "https://www.w3.org/TR/2023/WD-webdriver2-20230321/",
         "status": "Working Draft",
-        "date": "2022-09-12"
+        "date": "2023-03-21"
       },
       {
-        "url": "https://www.w3.org/TR/2021/WD-mediasession-20210604/",
+        "url": "https://www.w3.org/TR/2023/WD-webdriver2-20230303/",
         "status": "Working Draft",
-        "date": "2021-06-04"
+        "date": "2023-03-03"
       },
       {
-        "url": "https://www.w3.org/TR/2021/WD-mediasession-20210504/",
+        "url": "https://www.w3.org/TR/2023/WD-webdriver2-20230222/",
         "status": "Working Draft",
-        "date": "2021-05-04"
+        "date": "2023-02-22"
       },
       {
-        "url": "https://www.w3.org/TR/2020/WD-mediasession-20200130/",
+        "url": "https://www.w3.org/TR/2023/WD-webdriver2-20230119/",
+        "status": "Working Draft",
+        "date": "2023-01-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-webdriver2-20230113/",
+        "status": "Working Draft",
+        "date": "2023-01-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-webdriver2-20230106/",
+        "status": "Working Draft",
+        "date": "2023-01-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-webdriver2-20230105/",
+        "status": "Working Draft",
+        "date": "2023-01-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webdriver2-20221216/",
+        "status": "Working Draft",
+        "date": "2022-12-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webdriver2-20221025/",
+        "status": "Working Draft",
+        "date": "2022-10-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webdriver2-20221019/",
+        "status": "Working Draft",
+        "date": "2022-10-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webdriver2-20221013/",
+        "status": "Working Draft",
+        "date": "2022-10-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webdriver2-20220921/",
+        "status": "Working Draft",
+        "date": "2022-09-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webdriver2-20220825/",
+        "status": "Working Draft",
+        "date": "2022-08-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webdriver2-20220624/",
+        "status": "Working Draft",
+        "date": "2022-06-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webdriver2-20220615/",
+        "status": "Working Draft",
+        "date": "2022-06-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webdriver2-20220525/",
+        "status": "Working Draft",
+        "date": "2022-05-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webdriver2-20220401/",
+        "status": "Working Draft",
+        "date": "2022-04-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webdriver2-20220315/",
+        "status": "Working Draft",
+        "date": "2022-03-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webdriver2-20220214/",
+        "status": "Working Draft",
+        "date": "2022-02-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-webdriver2-20211122/",
+        "status": "Working Draft",
+        "date": "2021-11-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-webdriver2-20211013/",
+        "status": "Working Draft",
+        "date": "2021-10-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-webdriver2-20210921/",
+        "status": "Working Draft",
+        "date": "2021-09-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-webdriver2-20200824/",
+        "status": "Working Draft",
+        "date": "2020-08-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-webdriver2-20200717/",
+        "status": "Working Draft",
+        "date": "2020-07-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-webdriver2-20200610/",
+        "status": "Working Draft",
+        "date": "2020-06-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-webdriver2-20200604/",
+        "status": "Working Draft",
+        "date": "2020-06-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-webdriver2-20200529/",
+        "status": "Working Draft",
+        "date": "2020-05-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-webdriver2-20200528/",
+        "status": "Working Draft",
+        "date": "2020-05-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-webdriver2-20200521/",
+        "status": "Working Draft",
+        "date": "2020-05-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-webdriver2-20200519/",
+        "status": "Working Draft",
+        "date": "2020-05-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-webdriver2-20200327/",
+        "status": "Working Draft",
+        "date": "2020-03-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-webdriver2-20191124/",
+        "status": "Working Draft",
+        "date": "2019-11-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-webdriver2-20190912/",
         "status": "First Public Working Draft",
-        "date": "2020-01-30"
+        "date": "2019-09-12"
       }
     ],
-    "abstract": "This specification enables web developers to show customized media metadata on platform UI, customize available platform media controls, and access platform media keys such as hardware keys found on keyboards, headsets, remote controls, and software keys found in notification areas and on lock screens of mobile devices."
+    "abstract": "WebDriver is a remote control interface that enables introspection and control of user agents. It provides a platform- and language-neutral wire protocol as a way for out-of-process programs to remotely instruct the behavior of web browsers."
+  },
+  {
+    "url": "https://www.w3.org/TR/wasm-js-api-2/",
+    "title": "WebAssembly JavaScript Interface",
+    "status": "Draft Standard",
+    "date": "2024-02-16",
+    "histUrl": "https://www.w3.org/standards/history/wasm-js-api-2/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-js-api-2-20240216/",
+        "status": "Working Draft",
+        "date": "2024-02-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-js-api-2-20240215/",
+        "status": "Working Draft",
+        "date": "2024-02-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-wasm-js-api-2-20220419/",
+        "status": "First Public Working Draft",
+        "date": "2022-04-19"
+      }
+    ],
+    "abstract": "This document provides an explicit JavaScript API for interacting with WebAssembly."
+  },
+  {
+    "url": "https://www.w3.org/TR/wasm-web-api-2/",
+    "title": "WebAssembly Web API",
+    "status": "Draft Standard",
+    "date": "2024-02-16",
+    "histUrl": "https://www.w3.org/standards/history/wasm-web-api-2/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240215/",
+        "status": "Working Draft",
+        "date": "2024-02-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-wasm-web-api-2-20220419/",
+        "status": "First Public Working Draft",
+        "date": "2022-04-19"
+      }
+    ],
+    "abstract": "This document describes the integration of WebAssembly with the broader web platform."
   }
 ]
