@@ -63377,236 +63377,6 @@
     "abstract": "This registration is entered into the [webcodecs-codec-registry]. It describes, for Opus, the (1) fully qualified codec strings, (2) the codec-specific EncodedAudioChunk [[internal data]] bytes, (3) the AudioDecoderConfig.description bytes, (4) the values of EncodedAudioChunk [[type]], and (5) the codec-specific extensions to AudioEncoderConfig"
   },
   {
-    "url": "https://www.w3.org/TR/rdf-canon/",
-    "title": "RDF Dataset Canonicalization",
-    "status": "Candidate Standard",
-    "date": "2024-02-29",
-    "histUrl": "https://www.w3.org/standards/history/rdf-canon/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-rdf-canon-20240229/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-02-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-rdf-canon-20231130/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-11-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CR-rdf-canon-20231031/",
-        "status": "Candidate Recommendation Snapshot",
-        "date": "2023-10-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20231004/",
-        "status": "Working Draft",
-        "date": "2023-10-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230911/",
-        "status": "Working Draft",
-        "date": "2023-09-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230901/",
-        "status": "Working Draft",
-        "date": "2023-09-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230829/",
-        "status": "Working Draft",
-        "date": "2023-08-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230818/",
-        "status": "Working Draft",
-        "date": "2023-08-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230816/",
-        "status": "Working Draft",
-        "date": "2023-08-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230810/",
-        "status": "Working Draft",
-        "date": "2023-08-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230731/",
-        "status": "Working Draft",
-        "date": "2023-07-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230728/",
-        "status": "Working Draft",
-        "date": "2023-07-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230727/",
-        "status": "Working Draft",
-        "date": "2023-07-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230726/",
-        "status": "Working Draft",
-        "date": "2023-07-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230725/",
-        "status": "Working Draft",
-        "date": "2023-07-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230721/",
-        "status": "Working Draft",
-        "date": "2023-07-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230720/",
-        "status": "Working Draft",
-        "date": "2023-07-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230715/",
-        "status": "Working Draft",
-        "date": "2023-07-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230712/",
-        "status": "Working Draft",
-        "date": "2023-07-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230630/",
-        "status": "Working Draft",
-        "date": "2023-06-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230619/",
-        "status": "Working Draft",
-        "date": "2023-06-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230614/",
-        "status": "Working Draft",
-        "date": "2023-06-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230609/",
-        "status": "Working Draft",
-        "date": "2023-06-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230607/",
-        "status": "Working Draft",
-        "date": "2023-06-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230524/",
-        "status": "Working Draft",
-        "date": "2023-05-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230522/",
-        "status": "Working Draft",
-        "date": "2023-05-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230505/",
-        "status": "Working Draft",
-        "date": "2023-05-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230415/",
-        "status": "Working Draft",
-        "date": "2023-04-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230412/",
-        "status": "Working Draft",
-        "date": "2023-04-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230410/",
-        "status": "Working Draft",
-        "date": "2023-04-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230406/",
-        "status": "Working Draft",
-        "date": "2023-04-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230405/",
-        "status": "Working Draft",
-        "date": "2023-04-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230315/",
-        "status": "Working Draft",
-        "date": "2023-03-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230310/",
-        "status": "Working Draft",
-        "date": "2023-03-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230205/",
-        "status": "Working Draft",
-        "date": "2023-02-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230202/",
-        "status": "Working Draft",
-        "date": "2023-02-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230125/",
-        "status": "Working Draft",
-        "date": "2023-01-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230123/",
-        "status": "Working Draft",
-        "date": "2023-01-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230115/",
-        "status": "Working Draft",
-        "date": "2023-01-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-rdf-canon-20221219/",
-        "status": "Working Draft",
-        "date": "2022-12-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-rdf-canon-20221216/",
-        "status": "Working Draft",
-        "date": "2022-12-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-rdf-canon-20221212/",
-        "status": "Working Draft",
-        "date": "2022-12-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-rdf-canon-20221206/",
-        "status": "Working Draft",
-        "date": "2022-12-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-rdf-canon-20221124/",
-        "status": "First Public Working Draft",
-        "date": "2022-11-24"
-      }
-    ],
-    "abstract": "RDF [RDF11-CONCEPTS] describes a graph-based data model for making claims about the world and provides the foundation for reasoning upon that graph of information. At times, it becomes necessary to compare the differences between sets of graphs, digitally sign them, or generate short identifiers for graphs via hashing algorithms. This document outlines an algorithm for normalizing RDF datasets such that these operations can be performed."
-  },
-  {
     "url": "https://www.w3.org/TR/string-meta/",
     "title": "Strings on the Web: Language and Direction Metadata",
     "status": "Note",
@@ -66505,6 +66275,241 @@
       }
     ],
     "abstract": "This specification defines DAPT, a TTML-based file format for the exchange of timed text content in dubbing and audio description workflows."
+  },
+  {
+    "url": "https://www.w3.org/TR/rdf-canon/",
+    "title": "RDF Dataset Canonicalization",
+    "status": "Candidate Standard",
+    "date": "2024-03-01",
+    "histUrl": "https://www.w3.org/standards/history/rdf-canon/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-rdf-canon-20240301/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-03-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-rdf-canon-20240229/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-02-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-rdf-canon-20231130/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-11-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CR-rdf-canon-20231031/",
+        "status": "Candidate Recommendation Snapshot",
+        "date": "2023-10-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20231004/",
+        "status": "Working Draft",
+        "date": "2023-10-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230911/",
+        "status": "Working Draft",
+        "date": "2023-09-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230901/",
+        "status": "Working Draft",
+        "date": "2023-09-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230829/",
+        "status": "Working Draft",
+        "date": "2023-08-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230818/",
+        "status": "Working Draft",
+        "date": "2023-08-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230816/",
+        "status": "Working Draft",
+        "date": "2023-08-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230810/",
+        "status": "Working Draft",
+        "date": "2023-08-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230731/",
+        "status": "Working Draft",
+        "date": "2023-07-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230728/",
+        "status": "Working Draft",
+        "date": "2023-07-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230727/",
+        "status": "Working Draft",
+        "date": "2023-07-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230726/",
+        "status": "Working Draft",
+        "date": "2023-07-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230725/",
+        "status": "Working Draft",
+        "date": "2023-07-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230721/",
+        "status": "Working Draft",
+        "date": "2023-07-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230720/",
+        "status": "Working Draft",
+        "date": "2023-07-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230715/",
+        "status": "Working Draft",
+        "date": "2023-07-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230712/",
+        "status": "Working Draft",
+        "date": "2023-07-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230630/",
+        "status": "Working Draft",
+        "date": "2023-06-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230619/",
+        "status": "Working Draft",
+        "date": "2023-06-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230614/",
+        "status": "Working Draft",
+        "date": "2023-06-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230609/",
+        "status": "Working Draft",
+        "date": "2023-06-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230607/",
+        "status": "Working Draft",
+        "date": "2023-06-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230524/",
+        "status": "Working Draft",
+        "date": "2023-05-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230522/",
+        "status": "Working Draft",
+        "date": "2023-05-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230505/",
+        "status": "Working Draft",
+        "date": "2023-05-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230415/",
+        "status": "Working Draft",
+        "date": "2023-04-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230412/",
+        "status": "Working Draft",
+        "date": "2023-04-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230410/",
+        "status": "Working Draft",
+        "date": "2023-04-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230406/",
+        "status": "Working Draft",
+        "date": "2023-04-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230405/",
+        "status": "Working Draft",
+        "date": "2023-04-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230315/",
+        "status": "Working Draft",
+        "date": "2023-03-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230310/",
+        "status": "Working Draft",
+        "date": "2023-03-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230205/",
+        "status": "Working Draft",
+        "date": "2023-02-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230202/",
+        "status": "Working Draft",
+        "date": "2023-02-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230125/",
+        "status": "Working Draft",
+        "date": "2023-01-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230123/",
+        "status": "Working Draft",
+        "date": "2023-01-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf-canon-20230115/",
+        "status": "Working Draft",
+        "date": "2023-01-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-rdf-canon-20221219/",
+        "status": "Working Draft",
+        "date": "2022-12-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-rdf-canon-20221216/",
+        "status": "Working Draft",
+        "date": "2022-12-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-rdf-canon-20221212/",
+        "status": "Working Draft",
+        "date": "2022-12-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-rdf-canon-20221206/",
+        "status": "Working Draft",
+        "date": "2022-12-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-rdf-canon-20221124/",
+        "status": "First Public Working Draft",
+        "date": "2022-11-24"
+      }
+    ],
+    "abstract": "RDF [RDF11-CONCEPTS] describes a graph-based data model for making claims about the world and provides the foundation for reasoning upon that graph of information. At times, it becomes necessary to compare the differences between sets of graphs, digitally sign them, or generate short identifiers for graphs via hashing algorithms. This document outlines an algorithm for normalizing RDF datasets such that these operations can be performed."
   },
   {
     "url": "https://www.w3.org/TR/webnn/",
