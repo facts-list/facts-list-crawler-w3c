@@ -34222,31 +34222,6 @@
     "abstract": "This specification enables a server to communicate performance metrics about the request-response cycle to the user agent. It also standardizes a JavaScript interface to enable applications to collect, process, and act on these metrics to optimize application delivery."
   },
   {
-    "url": "https://www.w3.org/TR/trace-context-2/",
-    "title": "Trace Context Level 2",
-    "status": "Candidate Standard",
-    "date": "2023-04-18",
-    "histUrl": "https://www.w3.org/standards/history/trace-context-2/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2023/CR-trace-context-2-20230418/",
-        "status": "Candidate Recommendation Snapshot",
-        "date": "2023-04-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-trace-context-2-20230406/",
-        "status": "Working Draft",
-        "date": "2023-04-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-trace-context-2-20220929/",
-        "status": "First Public Working Draft",
-        "date": "2022-09-29"
-      }
-    ],
-    "abstract": "This specification defines standard HTTP headers and a value format to propagate context information that enables distributed tracing scenarios. The specification standardizes how context information is sent and modified between services. Context information uniquely identifies individual requests in a distributed system and also defines a means to add and propagate provider-specific context information."
-  },
-  {
     "url": "https://www.w3.org/TR/badging/",
     "title": "Badging API",
     "status": "Draft Standard",
@@ -38410,46 +38385,6 @@
       }
     ],
     "abstract": "CSS Transitions allows property changes in CSS values to occur smoothly over a specified duration."
-  },
-  {
-    "url": "https://www.w3.org/TR/css-view-transitions-1/",
-    "title": "CSS View Transitions Module Level 1",
-    "status": "Candidate Standard",
-    "date": "2023-09-05",
-    "histUrl": "https://www.w3.org/standards/history/css-view-transitions-1/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2023/CR-css-view-transitions-1-20230905/",
-        "status": "Candidate Recommendation Snapshot",
-        "date": "2023-09-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-css-view-transitions-1-20230803/",
-        "status": "Working Draft",
-        "date": "2023-08-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-css-view-transitions-1-20230530/",
-        "status": "Working Draft",
-        "date": "2023-05-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-css-view-transitions-1-20230525/",
-        "status": "Working Draft",
-        "date": "2023-05-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-css-view-transitions-1-20221124/",
-        "status": "Working Draft",
-        "date": "2022-11-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-css-view-transitions-1-20221025/",
-        "status": "First Public Working Draft",
-        "date": "2022-10-25"
-      }
-    ],
-    "abstract": "This module defines the View Transition API, along with associated properties and pseudo-elements, which allows developers to create animated visual transitions representing changes in the document state."
   },
   {
     "url": "https://www.w3.org/TR/window-management/",
@@ -51547,111 +51482,6 @@
     "abstract": "This specification specifies an Hypothetical Render Model (HRM) that constrains the presentation complexity of documents that conform to the Text Profiles specified in any edition of Internet Media Subtitles and Captions ([IMSC])."
   },
   {
-    "url": "https://www.w3.org/TR/dapt/",
-    "title": "Dubbing and Audio description Profiles of TTML2",
-    "status": "Draft Standard",
-    "date": "2024-03-01",
-    "histUrl": "https://www.w3.org/standards/history/dapt/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20240301/",
-        "status": "Working Draft",
-        "date": "2024-03-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20240215/",
-        "status": "Working Draft",
-        "date": "2024-02-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20240213/",
-        "status": "Working Draft",
-        "date": "2024-02-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20240208/",
-        "status": "Working Draft",
-        "date": "2024-02-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20231221/",
-        "status": "Working Draft",
-        "date": "2023-12-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20231123/",
-        "status": "Working Draft",
-        "date": "2023-11-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20231102/",
-        "status": "Working Draft",
-        "date": "2023-11-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20231019/",
-        "status": "Working Draft",
-        "date": "2023-10-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20231013/",
-        "status": "Working Draft",
-        "date": "2023-10-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20231011/",
-        "status": "Working Draft",
-        "date": "2023-10-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20231006/",
-        "status": "Working Draft",
-        "date": "2023-10-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20230801/",
-        "status": "Working Draft",
-        "date": "2023-08-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20230727/",
-        "status": "Working Draft",
-        "date": "2023-07-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20230628/",
-        "status": "Working Draft",
-        "date": "2023-06-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20230619/",
-        "status": "Working Draft",
-        "date": "2023-06-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20230606/",
-        "status": "Working Draft",
-        "date": "2023-06-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20230505/",
-        "status": "Working Draft",
-        "date": "2023-05-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20230504/",
-        "status": "Working Draft",
-        "date": "2023-05-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20230425/",
-        "status": "First Public Working Draft",
-        "date": "2023-04-25"
-      }
-    ],
-    "abstract": "This specification defines DAPT, a TTML-based file format for the exchange of timed text content in dubbing and audio description workflows."
-  },
-  {
     "url": "https://www.w3.org/TR/vc-bitstring-status-list/",
     "title": "Bitstring Status List v1.0",
     "status": "Draft Standard",
@@ -52885,261 +52715,6 @@
       }
     ],
     "abstract": "The Resource Description Framework (RDF) is a framework for representing information in the Web. This document defines an abstract syntax (a data model) which serves to link all RDF-based languages and specifications. The abstract syntax has two key data structures:"
-  },
-  {
-    "url": "https://www.w3.org/TR/vc-jose-cose/",
-    "title": "Securing Verifiable Credentials using JOSE and COSE",
-    "status": "Draft Standard",
-    "date": "2024-03-08",
-    "histUrl": "https://www.w3.org/standards/history/vc-jose-cose/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240308/",
-        "status": "Working Draft",
-        "date": "2024-03-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240307/",
-        "status": "Working Draft",
-        "date": "2024-03-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240306/",
-        "status": "Working Draft",
-        "date": "2024-03-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240304/",
-        "status": "Working Draft",
-        "date": "2024-03-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240228/",
-        "status": "Working Draft",
-        "date": "2024-02-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240226/",
-        "status": "Working Draft",
-        "date": "2024-02-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240216/",
-        "status": "Working Draft",
-        "date": "2024-02-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240212/",
-        "status": "Working Draft",
-        "date": "2024-02-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240207/",
-        "status": "Working Draft",
-        "date": "2024-02-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240126/",
-        "status": "Working Draft",
-        "date": "2024-01-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240101/",
-        "status": "Working Draft",
-        "date": "2024-01-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231221/",
-        "status": "Working Draft",
-        "date": "2023-12-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231215/",
-        "status": "Working Draft",
-        "date": "2023-12-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231204/",
-        "status": "Working Draft",
-        "date": "2023-12-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231201/",
-        "status": "Working Draft",
-        "date": "2023-12-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231125/",
-        "status": "Working Draft",
-        "date": "2023-11-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231117/",
-        "status": "Working Draft",
-        "date": "2023-11-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231027/",
-        "status": "Working Draft",
-        "date": "2023-10-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231024/",
-        "status": "Working Draft",
-        "date": "2023-10-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231016/",
-        "status": "Working Draft",
-        "date": "2023-10-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231014/",
-        "status": "Working Draft",
-        "date": "2023-10-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231010/",
-        "status": "Working Draft",
-        "date": "2023-10-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231006/",
-        "status": "Working Draft",
-        "date": "2023-10-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230927/",
-        "status": "Working Draft",
-        "date": "2023-09-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230921/",
-        "status": "Working Draft",
-        "date": "2023-09-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230920/",
-        "status": "Working Draft",
-        "date": "2023-09-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230914/",
-        "status": "Working Draft",
-        "date": "2023-09-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230913/",
-        "status": "Working Draft",
-        "date": "2023-09-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230912/",
-        "status": "Working Draft",
-        "date": "2023-09-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230908/",
-        "status": "Working Draft",
-        "date": "2023-09-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230824/",
-        "status": "Working Draft",
-        "date": "2023-08-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230823/",
-        "status": "Working Draft",
-        "date": "2023-08-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230816/",
-        "status": "Working Draft",
-        "date": "2023-08-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230815/",
-        "status": "Working Draft",
-        "date": "2023-08-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230811/",
-        "status": "Working Draft",
-        "date": "2023-08-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230721/",
-        "status": "Working Draft",
-        "date": "2023-07-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230720/",
-        "status": "Working Draft",
-        "date": "2023-07-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230710/",
-        "status": "Working Draft",
-        "date": "2023-07-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230630/",
-        "status": "Working Draft",
-        "date": "2023-06-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230629/",
-        "status": "Working Draft",
-        "date": "2023-06-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230615/",
-        "status": "Working Draft",
-        "date": "2023-06-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230614/",
-        "status": "Working Draft",
-        "date": "2023-06-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230607/",
-        "status": "Working Draft",
-        "date": "2023-06-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230606/",
-        "status": "Working Draft",
-        "date": "2023-06-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230601/",
-        "status": "Working Draft",
-        "date": "2023-06-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230525/",
-        "status": "Working Draft",
-        "date": "2023-05-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230515/",
-        "status": "Working Draft",
-        "date": "2023-05-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230501/",
-        "status": "Working Draft",
-        "date": "2023-05-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230427/",
-        "status": "First Public Working Draft",
-        "date": "2023-04-27"
-      }
-    ],
-    "abstract": "This specification defines how to secure credentials and presentations conforming to the Verifiable Credential data model [VC-DATA-MODEL-2.0] with JSON Object Signing and Encryption (JOSE), Selective Disclosure for JWTs [SD-JWT], and CBOR Object Signing and Encryption (COSE) [RFC9052]. This enables the Verifiable Credential data model [VC-DATA-MODEL-2.0] to be implemented with standards for signing and encryption that are widely adopted."
   },
   {
     "url": "https://www.w3.org/TR/css-backgrounds-3/",
@@ -67475,6 +67050,451 @@
       }
     ],
     "abstract": "WebGPU exposes an API for performing operations, such as rendering and computation, on a Graphics Processing Unit."
+  },
+  {
+    "url": "https://www.w3.org/TR/css-view-transitions-1/",
+    "title": "CSS View Transitions Module Level 1",
+    "status": "Candidate Standard",
+    "date": "2024-03-28",
+    "histUrl": "https://www.w3.org/standards/history/css-view-transitions-1/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-css-view-transitions-1-20240328/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-03-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CR-css-view-transitions-1-20230905/",
+        "status": "Candidate Recommendation Snapshot",
+        "date": "2023-09-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-css-view-transitions-1-20230803/",
+        "status": "Working Draft",
+        "date": "2023-08-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-css-view-transitions-1-20230530/",
+        "status": "Working Draft",
+        "date": "2023-05-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-css-view-transitions-1-20230525/",
+        "status": "Working Draft",
+        "date": "2023-05-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-css-view-transitions-1-20221124/",
+        "status": "Working Draft",
+        "date": "2022-11-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-css-view-transitions-1-20221025/",
+        "status": "First Public Working Draft",
+        "date": "2022-10-25"
+      }
+    ],
+    "abstract": "This module defines the View Transition API, along with associated properties and pseudo-elements, which allows developers to create animated visual transitions representing changes in the document state."
+  },
+  {
+    "url": "https://www.w3.org/TR/dapt/",
+    "title": "Dubbing and Audio description Profiles of TTML2",
+    "status": "Draft Standard",
+    "date": "2024-03-28",
+    "histUrl": "https://www.w3.org/standards/history/dapt/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20240328/",
+        "status": "Working Draft",
+        "date": "2024-03-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20240301/",
+        "status": "Working Draft",
+        "date": "2024-03-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20240215/",
+        "status": "Working Draft",
+        "date": "2024-02-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20240213/",
+        "status": "Working Draft",
+        "date": "2024-02-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20240208/",
+        "status": "Working Draft",
+        "date": "2024-02-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20231221/",
+        "status": "Working Draft",
+        "date": "2023-12-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20231123/",
+        "status": "Working Draft",
+        "date": "2023-11-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20231102/",
+        "status": "Working Draft",
+        "date": "2023-11-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20231019/",
+        "status": "Working Draft",
+        "date": "2023-10-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20231013/",
+        "status": "Working Draft",
+        "date": "2023-10-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20231011/",
+        "status": "Working Draft",
+        "date": "2023-10-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20231006/",
+        "status": "Working Draft",
+        "date": "2023-10-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20230801/",
+        "status": "Working Draft",
+        "date": "2023-08-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20230727/",
+        "status": "Working Draft",
+        "date": "2023-07-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20230628/",
+        "status": "Working Draft",
+        "date": "2023-06-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20230619/",
+        "status": "Working Draft",
+        "date": "2023-06-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20230606/",
+        "status": "Working Draft",
+        "date": "2023-06-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20230505/",
+        "status": "Working Draft",
+        "date": "2023-05-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20230504/",
+        "status": "Working Draft",
+        "date": "2023-05-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20230425/",
+        "status": "First Public Working Draft",
+        "date": "2023-04-25"
+      }
+    ],
+    "abstract": "This specification defines DAPT, a TTML-based file format for the exchange of timed text content in dubbing and audio description workflows."
+  },
+  {
+    "url": "https://www.w3.org/TR/vc-jose-cose/",
+    "title": "Securing Verifiable Credentials using JOSE and COSE",
+    "status": "Draft Standard",
+    "date": "2024-03-28",
+    "histUrl": "https://www.w3.org/standards/history/vc-jose-cose/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240328/",
+        "status": "Working Draft",
+        "date": "2024-03-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240308/",
+        "status": "Working Draft",
+        "date": "2024-03-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240307/",
+        "status": "Working Draft",
+        "date": "2024-03-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240306/",
+        "status": "Working Draft",
+        "date": "2024-03-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240304/",
+        "status": "Working Draft",
+        "date": "2024-03-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240228/",
+        "status": "Working Draft",
+        "date": "2024-02-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240226/",
+        "status": "Working Draft",
+        "date": "2024-02-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240216/",
+        "status": "Working Draft",
+        "date": "2024-02-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240212/",
+        "status": "Working Draft",
+        "date": "2024-02-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240207/",
+        "status": "Working Draft",
+        "date": "2024-02-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240126/",
+        "status": "Working Draft",
+        "date": "2024-01-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240101/",
+        "status": "Working Draft",
+        "date": "2024-01-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231221/",
+        "status": "Working Draft",
+        "date": "2023-12-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231215/",
+        "status": "Working Draft",
+        "date": "2023-12-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231204/",
+        "status": "Working Draft",
+        "date": "2023-12-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231201/",
+        "status": "Working Draft",
+        "date": "2023-12-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231125/",
+        "status": "Working Draft",
+        "date": "2023-11-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231117/",
+        "status": "Working Draft",
+        "date": "2023-11-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231027/",
+        "status": "Working Draft",
+        "date": "2023-10-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231024/",
+        "status": "Working Draft",
+        "date": "2023-10-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231016/",
+        "status": "Working Draft",
+        "date": "2023-10-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231014/",
+        "status": "Working Draft",
+        "date": "2023-10-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231010/",
+        "status": "Working Draft",
+        "date": "2023-10-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231006/",
+        "status": "Working Draft",
+        "date": "2023-10-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230927/",
+        "status": "Working Draft",
+        "date": "2023-09-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230921/",
+        "status": "Working Draft",
+        "date": "2023-09-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230920/",
+        "status": "Working Draft",
+        "date": "2023-09-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230914/",
+        "status": "Working Draft",
+        "date": "2023-09-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230913/",
+        "status": "Working Draft",
+        "date": "2023-09-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230912/",
+        "status": "Working Draft",
+        "date": "2023-09-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230908/",
+        "status": "Working Draft",
+        "date": "2023-09-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230824/",
+        "status": "Working Draft",
+        "date": "2023-08-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230823/",
+        "status": "Working Draft",
+        "date": "2023-08-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230816/",
+        "status": "Working Draft",
+        "date": "2023-08-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230815/",
+        "status": "Working Draft",
+        "date": "2023-08-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230811/",
+        "status": "Working Draft",
+        "date": "2023-08-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230721/",
+        "status": "Working Draft",
+        "date": "2023-07-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230720/",
+        "status": "Working Draft",
+        "date": "2023-07-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230710/",
+        "status": "Working Draft",
+        "date": "2023-07-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230630/",
+        "status": "Working Draft",
+        "date": "2023-06-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230629/",
+        "status": "Working Draft",
+        "date": "2023-06-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230615/",
+        "status": "Working Draft",
+        "date": "2023-06-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230614/",
+        "status": "Working Draft",
+        "date": "2023-06-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230607/",
+        "status": "Working Draft",
+        "date": "2023-06-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230606/",
+        "status": "Working Draft",
+        "date": "2023-06-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230601/",
+        "status": "Working Draft",
+        "date": "2023-06-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230525/",
+        "status": "Working Draft",
+        "date": "2023-05-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230515/",
+        "status": "Working Draft",
+        "date": "2023-05-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230501/",
+        "status": "Working Draft",
+        "date": "2023-05-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230427/",
+        "status": "First Public Working Draft",
+        "date": "2023-04-27"
+      }
+    ],
+    "abstract": "This specification defines how to secure credentials and presentations conforming to the Verifiable Credential data model [VC-DATA-MODEL-2.0] with JSON Object Signing and Encryption (JOSE), Selective Disclosure for JWTs [SD-JWT], and CBOR Object Signing and Encryption (COSE) [RFC9052]. This enables the Verifiable Credential data model [VC-DATA-MODEL-2.0] to be implemented with standards for signing and encryption that are widely adopted."
+  },
+  {
+    "url": "https://www.w3.org/TR/trace-context-2/",
+    "title": "Trace Context Level 2",
+    "status": "Candidate Standard",
+    "date": "2024-03-28",
+    "histUrl": "https://www.w3.org/standards/history/trace-context-2/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-trace-context-2-20240328/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-03-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CR-trace-context-2-20230418/",
+        "status": "Candidate Recommendation Snapshot",
+        "date": "2023-04-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-trace-context-2-20230406/",
+        "status": "Working Draft",
+        "date": "2023-04-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-trace-context-2-20220929/",
+        "status": "First Public Working Draft",
+        "date": "2022-09-29"
+      }
+    ],
+    "abstract": "This specification defines standard HTTP headers and a value format to propagate context information that enables distributed tracing scenarios. The specification standardizes how context information is sent and modified between services. Context information uniquely identifies individual requests in a distributed system and also defines a means to add and propagate provider-specific context information."
   },
   {
     "url": "https://www.w3.org/TR/webnn/",
