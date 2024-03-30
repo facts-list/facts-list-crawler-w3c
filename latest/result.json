@@ -49047,336 +49047,6 @@
     "abstract": "This specification defines UI Events which extend the DOM Event objects defined in [DOM]. UI Events are those typically implemented by visual user agents for handling user interaction such as mouse and keyboard input."
   },
   {
-    "url": "https://www.w3.org/TR/gamepad/",
-    "title": "Gamepad",
-    "status": "Draft Standard",
-    "date": "2024-02-22",
-    "histUrl": "https://www.w3.org/standards/history/gamepad/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-gamepad-20240222/",
-        "status": "Working Draft",
-        "date": "2024-02-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-gamepad-20240124/",
-        "status": "Working Draft",
-        "date": "2024-01-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-gamepad-20231005/",
-        "status": "Working Draft",
-        "date": "2023-10-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-gamepad-20230413/",
-        "status": "Working Draft",
-        "date": "2023-04-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-gamepad-20230310/",
-        "status": "Working Draft",
-        "date": "2023-03-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-gamepad-20230210/",
-        "status": "Working Draft",
-        "date": "2023-02-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-gamepad-20221209/",
-        "status": "Working Draft",
-        "date": "2022-12-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-gamepad-20221003/",
-        "status": "Working Draft",
-        "date": "2022-10-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-gamepad-20220630/",
-        "status": "Working Draft",
-        "date": "2022-06-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-gamepad-20220607/",
-        "status": "Working Draft",
-        "date": "2022-06-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-gamepad-20220603/",
-        "status": "Working Draft",
-        "date": "2022-06-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-gamepad-20220512/",
-        "status": "Working Draft",
-        "date": "2022-05-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-gamepad-20220211/",
-        "status": "Working Draft",
-        "date": "2022-02-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-gamepad-20210805/",
-        "status": "Working Draft",
-        "date": "2021-08-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-gamepad-20210803/",
-        "status": "Working Draft",
-        "date": "2021-08-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-gamepad-20210709/",
-        "status": "Working Draft",
-        "date": "2021-07-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-gamepad-20210408/",
-        "status": "Working Draft",
-        "date": "2021-04-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-gamepad-20210325/",
-        "status": "Working Draft",
-        "date": "2021-03-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-gamepad-20210317/",
-        "status": "Working Draft",
-        "date": "2021-03-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-gamepad-20201029/",
-        "status": "Working Draft",
-        "date": "2020-10-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-gamepad-20200917/",
-        "status": "Working Draft",
-        "date": "2020-09-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-gamepad-20200618/",
-        "status": "Working Draft",
-        "date": "2020-06-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-gamepad-20200225/",
-        "status": "Working Draft",
-        "date": "2020-02-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-gamepad-20200121/",
-        "status": "Working Draft",
-        "date": "2020-01-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-gamepad-20191114/",
-        "status": "Working Draft",
-        "date": "2019-11-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-gamepad-20191010/",
-        "status": "Working Draft",
-        "date": "2019-10-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-gamepad-20191003/",
-        "status": "Working Draft",
-        "date": "2019-10-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-gamepad-20191001/",
-        "status": "Working Draft",
-        "date": "2019-10-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-gamepad-20190923/",
-        "status": "Working Draft",
-        "date": "2019-09-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-gamepad-20190922/",
-        "status": "Working Draft",
-        "date": "2019-09-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-gamepad-20190920/",
-        "status": "Working Draft",
-        "date": "2019-09-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-gamepad-20190903/",
-        "status": "Working Draft",
-        "date": "2019-09-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-gamepad-20190822/",
-        "status": "Working Draft",
-        "date": "2019-08-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-gamepad-20190820/",
-        "status": "Working Draft",
-        "date": "2019-08-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-gamepad-20190814/",
-        "status": "Working Draft",
-        "date": "2019-08-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-gamepad-20190805/",
-        "status": "Working Draft",
-        "date": "2019-08-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-gamepad-20190531/",
-        "status": "Working Draft",
-        "date": "2019-05-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-gamepad-20190530/",
-        "status": "Working Draft",
-        "date": "2019-05-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-gamepad-20181214/",
-        "status": "Working Draft",
-        "date": "2018-12-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-gamepad-20181213/",
-        "status": "Working Draft",
-        "date": "2018-12-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-gamepad-20181109/",
-        "status": "Working Draft",
-        "date": "2018-11-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-gamepad-20181018/",
-        "status": "Working Draft",
-        "date": "2018-10-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-gamepad-20181017/",
-        "status": "Working Draft",
-        "date": "2018-10-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-gamepad-20181016/",
-        "status": "Working Draft",
-        "date": "2018-10-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-gamepad-20180926/",
-        "status": "Working Draft",
-        "date": "2018-09-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-gamepad-20180716/",
-        "status": "Working Draft",
-        "date": "2018-07-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-gamepad-20180508/",
-        "status": "Working Draft",
-        "date": "2018-05-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-gamepad-20180505/",
-        "status": "Working Draft",
-        "date": "2018-05-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-gamepad-20180216/",
-        "status": "Working Draft",
-        "date": "2018-02-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-gamepad-20171027/",
-        "status": "Working Draft",
-        "date": "2017-10-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-gamepad-20170726/",
-        "status": "Working Draft",
-        "date": "2017-07-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-gamepad-20170614/",
-        "status": "Working Draft",
-        "date": "2017-06-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-gamepad-20170125/",
-        "status": "Working Draft",
-        "date": "2017-01-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2016/WD-gamepad-20161202/",
-        "status": "Working Draft",
-        "date": "2016-12-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2016/WD-gamepad-20161031/",
-        "status": "Working Draft",
-        "date": "2016-10-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2016/WD-gamepad-20161011/",
-        "status": "Working Draft",
-        "date": "2016-10-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2016/WD-gamepad-20160920/",
-        "status": "Working Draft",
-        "date": "2016-09-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2016/WD-gamepad-20160220/",
-        "status": "Working Draft",
-        "date": "2016-02-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2015/WD-gamepad-20151217/",
-        "status": "Working Draft",
-        "date": "2015-12-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2015/WD-gamepad-20151215/",
-        "status": "Working Draft",
-        "date": "2015-12-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2015/WD-gamepad-20150429/",
-        "status": "Working Draft",
-        "date": "2015-04-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2015/WD-gamepad-20150414/",
-        "status": "Working Draft",
-        "date": "2015-04-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2014/WD-gamepad-20140225/",
-        "status": "Working Draft",
-        "date": "2014-02-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2012/WD-gamepad-20120529/",
-        "status": "Working Draft",
-        "date": "2012-05-29"
-      }
-    ],
-    "abstract": "The Gamepad specification defines a low-level interface that represents gamepad devices."
-  },
-  {
     "url": "https://www.w3.org/TR/generic-sensor/",
     "title": "Generic Sensor API",
     "status": "Candidate Standard",
@@ -67207,266 +66877,6 @@
     "abstract": "This specification defines DAPT, a TTML-based file format for the exchange of timed text content in dubbing and audio description workflows."
   },
   {
-    "url": "https://www.w3.org/TR/vc-jose-cose/",
-    "title": "Securing Verifiable Credentials using JOSE and COSE",
-    "status": "Draft Standard",
-    "date": "2024-03-28",
-    "histUrl": "https://www.w3.org/standards/history/vc-jose-cose/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240328/",
-        "status": "Working Draft",
-        "date": "2024-03-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240308/",
-        "status": "Working Draft",
-        "date": "2024-03-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240307/",
-        "status": "Working Draft",
-        "date": "2024-03-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240306/",
-        "status": "Working Draft",
-        "date": "2024-03-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240304/",
-        "status": "Working Draft",
-        "date": "2024-03-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240228/",
-        "status": "Working Draft",
-        "date": "2024-02-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240226/",
-        "status": "Working Draft",
-        "date": "2024-02-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240216/",
-        "status": "Working Draft",
-        "date": "2024-02-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240212/",
-        "status": "Working Draft",
-        "date": "2024-02-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240207/",
-        "status": "Working Draft",
-        "date": "2024-02-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240126/",
-        "status": "Working Draft",
-        "date": "2024-01-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240101/",
-        "status": "Working Draft",
-        "date": "2024-01-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231221/",
-        "status": "Working Draft",
-        "date": "2023-12-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231215/",
-        "status": "Working Draft",
-        "date": "2023-12-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231204/",
-        "status": "Working Draft",
-        "date": "2023-12-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231201/",
-        "status": "Working Draft",
-        "date": "2023-12-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231125/",
-        "status": "Working Draft",
-        "date": "2023-11-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231117/",
-        "status": "Working Draft",
-        "date": "2023-11-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231027/",
-        "status": "Working Draft",
-        "date": "2023-10-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231024/",
-        "status": "Working Draft",
-        "date": "2023-10-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231016/",
-        "status": "Working Draft",
-        "date": "2023-10-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231014/",
-        "status": "Working Draft",
-        "date": "2023-10-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231010/",
-        "status": "Working Draft",
-        "date": "2023-10-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231006/",
-        "status": "Working Draft",
-        "date": "2023-10-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230927/",
-        "status": "Working Draft",
-        "date": "2023-09-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230921/",
-        "status": "Working Draft",
-        "date": "2023-09-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230920/",
-        "status": "Working Draft",
-        "date": "2023-09-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230914/",
-        "status": "Working Draft",
-        "date": "2023-09-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230913/",
-        "status": "Working Draft",
-        "date": "2023-09-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230912/",
-        "status": "Working Draft",
-        "date": "2023-09-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230908/",
-        "status": "Working Draft",
-        "date": "2023-09-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230824/",
-        "status": "Working Draft",
-        "date": "2023-08-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230823/",
-        "status": "Working Draft",
-        "date": "2023-08-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230816/",
-        "status": "Working Draft",
-        "date": "2023-08-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230815/",
-        "status": "Working Draft",
-        "date": "2023-08-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230811/",
-        "status": "Working Draft",
-        "date": "2023-08-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230721/",
-        "status": "Working Draft",
-        "date": "2023-07-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230720/",
-        "status": "Working Draft",
-        "date": "2023-07-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230710/",
-        "status": "Working Draft",
-        "date": "2023-07-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230630/",
-        "status": "Working Draft",
-        "date": "2023-06-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230629/",
-        "status": "Working Draft",
-        "date": "2023-06-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230615/",
-        "status": "Working Draft",
-        "date": "2023-06-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230614/",
-        "status": "Working Draft",
-        "date": "2023-06-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230607/",
-        "status": "Working Draft",
-        "date": "2023-06-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230606/",
-        "status": "Working Draft",
-        "date": "2023-06-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230601/",
-        "status": "Working Draft",
-        "date": "2023-06-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230525/",
-        "status": "Working Draft",
-        "date": "2023-05-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230515/",
-        "status": "Working Draft",
-        "date": "2023-05-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230501/",
-        "status": "Working Draft",
-        "date": "2023-05-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230427/",
-        "status": "First Public Working Draft",
-        "date": "2023-04-27"
-      }
-    ],
-    "abstract": "This specification defines how to secure credentials and presentations conforming to the Verifiable Credential data model [VC-DATA-MODEL-2.0] with JSON Object Signing and Encryption (JOSE), Selective Disclosure for JWTs [SD-JWT], and CBOR Object Signing and Encryption (COSE) [RFC9052]. This enables the Verifiable Credential data model [VC-DATA-MODEL-2.0] to be implemented with standards for signing and encryption that are widely adopted."
-  },
-  {
     "url": "https://www.w3.org/TR/trace-context-2/",
     "title": "Trace Context Level 2",
     "status": "Candidate Standard",
@@ -67960,5 +67370,605 @@
       }
     ],
     "abstract": "This document describes a dedicated low-level API for neural network inference hardware acceleration."
+  },
+  {
+    "url": "https://www.w3.org/TR/gamepad/",
+    "title": "Gamepad",
+    "status": "Draft Standard",
+    "date": "2024-03-29",
+    "histUrl": "https://www.w3.org/standards/history/gamepad/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-gamepad-20240330/",
+        "status": "Working Draft",
+        "date": "2024-03-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-gamepad-20240222/",
+        "status": "Working Draft",
+        "date": "2024-02-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-gamepad-20240124/",
+        "status": "Working Draft",
+        "date": "2024-01-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-gamepad-20231005/",
+        "status": "Working Draft",
+        "date": "2023-10-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-gamepad-20230413/",
+        "status": "Working Draft",
+        "date": "2023-04-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-gamepad-20230310/",
+        "status": "Working Draft",
+        "date": "2023-03-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-gamepad-20230210/",
+        "status": "Working Draft",
+        "date": "2023-02-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-gamepad-20221209/",
+        "status": "Working Draft",
+        "date": "2022-12-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-gamepad-20221003/",
+        "status": "Working Draft",
+        "date": "2022-10-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-gamepad-20220630/",
+        "status": "Working Draft",
+        "date": "2022-06-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-gamepad-20220607/",
+        "status": "Working Draft",
+        "date": "2022-06-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-gamepad-20220603/",
+        "status": "Working Draft",
+        "date": "2022-06-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-gamepad-20220512/",
+        "status": "Working Draft",
+        "date": "2022-05-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-gamepad-20220211/",
+        "status": "Working Draft",
+        "date": "2022-02-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-gamepad-20210805/",
+        "status": "Working Draft",
+        "date": "2021-08-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-gamepad-20210803/",
+        "status": "Working Draft",
+        "date": "2021-08-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-gamepad-20210709/",
+        "status": "Working Draft",
+        "date": "2021-07-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-gamepad-20210408/",
+        "status": "Working Draft",
+        "date": "2021-04-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-gamepad-20210325/",
+        "status": "Working Draft",
+        "date": "2021-03-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-gamepad-20210317/",
+        "status": "Working Draft",
+        "date": "2021-03-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-gamepad-20201029/",
+        "status": "Working Draft",
+        "date": "2020-10-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-gamepad-20200917/",
+        "status": "Working Draft",
+        "date": "2020-09-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-gamepad-20200618/",
+        "status": "Working Draft",
+        "date": "2020-06-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-gamepad-20200225/",
+        "status": "Working Draft",
+        "date": "2020-02-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-gamepad-20200121/",
+        "status": "Working Draft",
+        "date": "2020-01-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-gamepad-20191114/",
+        "status": "Working Draft",
+        "date": "2019-11-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-gamepad-20191010/",
+        "status": "Working Draft",
+        "date": "2019-10-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-gamepad-20191003/",
+        "status": "Working Draft",
+        "date": "2019-10-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-gamepad-20191001/",
+        "status": "Working Draft",
+        "date": "2019-10-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-gamepad-20190923/",
+        "status": "Working Draft",
+        "date": "2019-09-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-gamepad-20190922/",
+        "status": "Working Draft",
+        "date": "2019-09-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-gamepad-20190920/",
+        "status": "Working Draft",
+        "date": "2019-09-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-gamepad-20190903/",
+        "status": "Working Draft",
+        "date": "2019-09-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-gamepad-20190822/",
+        "status": "Working Draft",
+        "date": "2019-08-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-gamepad-20190820/",
+        "status": "Working Draft",
+        "date": "2019-08-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-gamepad-20190814/",
+        "status": "Working Draft",
+        "date": "2019-08-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-gamepad-20190805/",
+        "status": "Working Draft",
+        "date": "2019-08-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-gamepad-20190531/",
+        "status": "Working Draft",
+        "date": "2019-05-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-gamepad-20190530/",
+        "status": "Working Draft",
+        "date": "2019-05-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-gamepad-20181214/",
+        "status": "Working Draft",
+        "date": "2018-12-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-gamepad-20181213/",
+        "status": "Working Draft",
+        "date": "2018-12-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-gamepad-20181109/",
+        "status": "Working Draft",
+        "date": "2018-11-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-gamepad-20181018/",
+        "status": "Working Draft",
+        "date": "2018-10-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-gamepad-20181017/",
+        "status": "Working Draft",
+        "date": "2018-10-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-gamepad-20181016/",
+        "status": "Working Draft",
+        "date": "2018-10-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-gamepad-20180926/",
+        "status": "Working Draft",
+        "date": "2018-09-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-gamepad-20180716/",
+        "status": "Working Draft",
+        "date": "2018-07-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-gamepad-20180508/",
+        "status": "Working Draft",
+        "date": "2018-05-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-gamepad-20180505/",
+        "status": "Working Draft",
+        "date": "2018-05-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-gamepad-20180216/",
+        "status": "Working Draft",
+        "date": "2018-02-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-gamepad-20171027/",
+        "status": "Working Draft",
+        "date": "2017-10-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-gamepad-20170726/",
+        "status": "Working Draft",
+        "date": "2017-07-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-gamepad-20170614/",
+        "status": "Working Draft",
+        "date": "2017-06-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-gamepad-20170125/",
+        "status": "Working Draft",
+        "date": "2017-01-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/WD-gamepad-20161202/",
+        "status": "Working Draft",
+        "date": "2016-12-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/WD-gamepad-20161031/",
+        "status": "Working Draft",
+        "date": "2016-10-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/WD-gamepad-20161011/",
+        "status": "Working Draft",
+        "date": "2016-10-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/WD-gamepad-20160920/",
+        "status": "Working Draft",
+        "date": "2016-09-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/WD-gamepad-20160220/",
+        "status": "Working Draft",
+        "date": "2016-02-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2015/WD-gamepad-20151217/",
+        "status": "Working Draft",
+        "date": "2015-12-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2015/WD-gamepad-20151215/",
+        "status": "Working Draft",
+        "date": "2015-12-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2015/WD-gamepad-20150429/",
+        "status": "Working Draft",
+        "date": "2015-04-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2015/WD-gamepad-20150414/",
+        "status": "Working Draft",
+        "date": "2015-04-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2014/WD-gamepad-20140225/",
+        "status": "Working Draft",
+        "date": "2014-02-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2012/WD-gamepad-20120529/",
+        "status": "Working Draft",
+        "date": "2012-05-29"
+      }
+    ],
+    "abstract": "The Gamepad specification defines a low-level interface that represents gamepad devices."
+  },
+  {
+    "url": "https://www.w3.org/TR/vc-jose-cose/",
+    "title": "Securing Verifiable Credentials using JOSE and COSE",
+    "status": "Draft Standard",
+    "date": "2024-03-29",
+    "histUrl": "https://www.w3.org/standards/history/vc-jose-cose/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240329/",
+        "status": "Working Draft",
+        "date": "2024-03-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240328/",
+        "status": "Working Draft",
+        "date": "2024-03-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240308/",
+        "status": "Working Draft",
+        "date": "2024-03-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240307/",
+        "status": "Working Draft",
+        "date": "2024-03-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240306/",
+        "status": "Working Draft",
+        "date": "2024-03-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240304/",
+        "status": "Working Draft",
+        "date": "2024-03-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240228/",
+        "status": "Working Draft",
+        "date": "2024-02-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240226/",
+        "status": "Working Draft",
+        "date": "2024-02-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240216/",
+        "status": "Working Draft",
+        "date": "2024-02-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240212/",
+        "status": "Working Draft",
+        "date": "2024-02-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240207/",
+        "status": "Working Draft",
+        "date": "2024-02-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240126/",
+        "status": "Working Draft",
+        "date": "2024-01-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240101/",
+        "status": "Working Draft",
+        "date": "2024-01-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231221/",
+        "status": "Working Draft",
+        "date": "2023-12-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231215/",
+        "status": "Working Draft",
+        "date": "2023-12-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231204/",
+        "status": "Working Draft",
+        "date": "2023-12-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231201/",
+        "status": "Working Draft",
+        "date": "2023-12-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231125/",
+        "status": "Working Draft",
+        "date": "2023-11-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231117/",
+        "status": "Working Draft",
+        "date": "2023-11-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231027/",
+        "status": "Working Draft",
+        "date": "2023-10-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231024/",
+        "status": "Working Draft",
+        "date": "2023-10-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231016/",
+        "status": "Working Draft",
+        "date": "2023-10-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231014/",
+        "status": "Working Draft",
+        "date": "2023-10-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231010/",
+        "status": "Working Draft",
+        "date": "2023-10-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231006/",
+        "status": "Working Draft",
+        "date": "2023-10-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230927/",
+        "status": "Working Draft",
+        "date": "2023-09-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230921/",
+        "status": "Working Draft",
+        "date": "2023-09-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230920/",
+        "status": "Working Draft",
+        "date": "2023-09-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230914/",
+        "status": "Working Draft",
+        "date": "2023-09-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230913/",
+        "status": "Working Draft",
+        "date": "2023-09-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230912/",
+        "status": "Working Draft",
+        "date": "2023-09-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230908/",
+        "status": "Working Draft",
+        "date": "2023-09-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230824/",
+        "status": "Working Draft",
+        "date": "2023-08-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230823/",
+        "status": "Working Draft",
+        "date": "2023-08-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230816/",
+        "status": "Working Draft",
+        "date": "2023-08-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230815/",
+        "status": "Working Draft",
+        "date": "2023-08-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230811/",
+        "status": "Working Draft",
+        "date": "2023-08-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230721/",
+        "status": "Working Draft",
+        "date": "2023-07-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230720/",
+        "status": "Working Draft",
+        "date": "2023-07-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230710/",
+        "status": "Working Draft",
+        "date": "2023-07-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230630/",
+        "status": "Working Draft",
+        "date": "2023-06-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230629/",
+        "status": "Working Draft",
+        "date": "2023-06-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230615/",
+        "status": "Working Draft",
+        "date": "2023-06-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230614/",
+        "status": "Working Draft",
+        "date": "2023-06-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230607/",
+        "status": "Working Draft",
+        "date": "2023-06-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230606/",
+        "status": "Working Draft",
+        "date": "2023-06-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230601/",
+        "status": "Working Draft",
+        "date": "2023-06-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230525/",
+        "status": "Working Draft",
+        "date": "2023-05-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230515/",
+        "status": "Working Draft",
+        "date": "2023-05-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230501/",
+        "status": "Working Draft",
+        "date": "2023-05-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230427/",
+        "status": "First Public Working Draft",
+        "date": "2023-04-27"
+      }
+    ],
+    "abstract": "This specification defines how to secure credentials and presentations conforming to the Verifiable Credential data model [VC-DATA-MODEL-2.0] with JSON Object Signing and Encryption (JOSE), Selective Disclosure for JWTs [SD-JWT], and CBOR Object Signing and Encryption (COSE) [RFC9052]. This enables the Verifiable Credential data model [VC-DATA-MODEL-2.0] to be implemented with standards for signing and encryption that are widely adopted."
   }
 ]
