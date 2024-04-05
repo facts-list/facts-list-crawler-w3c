@@ -64577,96 +64577,6 @@
     "abstract": "This specification describes the margin and padding properties, which create spacing in and around a CSS box. It may later be extended to include borders (currently described in [css-backgrounds-3])."
   },
   {
-    "url": "https://www.w3.org/TR/vc-di-bbs/",
-    "title": "Data Integrity BBS Cryptosuites v1.0",
-    "status": "Draft Standard",
-    "date": "2024-04-01",
-    "histUrl": "https://www.w3.org/standards/history/vc-di-bbs/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-di-bbs-20240401/",
-        "status": "Working Draft",
-        "date": "2024-04-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-di-bbs-20240318/",
-        "status": "Working Draft",
-        "date": "2024-03-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-di-bbs-20240316/",
-        "status": "Working Draft",
-        "date": "2024-03-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-di-bbs-20240315/",
-        "status": "Working Draft",
-        "date": "2024-03-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-di-bbs-20240314/",
-        "status": "Working Draft",
-        "date": "2024-03-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-di-bbs-20240309/",
-        "status": "Working Draft",
-        "date": "2024-03-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-di-bbs-20240307/",
-        "status": "Working Draft",
-        "date": "2024-03-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-di-bbs-20240303/",
-        "status": "Working Draft",
-        "date": "2024-03-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-di-bbs-20240202/",
-        "status": "Working Draft",
-        "date": "2024-02-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-di-bbs-20231218/",
-        "status": "Working Draft",
-        "date": "2023-12-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-di-bbs-20231214/",
-        "status": "Working Draft",
-        "date": "2023-12-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-di-bbs-20231104/",
-        "status": "Working Draft",
-        "date": "2023-11-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-di-bbs-20231025/",
-        "status": "Working Draft",
-        "date": "2023-10-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-di-bbs-20231016/",
-        "status": "Working Draft",
-        "date": "2023-10-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-di-bbs-20230524/",
-        "status": "Working Draft",
-        "date": "2023-05-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-di-bbs-20230518/",
-        "status": "First Public Working Draft",
-        "date": "2023-05-18"
-      }
-    ],
-    "abstract": "This specification describes a Data Integrity Cryptosuite for use when generating digital signatures using the BBS signature scheme. The Signature Suite utilizes BBS signatures to provide selective disclosure and unlinkable derived proofs."
-  },
-  {
     "url": "https://www.w3.org/TR/media-source-2/",
     "title": "Media Source Extensions™",
     "status": "Draft Standard",
@@ -67605,6 +67515,101 @@
       }
     ],
     "abstract": "This document describes the integration of WebAssembly with the broader web platform."
+  },
+  {
+    "url": "https://www.w3.org/TR/vc-di-bbs/",
+    "title": "Data Integrity BBS Cryptosuites v1.0",
+    "status": "Candidate Standard",
+    "date": "2024-04-04",
+    "histUrl": "https://www.w3.org/standards/history/vc-di-bbs/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/CR-vc-di-bbs-20240404/",
+        "status": "Candidate Recommendation Snapshot",
+        "date": "2024-04-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-di-bbs-20240401/",
+        "status": "Working Draft",
+        "date": "2024-04-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-di-bbs-20240318/",
+        "status": "Working Draft",
+        "date": "2024-03-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-di-bbs-20240316/",
+        "status": "Working Draft",
+        "date": "2024-03-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-di-bbs-20240315/",
+        "status": "Working Draft",
+        "date": "2024-03-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-di-bbs-20240314/",
+        "status": "Working Draft",
+        "date": "2024-03-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-di-bbs-20240309/",
+        "status": "Working Draft",
+        "date": "2024-03-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-di-bbs-20240307/",
+        "status": "Working Draft",
+        "date": "2024-03-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-di-bbs-20240303/",
+        "status": "Working Draft",
+        "date": "2024-03-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-di-bbs-20240202/",
+        "status": "Working Draft",
+        "date": "2024-02-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-di-bbs-20231218/",
+        "status": "Working Draft",
+        "date": "2023-12-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-di-bbs-20231214/",
+        "status": "Working Draft",
+        "date": "2023-12-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-di-bbs-20231104/",
+        "status": "Working Draft",
+        "date": "2023-11-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-di-bbs-20231025/",
+        "status": "Working Draft",
+        "date": "2023-10-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-di-bbs-20231016/",
+        "status": "Working Draft",
+        "date": "2023-10-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-di-bbs-20230524/",
+        "status": "Working Draft",
+        "date": "2023-05-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-di-bbs-20230518/",
+        "status": "First Public Working Draft",
+        "date": "2023-05-18"
+      }
+    ],
+    "abstract": "This specification describes a Data Integrity Cryptosuite for use when generating digital signatures using the BBS signature scheme. The Signature Suite utilizes BBS signatures to provide selective disclosure and unlinkable derived proofs."
   },
   {
     "url": "https://www.w3.org/TR/webnn/",
