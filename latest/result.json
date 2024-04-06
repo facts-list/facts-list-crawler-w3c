@@ -54627,141 +54627,6 @@
     "abstract": "This registration is entered into the [webcodecs-codec-registry]. It describes, for AVC (H.264), the (1) fully qualified codec strings, (2) the codec-specific EncodedVideoChunk [[internal data]] bytes, (3) the VideoDecoderConfig.description bytes, (4) the values of EncodedVideoChunk [[type]], (5) the codec-specific extensions to VideoEncoderConfig, and (6) the codec-specific extensions to VideoEncoderEncodeOptions."
   },
   {
-    "url": "https://www.w3.org/TR/compute-pressure/",
-    "title": "Compute Pressure Level 1",
-    "status": "Draft Standard",
-    "date": "2024-03-19",
-    "histUrl": "https://www.w3.org/standards/history/compute-pressure/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-compute-pressure-20240319/",
-        "status": "Working Draft",
-        "date": "2024-03-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-compute-pressure-20240306/",
-        "status": "Working Draft",
-        "date": "2024-03-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-compute-pressure-20231213/",
-        "status": "Working Draft",
-        "date": "2023-12-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-compute-pressure-20231110/",
-        "status": "Working Draft",
-        "date": "2023-11-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-compute-pressure-20231103/",
-        "status": "Working Draft",
-        "date": "2023-11-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-compute-pressure-20231019/",
-        "status": "Working Draft",
-        "date": "2023-10-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-compute-pressure-20231002/",
-        "status": "Working Draft",
-        "date": "2023-10-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-compute-pressure-20230926/",
-        "status": "Working Draft",
-        "date": "2023-09-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-compute-pressure-20230831/",
-        "status": "Working Draft",
-        "date": "2023-08-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-compute-pressure-20230816/",
-        "status": "Working Draft",
-        "date": "2023-08-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-compute-pressure-20230626/",
-        "status": "Working Draft",
-        "date": "2023-06-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-compute-pressure-20230613/",
-        "status": "Working Draft",
-        "date": "2023-06-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-compute-pressure-20230605/",
-        "status": "Working Draft",
-        "date": "2023-06-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-compute-pressure-20230525/",
-        "status": "Working Draft",
-        "date": "2023-05-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-compute-pressure-20230330/",
-        "status": "Working Draft",
-        "date": "2023-03-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-compute-pressure-20230329/",
-        "status": "Working Draft",
-        "date": "2023-03-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-compute-pressure-20230328/",
-        "status": "Working Draft",
-        "date": "2023-03-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-compute-pressure-20230322/",
-        "status": "Working Draft",
-        "date": "2023-03-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-compute-pressure-20230314/",
-        "status": "Working Draft",
-        "date": "2023-03-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-compute-pressure-20230313/",
-        "status": "Working Draft",
-        "date": "2023-03-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-compute-pressure-20230203/",
-        "status": "Working Draft",
-        "date": "2023-02-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-compute-pressure-20230202/",
-        "status": "Working Draft",
-        "date": "2023-02-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-compute-pressure-20230131/",
-        "status": "Working Draft",
-        "date": "2023-01-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-compute-pressure-20230124/",
-        "status": "Working Draft",
-        "date": "2023-01-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-compute-pressure-20221220/",
-        "status": "First Public Working Draft",
-        "date": "2022-12-20"
-      }
-    ],
-    "abstract": "The Compute Pressure API provides a way for websites to react to changes in the CPU pressure of the target device, such that websites can trade off resources for an improved user experience."
-  },
-  {
     "url": "https://www.w3.org/TR/ethical-web-principles/",
     "title": "Ethical Web Principles",
     "status": "Note",
@@ -68085,5 +67950,145 @@
       }
     ],
     "abstract": "This document describes a dedicated low-level API for neural network inference hardware acceleration."
+  },
+  {
+    "url": "https://www.w3.org/TR/compute-pressure/",
+    "title": "Compute Pressure Level 1",
+    "status": "Draft Standard",
+    "date": "2024-04-05",
+    "histUrl": "https://www.w3.org/standards/history/compute-pressure/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-compute-pressure-20240405/",
+        "status": "Working Draft",
+        "date": "2024-04-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-compute-pressure-20240319/",
+        "status": "Working Draft",
+        "date": "2024-03-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-compute-pressure-20240306/",
+        "status": "Working Draft",
+        "date": "2024-03-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-compute-pressure-20231213/",
+        "status": "Working Draft",
+        "date": "2023-12-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-compute-pressure-20231110/",
+        "status": "Working Draft",
+        "date": "2023-11-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-compute-pressure-20231103/",
+        "status": "Working Draft",
+        "date": "2023-11-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-compute-pressure-20231019/",
+        "status": "Working Draft",
+        "date": "2023-10-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-compute-pressure-20231002/",
+        "status": "Working Draft",
+        "date": "2023-10-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-compute-pressure-20230926/",
+        "status": "Working Draft",
+        "date": "2023-09-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-compute-pressure-20230831/",
+        "status": "Working Draft",
+        "date": "2023-08-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-compute-pressure-20230816/",
+        "status": "Working Draft",
+        "date": "2023-08-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-compute-pressure-20230626/",
+        "status": "Working Draft",
+        "date": "2023-06-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-compute-pressure-20230613/",
+        "status": "Working Draft",
+        "date": "2023-06-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-compute-pressure-20230605/",
+        "status": "Working Draft",
+        "date": "2023-06-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-compute-pressure-20230525/",
+        "status": "Working Draft",
+        "date": "2023-05-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-compute-pressure-20230330/",
+        "status": "Working Draft",
+        "date": "2023-03-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-compute-pressure-20230329/",
+        "status": "Working Draft",
+        "date": "2023-03-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-compute-pressure-20230328/",
+        "status": "Working Draft",
+        "date": "2023-03-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-compute-pressure-20230322/",
+        "status": "Working Draft",
+        "date": "2023-03-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-compute-pressure-20230314/",
+        "status": "Working Draft",
+        "date": "2023-03-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-compute-pressure-20230313/",
+        "status": "Working Draft",
+        "date": "2023-03-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-compute-pressure-20230203/",
+        "status": "Working Draft",
+        "date": "2023-02-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-compute-pressure-20230202/",
+        "status": "Working Draft",
+        "date": "2023-02-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-compute-pressure-20230131/",
+        "status": "Working Draft",
+        "date": "2023-01-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-compute-pressure-20230124/",
+        "status": "Working Draft",
+        "date": "2023-01-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-compute-pressure-20221220/",
+        "status": "First Public Working Draft",
+        "date": "2022-12-20"
+      }
+    ],
+    "abstract": "The Compute Pressure API provides a way for websites to react to changes in the CPU pressure of the target device, such that websites can trade off resources for an improved user experience."
   }
 ]
