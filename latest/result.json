@@ -62317,46 +62317,6 @@
     "abstract": "The Gamepad specification defines a low-level interface that represents gamepad devices."
   },
   {
-    "url": "https://www.w3.org/TR/vc-bitstring-status-list/",
-    "title": "Bitstring Status List v1.0",
-    "status": "Draft Standard",
-    "date": "2024-03-30",
-    "histUrl": "https://www.w3.org/standards/history/vc-bitstring-status-list/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-bitstring-status-list-20240330/",
-        "status": "Working Draft",
-        "date": "2024-03-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-bitstring-status-list-20240303/",
-        "status": "Working Draft",
-        "date": "2024-03-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-bitstring-status-list-20240204/",
-        "status": "Working Draft",
-        "date": "2024-02-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-bitstring-status-list-20240107/",
-        "status": "Working Draft",
-        "date": "2024-01-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-bitstring-status-list-20231123/",
-        "status": "Working Draft",
-        "date": "2023-11-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-status-list-20230427/",
-        "status": "First Public Working Draft",
-        "date": "2023-04-27"
-      }
-    ],
-    "abstract": "This specification describes a privacy-preserving, space-efficient, and high-performance mechanism for publishing status information such as suspension or revocation of Verifiable Credentials through use of bitstrings."
-  },
-  {
     "url": "https://www.w3.org/TR/vc-di-ecdsa/",
     "title": "Data Integrity ECDSA Cryptosuites v1.0",
     "status": "Candidate Standard",
@@ -68090,5 +68050,50 @@
       }
     ],
     "abstract": "The Compute Pressure API provides a way for websites to react to changes in the CPU pressure of the target device, such that websites can trade off resources for an improved user experience."
+  },
+  {
+    "url": "https://www.w3.org/TR/vc-bitstring-status-list/",
+    "title": "Bitstring Status List v1.0",
+    "status": "Draft Standard",
+    "date": "2024-04-06",
+    "histUrl": "https://www.w3.org/standards/history/vc-bitstring-status-list/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-bitstring-status-list-20240406/",
+        "status": "Working Draft",
+        "date": "2024-04-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-bitstring-status-list-20240330/",
+        "status": "Working Draft",
+        "date": "2024-03-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-bitstring-status-list-20240303/",
+        "status": "Working Draft",
+        "date": "2024-03-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-bitstring-status-list-20240204/",
+        "status": "Working Draft",
+        "date": "2024-02-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-bitstring-status-list-20240107/",
+        "status": "Working Draft",
+        "date": "2024-01-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-bitstring-status-list-20231123/",
+        "status": "Working Draft",
+        "date": "2023-11-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-status-list-20230427/",
+        "status": "First Public Working Draft",
+        "date": "2023-04-27"
+      }
+    ],
+    "abstract": "This specification describes a privacy-preserving, space-efficient, and high-performance mechanism for publishing status information such as suspension or revocation of Verifiable Credentials through use of bitstrings."
   }
 ]
