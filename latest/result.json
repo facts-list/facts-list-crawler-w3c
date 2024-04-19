@@ -37232,26 +37232,6 @@
     "abstract": "This document describes and prioritises gaps for the support of Lao on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, in particular HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders. This is a preliminary analysis."
   },
   {
-    "url": "https://www.w3.org/TR/sparql12-entailment/",
-    "title": "SPARQL 1.2 Entailment Regimes",
-    "status": "Draft Standard",
-    "date": "2023-06-15",
-    "histUrl": "https://www.w3.org/standards/history/sparql12-entailment/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-entailment-20230615/",
-        "status": "Working Draft",
-        "date": "2023-06-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-entailment-20230606/",
-        "status": "First Public Working Draft",
-        "date": "2023-06-06"
-      }
-    ],
-    "abstract": "SPARQL is a query language and a protocol for data that is stored natively as RDF or viewed as RDF via middleware. The main mechanism for computing query results in SPARQL is subgraph matching: RDF triples in both the queried RDF data and the query pattern are interpreted as nodes and edges of directed graphs, and the resulting query graph is matched to the data graph using variables as wild cards. Various W3C standards, including RDF 1.2 Concepts and Abstract Syntax [RDF12-CONCEPTS] and OWL 2 Web Ontology Language Mapping to RDF Graphs (Second Edition) [OWL2-MAPPING-TO-RDF], provide semantic interpretations for RDF graphs that allow additional RDF statements to be inferred from explicitly given assertions. Many applications that rely on these semantics require a query language such as SPARQL, but in order to use SPARQL, basic graph pattern matching has to be defined using semantic entailment relations instead of explicitly given graph structures. There are different possible ways of defining a basic graph pattern matching extension for an entailment relation. This document specifies one such way for a range of standard semantic web entailment relations. Such extensions of the SPARQL semantics are called entailment regimes within this document. An entailment regime defines not only which entailment relation is used, but also which queries and graphs are well-formed for the regime, how the entailment is used (since there are potentially different meaningful ways to use the same entailment relation), and what kinds of errors can arise. The entailment relations used in this document are standard entailment relations in the semantic web: RDF entailment, RDFS entailment, D-entailment, OWL Direct and RDF-Based Semantics entailment, and RIF Core entailment."
-  },
-  {
     "url": "https://www.w3.org/TR/thai-gap/",
     "title": "Thai Gap Analysis",
     "status": "Note",
@@ -37295,26 +37275,6 @@
       }
     ],
     "abstract": "This document describes and prioritises gaps for the support of languages using the Thai script on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, in particular HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders. This is a preliminary analysis."
-  },
-  {
-    "url": "https://www.w3.org/TR/sparql12-graph-store-protocol/",
-    "title": "SPARQL 1.2 Graph Store Protocol",
-    "status": "Draft Standard",
-    "date": "2023-06-16",
-    "histUrl": "https://www.w3.org/standards/history/sparql12-graph-store-protocol/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-graph-store-protocol-20230616/",
-        "status": "Working Draft",
-        "date": "2023-06-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-graph-store-protocol-20230516/",
-        "status": "First Public Working Draft",
-        "date": "2023-05-16"
-      }
-    ],
-    "abstract": "This document describes the use of HTTP operations for the purpose of managing a collection of RDF graphs. This interface is an alternative to SPARQL 1.2 Protocol. Most of the operations defined here can be performed using that interface, but for some clients or servers, this interface may be easier to implement or work with. This specification may serve as a non-normative suggestion for HTTP operations on RDF graphs which are managed outside of a SPARQL graph store."
   },
   {
     "url": "https://www.w3.org/TR/saur/",
@@ -38727,46 +38687,6 @@
     "abstract": "This document describes PNG (Portable Network Graphics), an extensible file format for the lossless, portable, well-compressed storage of static and animated raster images. PNG provides a patent-free replacement for GIF and can also replace many common uses of TIFF. Indexed-colour, greyscale, and truecolour images are supported, plus an optional alpha channel. Sample depths range from 1 to 16 bits."
   },
   {
-    "url": "https://www.w3.org/TR/rdf12-xml/",
-    "title": "RDF 1.2 XML Syntax",
-    "status": "Draft Standard",
-    "date": "2023-09-21",
-    "histUrl": "https://www.w3.org/standards/history/rdf12-xml/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-xml-20230921/",
-        "status": "Working Draft",
-        "date": "2023-09-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-xml-20230831/",
-        "status": "Working Draft",
-        "date": "2023-08-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-xml-20230810/",
-        "status": "Working Draft",
-        "date": "2023-08-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-xml-20230807/",
-        "status": "Working Draft",
-        "date": "2023-08-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-xml-20230615/",
-        "status": "Working Draft",
-        "date": "2023-06-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-xml-20230516/",
-        "status": "First Public Working Draft",
-        "date": "2023-05-16"
-      }
-    ],
-    "abstract": "This document defines an XML syntax for RDF called RDF/XML in terms of Namespaces in XML, the XML Information Set and XML Base."
-  },
-  {
     "url": "https://www.w3.org/TR/UNDERSTANDING-WCAG20/",
     "title": "Understanding WCAG 2.0",
     "status": "Note",
@@ -38960,71 +38880,6 @@
       }
     ],
     "abstract": "This specification defines an API enabling the creation and use of strong, attested, scoped, public key-based credentials by web applications, for the purpose of strongly authenticating users. Conceptually, one or more public key credentials, each scoped to a given WebAuthn Relying Party, are created by and bound to authenticators as requested by the web application. The user agent mediates access to authenticators and their public key credentials in order to preserve user privacy. Authenticators are responsible for ensuring that no operation is performed without user consent. Authenticators provide cryptographic proof of their properties to Relying Parties via attestation. This specification also describes the functional model for WebAuthn conformant authenticators, including their signature and attestation functionality."
-  },
-  {
-    "url": "https://www.w3.org/TR/rdf12-schema/",
-    "title": "RDF 1.2 Schema",
-    "status": "Draft Standard",
-    "date": "2023-09-28",
-    "histUrl": "https://www.w3.org/standards/history/rdf12-schema/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-schema-20230928/",
-        "status": "Working Draft",
-        "date": "2023-09-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-schema-20230615/",
-        "status": "Working Draft",
-        "date": "2023-06-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-schema-20230516/",
-        "status": "First Public Working Draft",
-        "date": "2023-05-16"
-      }
-    ],
-    "abstract": "RDF Schema provides a data-modelling vocabulary for RDF data. RDF Schema is an extension of the basic RDF vocabulary."
-  },
-  {
-    "url": "https://www.w3.org/TR/sparql12-update/",
-    "title": "SPARQL 1.2 Update",
-    "status": "Draft Standard",
-    "date": "2023-09-28",
-    "histUrl": "https://www.w3.org/standards/history/sparql12-update/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-update-20230928/",
-        "status": "Working Draft",
-        "date": "2023-09-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-update-20230922/",
-        "status": "Working Draft",
-        "date": "2023-09-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-update-20230714/",
-        "status": "Working Draft",
-        "date": "2023-07-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-update-20230706/",
-        "status": "Working Draft",
-        "date": "2023-07-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-update-20230616/",
-        "status": "Working Draft",
-        "date": "2023-06-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-update-20230516/",
-        "status": "First Public Working Draft",
-        "date": "2023-05-16"
-      }
-    ],
-    "abstract": "This document describes SPARQL 1.2 Update, an update language for RDF graphs. It uses a syntax derived from the SPARQL Query Language for RDF. Update operations are performed on a collection of graphs in a Graph Store. Operations are provided to update, create, and remove RDF graphs in a Graph Store."
   },
   {
     "url": "https://www.w3.org/TR/wot-binding-templates/",
@@ -40732,51 +40587,6 @@
     "abstract": "This document describes how user agents should expose semantics of web content languages to accessibility APIs. This helps users with disabilities to obtain and interact with information using assistive technologies. Documenting these mappings promotes interoperable exposure of roles, states, properties, and events implemented by accessibility APIs and helps to ensure that this information appears in a manner consistent with author intent."
   },
   {
-    "url": "https://www.w3.org/TR/rdf12-trig/",
-    "title": "RDF 1.2 TriG",
-    "status": "Draft Standard",
-    "date": "2023-11-04",
-    "histUrl": "https://www.w3.org/standards/history/rdf12-trig/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-trig-20231104/",
-        "status": "Working Draft",
-        "date": "2023-11-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-trig-20231103/",
-        "status": "Working Draft",
-        "date": "2023-11-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-trig-20231013/",
-        "status": "Working Draft",
-        "date": "2023-10-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-trig-20230921/",
-        "status": "Working Draft",
-        "date": "2023-09-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-trig-20230727/",
-        "status": "Working Draft",
-        "date": "2023-07-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-trig-20230628/",
-        "status": "Working Draft",
-        "date": "2023-06-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-trig-20230516/",
-        "status": "First Public Working Draft",
-        "date": "2023-05-16"
-      }
-    ],
-    "abstract": "This document defines a textual syntax for RDF called TriG that allows an RDF dataset to be completely written in a compact and natural text form, with abbreviations for common usage patterns and datatypes. TriG is an extension of the Turtle [RDF12-TURTLE] format."
-  },
-  {
     "url": "https://www.w3.org/TR/reporting-1/",
     "title": "Reporting API",
     "status": "Draft Standard",
@@ -40895,36 +40705,6 @@
       }
     ],
     "abstract": "This specification defines \"secure contexts\", thereby allowing user agent implementers and specification authors to enable certain features only when certain minimum standards of authentication and confidentiality are met."
-  },
-  {
-    "url": "https://www.w3.org/TR/sparql12-results-csv-tsv/",
-    "title": "SPARQL 1.2 Query Results CSV and TSV Formats",
-    "status": "Draft Standard",
-    "date": "2023-11-10",
-    "histUrl": "https://www.w3.org/standards/history/sparql12-results-csv-tsv/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-results-csv-tsv-20231110/",
-        "status": "Working Draft",
-        "date": "2023-11-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-results-csv-tsv-20230629/",
-        "status": "Working Draft",
-        "date": "2023-06-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-results-csv-tsv-20230616/",
-        "status": "Working Draft",
-        "date": "2023-06-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-results-csv-tsv-20230516/",
-        "status": "First Public Working Draft",
-        "date": "2023-05-16"
-      }
-    ],
-    "abstract": "The formats CSV [RFC4180] (comma separated values) and TSV [IANA-TSV] (tab separated values) provide simple, easy to process formats for the transmission of tabular data. They are supported as input datat formats by many tools, particularly spreadsheets. This document describes their use for expressing SPARQL query results from SELECT queries."
   },
   {
     "url": "https://www.w3.org/TR/mlreq/",
@@ -41065,41 +40845,6 @@
       }
     ],
     "abstract": "This specification defines a concrete sensor interface to monitor the presence of nearby physical objects without physical contact."
-  },
-  {
-    "url": "https://www.w3.org/TR/sparql12-results-xml/",
-    "title": "SPARQL 1.2 Query Results XML Format",
-    "status": "Draft Standard",
-    "date": "2023-11-30",
-    "histUrl": "https://www.w3.org/standards/history/sparql12-results-xml/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-results-xml-20231130/",
-        "status": "Working Draft",
-        "date": "2023-11-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-results-xml-20230728/",
-        "status": "Working Draft",
-        "date": "2023-07-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-results-xml-20230727/",
-        "status": "Working Draft",
-        "date": "2023-07-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-results-xml-20230616/",
-        "status": "Working Draft",
-        "date": "2023-06-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-results-xml-20230516/",
-        "status": "First Public Working Draft",
-        "date": "2023-05-16"
-      }
-    ],
-    "abstract": ""
   },
   {
     "url": "https://www.w3.org/TR/wot-architecture11/",
@@ -41707,126 +41452,6 @@
     "abstract": "This document defines how a stream of media can be captured from a DOM element, such as a video, audio, or canvas element, in the form of a MediaStream [GETUSERMEDIA]."
   },
   {
-    "url": "https://www.w3.org/TR/webrtc-encoded-transform/",
-    "title": "WebRTC Encoded Transform",
-    "status": "Draft Standard",
-    "date": "2023-12-12",
-    "histUrl": "https://www.w3.org/standards/history/webrtc-encoded-transform/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2023/WD-webrtc-encoded-transform-20231212/",
-        "status": "Working Draft",
-        "date": "2023-12-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-webrtc-encoded-transform-20231207/",
-        "status": "Working Draft",
-        "date": "2023-12-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-webrtc-encoded-transform-20231012/",
-        "status": "Working Draft",
-        "date": "2023-10-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-webrtc-encoded-transform-20231009/",
-        "status": "Working Draft",
-        "date": "2023-10-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-webrtc-encoded-transform-20231004/",
-        "status": "Working Draft",
-        "date": "2023-10-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-webrtc-encoded-transform-20230922/",
-        "status": "Working Draft",
-        "date": "2023-09-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-webrtc-encoded-transform-20230727/",
-        "status": "Working Draft",
-        "date": "2023-07-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-webrtc-encoded-transform-20230713/",
-        "status": "Working Draft",
-        "date": "2023-07-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-webrtc-encoded-transform-20230629/",
-        "status": "Working Draft",
-        "date": "2023-06-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-webrtc-encoded-transform-20230602/",
-        "status": "Working Draft",
-        "date": "2023-06-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-webrtc-encoded-transform-20230428/",
-        "status": "Working Draft",
-        "date": "2023-04-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-webrtc-encoded-transform-20230427/",
-        "status": "Working Draft",
-        "date": "2023-04-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-webrtc-encoded-transform-20230131/",
-        "status": "Working Draft",
-        "date": "2023-01-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webrtc-encoded-transform-20221208/",
-        "status": "Working Draft",
-        "date": "2022-12-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webrtc-encoded-transform-20221020/",
-        "status": "Working Draft",
-        "date": "2022-10-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webrtc-encoded-transform-20220929/",
-        "status": "Working Draft",
-        "date": "2022-09-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webrtc-encoded-transform-20220706/",
-        "status": "Working Draft",
-        "date": "2022-07-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webrtc-encoded-transform-20220519/",
-        "status": "Working Draft",
-        "date": "2022-05-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webrtc-encoded-transform-20220130/",
-        "status": "Working Draft",
-        "date": "2022-01-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webrtc-encoded-transform-20220127/",
-        "status": "Working Draft",
-        "date": "2022-01-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webrtc-encoded-transform-20211207/",
-        "status": "Working Draft",
-        "date": "2021-12-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webrtc-encoded-transform-20210921/",
-        "status": "First Public Working Draft",
-        "date": "2021-09-21"
-      }
-    ],
-    "abstract": "This API defines an API surface for manipulating the bits on MediaStreamTracks being sent via an RTCPeerConnection."
-  },
-  {
     "url": "https://www.w3.org/TR/secure-payment-confirmation/",
     "title": "Secure Payment Confirmation",
     "status": "Candidate Standard",
@@ -41985,61 +41610,6 @@
       }
     ],
     "abstract": "Secure Payment Confirmation (SPC) is a Web API to support streamlined authentication during a payment transaction. It is designed to scale authentication across merchants, to be used within a wide range of authentication protocols, and to produce cryptographic evidence that the user has confirmed transaction details."
-  },
-  {
-    "url": "https://www.w3.org/TR/sparql12-protocol/",
-    "title": "SPARQL 1.2 Protocol",
-    "status": "Draft Standard",
-    "date": "2023-12-14",
-    "histUrl": "https://www.w3.org/standards/history/sparql12-protocol/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-protocol-20231214/",
-        "status": "Working Draft",
-        "date": "2023-12-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-protocol-20231102/",
-        "status": "Working Draft",
-        "date": "2023-11-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-protocol-20230616/",
-        "status": "Working Draft",
-        "date": "2023-06-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-protocol-20230516/",
-        "status": "First Public Working Draft",
-        "date": "2023-05-16"
-      }
-    ],
-    "abstract": "The SPARQL Protocol and RDF Query Language (SPARQL) is a query language and protocol for RDF. This document specifies the SPARQL Protocol; it describes a means for conveying SPARQL queries and updates to a SPARQL processing service and returning the results via HTTP to the entity that requested them. This protocol was developed by the W3C SPARQL Working Group, part of the Semantic Web Activity as described in the activity statement ."
-  },
-  {
-    "url": "https://www.w3.org/TR/sparql12-service-description/",
-    "title": "SPARQL 1.2 Service Description",
-    "status": "Draft Standard",
-    "date": "2023-12-14",
-    "histUrl": "https://www.w3.org/standards/history/sparql12-service-description/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-service-description-20231214/",
-        "status": "Working Draft",
-        "date": "2023-12-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-service-description-20230616/",
-        "status": "Working Draft",
-        "date": "2023-06-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-service-description-20230516/",
-        "status": "First Public Working Draft",
-        "date": "2023-05-16"
-      }
-    ],
-    "abstract": "This document describes SPARQL service description, a method for discovering, and vocabulary for describing SPARQL services made available via the SPARQL 1.2 Protocol. These descriptions provide a mechanism by which a client or end user can discover information about the SPARQL service such as supported extension functions and details about the available dataset."
   },
   {
     "url": "https://www.w3.org/TR/webrtc-nv-use-cases/",
@@ -44612,36 +44182,6 @@
     "abstract": "This document defines a set of WebIDL objects that allow access to the statistical information about a RTCPeerConnection."
   },
   {
-    "url": "https://www.w3.org/TR/rdf12-semantics/",
-    "title": "RDF 1.2 Semantics",
-    "status": "Draft Standard",
-    "date": "2024-01-25",
-    "histUrl": "https://www.w3.org/standards/history/rdf12-semantics/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-rdf12-semantics-20240125/",
-        "status": "Working Draft",
-        "date": "2024-01-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-semantics-20230922/",
-        "status": "Working Draft",
-        "date": "2023-09-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-semantics-20230615/",
-        "status": "Working Draft",
-        "date": "2023-06-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-semantics-20230606/",
-        "status": "First Public Working Draft",
-        "date": "2023-06-06"
-      }
-    ],
-    "abstract": "This document describes a precise semantics for the RDF 1.2 Concepts and Abstract Syntax [RDF12-CONCEPTS] and RDF 1.2 Schema [RDF12-SCHEMA]. It defines a number of distinct entailment regimes and corresponding patterns of entailment. It is part of a suite of documents which comprise the full specification of RDF 1.2."
-  },
-  {
     "url": "https://www.w3.org/TR/design-principles/",
     "title": "Web Platform Design Principles",
     "status": "Note",
@@ -44955,81 +44495,6 @@
       }
     ],
     "abstract": "This document describes and prioritises gaps for the support of Simplified and Traditional Chinese on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, in particular HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders. This is a preliminary analysis."
-  },
-  {
-    "url": "https://www.w3.org/TR/rdf12-turtle/",
-    "title": "RDF 1.2 Turtle",
-    "status": "Draft Standard",
-    "date": "2024-02-08",
-    "histUrl": "https://www.w3.org/standards/history/rdf12-turtle/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-rdf12-turtle-20240208/",
-        "status": "Working Draft",
-        "date": "2024-02-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-turtle-20231104/",
-        "status": "Working Draft",
-        "date": "2023-11-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-turtle-20231103/",
-        "status": "Working Draft",
-        "date": "2023-11-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-turtle-20231013/",
-        "status": "Working Draft",
-        "date": "2023-10-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-turtle-20231012/",
-        "status": "Working Draft",
-        "date": "2023-10-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-turtle-20231005/",
-        "status": "Working Draft",
-        "date": "2023-10-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-turtle-20230928/",
-        "status": "Working Draft",
-        "date": "2023-09-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-turtle-20230925/",
-        "status": "Working Draft",
-        "date": "2023-09-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-turtle-20230921/",
-        "status": "Working Draft",
-        "date": "2023-09-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-turtle-20230831/",
-        "status": "Working Draft",
-        "date": "2023-08-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-turtle-20230727/",
-        "status": "Working Draft",
-        "date": "2023-07-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-turtle-20230615/",
-        "status": "Working Draft",
-        "date": "2023-06-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-turtle-20230516/",
-        "status": "First Public Working Draft",
-        "date": "2023-05-16"
-      }
-    ],
-    "abstract": "The Resource Description Framework (RDF) is a general-purpose language for representing information in the Web."
   },
   {
     "url": "https://www.w3.org/TR/resource-timing/",
@@ -45440,46 +44905,6 @@
       }
     ],
     "abstract": "This document defines how a user's display, or parts thereof, can be used as the source of a media stream using getDisplayMedia, an extension to the Media Capture API [GETUSERMEDIA]."
-  },
-  {
-    "url": "https://www.w3.org/TR/sparql12-results-json/",
-    "title": "SPARQL 1.2 Query Results JSON Format",
-    "status": "Draft Standard",
-    "date": "2024-02-08",
-    "histUrl": "https://www.w3.org/standards/history/sparql12-results-json/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-sparql12-results-json-20240208/",
-        "status": "Working Draft",
-        "date": "2024-02-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-results-json-20231130/",
-        "status": "Working Draft",
-        "date": "2023-11-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-results-json-20230728/",
-        "status": "Working Draft",
-        "date": "2023-07-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-results-json-20230727/",
-        "status": "Working Draft",
-        "date": "2023-07-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-results-json-20230616/",
-        "status": "Working Draft",
-        "date": "2023-06-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-results-json-20230516/",
-        "status": "First Public Working Draft",
-        "date": "2023-05-16"
-      }
-    ],
-    "abstract": "SPARQL is a set of standards for the query and update of RDF data, along with ways to access such data over the web. This document describes the representation of SELECT and ASK query results using JSON."
   },
   {
     "url": "https://www.w3.org/TR/webxrlayers-1/",
@@ -49555,316 +48980,6 @@
       }
     ],
     "abstract": "This document provides definitions for various terms related to W3C internationalization."
-  },
-  {
-    "url": "https://www.w3.org/TR/rdf12-n-quads/",
-    "title": "RDF 1.2 N-Quads",
-    "status": "Draft Standard",
-    "date": "2024-03-21",
-    "histUrl": "https://www.w3.org/standards/history/rdf12-n-quads/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-rdf12-n-quads-20240321/",
-        "status": "Working Draft",
-        "date": "2024-03-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-n-quads-20231221/",
-        "status": "Working Draft",
-        "date": "2023-12-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-n-quads-20231019/",
-        "status": "Working Draft",
-        "date": "2023-10-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-n-quads-20231013/",
-        "status": "Working Draft",
-        "date": "2023-10-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-n-quads-20231012/",
-        "status": "Working Draft",
-        "date": "2023-10-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-n-quads-20230929/",
-        "status": "Working Draft",
-        "date": "2023-09-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-n-quads-20230928/",
-        "status": "Working Draft",
-        "date": "2023-09-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-n-quads-20230921/",
-        "status": "Working Draft",
-        "date": "2023-09-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-n-quads-20230831/",
-        "status": "Working Draft",
-        "date": "2023-08-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-n-quads-20230727/",
-        "status": "Working Draft",
-        "date": "2023-07-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-n-quads-20230615/",
-        "status": "Working Draft",
-        "date": "2023-06-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-n-quads-20230516/",
-        "status": "First Public Working Draft",
-        "date": "2023-05-16"
-      }
-    ],
-    "abstract": "N-Quads is a line-based, plain text format for encoding an RDF dataset."
-  },
-  {
-    "url": "https://www.w3.org/TR/rdf12-n-triples/",
-    "title": "RDF 1.2 N-Triples",
-    "status": "Draft Standard",
-    "date": "2024-03-21",
-    "histUrl": "https://www.w3.org/standards/history/rdf12-n-triples/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-rdf12-n-triples-20240321/",
-        "status": "Working Draft",
-        "date": "2024-03-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-n-triples-20231221/",
-        "status": "Working Draft",
-        "date": "2023-12-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-n-triples-20231104/",
-        "status": "Working Draft",
-        "date": "2023-11-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-n-triples-20231019/",
-        "status": "Working Draft",
-        "date": "2023-10-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-n-triples-20231013/",
-        "status": "Working Draft",
-        "date": "2023-10-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-n-triples-20230831/",
-        "status": "Working Draft",
-        "date": "2023-08-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-n-triples-20230727/",
-        "status": "Working Draft",
-        "date": "2023-07-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-n-triples-20230615/",
-        "status": "Working Draft",
-        "date": "2023-06-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-n-triples-20230516/",
-        "status": "First Public Working Draft",
-        "date": "2023-05-16"
-      }
-    ],
-    "abstract": "N-Triples is a line-based, plain text format for encoding an RDF graph."
-  },
-  {
-    "url": "https://www.w3.org/TR/sparql12-federated-query/",
-    "title": "SPARQL 1.2 Federated Query",
-    "status": "Draft Standard",
-    "date": "2024-03-21",
-    "histUrl": "https://www.w3.org/standards/history/sparql12-federated-query/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-sparql12-federated-query-20240321/",
-        "status": "Working Draft",
-        "date": "2024-03-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-federated-query-20230616/",
-        "status": "Working Draft",
-        "date": "2023-06-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-federated-query-20230516/",
-        "status": "First Public Working Draft",
-        "date": "2023-05-16"
-      }
-    ],
-    "abstract": "RDF is a directed, labeled graph data model for representing information in the Web. SPARQL can be used to express queries across diverse data sources, whether the data is stored natively as RDF or viewed as RDF via middleware. This specification defines the syntax and semantics of SPARQL 1.1 Federated Query extension for executing queries distributed over different SPARQL endpoints. The SERVICE keyword extends SPARQL 1.1 to support queries that merge data distributed across the Web."
-  },
-  {
-    "url": "https://www.w3.org/TR/sparql12-query/",
-    "title": "SPARQL 1.2 Query Language",
-    "status": "Draft Standard",
-    "date": "2024-03-21",
-    "histUrl": "https://www.w3.org/standards/history/sparql12-query/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-sparql12-query-20240321/",
-        "status": "Working Draft",
-        "date": "2024-03-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-sparql12-query-20240307/",
-        "status": "Working Draft",
-        "date": "2024-03-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-sparql12-query-20240223/",
-        "status": "Working Draft",
-        "date": "2024-02-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-sparql12-query-20240222/",
-        "status": "Working Draft",
-        "date": "2024-02-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-sparql12-query-20240118/",
-        "status": "Working Draft",
-        "date": "2024-01-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-query-20231208/",
-        "status": "Working Draft",
-        "date": "2023-12-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-query-20231020/",
-        "status": "Working Draft",
-        "date": "2023-10-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-query-20231013/",
-        "status": "Working Draft",
-        "date": "2023-10-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-query-20231010/",
-        "status": "Working Draft",
-        "date": "2023-10-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-query-20231005/",
-        "status": "Working Draft",
-        "date": "2023-10-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-query-20230929/",
-        "status": "Working Draft",
-        "date": "2023-09-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-query-20230928/",
-        "status": "Working Draft",
-        "date": "2023-09-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-query-20230818/",
-        "status": "Working Draft",
-        "date": "2023-08-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-query-20230817/",
-        "status": "Working Draft",
-        "date": "2023-08-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-query-20230727/",
-        "status": "Working Draft",
-        "date": "2023-07-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-query-20230706/",
-        "status": "Working Draft",
-        "date": "2023-07-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-query-20230703/",
-        "status": "Working Draft",
-        "date": "2023-07-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-query-20230629/",
-        "status": "Working Draft",
-        "date": "2023-06-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-query-20230616/",
-        "status": "Working Draft",
-        "date": "2023-06-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-query-20230516/",
-        "status": "First Public Working Draft",
-        "date": "2023-05-16"
-      }
-    ],
-    "abstract": "RDF is a directed, labeled graph data model for representing information in the Web. This specification defines the syntax and semantics of the SPARQL query language for RDF. SPARQL can be used to express queries across diverse data sources, whether the data is stored natively as RDF or viewed as RDF via middleware. SPARQL contains capabilities for querying required and optional graph patterns along with their conjunctions and disjunctions. SPARQL also supports aggregation, subqueries, negation, creating values by expressions, extensible value testing, and constraining queries by source RDF graph. The results of SPARQL queries can be result sets or RDF graphs."
-  },
-  {
-    "url": "https://www.w3.org/TR/string-meta/",
-    "title": "Strings on the Web: Language and Direction Metadata",
-    "status": "Note",
-    "date": "2024-03-21",
-    "histUrl": "https://www.w3.org/standards/history/string-meta/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-string-meta-20240321/",
-        "status": "Draft Note",
-        "date": "2024-03-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-string-meta-20240229/",
-        "status": "Draft Note",
-        "date": "2024-02-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-string-meta-20240122/",
-        "status": "Draft Note",
-        "date": "2024-01-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-string-meta-20230720/",
-        "status": "Draft Note",
-        "date": "2023-07-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-string-meta-20220804/",
-        "status": "Draft Note",
-        "date": "2022-08-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-string-meta-20220307/",
-        "status": "Draft Note",
-        "date": "2022-03-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-string-meta-20190611/",
-        "status": "Working Draft",
-        "date": "2019-06-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-string-meta-20190416/",
-        "status": "First Public Working Draft",
-        "date": "2019-04-16"
-      }
-    ],
-    "abstract": "This document describes the best practices for identifying the language and direction for strings used on the Web."
   },
   {
     "url": "https://www.w3.org/TR/css-values-3/",
@@ -54935,736 +54050,6 @@
       }
     ],
     "abstract": "This registration is entered into the [webcodecs-codec-registry]. It describes, for HEVC (H.265), the (1) fully qualified codec strings, (2) the codec-specific EncodedVideoChunk [[internal data]] bytes, (3) the VideoDecoderConfig.description bytes, (4) the values of EncodedVideoChunk [[type]], and (5) the codec-specific extensions to VideoEncoderConfig"
-  },
-  {
-    "url": "https://www.w3.org/TR/html-aam-1.0/",
-    "title": "HTML Accessibility API Mappings 1.0",
-    "status": "Draft Standard",
-    "date": "2024-04-08",
-    "histUrl": "https://www.w3.org/standards/history/html-aam-1.0/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-html-aam-1.0-20240408/",
-        "status": "Working Draft",
-        "date": "2024-04-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-html-aam-1.0-20240226/",
-        "status": "Working Draft",
-        "date": "2024-02-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-html-aam-1.0-20240208/",
-        "status": "Working Draft",
-        "date": "2024-02-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-html-aam-1.0-20240206/",
-        "status": "Working Draft",
-        "date": "2024-02-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20231204/",
-        "status": "Working Draft",
-        "date": "2023-12-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20231102/",
-        "status": "Working Draft",
-        "date": "2023-11-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20231016/",
-        "status": "Working Draft",
-        "date": "2023-10-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20231009/",
-        "status": "Working Draft",
-        "date": "2023-10-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20231003/",
-        "status": "Working Draft",
-        "date": "2023-10-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230925/",
-        "status": "Working Draft",
-        "date": "2023-09-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230902/",
-        "status": "Working Draft",
-        "date": "2023-09-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230825/",
-        "status": "Working Draft",
-        "date": "2023-08-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230818/",
-        "status": "Working Draft",
-        "date": "2023-08-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230728/",
-        "status": "Working Draft",
-        "date": "2023-07-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230705/",
-        "status": "Working Draft",
-        "date": "2023-07-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230627/",
-        "status": "Working Draft",
-        "date": "2023-06-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230617/",
-        "status": "Working Draft",
-        "date": "2023-06-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230609/",
-        "status": "Working Draft",
-        "date": "2023-06-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230606/",
-        "status": "Working Draft",
-        "date": "2023-06-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230519/",
-        "status": "Working Draft",
-        "date": "2023-05-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230515/",
-        "status": "Working Draft",
-        "date": "2023-05-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230510/",
-        "status": "Working Draft",
-        "date": "2023-05-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230509/",
-        "status": "Working Draft",
-        "date": "2023-05-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230503/",
-        "status": "Working Draft",
-        "date": "2023-05-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230427/",
-        "status": "Working Draft",
-        "date": "2023-04-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230411/",
-        "status": "Working Draft",
-        "date": "2023-04-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230328/",
-        "status": "Working Draft",
-        "date": "2023-03-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230324/",
-        "status": "Working Draft",
-        "date": "2023-03-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230322/",
-        "status": "Working Draft",
-        "date": "2023-03-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230308/",
-        "status": "Working Draft",
-        "date": "2023-03-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230202/",
-        "status": "Working Draft",
-        "date": "2023-02-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230131/",
-        "status": "Working Draft",
-        "date": "2023-01-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20221212/",
-        "status": "Working Draft",
-        "date": "2022-12-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20221208/",
-        "status": "Working Draft",
-        "date": "2022-12-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20221128/",
-        "status": "Working Draft",
-        "date": "2022-11-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20221104/",
-        "status": "Working Draft",
-        "date": "2022-11-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20221026/",
-        "status": "Working Draft",
-        "date": "2022-10-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20221004/",
-        "status": "Working Draft",
-        "date": "2022-10-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220829/",
-        "status": "Working Draft",
-        "date": "2022-08-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220719/",
-        "status": "Working Draft",
-        "date": "2022-07-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220714/",
-        "status": "Working Draft",
-        "date": "2022-07-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220713/",
-        "status": "Working Draft",
-        "date": "2022-07-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220711/",
-        "status": "Working Draft",
-        "date": "2022-07-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220709/",
-        "status": "Working Draft",
-        "date": "2022-07-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220708/",
-        "status": "Working Draft",
-        "date": "2022-07-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220602/",
-        "status": "Working Draft",
-        "date": "2022-06-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220531/",
-        "status": "Working Draft",
-        "date": "2022-05-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220526/",
-        "status": "Working Draft",
-        "date": "2022-05-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220524/",
-        "status": "Working Draft",
-        "date": "2022-05-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220504/",
-        "status": "Working Draft",
-        "date": "2022-05-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220503/",
-        "status": "Working Draft",
-        "date": "2022-05-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220502/",
-        "status": "Working Draft",
-        "date": "2022-05-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220429/",
-        "status": "Working Draft",
-        "date": "2022-04-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220413/",
-        "status": "Working Draft",
-        "date": "2022-04-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220404/",
-        "status": "Working Draft",
-        "date": "2022-04-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220307/",
-        "status": "Working Draft",
-        "date": "2022-03-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220121/",
-        "status": "Working Draft",
-        "date": "2022-01-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220120/",
-        "status": "Working Draft",
-        "date": "2022-01-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-html-aam-1.0-20210813/",
-        "status": "Working Draft",
-        "date": "2021-08-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-html-aam-1.0-20210811/",
-        "status": "Working Draft",
-        "date": "2021-08-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-html-aam-1.0-20210810/",
-        "status": "Working Draft",
-        "date": "2021-08-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-html-aam-1.0-20200817/",
-        "status": "Working Draft",
-        "date": "2020-08-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-html-aam-1.0-20200811/",
-        "status": "Working Draft",
-        "date": "2020-08-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-html-aam-1.0-20200718/",
-        "status": "Working Draft",
-        "date": "2020-07-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-html-aam-1.0-20200629/",
-        "status": "Working Draft",
-        "date": "2020-06-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-html-aam-1.0-20200601/",
-        "status": "Working Draft",
-        "date": "2020-06-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-html-aam-1.0-20200529/",
-        "status": "Working Draft",
-        "date": "2020-05-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20191217/",
-        "status": "Working Draft",
-        "date": "2019-12-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20191213/",
-        "status": "Working Draft",
-        "date": "2019-12-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20191212/",
-        "status": "Working Draft",
-        "date": "2019-12-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20191210/",
-        "status": "Working Draft",
-        "date": "2019-12-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20191112/",
-        "status": "Working Draft",
-        "date": "2019-11-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20191111/",
-        "status": "Working Draft",
-        "date": "2019-11-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20191018/",
-        "status": "Working Draft",
-        "date": "2019-10-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20191006/",
-        "status": "Working Draft",
-        "date": "2019-10-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20191005/",
-        "status": "Working Draft",
-        "date": "2019-10-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190923/",
-        "status": "Working Draft",
-        "date": "2019-09-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190922/",
-        "status": "Working Draft",
-        "date": "2019-09-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190919/",
-        "status": "Working Draft",
-        "date": "2019-09-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190918/",
-        "status": "Working Draft",
-        "date": "2019-09-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190914/",
-        "status": "Working Draft",
-        "date": "2019-09-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190913/",
-        "status": "Working Draft",
-        "date": "2019-09-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190911/",
-        "status": "Working Draft",
-        "date": "2019-09-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190715/",
-        "status": "Working Draft",
-        "date": "2019-07-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190710/",
-        "status": "Working Draft",
-        "date": "2019-07-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190703/",
-        "status": "Working Draft",
-        "date": "2019-07-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190628/",
-        "status": "Working Draft",
-        "date": "2019-06-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190614/",
-        "status": "Working Draft",
-        "date": "2019-06-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190610/",
-        "status": "Working Draft",
-        "date": "2019-06-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190603/",
-        "status": "Working Draft",
-        "date": "2019-06-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190531/",
-        "status": "Working Draft",
-        "date": "2019-05-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190530/",
-        "status": "Working Draft",
-        "date": "2019-05-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190131/",
-        "status": "Working Draft",
-        "date": "2019-01-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190124/",
-        "status": "Working Draft",
-        "date": "2019-01-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190118/",
-        "status": "Working Draft",
-        "date": "2019-01-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20181214/",
-        "status": "Working Draft",
-        "date": "2018-12-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20181025/",
-        "status": "Working Draft",
-        "date": "2018-10-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20181022/",
-        "status": "Working Draft",
-        "date": "2018-10-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20181018/",
-        "status": "Working Draft",
-        "date": "2018-10-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20181005/",
-        "status": "Working Draft",
-        "date": "2018-10-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180926/",
-        "status": "Working Draft",
-        "date": "2018-09-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180907/",
-        "status": "Working Draft",
-        "date": "2018-09-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180802/",
-        "status": "Working Draft",
-        "date": "2018-08-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180725/",
-        "status": "Working Draft",
-        "date": "2018-07-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180530/",
-        "status": "Working Draft",
-        "date": "2018-05-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180528/",
-        "status": "Working Draft",
-        "date": "2018-05-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180519/",
-        "status": "Working Draft",
-        "date": "2018-05-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180503/",
-        "status": "Working Draft",
-        "date": "2018-05-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180307/",
-        "status": "Working Draft",
-        "date": "2018-03-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180302/",
-        "status": "Working Draft",
-        "date": "2018-03-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180301/",
-        "status": "Working Draft",
-        "date": "2018-03-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180226/",
-        "status": "Working Draft",
-        "date": "2018-02-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180131/",
-        "status": "Working Draft",
-        "date": "2018-01-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180128/",
-        "status": "Working Draft",
-        "date": "2018-01-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180109/",
-        "status": "Working Draft",
-        "date": "2018-01-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180108/",
-        "status": "Working Draft",
-        "date": "2018-01-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180105/",
-        "status": "Working Draft",
-        "date": "2018-01-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20171218/",
-        "status": "Working Draft",
-        "date": "2017-12-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20171207/",
-        "status": "Working Draft",
-        "date": "2017-12-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20171130/",
-        "status": "Working Draft",
-        "date": "2017-11-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20171123/",
-        "status": "Working Draft",
-        "date": "2017-11-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20171027/",
-        "status": "Working Draft",
-        "date": "2017-10-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20171010/",
-        "status": "Working Draft",
-        "date": "2017-10-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20170606/",
-        "status": "Working Draft",
-        "date": "2017-06-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20170602/",
-        "status": "Working Draft",
-        "date": "2017-06-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20170531/",
-        "status": "Working Draft",
-        "date": "2017-05-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20170524/",
-        "status": "Working Draft",
-        "date": "2017-05-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20170510/",
-        "status": "Working Draft",
-        "date": "2017-05-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20170504/",
-        "status": "Working Draft",
-        "date": "2017-05-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20170501/",
-        "status": "Working Draft",
-        "date": "2017-05-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20170427/",
-        "status": "Working Draft",
-        "date": "2017-04-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20170419/",
-        "status": "Working Draft",
-        "date": "2017-04-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20170322/",
-        "status": "Working Draft",
-        "date": "2017-03-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20170215/",
-        "status": "Working Draft",
-        "date": "2017-02-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20170214/",
-        "status": "Working Draft",
-        "date": "2017-02-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2016/WD-html-aam-1.0-20161223/",
-        "status": "Working Draft",
-        "date": "2016-12-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2016/WD-html-aam-1.0-20161222/",
-        "status": "Working Draft",
-        "date": "2016-12-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2016/WD-html-aam-1.0-20161221/",
-        "status": "Working Draft",
-        "date": "2016-12-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2016/WD-html-aam-1.0-20161214/",
-        "status": "Working Draft",
-        "date": "2016-12-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2016/WD-html-aam-1.0-20161212/",
-        "status": "Working Draft",
-        "date": "2016-12-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2016/WD-html-aam-1.0-20161211/",
-        "status": "Working Draft",
-        "date": "2016-12-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2016/WD-html-aam-1.0-20161208/",
-        "status": "Working Draft",
-        "date": "2016-12-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2015/WD-html-aam-1.0-20151203/",
-        "status": "Working Draft",
-        "date": "2015-12-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2015/WD-html-aam-1.0-20150407/",
-        "status": "First Public Working Draft",
-        "date": "2015-04-07"
-      }
-    ],
-    "abstract": "HTML Accessibility API Mappings (HTML-AAM) defines how user agents map HTML [HTML] elements and attributes to platform accessibility application programming interfaces (APIs). It leverages and extends the Core Accessibility API Mappings 1.2 and the Accessible Name and Description Computation 1.2 for use with the HTML host language. Documenting these mappings promotes interoperable exposure of roles, states, properties, and events implemented by accessibility APIs and helps to ensure that this information appears in a manner consistent with author intent."
   },
   {
     "url": "https://www.w3.org/TR/webcodecs-pcm-codec-registration/",
@@ -66192,6 +64577,1596 @@
     "abstract": "This specification describes support for accessing virtual reality (VR) and augmented reality (AR) devices, including sensors and head-mounted displays, on the Web."
   },
   {
+    "url": "https://www.w3.org/TR/html-aam-1.0/",
+    "title": "HTML Accessibility API Mappings 1.0",
+    "status": "Draft Standard",
+    "date": "2024-04-18",
+    "histUrl": "https://www.w3.org/standards/history/html-aam-1.0/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-html-aam-1.0-20240418/",
+        "status": "Working Draft",
+        "date": "2024-04-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-html-aam-1.0-20240408/",
+        "status": "Working Draft",
+        "date": "2024-04-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-html-aam-1.0-20240226/",
+        "status": "Working Draft",
+        "date": "2024-02-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-html-aam-1.0-20240208/",
+        "status": "Working Draft",
+        "date": "2024-02-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-html-aam-1.0-20240206/",
+        "status": "Working Draft",
+        "date": "2024-02-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20231204/",
+        "status": "Working Draft",
+        "date": "2023-12-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20231102/",
+        "status": "Working Draft",
+        "date": "2023-11-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20231016/",
+        "status": "Working Draft",
+        "date": "2023-10-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20231009/",
+        "status": "Working Draft",
+        "date": "2023-10-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20231003/",
+        "status": "Working Draft",
+        "date": "2023-10-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230925/",
+        "status": "Working Draft",
+        "date": "2023-09-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230902/",
+        "status": "Working Draft",
+        "date": "2023-09-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230825/",
+        "status": "Working Draft",
+        "date": "2023-08-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230818/",
+        "status": "Working Draft",
+        "date": "2023-08-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230728/",
+        "status": "Working Draft",
+        "date": "2023-07-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230705/",
+        "status": "Working Draft",
+        "date": "2023-07-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230627/",
+        "status": "Working Draft",
+        "date": "2023-06-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230617/",
+        "status": "Working Draft",
+        "date": "2023-06-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230609/",
+        "status": "Working Draft",
+        "date": "2023-06-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230606/",
+        "status": "Working Draft",
+        "date": "2023-06-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230519/",
+        "status": "Working Draft",
+        "date": "2023-05-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230515/",
+        "status": "Working Draft",
+        "date": "2023-05-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230510/",
+        "status": "Working Draft",
+        "date": "2023-05-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230509/",
+        "status": "Working Draft",
+        "date": "2023-05-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230503/",
+        "status": "Working Draft",
+        "date": "2023-05-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230427/",
+        "status": "Working Draft",
+        "date": "2023-04-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230411/",
+        "status": "Working Draft",
+        "date": "2023-04-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230328/",
+        "status": "Working Draft",
+        "date": "2023-03-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230324/",
+        "status": "Working Draft",
+        "date": "2023-03-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230322/",
+        "status": "Working Draft",
+        "date": "2023-03-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230308/",
+        "status": "Working Draft",
+        "date": "2023-03-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230202/",
+        "status": "Working Draft",
+        "date": "2023-02-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230131/",
+        "status": "Working Draft",
+        "date": "2023-01-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20221212/",
+        "status": "Working Draft",
+        "date": "2022-12-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20221208/",
+        "status": "Working Draft",
+        "date": "2022-12-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20221128/",
+        "status": "Working Draft",
+        "date": "2022-11-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20221104/",
+        "status": "Working Draft",
+        "date": "2022-11-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20221026/",
+        "status": "Working Draft",
+        "date": "2022-10-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20221004/",
+        "status": "Working Draft",
+        "date": "2022-10-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220829/",
+        "status": "Working Draft",
+        "date": "2022-08-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220719/",
+        "status": "Working Draft",
+        "date": "2022-07-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220714/",
+        "status": "Working Draft",
+        "date": "2022-07-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220713/",
+        "status": "Working Draft",
+        "date": "2022-07-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220711/",
+        "status": "Working Draft",
+        "date": "2022-07-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220709/",
+        "status": "Working Draft",
+        "date": "2022-07-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220708/",
+        "status": "Working Draft",
+        "date": "2022-07-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220602/",
+        "status": "Working Draft",
+        "date": "2022-06-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220531/",
+        "status": "Working Draft",
+        "date": "2022-05-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220526/",
+        "status": "Working Draft",
+        "date": "2022-05-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220524/",
+        "status": "Working Draft",
+        "date": "2022-05-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220504/",
+        "status": "Working Draft",
+        "date": "2022-05-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220503/",
+        "status": "Working Draft",
+        "date": "2022-05-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220502/",
+        "status": "Working Draft",
+        "date": "2022-05-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220429/",
+        "status": "Working Draft",
+        "date": "2022-04-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220413/",
+        "status": "Working Draft",
+        "date": "2022-04-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220404/",
+        "status": "Working Draft",
+        "date": "2022-04-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220307/",
+        "status": "Working Draft",
+        "date": "2022-03-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220121/",
+        "status": "Working Draft",
+        "date": "2022-01-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220120/",
+        "status": "Working Draft",
+        "date": "2022-01-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-html-aam-1.0-20210813/",
+        "status": "Working Draft",
+        "date": "2021-08-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-html-aam-1.0-20210811/",
+        "status": "Working Draft",
+        "date": "2021-08-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-html-aam-1.0-20210810/",
+        "status": "Working Draft",
+        "date": "2021-08-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-html-aam-1.0-20200817/",
+        "status": "Working Draft",
+        "date": "2020-08-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-html-aam-1.0-20200811/",
+        "status": "Working Draft",
+        "date": "2020-08-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-html-aam-1.0-20200718/",
+        "status": "Working Draft",
+        "date": "2020-07-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-html-aam-1.0-20200629/",
+        "status": "Working Draft",
+        "date": "2020-06-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-html-aam-1.0-20200601/",
+        "status": "Working Draft",
+        "date": "2020-06-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-html-aam-1.0-20200529/",
+        "status": "Working Draft",
+        "date": "2020-05-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20191217/",
+        "status": "Working Draft",
+        "date": "2019-12-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20191213/",
+        "status": "Working Draft",
+        "date": "2019-12-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20191212/",
+        "status": "Working Draft",
+        "date": "2019-12-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20191210/",
+        "status": "Working Draft",
+        "date": "2019-12-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20191112/",
+        "status": "Working Draft",
+        "date": "2019-11-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20191111/",
+        "status": "Working Draft",
+        "date": "2019-11-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20191018/",
+        "status": "Working Draft",
+        "date": "2019-10-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20191006/",
+        "status": "Working Draft",
+        "date": "2019-10-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20191005/",
+        "status": "Working Draft",
+        "date": "2019-10-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190923/",
+        "status": "Working Draft",
+        "date": "2019-09-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190922/",
+        "status": "Working Draft",
+        "date": "2019-09-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190919/",
+        "status": "Working Draft",
+        "date": "2019-09-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190918/",
+        "status": "Working Draft",
+        "date": "2019-09-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190914/",
+        "status": "Working Draft",
+        "date": "2019-09-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190913/",
+        "status": "Working Draft",
+        "date": "2019-09-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190911/",
+        "status": "Working Draft",
+        "date": "2019-09-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190715/",
+        "status": "Working Draft",
+        "date": "2019-07-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190710/",
+        "status": "Working Draft",
+        "date": "2019-07-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190703/",
+        "status": "Working Draft",
+        "date": "2019-07-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190628/",
+        "status": "Working Draft",
+        "date": "2019-06-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190614/",
+        "status": "Working Draft",
+        "date": "2019-06-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190610/",
+        "status": "Working Draft",
+        "date": "2019-06-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190603/",
+        "status": "Working Draft",
+        "date": "2019-06-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190531/",
+        "status": "Working Draft",
+        "date": "2019-05-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190530/",
+        "status": "Working Draft",
+        "date": "2019-05-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190131/",
+        "status": "Working Draft",
+        "date": "2019-01-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190124/",
+        "status": "Working Draft",
+        "date": "2019-01-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190118/",
+        "status": "Working Draft",
+        "date": "2019-01-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20181214/",
+        "status": "Working Draft",
+        "date": "2018-12-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20181025/",
+        "status": "Working Draft",
+        "date": "2018-10-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20181022/",
+        "status": "Working Draft",
+        "date": "2018-10-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20181018/",
+        "status": "Working Draft",
+        "date": "2018-10-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20181005/",
+        "status": "Working Draft",
+        "date": "2018-10-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180926/",
+        "status": "Working Draft",
+        "date": "2018-09-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180907/",
+        "status": "Working Draft",
+        "date": "2018-09-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180802/",
+        "status": "Working Draft",
+        "date": "2018-08-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180725/",
+        "status": "Working Draft",
+        "date": "2018-07-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180530/",
+        "status": "Working Draft",
+        "date": "2018-05-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180528/",
+        "status": "Working Draft",
+        "date": "2018-05-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180519/",
+        "status": "Working Draft",
+        "date": "2018-05-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180503/",
+        "status": "Working Draft",
+        "date": "2018-05-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180307/",
+        "status": "Working Draft",
+        "date": "2018-03-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180302/",
+        "status": "Working Draft",
+        "date": "2018-03-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180301/",
+        "status": "Working Draft",
+        "date": "2018-03-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180226/",
+        "status": "Working Draft",
+        "date": "2018-02-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180131/",
+        "status": "Working Draft",
+        "date": "2018-01-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180128/",
+        "status": "Working Draft",
+        "date": "2018-01-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180109/",
+        "status": "Working Draft",
+        "date": "2018-01-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180108/",
+        "status": "Working Draft",
+        "date": "2018-01-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180105/",
+        "status": "Working Draft",
+        "date": "2018-01-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20171218/",
+        "status": "Working Draft",
+        "date": "2017-12-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20171207/",
+        "status": "Working Draft",
+        "date": "2017-12-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20171130/",
+        "status": "Working Draft",
+        "date": "2017-11-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20171123/",
+        "status": "Working Draft",
+        "date": "2017-11-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20171027/",
+        "status": "Working Draft",
+        "date": "2017-10-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20171010/",
+        "status": "Working Draft",
+        "date": "2017-10-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20170606/",
+        "status": "Working Draft",
+        "date": "2017-06-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20170602/",
+        "status": "Working Draft",
+        "date": "2017-06-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20170531/",
+        "status": "Working Draft",
+        "date": "2017-05-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20170524/",
+        "status": "Working Draft",
+        "date": "2017-05-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20170510/",
+        "status": "Working Draft",
+        "date": "2017-05-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20170504/",
+        "status": "Working Draft",
+        "date": "2017-05-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20170501/",
+        "status": "Working Draft",
+        "date": "2017-05-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20170427/",
+        "status": "Working Draft",
+        "date": "2017-04-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20170419/",
+        "status": "Working Draft",
+        "date": "2017-04-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20170322/",
+        "status": "Working Draft",
+        "date": "2017-03-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20170215/",
+        "status": "Working Draft",
+        "date": "2017-02-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20170214/",
+        "status": "Working Draft",
+        "date": "2017-02-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/WD-html-aam-1.0-20161223/",
+        "status": "Working Draft",
+        "date": "2016-12-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/WD-html-aam-1.0-20161222/",
+        "status": "Working Draft",
+        "date": "2016-12-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/WD-html-aam-1.0-20161221/",
+        "status": "Working Draft",
+        "date": "2016-12-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/WD-html-aam-1.0-20161214/",
+        "status": "Working Draft",
+        "date": "2016-12-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/WD-html-aam-1.0-20161212/",
+        "status": "Working Draft",
+        "date": "2016-12-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/WD-html-aam-1.0-20161211/",
+        "status": "Working Draft",
+        "date": "2016-12-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/WD-html-aam-1.0-20161208/",
+        "status": "Working Draft",
+        "date": "2016-12-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2015/WD-html-aam-1.0-20151203/",
+        "status": "Working Draft",
+        "date": "2015-12-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2015/WD-html-aam-1.0-20150407/",
+        "status": "First Public Working Draft",
+        "date": "2015-04-07"
+      }
+    ],
+    "abstract": "HTML Accessibility API Mappings (HTML-AAM) defines how user agents map HTML [HTML] elements and attributes to platform accessibility application programming interfaces (APIs). It leverages and extends the Core Accessibility API Mappings 1.2 and the Accessible Name and Description Computation 1.2 for use with the HTML host language. Documenting these mappings promotes interoperable exposure of roles, states, properties, and events implemented by accessibility APIs and helps to ensure that this information appears in a manner consistent with author intent."
+  },
+  {
+    "url": "https://www.w3.org/TR/rdf12-n-quads/",
+    "title": "RDF 1.2 N-Quads",
+    "status": "Draft Standard",
+    "date": "2024-04-18",
+    "histUrl": "https://www.w3.org/standards/history/rdf12-n-quads/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-rdf12-n-quads-20240418/",
+        "status": "Working Draft",
+        "date": "2024-04-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-rdf12-n-quads-20240321/",
+        "status": "Working Draft",
+        "date": "2024-03-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-n-quads-20231221/",
+        "status": "Working Draft",
+        "date": "2023-12-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-n-quads-20231019/",
+        "status": "Working Draft",
+        "date": "2023-10-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-n-quads-20231013/",
+        "status": "Working Draft",
+        "date": "2023-10-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-n-quads-20231012/",
+        "status": "Working Draft",
+        "date": "2023-10-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-n-quads-20230929/",
+        "status": "Working Draft",
+        "date": "2023-09-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-n-quads-20230928/",
+        "status": "Working Draft",
+        "date": "2023-09-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-n-quads-20230921/",
+        "status": "Working Draft",
+        "date": "2023-09-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-n-quads-20230831/",
+        "status": "Working Draft",
+        "date": "2023-08-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-n-quads-20230727/",
+        "status": "Working Draft",
+        "date": "2023-07-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-n-quads-20230615/",
+        "status": "Working Draft",
+        "date": "2023-06-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-n-quads-20230516/",
+        "status": "First Public Working Draft",
+        "date": "2023-05-16"
+      }
+    ],
+    "abstract": "N-Quads is a line-based, plain text format for encoding an RDF dataset."
+  },
+  {
+    "url": "https://www.w3.org/TR/rdf12-n-triples/",
+    "title": "RDF 1.2 N-Triples",
+    "status": "Draft Standard",
+    "date": "2024-04-18",
+    "histUrl": "https://www.w3.org/standards/history/rdf12-n-triples/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-rdf12-n-triples-20240418/",
+        "status": "Working Draft",
+        "date": "2024-04-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-rdf12-n-triples-20240321/",
+        "status": "Working Draft",
+        "date": "2024-03-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-n-triples-20231221/",
+        "status": "Working Draft",
+        "date": "2023-12-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-n-triples-20231104/",
+        "status": "Working Draft",
+        "date": "2023-11-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-n-triples-20231019/",
+        "status": "Working Draft",
+        "date": "2023-10-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-n-triples-20231013/",
+        "status": "Working Draft",
+        "date": "2023-10-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-n-triples-20230831/",
+        "status": "Working Draft",
+        "date": "2023-08-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-n-triples-20230727/",
+        "status": "Working Draft",
+        "date": "2023-07-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-n-triples-20230615/",
+        "status": "Working Draft",
+        "date": "2023-06-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-n-triples-20230516/",
+        "status": "First Public Working Draft",
+        "date": "2023-05-16"
+      }
+    ],
+    "abstract": "N-Triples is a line-based, plain text format for encoding an RDF graph."
+  },
+  {
+    "url": "https://www.w3.org/TR/rdf12-schema/",
+    "title": "RDF 1.2 Schema",
+    "status": "Draft Standard",
+    "date": "2024-04-18",
+    "histUrl": "https://www.w3.org/standards/history/rdf12-schema/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-rdf12-schema-20240418/",
+        "status": "Working Draft",
+        "date": "2024-04-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-schema-20230928/",
+        "status": "Working Draft",
+        "date": "2023-09-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-schema-20230615/",
+        "status": "Working Draft",
+        "date": "2023-06-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-schema-20230516/",
+        "status": "First Public Working Draft",
+        "date": "2023-05-16"
+      }
+    ],
+    "abstract": "RDF Schema provides a data-modelling vocabulary for RDF data. RDF Schema is an extension of the basic RDF vocabulary."
+  },
+  {
+    "url": "https://www.w3.org/TR/rdf12-semantics/",
+    "title": "RDF 1.2 Semantics",
+    "status": "Draft Standard",
+    "date": "2024-04-18",
+    "histUrl": "https://www.w3.org/standards/history/rdf12-semantics/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-rdf12-semantics-20240418/",
+        "status": "Working Draft",
+        "date": "2024-04-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-rdf12-semantics-20240125/",
+        "status": "Working Draft",
+        "date": "2024-01-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-semantics-20230922/",
+        "status": "Working Draft",
+        "date": "2023-09-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-semantics-20230615/",
+        "status": "Working Draft",
+        "date": "2023-06-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-semantics-20230606/",
+        "status": "First Public Working Draft",
+        "date": "2023-06-06"
+      }
+    ],
+    "abstract": "This document describes a precise semantics for the RDF 1.2 Concepts and Abstract Syntax [RDF12-CONCEPTS] and RDF 1.2 Schema [RDF12-SCHEMA]. It defines a number of distinct entailment regimes and corresponding patterns of entailment. It is part of a suite of documents which comprise the full specification of RDF 1.2."
+  },
+  {
+    "url": "https://www.w3.org/TR/rdf12-trig/",
+    "title": "RDF 1.2 TriG",
+    "status": "Draft Standard",
+    "date": "2024-04-18",
+    "histUrl": "https://www.w3.org/standards/history/rdf12-trig/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-rdf12-trig-20240418/",
+        "status": "Working Draft",
+        "date": "2024-04-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-trig-20231104/",
+        "status": "Working Draft",
+        "date": "2023-11-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-trig-20231103/",
+        "status": "Working Draft",
+        "date": "2023-11-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-trig-20231013/",
+        "status": "Working Draft",
+        "date": "2023-10-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-trig-20230921/",
+        "status": "Working Draft",
+        "date": "2023-09-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-trig-20230727/",
+        "status": "Working Draft",
+        "date": "2023-07-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-trig-20230628/",
+        "status": "Working Draft",
+        "date": "2023-06-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-trig-20230516/",
+        "status": "First Public Working Draft",
+        "date": "2023-05-16"
+      }
+    ],
+    "abstract": "This document defines a textual syntax for RDF called TriG that allows an RDF dataset to be completely written in a compact and natural text form, with abbreviations for common usage patterns and datatypes. TriG is an extension of the Turtle [RDF12-TURTLE] format."
+  },
+  {
+    "url": "https://www.w3.org/TR/rdf12-turtle/",
+    "title": "RDF 1.2 Turtle",
+    "status": "Draft Standard",
+    "date": "2024-04-18",
+    "histUrl": "https://www.w3.org/standards/history/rdf12-turtle/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-rdf12-turtle-20240418/",
+        "status": "Working Draft",
+        "date": "2024-04-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-rdf12-turtle-20240208/",
+        "status": "Working Draft",
+        "date": "2024-02-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-turtle-20231104/",
+        "status": "Working Draft",
+        "date": "2023-11-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-turtle-20231103/",
+        "status": "Working Draft",
+        "date": "2023-11-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-turtle-20231013/",
+        "status": "Working Draft",
+        "date": "2023-10-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-turtle-20231012/",
+        "status": "Working Draft",
+        "date": "2023-10-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-turtle-20231005/",
+        "status": "Working Draft",
+        "date": "2023-10-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-turtle-20230928/",
+        "status": "Working Draft",
+        "date": "2023-09-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-turtle-20230925/",
+        "status": "Working Draft",
+        "date": "2023-09-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-turtle-20230921/",
+        "status": "Working Draft",
+        "date": "2023-09-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-turtle-20230831/",
+        "status": "Working Draft",
+        "date": "2023-08-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-turtle-20230727/",
+        "status": "Working Draft",
+        "date": "2023-07-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-turtle-20230615/",
+        "status": "Working Draft",
+        "date": "2023-06-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-turtle-20230516/",
+        "status": "First Public Working Draft",
+        "date": "2023-05-16"
+      }
+    ],
+    "abstract": "The Resource Description Framework (RDF) is a general-purpose language for representing information in the Web."
+  },
+  {
+    "url": "https://www.w3.org/TR/rdf12-xml/",
+    "title": "RDF 1.2 XML Syntax",
+    "status": "Draft Standard",
+    "date": "2024-04-18",
+    "histUrl": "https://www.w3.org/standards/history/rdf12-xml/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-rdf12-xml-20240418/",
+        "status": "Working Draft",
+        "date": "2024-04-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-xml-20230921/",
+        "status": "Working Draft",
+        "date": "2023-09-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-xml-20230831/",
+        "status": "Working Draft",
+        "date": "2023-08-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-xml-20230810/",
+        "status": "Working Draft",
+        "date": "2023-08-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-xml-20230807/",
+        "status": "Working Draft",
+        "date": "2023-08-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-xml-20230615/",
+        "status": "Working Draft",
+        "date": "2023-06-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-xml-20230516/",
+        "status": "First Public Working Draft",
+        "date": "2023-05-16"
+      }
+    ],
+    "abstract": "This document defines an XML syntax for RDF called RDF/XML in terms of Namespaces in XML, the XML Information Set and XML Base."
+  },
+  {
+    "url": "https://www.w3.org/TR/sparql12-entailment/",
+    "title": "SPARQL 1.2 Entailment Regimes",
+    "status": "Draft Standard",
+    "date": "2024-04-18",
+    "histUrl": "https://www.w3.org/standards/history/sparql12-entailment/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-sparql12-entailment-20240418/",
+        "status": "Working Draft",
+        "date": "2024-04-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-entailment-20230615/",
+        "status": "Working Draft",
+        "date": "2023-06-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-entailment-20230606/",
+        "status": "First Public Working Draft",
+        "date": "2023-06-06"
+      }
+    ],
+    "abstract": "SPARQL is a query language and a protocol for data that is stored natively as RDF or viewed as RDF via middleware. The main mechanism for computing query results in SPARQL is subgraph matching: RDF triples in both the queried RDF data and the query pattern are interpreted as nodes and edges of directed graphs, and the resulting query graph is matched to the data graph using variables as wild cards. Various W3C standards, including RDF 1.2 Concepts and Abstract Syntax [RDF12-CONCEPTS] and OWL 2 Web Ontology Language Mapping to RDF Graphs (Second Edition) [OWL2-MAPPING-TO-RDF], provide semantic interpretations for RDF graphs that allow additional RDF statements to be inferred from explicitly given assertions. Many applications that rely on these semantics require a query language such as SPARQL, but in order to use SPARQL, basic graph pattern matching has to be defined using semantic entailment relations instead of explicitly given graph structures. There are different possible ways of defining a basic graph pattern matching extension for an entailment relation. This document specifies one such way for a range of standard semantic web entailment relations. Such extensions of the SPARQL semantics are called entailment regimes within this document. An entailment regime defines not only which entailment relation is used, but also which queries and graphs are well-formed for the regime, how the entailment is used (since there are potentially different meaningful ways to use the same entailment relation), and what kinds of errors can arise. The entailment relations used in this document are standard entailment relations in the semantic web: RDF entailment, RDFS entailment, D-entailment, OWL Direct and RDF-Based Semantics entailment, and RIF Core entailment."
+  },
+  {
+    "url": "https://www.w3.org/TR/sparql12-federated-query/",
+    "title": "SPARQL 1.2 Federated Query",
+    "status": "Draft Standard",
+    "date": "2024-04-18",
+    "histUrl": "https://www.w3.org/standards/history/sparql12-federated-query/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-sparql12-federated-query-20240418/",
+        "status": "Working Draft",
+        "date": "2024-04-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-sparql12-federated-query-20240321/",
+        "status": "Working Draft",
+        "date": "2024-03-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-federated-query-20230616/",
+        "status": "Working Draft",
+        "date": "2023-06-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-federated-query-20230516/",
+        "status": "First Public Working Draft",
+        "date": "2023-05-16"
+      }
+    ],
+    "abstract": "RDF is a directed, labeled graph data model for representing information in the Web. SPARQL can be used to express queries across diverse data sources, whether the data is stored natively as RDF or viewed as RDF via middleware. This specification defines the syntax and semantics of SPARQL 1.1 Federated Query extension for executing queries distributed over different SPARQL endpoints. The SERVICE keyword extends SPARQL 1.1 to support queries that merge data distributed across the Web."
+  },
+  {
+    "url": "https://www.w3.org/TR/sparql12-graph-store-protocol/",
+    "title": "SPARQL 1.2 Graph Store Protocol",
+    "status": "Draft Standard",
+    "date": "2024-04-18",
+    "histUrl": "https://www.w3.org/standards/history/sparql12-graph-store-protocol/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-sparql12-graph-store-protocol-20240418/",
+        "status": "Working Draft",
+        "date": "2024-04-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-graph-store-protocol-20230616/",
+        "status": "Working Draft",
+        "date": "2023-06-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-graph-store-protocol-20230516/",
+        "status": "First Public Working Draft",
+        "date": "2023-05-16"
+      }
+    ],
+    "abstract": "This document describes the use of HTTP operations for the purpose of managing a collection of RDF graphs. This interface is an alternative to SPARQL 1.2 Protocol. Most of the operations defined here can be performed using that interface, but for some clients or servers, this interface may be easier to implement or work with. This specification may serve as a non-normative suggestion for HTTP operations on RDF graphs which are managed outside of a SPARQL graph store."
+  },
+  {
+    "url": "https://www.w3.org/TR/sparql12-protocol/",
+    "title": "SPARQL 1.2 Protocol",
+    "status": "Draft Standard",
+    "date": "2024-04-18",
+    "histUrl": "https://www.w3.org/standards/history/sparql12-protocol/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-sparql12-protocol-20240418/",
+        "status": "Working Draft",
+        "date": "2024-04-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-protocol-20231214/",
+        "status": "Working Draft",
+        "date": "2023-12-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-protocol-20231102/",
+        "status": "Working Draft",
+        "date": "2023-11-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-protocol-20230616/",
+        "status": "Working Draft",
+        "date": "2023-06-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-protocol-20230516/",
+        "status": "First Public Working Draft",
+        "date": "2023-05-16"
+      }
+    ],
+    "abstract": "The SPARQL Protocol and RDF Query Language (SPARQL) is a query language and protocol for RDF. This document specifies the SPARQL Protocol; it describes a means for conveying SPARQL queries and updates to a SPARQL processing service and returning the results via HTTP to the entity that requested them. This protocol was developed by the W3C SPARQL Working Group, part of the Semantic Web Activity as described in the activity statement ."
+  },
+  {
+    "url": "https://www.w3.org/TR/sparql12-query/",
+    "title": "SPARQL 1.2 Query Language",
+    "status": "Draft Standard",
+    "date": "2024-04-18",
+    "histUrl": "https://www.w3.org/standards/history/sparql12-query/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-sparql12-query-20240418/",
+        "status": "Working Draft",
+        "date": "2024-04-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-sparql12-query-20240321/",
+        "status": "Working Draft",
+        "date": "2024-03-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-sparql12-query-20240307/",
+        "status": "Working Draft",
+        "date": "2024-03-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-sparql12-query-20240223/",
+        "status": "Working Draft",
+        "date": "2024-02-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-sparql12-query-20240222/",
+        "status": "Working Draft",
+        "date": "2024-02-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-sparql12-query-20240118/",
+        "status": "Working Draft",
+        "date": "2024-01-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-query-20231208/",
+        "status": "Working Draft",
+        "date": "2023-12-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-query-20231020/",
+        "status": "Working Draft",
+        "date": "2023-10-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-query-20231013/",
+        "status": "Working Draft",
+        "date": "2023-10-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-query-20231010/",
+        "status": "Working Draft",
+        "date": "2023-10-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-query-20231005/",
+        "status": "Working Draft",
+        "date": "2023-10-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-query-20230929/",
+        "status": "Working Draft",
+        "date": "2023-09-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-query-20230928/",
+        "status": "Working Draft",
+        "date": "2023-09-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-query-20230818/",
+        "status": "Working Draft",
+        "date": "2023-08-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-query-20230817/",
+        "status": "Working Draft",
+        "date": "2023-08-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-query-20230727/",
+        "status": "Working Draft",
+        "date": "2023-07-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-query-20230706/",
+        "status": "Working Draft",
+        "date": "2023-07-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-query-20230703/",
+        "status": "Working Draft",
+        "date": "2023-07-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-query-20230629/",
+        "status": "Working Draft",
+        "date": "2023-06-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-query-20230616/",
+        "status": "Working Draft",
+        "date": "2023-06-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-query-20230516/",
+        "status": "First Public Working Draft",
+        "date": "2023-05-16"
+      }
+    ],
+    "abstract": "RDF is a directed, labeled graph data model for representing information in the Web. This specification defines the syntax and semantics of the SPARQL query language for RDF. SPARQL can be used to express queries across diverse data sources, whether the data is stored natively as RDF or viewed as RDF via middleware. SPARQL contains capabilities for querying required and optional graph patterns along with their conjunctions and disjunctions. SPARQL also supports aggregation, subqueries, negation, creating values by expressions, extensible value testing, and constraining queries by source RDF graph. The results of SPARQL queries can be result sets or RDF graphs."
+  },
+  {
+    "url": "https://www.w3.org/TR/sparql12-results-csv-tsv/",
+    "title": "SPARQL 1.2 Query Results CSV and TSV Formats",
+    "status": "Draft Standard",
+    "date": "2024-04-18",
+    "histUrl": "https://www.w3.org/standards/history/sparql12-results-csv-tsv/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-sparql12-results-csv-tsv-20240418/",
+        "status": "Working Draft",
+        "date": "2024-04-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-results-csv-tsv-20231110/",
+        "status": "Working Draft",
+        "date": "2023-11-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-results-csv-tsv-20230629/",
+        "status": "Working Draft",
+        "date": "2023-06-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-results-csv-tsv-20230616/",
+        "status": "Working Draft",
+        "date": "2023-06-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-results-csv-tsv-20230516/",
+        "status": "First Public Working Draft",
+        "date": "2023-05-16"
+      }
+    ],
+    "abstract": "The formats CSV [RFC4180] (comma separated values) and TSV [IANA-TSV] (tab separated values) provide simple, easy to process formats for the transmission of tabular data. They are supported as input datat formats by many tools, particularly spreadsheets. This document describes their use for expressing SPARQL query results from SELECT queries."
+  },
+  {
+    "url": "https://www.w3.org/TR/sparql12-results-json/",
+    "title": "SPARQL 1.2 Query Results JSON Format",
+    "status": "Draft Standard",
+    "date": "2024-04-18",
+    "histUrl": "https://www.w3.org/standards/history/sparql12-results-json/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-sparql12-results-json-20240418/",
+        "status": "Working Draft",
+        "date": "2024-04-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-sparql12-results-json-20240208/",
+        "status": "Working Draft",
+        "date": "2024-02-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-results-json-20231130/",
+        "status": "Working Draft",
+        "date": "2023-11-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-results-json-20230728/",
+        "status": "Working Draft",
+        "date": "2023-07-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-results-json-20230727/",
+        "status": "Working Draft",
+        "date": "2023-07-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-results-json-20230616/",
+        "status": "Working Draft",
+        "date": "2023-06-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-results-json-20230516/",
+        "status": "First Public Working Draft",
+        "date": "2023-05-16"
+      }
+    ],
+    "abstract": "SPARQL is a set of standards for the query and update of RDF data, along with ways to access such data over the web. This document describes the representation of SELECT and ASK query results using JSON."
+  },
+  {
+    "url": "https://www.w3.org/TR/sparql12-results-xml/",
+    "title": "SPARQL 1.2 Query Results XML Format",
+    "status": "Draft Standard",
+    "date": "2024-04-18",
+    "histUrl": "https://www.w3.org/standards/history/sparql12-results-xml/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-sparql12-results-xml-20240418/",
+        "status": "Working Draft",
+        "date": "2024-04-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-results-xml-20231130/",
+        "status": "Working Draft",
+        "date": "2023-11-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-results-xml-20230728/",
+        "status": "Working Draft",
+        "date": "2023-07-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-results-xml-20230727/",
+        "status": "Working Draft",
+        "date": "2023-07-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-results-xml-20230616/",
+        "status": "Working Draft",
+        "date": "2023-06-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-results-xml-20230516/",
+        "status": "First Public Working Draft",
+        "date": "2023-05-16"
+      }
+    ],
+    "abstract": ""
+  },
+  {
+    "url": "https://www.w3.org/TR/sparql12-service-description/",
+    "title": "SPARQL 1.2 Service Description",
+    "status": "Draft Standard",
+    "date": "2024-04-18",
+    "histUrl": "https://www.w3.org/standards/history/sparql12-service-description/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-sparql12-service-description-20240418/",
+        "status": "Working Draft",
+        "date": "2024-04-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-service-description-20231214/",
+        "status": "Working Draft",
+        "date": "2023-12-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-service-description-20230616/",
+        "status": "Working Draft",
+        "date": "2023-06-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-service-description-20230516/",
+        "status": "First Public Working Draft",
+        "date": "2023-05-16"
+      }
+    ],
+    "abstract": "This document describes SPARQL service description, a method for discovering, and vocabulary for describing SPARQL services made available via the SPARQL 1.2 Protocol. These descriptions provide a mechanism by which a client or end user can discover information about the SPARQL service such as supported extension functions and details about the available dataset."
+  },
+  {
+    "url": "https://www.w3.org/TR/sparql12-update/",
+    "title": "SPARQL 1.2 Update",
+    "status": "Draft Standard",
+    "date": "2024-04-18",
+    "histUrl": "https://www.w3.org/standards/history/sparql12-update/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-sparql12-update-20240418/",
+        "status": "Working Draft",
+        "date": "2024-04-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-update-20230928/",
+        "status": "Working Draft",
+        "date": "2023-09-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-update-20230922/",
+        "status": "Working Draft",
+        "date": "2023-09-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-update-20230714/",
+        "status": "Working Draft",
+        "date": "2023-07-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-update-20230706/",
+        "status": "Working Draft",
+        "date": "2023-07-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-update-20230616/",
+        "status": "Working Draft",
+        "date": "2023-06-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-update-20230516/",
+        "status": "First Public Working Draft",
+        "date": "2023-05-16"
+      }
+    ],
+    "abstract": "This document describes SPARQL 1.2 Update, an update language for RDF graphs. It uses a syntax derived from the SPARQL Query Language for RDF. Update operations are performed on a collection of graphs in a Graph Store. Operations are provided to update, create, and remove RDF graphs in a Graph Store."
+  },
+  {
+    "url": "https://www.w3.org/TR/string-meta/",
+    "title": "Strings on the Web: Language and Direction Metadata",
+    "status": "Note",
+    "date": "2024-04-18",
+    "histUrl": "https://www.w3.org/standards/history/string-meta/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-string-meta-20240418/",
+        "status": "Draft Note",
+        "date": "2024-04-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-string-meta-20240321/",
+        "status": "Draft Note",
+        "date": "2024-03-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-string-meta-20240229/",
+        "status": "Draft Note",
+        "date": "2024-02-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-string-meta-20240122/",
+        "status": "Draft Note",
+        "date": "2024-01-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-string-meta-20230720/",
+        "status": "Draft Note",
+        "date": "2023-07-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-string-meta-20220804/",
+        "status": "Draft Note",
+        "date": "2022-08-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-string-meta-20220307/",
+        "status": "Draft Note",
+        "date": "2022-03-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-string-meta-20190611/",
+        "status": "Working Draft",
+        "date": "2019-06-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-string-meta-20190416/",
+        "status": "First Public Working Draft",
+        "date": "2019-04-16"
+      }
+    ],
+    "abstract": "This document describes the best practices for identifying the language and direction for strings used on the Web."
+  },
+  {
     "url": "https://www.w3.org/TR/webnn/",
     "title": "Web Neural Network API",
     "status": "Candidate Standard",
@@ -68345,5 +68320,130 @@
       }
     ],
     "abstract": "WebGPU exposes an API for performing operations, such as rendering and computation, on a Graphics Processing Unit."
+  },
+  {
+    "url": "https://www.w3.org/TR/webrtc-encoded-transform/",
+    "title": "WebRTC Encoded Transform",
+    "status": "Draft Standard",
+    "date": "2024-04-19",
+    "histUrl": "https://www.w3.org/standards/history/webrtc-encoded-transform/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-webrtc-encoded-transform-20240419/",
+        "status": "Working Draft",
+        "date": "2024-04-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-webrtc-encoded-transform-20231212/",
+        "status": "Working Draft",
+        "date": "2023-12-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-webrtc-encoded-transform-20231207/",
+        "status": "Working Draft",
+        "date": "2023-12-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-webrtc-encoded-transform-20231012/",
+        "status": "Working Draft",
+        "date": "2023-10-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-webrtc-encoded-transform-20231009/",
+        "status": "Working Draft",
+        "date": "2023-10-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-webrtc-encoded-transform-20231004/",
+        "status": "Working Draft",
+        "date": "2023-10-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-webrtc-encoded-transform-20230922/",
+        "status": "Working Draft",
+        "date": "2023-09-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-webrtc-encoded-transform-20230727/",
+        "status": "Working Draft",
+        "date": "2023-07-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-webrtc-encoded-transform-20230713/",
+        "status": "Working Draft",
+        "date": "2023-07-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-webrtc-encoded-transform-20230629/",
+        "status": "Working Draft",
+        "date": "2023-06-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-webrtc-encoded-transform-20230602/",
+        "status": "Working Draft",
+        "date": "2023-06-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-webrtc-encoded-transform-20230428/",
+        "status": "Working Draft",
+        "date": "2023-04-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-webrtc-encoded-transform-20230427/",
+        "status": "Working Draft",
+        "date": "2023-04-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-webrtc-encoded-transform-20230131/",
+        "status": "Working Draft",
+        "date": "2023-01-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webrtc-encoded-transform-20221208/",
+        "status": "Working Draft",
+        "date": "2022-12-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webrtc-encoded-transform-20221020/",
+        "status": "Working Draft",
+        "date": "2022-10-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webrtc-encoded-transform-20220929/",
+        "status": "Working Draft",
+        "date": "2022-09-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webrtc-encoded-transform-20220706/",
+        "status": "Working Draft",
+        "date": "2022-07-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webrtc-encoded-transform-20220519/",
+        "status": "Working Draft",
+        "date": "2022-05-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webrtc-encoded-transform-20220130/",
+        "status": "Working Draft",
+        "date": "2022-01-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webrtc-encoded-transform-20220127/",
+        "status": "Working Draft",
+        "date": "2022-01-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-webrtc-encoded-transform-20211207/",
+        "status": "Working Draft",
+        "date": "2021-12-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-webrtc-encoded-transform-20210921/",
+        "status": "First Public Working Draft",
+        "date": "2021-09-21"
+      }
+    ],
+    "abstract": "This API defines an API surface for manipulating the bits on MediaStreamTracks being sent via an RTCPeerConnection."
   }
 ]
