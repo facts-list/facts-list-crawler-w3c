@@ -62727,61 +62727,6 @@
     "abstract": "This registration is entered into the [webcodecs-codec-registry]. It describes, for AVC (H.264), the (1) fully qualified codec strings, (2) the codec-specific EncodedVideoChunk [[internal data]] bytes, (3) the VideoDecoderConfig.description bytes, (4) the values of EncodedVideoChunk [[type]], (5) the codec-specific extensions to VideoEncoderConfig, and (6) the codec-specific extensions to VideoEncoderEncodeOptions."
   },
   {
-    "url": "https://www.w3.org/TR/vc-bitstring-status-list/",
-    "title": "Bitstring Status List v1.0",
-    "status": "Draft Standard",
-    "date": "2024-04-19",
-    "histUrl": "https://www.w3.org/standards/history/vc-bitstring-status-list/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-bitstring-status-list-20240419/",
-        "status": "Working Draft",
-        "date": "2024-04-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-bitstring-status-list-20240416/",
-        "status": "Working Draft",
-        "date": "2024-04-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-bitstring-status-list-20240406/",
-        "status": "Working Draft",
-        "date": "2024-04-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-bitstring-status-list-20240330/",
-        "status": "Working Draft",
-        "date": "2024-03-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-bitstring-status-list-20240303/",
-        "status": "Working Draft",
-        "date": "2024-03-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-bitstring-status-list-20240204/",
-        "status": "Working Draft",
-        "date": "2024-02-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-bitstring-status-list-20240107/",
-        "status": "Working Draft",
-        "date": "2024-01-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-bitstring-status-list-20231123/",
-        "status": "Working Draft",
-        "date": "2023-11-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-status-list-20230427/",
-        "status": "First Public Working Draft",
-        "date": "2023-04-27"
-      }
-    ],
-    "abstract": "This specification describes a privacy-preserving, space-efficient, and high-performance mechanism for publishing status information such as suspension or revocation of Verifiable Credentials through use of bitstrings."
-  },
-  {
     "url": "https://www.w3.org/TR/webcodecs-flac-codec-registration/",
     "title": "FLAC WebCodecs Registration",
     "status": "Note",
@@ -68535,5 +68480,65 @@
       }
     ],
     "abstract": "This API defines an API surface for manipulating the bits on MediaStreamTracks being sent via an RTCPeerConnection."
+  },
+  {
+    "url": "https://www.w3.org/TR/vc-bitstring-status-list/",
+    "title": "Bitstring Status List v1.0",
+    "status": "Draft Standard",
+    "date": "2024-04-20",
+    "histUrl": "https://www.w3.org/standards/history/vc-bitstring-status-list/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-bitstring-status-list-20240420/",
+        "status": "Working Draft",
+        "date": "2024-04-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-bitstring-status-list-20240419/",
+        "status": "Working Draft",
+        "date": "2024-04-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-bitstring-status-list-20240416/",
+        "status": "Working Draft",
+        "date": "2024-04-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-bitstring-status-list-20240406/",
+        "status": "Working Draft",
+        "date": "2024-04-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-bitstring-status-list-20240330/",
+        "status": "Working Draft",
+        "date": "2024-03-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-bitstring-status-list-20240303/",
+        "status": "Working Draft",
+        "date": "2024-03-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-bitstring-status-list-20240204/",
+        "status": "Working Draft",
+        "date": "2024-02-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-bitstring-status-list-20240107/",
+        "status": "Working Draft",
+        "date": "2024-01-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-bitstring-status-list-20231123/",
+        "status": "Working Draft",
+        "date": "2023-11-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-status-list-20230427/",
+        "status": "First Public Working Draft",
+        "date": "2023-04-27"
+      }
+    ],
+    "abstract": "This specification describes a privacy-preserving, space-efficient, and high-performance mechanism for publishing status information such as suspension or revocation of Verifiable Credentials through use of bitstrings."
   }
 ]
