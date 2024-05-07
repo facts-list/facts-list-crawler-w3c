@@ -67577,181 +67577,6 @@
     "abstract": "This specification describes a privacy-preserving, space-efficient, and high-performance mechanism for publishing status information such as suspension or revocation of Verifiable Credentials through use of bitstrings."
   },
   {
-    "url": "https://www.w3.org/TR/orientation-event/",
-    "title": "DeviceOrientation Event Specification",
-    "status": "Draft Standard",
-    "date": "2024-05-04",
-    "histUrl": "https://www.w3.org/standards/history/orientation-event/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-orientation-event-20240504/",
-        "status": "Working Draft",
-        "date": "2024-05-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-orientation-event-20240503/",
-        "status": "Working Draft",
-        "date": "2024-05-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-orientation-event-20240502/",
-        "status": "Working Draft",
-        "date": "2024-05-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-orientation-event-20240411/",
-        "status": "Working Draft",
-        "date": "2024-04-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-orientation-event-20240311/",
-        "status": "Working Draft",
-        "date": "2024-03-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-orientation-event-20240305/",
-        "status": "Working Draft",
-        "date": "2024-03-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-orientation-event-20240214/",
-        "status": "Working Draft",
-        "date": "2024-02-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-orientation-event-20240202/",
-        "status": "Working Draft",
-        "date": "2024-02-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-orientation-event-20240131/",
-        "status": "Working Draft",
-        "date": "2024-01-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-orientation-event-20240130/",
-        "status": "Working Draft",
-        "date": "2024-01-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-orientation-event-20240129/",
-        "status": "Working Draft",
-        "date": "2024-01-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-orientation-event-20240122/",
-        "status": "Working Draft",
-        "date": "2024-01-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-orientation-event-20240105/",
-        "status": "Working Draft",
-        "date": "2024-01-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-orientation-event-20240104/",
-        "status": "Working Draft",
-        "date": "2024-01-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-orientation-event-20231211/",
-        "status": "Working Draft",
-        "date": "2023-12-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-orientation-event-20231205/",
-        "status": "Working Draft",
-        "date": "2023-12-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-orientation-event-20231204/",
-        "status": "Working Draft",
-        "date": "2023-12-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-orientation-event-20231113/",
-        "status": "Working Draft",
-        "date": "2023-11-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-orientation-event-20231110/",
-        "status": "Working Draft",
-        "date": "2023-11-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-orientation-event-20231107/",
-        "status": "Working Draft",
-        "date": "2023-11-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-orientation-event-20230421/",
-        "status": "Working Draft",
-        "date": "2023-04-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-orientation-event-20230412/",
-        "status": "Working Draft",
-        "date": "2023-04-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-orientation-event-20230403/",
-        "status": "Working Draft",
-        "date": "2023-04-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-orientation-event-20230322/",
-        "status": "Working Draft",
-        "date": "2023-03-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-orientation-event-20230130/",
-        "status": "Working Draft",
-        "date": "2023-01-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-orientation-event-20230109/",
-        "status": "Working Draft",
-        "date": "2023-01-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-orientation-event-20220919/",
-        "status": "Working Draft",
-        "date": "2022-09-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-orientation-event-20220610/",
-        "status": "Working Draft",
-        "date": "2022-06-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-orientation-event-20190416/",
-        "status": "Working Draft",
-        "date": "2019-04-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/NOTE-orientation-event-20170530/",
-        "status": "Retired",
-        "date": "2017-05-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2016/CR-orientation-event-20160818/",
-        "status": "Candidate Recommendation Snapshot",
-        "date": "2016-08-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2011/WD-orientation-event-20111201/",
-        "status": "Last Call Working Draft",
-        "date": "2011-12-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2011/WD-orientation-event-20110628/",
-        "status": "Working Draft",
-        "date": "2011-06-28"
-      }
-    ],
-    "abstract": "This specification defines several new DOM events that provide information about the physical orientation and motion of a hosting device."
-  },
-  {
     "url": "https://www.w3.org/TR/vc-data-model-2.0/",
     "title": "Verifiable Credentials Data Model v2.0",
     "status": "Candidate Standard",
@@ -68367,12 +68192,197 @@
     "abstract": "Credentials are a part of our daily lives; driver's licenses are used to assert that we are capable of operating a motor vehicle, university degrees can be used to assert our level of education, and government-issued passports enable us to travel between countries. This specification provides a mechanism to express these sorts of credentials on the Web in a way that is cryptographically secure, privacy respecting, and machine-verifiable."
   },
   {
+    "url": "https://www.w3.org/TR/orientation-event/",
+    "title": "Device Orientation and Motion",
+    "status": "Draft Standard",
+    "date": "2024-05-07",
+    "histUrl": "https://www.w3.org/standards/history/orientation-event/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-orientation-event-20240507/",
+        "status": "Working Draft",
+        "date": "2024-05-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-orientation-event-20240504/",
+        "status": "Working Draft",
+        "date": "2024-05-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-orientation-event-20240503/",
+        "status": "Working Draft",
+        "date": "2024-05-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-orientation-event-20240502/",
+        "status": "Working Draft",
+        "date": "2024-05-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-orientation-event-20240411/",
+        "status": "Working Draft",
+        "date": "2024-04-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-orientation-event-20240311/",
+        "status": "Working Draft",
+        "date": "2024-03-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-orientation-event-20240305/",
+        "status": "Working Draft",
+        "date": "2024-03-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-orientation-event-20240214/",
+        "status": "Working Draft",
+        "date": "2024-02-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-orientation-event-20240202/",
+        "status": "Working Draft",
+        "date": "2024-02-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-orientation-event-20240131/",
+        "status": "Working Draft",
+        "date": "2024-01-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-orientation-event-20240130/",
+        "status": "Working Draft",
+        "date": "2024-01-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-orientation-event-20240129/",
+        "status": "Working Draft",
+        "date": "2024-01-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-orientation-event-20240122/",
+        "status": "Working Draft",
+        "date": "2024-01-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-orientation-event-20240105/",
+        "status": "Working Draft",
+        "date": "2024-01-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-orientation-event-20240104/",
+        "status": "Working Draft",
+        "date": "2024-01-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-orientation-event-20231211/",
+        "status": "Working Draft",
+        "date": "2023-12-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-orientation-event-20231205/",
+        "status": "Working Draft",
+        "date": "2023-12-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-orientation-event-20231204/",
+        "status": "Working Draft",
+        "date": "2023-12-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-orientation-event-20231113/",
+        "status": "Working Draft",
+        "date": "2023-11-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-orientation-event-20231110/",
+        "status": "Working Draft",
+        "date": "2023-11-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-orientation-event-20231107/",
+        "status": "Working Draft",
+        "date": "2023-11-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-orientation-event-20230421/",
+        "status": "Working Draft",
+        "date": "2023-04-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-orientation-event-20230412/",
+        "status": "Working Draft",
+        "date": "2023-04-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-orientation-event-20230403/",
+        "status": "Working Draft",
+        "date": "2023-04-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-orientation-event-20230322/",
+        "status": "Working Draft",
+        "date": "2023-03-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-orientation-event-20230130/",
+        "status": "Working Draft",
+        "date": "2023-01-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-orientation-event-20230109/",
+        "status": "Working Draft",
+        "date": "2023-01-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-orientation-event-20220919/",
+        "status": "Working Draft",
+        "date": "2022-09-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-orientation-event-20220610/",
+        "status": "Working Draft",
+        "date": "2022-06-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-orientation-event-20190416/",
+        "status": "Working Draft",
+        "date": "2019-04-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/NOTE-orientation-event-20170530/",
+        "status": "Retired",
+        "date": "2017-05-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/CR-orientation-event-20160818/",
+        "status": "Candidate Recommendation Snapshot",
+        "date": "2016-08-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2011/WD-orientation-event-20111201/",
+        "status": "Last Call Working Draft",
+        "date": "2011-12-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2011/WD-orientation-event-20110628/",
+        "status": "Working Draft",
+        "date": "2011-06-28"
+      }
+    ],
+    "abstract": "This specification defines events that represent the physical orientation and motion of a hosting device. These events provide web applications with access to orientation and motion data. The specification is designed to be agnostic to the underlying sources of this data, aiming to achieve interoperability across different environments."
+  },
+  {
     "url": "https://www.w3.org/TR/webnn/",
     "title": "Web Neural Network API",
     "status": "Candidate Standard",
-    "date": "2024-05-05",
+    "date": "2024-05-07",
     "histUrl": "https://www.w3.org/standards/history/webnn/",
     "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240507/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-05-07"
+      },
       {
         "url": "https://www.w3.org/TR/2024/CRD-webnn-20240505/",
         "status": "Candidate Recommendation Draft",
