@@ -29327,31 +29327,6 @@
     "abstract": "This document introduces a new format for mobile applications, named MiniApp, which is a very popular hybrid solution relying on Web technologies but also integrates with capabilities of the native apps."
   },
   {
-    "url": "https://www.w3.org/TR/capture-handle-identity/",
-    "title": "Capture Handle - Bootstrapping Collaboration when Screensharing",
-    "status": "Draft Standard",
-    "date": "2022-07-06",
-    "histUrl": "https://www.w3.org/standards/history/capture-handle-identity/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2022/WD-capture-handle-identity-20220706/",
-        "status": "Working Draft",
-        "date": "2022-07-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-capture-handle-identity-20220519/",
-        "status": "Working Draft",
-        "date": "2022-05-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-capture-handle-identity-20220510/",
-        "status": "First Public Working Draft",
-        "date": "2022-05-10"
-      }
-    ],
-    "abstract": "This document proposes a mechanism by which an application APP can opt-in to exposing certain information with another application CAPTR, if CAPTR is screen-capturing the tab in which APP is running. It describes a mechanism for tab capture only."
-  },
-  {
     "url": "https://www.w3.org/TR/act-rules-aspects/",
     "title": "Accessibility Conformance Testing Rules: Common Input Aspects",
     "status": "Note",
@@ -42920,46 +42895,6 @@
       }
     ],
     "abstract": "This specification defines modifications to the existing CSS Fonts 4 specification along with additional features."
-  },
-  {
-    "url": "https://www.w3.org/TR/webxr-hand-input-1/",
-    "title": "WebXR Hand Input Module - Level 1",
-    "status": "Draft Standard",
-    "date": "2024-02-07",
-    "histUrl": "https://www.w3.org/standards/history/webxr-hand-input-1/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-webxr-hand-input-1-20240207/",
-        "status": "Working Draft",
-        "date": "2024-02-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webxr-hand-input-1-20220419/",
-        "status": "Working Draft",
-        "date": "2022-04-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webxr-hand-input-1-20220105/",
-        "status": "Working Draft",
-        "date": "2022-01-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webxr-hand-input-1-20211224/",
-        "status": "Working Draft",
-        "date": "2021-12-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webxr-hand-input-1-20210824/",
-        "status": "Working Draft",
-        "date": "2021-08-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-webxr-hand-input-1-20201022/",
-        "status": "First Public Working Draft",
-        "date": "2020-10-22"
-      }
-    ],
-    "abstract": "The WebXR Hand Input module expands the WebXR Device API with the functionality to track articulated hand poses."
   },
   {
     "url": "https://www.w3.org/TR/clreq-gap/",
@@ -62842,126 +62777,6 @@
     "abstract": "This document specifies an API that allows web applications to request a screen wake lock. Under the right conditions, and if allowed, the screen wake lock prevents the system from turning off a device's screen."
   },
   {
-    "url": "https://www.w3.org/TR/device-posture/",
-    "title": "Device Posture API",
-    "status": "Draft Standard",
-    "date": "2024-05-28",
-    "histUrl": "https://www.w3.org/standards/history/device-posture/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-device-posture-20240528/",
-        "status": "Working Draft",
-        "date": "2024-05-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-device-posture-20240408/",
-        "status": "Working Draft",
-        "date": "2024-04-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-device-posture-20240325/",
-        "status": "Working Draft",
-        "date": "2024-03-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-device-posture-20240322/",
-        "status": "Working Draft",
-        "date": "2024-03-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-device-posture-20240315/",
-        "status": "Working Draft",
-        "date": "2024-03-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-device-posture-20240314/",
-        "status": "Working Draft",
-        "date": "2024-03-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-device-posture-20240312/",
-        "status": "Working Draft",
-        "date": "2024-03-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-device-posture-20240311/",
-        "status": "Working Draft",
-        "date": "2024-03-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-device-posture-20240310/",
-        "status": "Working Draft",
-        "date": "2024-03-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-device-posture-20240308/",
-        "status": "Working Draft",
-        "date": "2024-03-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-device-posture-20240307/",
-        "status": "Working Draft",
-        "date": "2024-03-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-device-posture-20240306/",
-        "status": "Working Draft",
-        "date": "2024-03-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-device-posture-20240108/",
-        "status": "Working Draft",
-        "date": "2024-01-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-device-posture-20230404/",
-        "status": "Working Draft",
-        "date": "2023-04-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-device-posture-20230403/",
-        "status": "Working Draft",
-        "date": "2023-04-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-device-posture-20211104/",
-        "status": "Working Draft",
-        "date": "2021-11-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-device-posture-20210802/",
-        "status": "Working Draft",
-        "date": "2021-08-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-device-posture-20210708/",
-        "status": "Working Draft",
-        "date": "2021-07-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-device-posture-20210603/",
-        "status": "Working Draft",
-        "date": "2021-06-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-device-posture-20210513/",
-        "status": "Working Draft",
-        "date": "2021-05-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-device-posture-20210318/",
-        "status": "Working Draft",
-        "date": "2021-03-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-screen-fold-20201217/",
-        "status": "First Public Working Draft",
-        "date": "2020-12-17"
-      }
-    ],
-    "abstract": "This document specifies an API that allows web applications to request and be notified of changes of the posture of a device."
-  },
-  {
     "url": "https://www.w3.org/TR/wcag-3.0/",
     "title": "W3C Accessibility Guidelines (WCAG) 3.0",
     "status": "Draft Standard",
@@ -68872,6 +68687,161 @@
     "abstract": "WebGPU exposes an API for performing operations, such as rendering and computation, on a Graphics Processing Unit."
   },
   {
+    "url": "https://www.w3.org/TR/capture-handle-identity/",
+    "title": "Capture Handle - Bootstrapping Collaboration when Screensharing",
+    "status": "Draft Standard",
+    "date": "2024-06-05",
+    "histUrl": "https://www.w3.org/standards/history/capture-handle-identity/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-capture-handle-identity-20240605/",
+        "status": "Working Draft",
+        "date": "2024-06-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-capture-handle-identity-20220706/",
+        "status": "Working Draft",
+        "date": "2022-07-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-capture-handle-identity-20220519/",
+        "status": "Working Draft",
+        "date": "2022-05-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-capture-handle-identity-20220510/",
+        "status": "First Public Working Draft",
+        "date": "2022-05-10"
+      }
+    ],
+    "abstract": "This document proposes a mechanism by which an application APP can opt-in to exposing certain information with another application CAPTR, if CAPTR is screen-capturing the tab in which APP is running. It describes a mechanism for tab capture only."
+  },
+  {
+    "url": "https://www.w3.org/TR/device-posture/",
+    "title": "Device Posture API",
+    "status": "Draft Standard",
+    "date": "2024-06-05",
+    "histUrl": "https://www.w3.org/standards/history/device-posture/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-device-posture-20240605/",
+        "status": "Working Draft",
+        "date": "2024-06-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-device-posture-20240528/",
+        "status": "Working Draft",
+        "date": "2024-05-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-device-posture-20240408/",
+        "status": "Working Draft",
+        "date": "2024-04-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-device-posture-20240325/",
+        "status": "Working Draft",
+        "date": "2024-03-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-device-posture-20240322/",
+        "status": "Working Draft",
+        "date": "2024-03-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-device-posture-20240315/",
+        "status": "Working Draft",
+        "date": "2024-03-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-device-posture-20240314/",
+        "status": "Working Draft",
+        "date": "2024-03-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-device-posture-20240312/",
+        "status": "Working Draft",
+        "date": "2024-03-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-device-posture-20240311/",
+        "status": "Working Draft",
+        "date": "2024-03-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-device-posture-20240310/",
+        "status": "Working Draft",
+        "date": "2024-03-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-device-posture-20240308/",
+        "status": "Working Draft",
+        "date": "2024-03-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-device-posture-20240307/",
+        "status": "Working Draft",
+        "date": "2024-03-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-device-posture-20240306/",
+        "status": "Working Draft",
+        "date": "2024-03-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-device-posture-20240108/",
+        "status": "Working Draft",
+        "date": "2024-01-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-device-posture-20230404/",
+        "status": "Working Draft",
+        "date": "2023-04-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-device-posture-20230403/",
+        "status": "Working Draft",
+        "date": "2023-04-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-device-posture-20211104/",
+        "status": "Working Draft",
+        "date": "2021-11-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-device-posture-20210802/",
+        "status": "Working Draft",
+        "date": "2021-08-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-device-posture-20210708/",
+        "status": "Working Draft",
+        "date": "2021-07-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-device-posture-20210603/",
+        "status": "Working Draft",
+        "date": "2021-06-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-device-posture-20210513/",
+        "status": "Working Draft",
+        "date": "2021-05-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-device-posture-20210318/",
+        "status": "Working Draft",
+        "date": "2021-03-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-screen-fold-20201217/",
+        "status": "First Public Working Draft",
+        "date": "2020-12-17"
+      }
+    ],
+    "abstract": "This document specifies an API that allows web applications to request and be notified of changes of the posture of a device."
+  },
+  {
     "url": "https://www.w3.org/TR/vc-data-integrity/",
     "title": "Verifiable Credential Data Integrity 1.0",
     "status": "Candidate Standard",
@@ -69700,5 +69670,50 @@
       }
     ],
     "abstract": "This document describes a dedicated low-level API for neural network inference hardware acceleration."
+  },
+  {
+    "url": "https://www.w3.org/TR/webxr-hand-input-1/",
+    "title": "WebXR Hand Input Module - Level 1",
+    "status": "Draft Standard",
+    "date": "2024-06-05",
+    "histUrl": "https://www.w3.org/standards/history/webxr-hand-input-1/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-webxr-hand-input-1-20240605/",
+        "status": "Working Draft",
+        "date": "2024-06-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-webxr-hand-input-1-20240207/",
+        "status": "Working Draft",
+        "date": "2024-02-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webxr-hand-input-1-20220419/",
+        "status": "Working Draft",
+        "date": "2022-04-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webxr-hand-input-1-20220105/",
+        "status": "Working Draft",
+        "date": "2022-01-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-webxr-hand-input-1-20211224/",
+        "status": "Working Draft",
+        "date": "2021-12-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-webxr-hand-input-1-20210824/",
+        "status": "Working Draft",
+        "date": "2021-08-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-webxr-hand-input-1-20201022/",
+        "status": "First Public Working Draft",
+        "date": "2020-10-22"
+      }
+    ],
+    "abstract": "The WebXR Hand Input module expands the WebXR Device API with the functionality to track articulated hand poses."
   }
 ]
