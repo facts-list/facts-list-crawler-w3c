@@ -59502,91 +59502,6 @@
     "abstract": "This registry is intended to enhance interoperability among implementations and users of [WEBCODECS]. In particular, this registry provides the means to identify and avoid collisions among codec strings and provides a mechanism to define codec-specific members of [WEBCODECS] codec configuration dictionaries."
   },
   {
-    "url": "https://www.w3.org/TR/vc-bitstring-status-list/",
-    "title": "Bitstring Status List v1.0",
-    "status": "Candidate Standard",
-    "date": "2024-05-21",
-    "histUrl": "https://www.w3.org/standards/history/vc-bitstring-status-list/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/CR-vc-bitstring-status-list-20240521/",
-        "status": "Candidate Recommendation Snapshot",
-        "date": "2024-05-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-bitstring-status-list-20240516/",
-        "status": "Working Draft",
-        "date": "2024-05-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-bitstring-status-list-20240514/",
-        "status": "Working Draft",
-        "date": "2024-05-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-bitstring-status-list-20240511/",
-        "status": "Working Draft",
-        "date": "2024-05-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-bitstring-status-list-20240504/",
-        "status": "Working Draft",
-        "date": "2024-05-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-bitstring-status-list-20240420/",
-        "status": "Working Draft",
-        "date": "2024-04-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-bitstring-status-list-20240419/",
-        "status": "Working Draft",
-        "date": "2024-04-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-bitstring-status-list-20240416/",
-        "status": "Working Draft",
-        "date": "2024-04-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-bitstring-status-list-20240406/",
-        "status": "Working Draft",
-        "date": "2024-04-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-bitstring-status-list-20240330/",
-        "status": "Working Draft",
-        "date": "2024-03-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-bitstring-status-list-20240303/",
-        "status": "Working Draft",
-        "date": "2024-03-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-bitstring-status-list-20240204/",
-        "status": "Working Draft",
-        "date": "2024-02-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-bitstring-status-list-20240107/",
-        "status": "Working Draft",
-        "date": "2024-01-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-bitstring-status-list-20231123/",
-        "status": "Working Draft",
-        "date": "2023-11-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-status-list-20230427/",
-        "status": "First Public Working Draft",
-        "date": "2023-04-27"
-      }
-    ],
-    "abstract": "This specification describes a privacy-preserving, space-efficient, and high-performance mechanism for publishing status information such as suspension or revocation of Verifiable Credentials through use of bitstrings."
-  },
-  {
     "url": "https://www.w3.org/TR/mediaqueries-3/",
     "title": "Media Queries Level 3",
     "status": "Standard",
@@ -66770,6 +66685,96 @@
       }
     ],
     "abstract": "This document defines a web platform API that allows script to query the device for information about its screens, and place content on specific screens."
+  },
+  {
+    "url": "https://www.w3.org/TR/vc-bitstring-status-list/",
+    "title": "Bitstring Status List v1.0",
+    "status": "Candidate Standard",
+    "date": "2024-06-08",
+    "histUrl": "https://www.w3.org/standards/history/vc-bitstring-status-list/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-bitstring-status-list-20240608/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-06-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CR-vc-bitstring-status-list-20240521/",
+        "status": "Candidate Recommendation Snapshot",
+        "date": "2024-05-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-bitstring-status-list-20240516/",
+        "status": "Working Draft",
+        "date": "2024-05-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-bitstring-status-list-20240514/",
+        "status": "Working Draft",
+        "date": "2024-05-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-bitstring-status-list-20240511/",
+        "status": "Working Draft",
+        "date": "2024-05-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-bitstring-status-list-20240504/",
+        "status": "Working Draft",
+        "date": "2024-05-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-bitstring-status-list-20240420/",
+        "status": "Working Draft",
+        "date": "2024-04-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-bitstring-status-list-20240419/",
+        "status": "Working Draft",
+        "date": "2024-04-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-bitstring-status-list-20240416/",
+        "status": "Working Draft",
+        "date": "2024-04-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-bitstring-status-list-20240406/",
+        "status": "Working Draft",
+        "date": "2024-04-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-bitstring-status-list-20240330/",
+        "status": "Working Draft",
+        "date": "2024-03-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-bitstring-status-list-20240303/",
+        "status": "Working Draft",
+        "date": "2024-03-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-bitstring-status-list-20240204/",
+        "status": "Working Draft",
+        "date": "2024-02-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-bitstring-status-list-20240107/",
+        "status": "Working Draft",
+        "date": "2024-01-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-bitstring-status-list-20231123/",
+        "status": "Working Draft",
+        "date": "2023-11-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-status-list-20230427/",
+        "status": "First Public Working Draft",
+        "date": "2023-04-27"
+      }
+    ],
+    "abstract": "This specification describes a privacy-preserving, space-efficient, and high-performance mechanism for publishing status information such as suspension or revocation of Verifiable Credentials through use of bitstrings."
   },
   {
     "url": "https://www.w3.org/TR/vc-data-model-2.0/",
