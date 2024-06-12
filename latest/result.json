@@ -28717,26 +28717,6 @@
     "abstract": "This is a requirements document dating to 1996, created at the start of work on Web Fonts at W3C by the Web Fonts Working Group, which is now being published as a matter of historical record."
   },
   {
-    "url": "https://www.w3.org/TR/webxr-hit-test-1/",
-    "title": "WebXR Hit Test Module",
-    "status": "Draft Standard",
-    "date": "2022-04-19",
-    "histUrl": "https://www.w3.org/standards/history/webxr-hit-test-1/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webxr-hit-test-1-20220419/",
-        "status": "Working Draft",
-        "date": "2022-04-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webxr-hit-test-1-20210831/",
-        "status": "First Public Working Draft",
-        "date": "2021-08-31"
-      }
-    ],
-    "abstract": "Describes a method for performing hit tests against real world geometry to be used with the WebXR Device API."
-  },
-  {
     "url": "https://www.w3.org/TR/miniapp-widget-req/",
     "title": "MiniApp Widget Requirements",
     "status": "Note",
@@ -51182,376 +51162,6 @@
     "abstract": "This module defines how the View Transition API works with cross-document navigations."
   },
   {
-    "url": "https://www.w3.org/TR/did-spec-registries/",
-    "title": "DID Specification Registries",
-    "status": "Note",
-    "date": "2024-05-16",
-    "histUrl": "https://www.w3.org/standards/history/did-spec-registries/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/NOTE-did-spec-registries-20240516/",
-        "status": "Note",
-        "date": "2024-05-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/NOTE-did-spec-registries-20240515/",
-        "status": "Note",
-        "date": "2024-05-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/NOTE-did-spec-registries-20240514/",
-        "status": "Note",
-        "date": "2024-05-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/NOTE-did-spec-registries-20240429/",
-        "status": "Note",
-        "date": "2024-04-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-did-spec-registries-20230911/",
-        "status": "Note",
-        "date": "2023-09-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-did-spec-registries-20230829/",
-        "status": "Note",
-        "date": "2023-08-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-did-spec-registries-20230828/",
-        "status": "Note",
-        "date": "2023-08-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-did-spec-registries-20230514/",
-        "status": "Note",
-        "date": "2023-05-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-did-spec-registries-20230427/",
-        "status": "Note",
-        "date": "2023-04-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-did-spec-registries-20230411/",
-        "status": "Note",
-        "date": "2023-04-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-did-spec-registries-20230310/",
-        "status": "Note",
-        "date": "2023-03-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-did-spec-registries-20230309/",
-        "status": "Note",
-        "date": "2023-03-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-did-spec-registries-20230208/",
-        "status": "Note",
-        "date": "2023-02-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-did-spec-registries-20230124/",
-        "status": "Note",
-        "date": "2023-01-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-did-spec-registries-20230107/",
-        "status": "Note",
-        "date": "2023-01-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-did-spec-registries-20220809/",
-        "status": "Note",
-        "date": "2022-08-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-did-spec-registries-20220628/",
-        "status": "Note",
-        "date": "2022-06-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-did-spec-registries-20220621/",
-        "status": "Note",
-        "date": "2022-06-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20211102/",
-        "status": "Note",
-        "date": "2021-11-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20211026/",
-        "status": "Note",
-        "date": "2021-10-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210924/",
-        "status": "Note",
-        "date": "2021-09-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210921/",
-        "status": "Note",
-        "date": "2021-09-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210914/",
-        "status": "Note",
-        "date": "2021-09-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210909/",
-        "status": "Note",
-        "date": "2021-09-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210831/",
-        "status": "Note",
-        "date": "2021-08-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210824/",
-        "status": "Note",
-        "date": "2021-08-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210819/",
-        "status": "Note",
-        "date": "2021-08-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210817/",
-        "status": "Note",
-        "date": "2021-08-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210812/",
-        "status": "Note",
-        "date": "2021-08-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210806/",
-        "status": "Note",
-        "date": "2021-08-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210802/",
-        "status": "Note",
-        "date": "2021-08-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210730/",
-        "status": "Note",
-        "date": "2021-07-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210624/",
-        "status": "Note",
-        "date": "2021-06-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210616/",
-        "status": "Note",
-        "date": "2021-06-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210614/",
-        "status": "Note",
-        "date": "2021-06-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210613/",
-        "status": "Note",
-        "date": "2021-06-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210601/",
-        "status": "Note",
-        "date": "2021-06-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210515/",
-        "status": "Note",
-        "date": "2021-05-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210508/",
-        "status": "Note",
-        "date": "2021-05-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210504/",
-        "status": "Note",
-        "date": "2021-05-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210428/",
-        "status": "Note",
-        "date": "2021-04-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210427/",
-        "status": "Note",
-        "date": "2021-04-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210416/",
-        "status": "Note",
-        "date": "2021-04-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210409/",
-        "status": "Note",
-        "date": "2021-04-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210322/",
-        "status": "Note",
-        "date": "2021-03-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210311/",
-        "status": "Note",
-        "date": "2021-03-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210308/",
-        "status": "Note",
-        "date": "2021-03-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210225/",
-        "status": "Note",
-        "date": "2021-02-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210217/",
-        "status": "Note",
-        "date": "2021-02-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210216/",
-        "status": "Note",
-        "date": "2021-02-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210215/",
-        "status": "Note",
-        "date": "2021-02-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210208/",
-        "status": "Note",
-        "date": "2021-02-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210207/",
-        "status": "Note",
-        "date": "2021-02-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210205/",
-        "status": "Note",
-        "date": "2021-02-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210131/",
-        "status": "Note",
-        "date": "2021-01-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210129/",
-        "status": "Note",
-        "date": "2021-01-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210128/",
-        "status": "Note",
-        "date": "2021-01-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210125/",
-        "status": "Note",
-        "date": "2021-01-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210124/",
-        "status": "Note",
-        "date": "2021-01-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210122/",
-        "status": "Note",
-        "date": "2021-01-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210121/",
-        "status": "Note",
-        "date": "2021-01-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210114/",
-        "status": "Note",
-        "date": "2021-01-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210105/",
-        "status": "Note",
-        "date": "2021-01-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/NOTE-did-spec-registries-20201221/",
-        "status": "Note",
-        "date": "2020-12-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/NOTE-did-spec-registries-20201214/",
-        "status": "Note",
-        "date": "2020-12-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/NOTE-did-spec-registries-20201130/",
-        "status": "Note",
-        "date": "2020-11-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/NOTE-did-spec-registries-20201119/",
-        "status": "Note",
-        "date": "2020-11-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/NOTE-did-spec-registries-20201109/",
-        "status": "Note",
-        "date": "2020-11-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/NOTE-did-spec-registries-20201102/",
-        "status": "Note",
-        "date": "2020-11-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/NOTE-did-spec-registries-20201001/",
-        "status": "Note",
-        "date": "2020-10-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/NOTE-did-spec-registries-20200930/",
-        "status": "Note",
-        "date": "2020-09-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/NOTE-did-spec-registries-20200618/",
-        "status": "Note",
-        "date": "2020-06-18"
-      }
-    ],
-    "abstract": "This document serves as an official registry for all known global parameters, properties, and values used by the Decentralized Identifier ecosystem."
-  },
-  {
     "url": "https://www.w3.org/TR/pointerlock-2/",
     "title": "Pointer Lock 2.0",
     "status": "Draft Standard",
@@ -52595,21 +52205,6 @@
       }
     ],
     "abstract": "This specification defines an API that provides information about the battery status of the hosting device."
-  },
-  {
-    "url": "https://www.w3.org/TR/controller-document/",
-    "title": "Controller Documents 1.0",
-    "status": "Draft Standard",
-    "date": "2024-05-23",
-    "histUrl": "https://www.w3.org/standards/history/controller-document/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240523/",
-        "status": "First Public Working Draft",
-        "date": "2024-05-23"
-      }
-    ],
-    "abstract": "A controller document is a set of data that specifies one or more relationships between a controller and a set of data, such as a set of public cryptographic keys."
   },
   {
     "url": "https://www.w3.org/TR/FileAPI/",
@@ -68132,12 +67727,412 @@
     "abstract": "This registry is intended to enhance interoperability among implementations and users of [WEBCODECS]. In particular, this registry provides the means to identify and avoid collisions among codec strings and provides a mechanism to define codec-specific members of [WEBCODECS] codec configuration dictionaries."
   },
   {
+    "url": "https://www.w3.org/TR/controller-document/",
+    "title": "Controller Documents 1.0",
+    "status": "Draft Standard",
+    "date": "2024-06-11",
+    "histUrl": "https://www.w3.org/standards/history/controller-document/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240611/",
+        "status": "Working Draft",
+        "date": "2024-06-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240523/",
+        "status": "First Public Working Draft",
+        "date": "2024-05-23"
+      }
+    ],
+    "abstract": "A controller document is a set of data that specifies one or more relationships between a controller and a set of data, such as a set of public cryptographic keys."
+  },
+  {
+    "url": "https://www.w3.org/TR/did-spec-registries/",
+    "title": "DID Specification Registries",
+    "status": "Note",
+    "date": "2024-06-11",
+    "histUrl": "https://www.w3.org/standards/history/did-spec-registries/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/NOTE-did-spec-registries-20240611/",
+        "status": "Note",
+        "date": "2024-06-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/NOTE-did-spec-registries-20240516/",
+        "status": "Note",
+        "date": "2024-05-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/NOTE-did-spec-registries-20240515/",
+        "status": "Note",
+        "date": "2024-05-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/NOTE-did-spec-registries-20240514/",
+        "status": "Note",
+        "date": "2024-05-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/NOTE-did-spec-registries-20240429/",
+        "status": "Note",
+        "date": "2024-04-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-did-spec-registries-20230911/",
+        "status": "Note",
+        "date": "2023-09-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-did-spec-registries-20230829/",
+        "status": "Note",
+        "date": "2023-08-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-did-spec-registries-20230828/",
+        "status": "Note",
+        "date": "2023-08-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-did-spec-registries-20230514/",
+        "status": "Note",
+        "date": "2023-05-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-did-spec-registries-20230427/",
+        "status": "Note",
+        "date": "2023-04-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-did-spec-registries-20230411/",
+        "status": "Note",
+        "date": "2023-04-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-did-spec-registries-20230310/",
+        "status": "Note",
+        "date": "2023-03-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-did-spec-registries-20230309/",
+        "status": "Note",
+        "date": "2023-03-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-did-spec-registries-20230208/",
+        "status": "Note",
+        "date": "2023-02-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-did-spec-registries-20230124/",
+        "status": "Note",
+        "date": "2023-01-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-did-spec-registries-20230107/",
+        "status": "Note",
+        "date": "2023-01-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-did-spec-registries-20220809/",
+        "status": "Note",
+        "date": "2022-08-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-did-spec-registries-20220628/",
+        "status": "Note",
+        "date": "2022-06-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-did-spec-registries-20220621/",
+        "status": "Note",
+        "date": "2022-06-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20211102/",
+        "status": "Note",
+        "date": "2021-11-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20211026/",
+        "status": "Note",
+        "date": "2021-10-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210924/",
+        "status": "Note",
+        "date": "2021-09-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210921/",
+        "status": "Note",
+        "date": "2021-09-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210914/",
+        "status": "Note",
+        "date": "2021-09-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210909/",
+        "status": "Note",
+        "date": "2021-09-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210831/",
+        "status": "Note",
+        "date": "2021-08-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210824/",
+        "status": "Note",
+        "date": "2021-08-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210819/",
+        "status": "Note",
+        "date": "2021-08-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210817/",
+        "status": "Note",
+        "date": "2021-08-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210812/",
+        "status": "Note",
+        "date": "2021-08-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210806/",
+        "status": "Note",
+        "date": "2021-08-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210802/",
+        "status": "Note",
+        "date": "2021-08-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210730/",
+        "status": "Note",
+        "date": "2021-07-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210624/",
+        "status": "Note",
+        "date": "2021-06-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210616/",
+        "status": "Note",
+        "date": "2021-06-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210614/",
+        "status": "Note",
+        "date": "2021-06-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210613/",
+        "status": "Note",
+        "date": "2021-06-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210601/",
+        "status": "Note",
+        "date": "2021-06-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210515/",
+        "status": "Note",
+        "date": "2021-05-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210508/",
+        "status": "Note",
+        "date": "2021-05-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210504/",
+        "status": "Note",
+        "date": "2021-05-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210428/",
+        "status": "Note",
+        "date": "2021-04-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210427/",
+        "status": "Note",
+        "date": "2021-04-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210416/",
+        "status": "Note",
+        "date": "2021-04-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210409/",
+        "status": "Note",
+        "date": "2021-04-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210322/",
+        "status": "Note",
+        "date": "2021-03-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210311/",
+        "status": "Note",
+        "date": "2021-03-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210308/",
+        "status": "Note",
+        "date": "2021-03-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210225/",
+        "status": "Note",
+        "date": "2021-02-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210217/",
+        "status": "Note",
+        "date": "2021-02-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210216/",
+        "status": "Note",
+        "date": "2021-02-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210215/",
+        "status": "Note",
+        "date": "2021-02-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210208/",
+        "status": "Note",
+        "date": "2021-02-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210207/",
+        "status": "Note",
+        "date": "2021-02-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210205/",
+        "status": "Note",
+        "date": "2021-02-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210131/",
+        "status": "Note",
+        "date": "2021-01-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210129/",
+        "status": "Note",
+        "date": "2021-01-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210128/",
+        "status": "Note",
+        "date": "2021-01-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210125/",
+        "status": "Note",
+        "date": "2021-01-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210124/",
+        "status": "Note",
+        "date": "2021-01-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210122/",
+        "status": "Note",
+        "date": "2021-01-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210121/",
+        "status": "Note",
+        "date": "2021-01-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210114/",
+        "status": "Note",
+        "date": "2021-01-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-did-spec-registries-20210105/",
+        "status": "Note",
+        "date": "2021-01-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/NOTE-did-spec-registries-20201221/",
+        "status": "Note",
+        "date": "2020-12-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/NOTE-did-spec-registries-20201214/",
+        "status": "Note",
+        "date": "2020-12-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/NOTE-did-spec-registries-20201130/",
+        "status": "Note",
+        "date": "2020-11-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/NOTE-did-spec-registries-20201119/",
+        "status": "Note",
+        "date": "2020-11-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/NOTE-did-spec-registries-20201109/",
+        "status": "Note",
+        "date": "2020-11-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/NOTE-did-spec-registries-20201102/",
+        "status": "Note",
+        "date": "2020-11-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/NOTE-did-spec-registries-20201001/",
+        "status": "Note",
+        "date": "2020-10-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/NOTE-did-spec-registries-20200930/",
+        "status": "Note",
+        "date": "2020-09-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/NOTE-did-spec-registries-20200618/",
+        "status": "Note",
+        "date": "2020-06-18"
+      }
+    ],
+    "abstract": "This document serves as an official registry for all known global parameters, properties, and values used by the Decentralized Identifier ecosystem."
+  },
+  {
     "url": "https://www.w3.org/TR/webgpu/",
     "title": "WebGPU",
     "status": "Draft Standard",
-    "date": "2024-06-10",
+    "date": "2024-06-11",
     "histUrl": "https://www.w3.org/standards/history/webgpu/",
     "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-webgpu-20240611/",
+        "status": "Working Draft",
+        "date": "2024-06-11"
+      },
       {
         "url": "https://www.w3.org/TR/2024/WD-webgpu-20240610/",
         "status": "Working Draft",
@@ -69900,5 +69895,30 @@
       }
     ],
     "abstract": "WebGPU exposes an API for performing operations, such as rendering and computation, on a Graphics Processing Unit."
+  },
+  {
+    "url": "https://www.w3.org/TR/webxr-hit-test-1/",
+    "title": "WebXR Hit Test Module",
+    "status": "Draft Standard",
+    "date": "2024-06-11",
+    "histUrl": "https://www.w3.org/standards/history/webxr-hit-test-1/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-webxr-hit-test-1-20240611/",
+        "status": "Working Draft",
+        "date": "2024-06-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webxr-hit-test-1-20220419/",
+        "status": "Working Draft",
+        "date": "2022-04-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-webxr-hit-test-1-20210831/",
+        "status": "First Public Working Draft",
+        "date": "2021-08-31"
+      }
+    ],
+    "abstract": "Describes a method for performing hit tests against real world geometry to be used with the WebXR Device API."
   }
 ]
