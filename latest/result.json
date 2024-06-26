@@ -31377,66 +31377,6 @@
     "abstract": "The Screen Orientation specification standardizes the types and angles for a device's screen orientation, and provides a means for locking and unlocking it. The API, defined by this specification, exposes the current type and angle of the device's screen orientation, and dispatches events when it changes. This enables web applications to programmatically adapt the user experience for multiple screen orientations, working alongside CSS. The API also allows for the screen orientation to be locked under certain preconditions. This is particularly useful for applications such as computer games, where users physically rotate the device, but the screen orientation itself should not change."
   },
   {
-    "url": "https://www.w3.org/TR/css-contain-1/",
-    "title": "CSS Containment Module Level 1",
-    "status": "Standard",
-    "date": "2022-10-25",
-    "histUrl": "https://www.w3.org/standards/history/css-contain-1/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2022/REC-css-contain-1-20221025/",
-        "status": "Recommendation",
-        "date": "2022-10-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/REC-css-contain-1-20201222/",
-        "status": "Recommendation",
-        "date": "2020-12-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/REC-css-contain-1-20191121/",
-        "status": "Recommendation",
-        "date": "2019-11-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/PR-css-contain-1-20191015/",
-        "status": "Proposed Recommendation",
-        "date": "2019-10-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/CR-css-contain-1-20190430/",
-        "status": "Candidate Recommendation Snapshot",
-        "date": "2019-04-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/CR-css-contain-1-20181108/",
-        "status": "Candidate Recommendation Snapshot",
-        "date": "2018-11-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/CR-css-contain-1-20180524/",
-        "status": "Candidate Recommendation Snapshot",
-        "date": "2018-05-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/CR-css-contain-1-20170808/",
-        "status": "Candidate Recommendation Snapshot",
-        "date": "2017-08-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-css-contain-1-20170419/",
-        "status": "Working Draft",
-        "date": "2017-04-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-css-contain-1-20170221/",
-        "status": "First Public Working Draft",
-        "date": "2017-02-21"
-      }
-    ],
-    "abstract": "This CSS module describes the contain property, which indicates that the element’s subtree is independent of the rest of the page. This enables heavy optimizations by user agents when used well."
-  },
-  {
     "url": "https://www.w3.org/TR/webxr-ar-module-1/",
     "title": "WebXR Augmented Reality Module - Level 1",
     "status": "Candidate Standard",
@@ -41980,36 +41920,6 @@
       }
     ],
     "abstract": "This document contains a set of design principles to be used when designing web platform technologies. These principles have been collected during the Technical Architecture Group’s discussions in reviewing developing specifications, and build upon the Ethical Web Principles [ETHICAL-WEB]. We encourage specification designers to read this document and use it as a resource when making design decisions."
-  },
-  {
-    "url": "https://www.w3.org/TR/miniapp-addressing/",
-    "title": "MiniApp Addressing",
-    "status": "Draft Standard",
-    "date": "2024-01-31",
-    "histUrl": "https://www.w3.org/standards/history/miniapp-addressing/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-miniapp-addressing-20240131/",
-        "status": "First Public Working Draft",
-        "date": "2024-01-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-miniapp-addressing-20220627/",
-        "status": "Draft Note",
-        "date": "2022-06-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-miniapp-addressing-20220311/",
-        "status": "Draft Note",
-        "date": "2022-03-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-miniapp-addressing-20220310/",
-        "status": "Draft Note",
-        "date": "2022-03-10"
-      }
-    ],
-    "abstract": "This specification defines how MiniApps are located, which is called MiniApp Addressing, including the specifications for specific MiniApp URI syntax components based on the URI specification and the process to dereference the MiniApp URI. Implementing this specification enables the user agent to locate MiniApp resources."
   },
   {
     "url": "https://www.w3.org/TR/css-fonts-4/",
@@ -67792,12 +67702,117 @@
     "abstract": "This specification defines additions to events for text and related input to allow for the monitoring and manipulation of default browser behavior in the context of text editor applications and other applications that deal with text input and text formatting. This specification builds on the UI events spec [UI-EVENTS]."
   },
   {
+    "url": "https://www.w3.org/TR/css-contain-1/",
+    "title": "CSS Containment Module Level 1",
+    "status": "Standard",
+    "date": "2024-06-25",
+    "histUrl": "https://www.w3.org/standards/history/css-contain-1/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/REC-css-contain-1-20240625/",
+        "status": "Recommendation",
+        "date": "2024-06-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/REC-css-contain-1-20221025/",
+        "status": "Recommendation",
+        "date": "2022-10-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/REC-css-contain-1-20201222/",
+        "status": "Recommendation",
+        "date": "2020-12-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/REC-css-contain-1-20191121/",
+        "status": "Recommendation",
+        "date": "2019-11-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/PR-css-contain-1-20191015/",
+        "status": "Proposed Recommendation",
+        "date": "2019-10-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/CR-css-contain-1-20190430/",
+        "status": "Candidate Recommendation Snapshot",
+        "date": "2019-04-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/CR-css-contain-1-20181108/",
+        "status": "Candidate Recommendation Snapshot",
+        "date": "2018-11-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/CR-css-contain-1-20180524/",
+        "status": "Candidate Recommendation Snapshot",
+        "date": "2018-05-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/CR-css-contain-1-20170808/",
+        "status": "Candidate Recommendation Snapshot",
+        "date": "2017-08-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-css-contain-1-20170419/",
+        "status": "Working Draft",
+        "date": "2017-04-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-css-contain-1-20170221/",
+        "status": "First Public Working Draft",
+        "date": "2017-02-21"
+      }
+    ],
+    "abstract": "This CSS module describes the contain property, which indicates that the element’s subtree is independent of the rest of the page. This enables heavy optimizations by user agents when used well."
+  },
+  {
+    "url": "https://www.w3.org/TR/miniapp-addressing/",
+    "title": "MiniApp Addressing",
+    "status": "Note",
+    "date": "2024-06-25",
+    "histUrl": "https://www.w3.org/standards/history/miniapp-addressing/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-miniapp-addressing-20240625/",
+        "status": "Draft Note",
+        "date": "2024-06-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-miniapp-addressing-20240131/",
+        "status": "First Public Working Draft",
+        "date": "2024-01-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-miniapp-addressing-20220627/",
+        "status": "Draft Note",
+        "date": "2022-06-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-miniapp-addressing-20220311/",
+        "status": "Draft Note",
+        "date": "2022-03-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-miniapp-addressing-20220310/",
+        "status": "Draft Note",
+        "date": "2022-03-10"
+      }
+    ],
+    "abstract": "This specification defines how MiniApps are located, which is called MiniApp Addressing, including the specifications for specific MiniApp URI syntax components based on the URI specification and the process to dereference the MiniApp URI. Implementing this specification enables the user agent to locate MiniApp resources."
+  },
+  {
     "url": "https://www.w3.org/TR/WGSL/",
     "title": "WebGPU Shading Language",
     "status": "Draft Standard",
-    "date": "2024-06-24",
+    "date": "2024-06-25",
     "histUrl": "https://www.w3.org/standards/history/WGSL/",
     "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-WGSL-20240625/",
+        "status": "Working Draft",
+        "date": "2024-06-25"
+      },
       {
         "url": "https://www.w3.org/TR/2024/WD-WGSL-20240624/",
         "status": "Working Draft",
@@ -69735,9 +69750,14 @@
     "url": "https://www.w3.org/TR/webnn/",
     "title": "Web Neural Network API",
     "status": "Candidate Standard",
-    "date": "2024-06-25",
+    "date": "2024-06-26",
     "histUrl": "https://www.w3.org/standards/history/webnn/",
     "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240626/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-06-26"
+      },
       {
         "url": "https://www.w3.org/TR/2024/CRD-webnn-20240625/",
         "status": "Candidate Recommendation Draft",
