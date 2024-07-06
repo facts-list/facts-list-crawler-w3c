@@ -17659,36 +17659,6 @@
     "abstract": "RDFa Lite is a minimal subset of RDFa, the Resource Description Framework in attributes, consisting of a few attributes that may be used to express machine-readable data in Web documents like HTML, SVG, and XML. While it is not a complete solution for advanced data markup tasks, it does work for most day-to-day needs and can be learned by most Web authors in a day."
   },
   {
-    "url": "https://www.w3.org/TR/webmidi/",
-    "title": "Web MIDI API",
-    "status": "Draft Standard",
-    "date": "2015-03-17",
-    "histUrl": "https://www.w3.org/standards/history/webmidi/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2015/WD-webmidi-20150317/",
-        "status": "Working Draft",
-        "date": "2015-03-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2013/WD-webmidi-20131126/",
-        "status": "Working Draft",
-        "date": "2013-11-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2012/WD-webmidi-20121213/",
-        "status": "Working Draft",
-        "date": "2012-12-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2012/WD-webmidi-20121025/",
-        "status": "Working Draft",
-        "date": "2012-10-25"
-      }
-    ],
-    "abstract": "Some user agents have music devices, such as synthesizers, keyboard and other controllers, and drum machines connected to their host computer or device. The widely adopted Musical Instrument Digital Interface (MIDI) protocol enables electronic musical instruments, controllers and computers to communicate and synchronize with each other. MIDI does not transmit audio signals: instead, it sends event messages about musical notes, controller signals for parameters such as volume, vibrato and panning, cues and clock signals to set the tempo, and system-specific MIDI communications (e.g. to remotely store synthesizer-specific patch data). This same protocol has become a standard for non-musical uses, such as show control, lighting and special effects control."
-  },
-  {
     "url": "https://www.w3.org/TR/xhtml-rdfa/",
     "title": "XHTML+RDFa 1.1 - Third Edition",
     "status": "Standard",
@@ -42222,56 +42192,6 @@
     "abstract": "This CSS module describes the common values and units that CSS properties accept and the syntax used for describing them in CSS property definitions."
   },
   {
-    "url": "https://www.w3.org/TR/typography/",
-    "title": "Language enablement index",
-    "status": "Note",
-    "date": "2024-03-22",
-    "histUrl": "https://www.w3.org/standards/history/typography/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-typography-20240322/",
-        "status": "Draft Note",
-        "date": "2024-03-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-typography-20240321/",
-        "status": "Draft Note",
-        "date": "2024-03-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-typography-20240125/",
-        "status": "Draft Note",
-        "date": "2024-01-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-typography-20221101/",
-        "status": "Draft Note",
-        "date": "2022-11-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-typography-20200520/",
-        "status": "Working Draft",
-        "date": "2020-05-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-typography-20190520/",
-        "status": "Working Draft",
-        "date": "2019-05-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-typography-20180828/",
-        "status": "Working Draft",
-        "date": "2018-08-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-typography-20170209/",
-        "status": "First Public Working Draft",
-        "date": "2017-02-09"
-      }
-    ],
-    "abstract": "This document points browser implementers and specification developers to information about how to support typographic features of scripts or writing systems from around the world, and also points to relevant information in specifications, to tests, and to useful articles and papers. It is not exhaustive, and will be added to from time to time."
-  },
-  {
     "url": "https://www.w3.org/TR/css-anchor-position-1/",
     "title": "CSS Anchor Positioning",
     "status": "Draft Standard",
@@ -45967,36 +45887,6 @@
     "abstract": "This specification defines a concrete sensor interface to measure magnetic field in the X, Y and Z axis."
   },
   {
-    "url": "https://www.w3.org/TR/tlreq/",
-    "title": "Requirements for Tibetan Text Layout and Typography",
-    "status": "Note",
-    "date": "2024-05-15",
-    "histUrl": "https://www.w3.org/standards/history/tlreq/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-tlreq-20240515/",
-        "status": "Draft Note",
-        "date": "2024-05-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-tlreq-20240419/",
-        "status": "Draft Note",
-        "date": "2024-04-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-tlreq-20240402/",
-        "status": "Draft Note",
-        "date": "2024-04-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-tlreq-20200616/",
-        "status": "First Public Working Draft",
-        "date": "2020-06-16"
-      }
-    ],
-    "abstract": "This document describes or points to requirements for the layout and presentation of text in languages that use the Tibetan script. The target audience is developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Tibetan text. In addition to China, especially the Tibet Autonomous Region, the script is widely used in Bhutan, Nepal, India and throughout the Tibetan diaspora, and requirements for these regions are also included in the scope of the document."
-  },
-  {
     "url": "https://www.w3.org/TR/css-multicol-1/",
     "title": "CSS Multi-column Layout Module Level 1",
     "status": "Candidate Standard",
@@ -49090,21 +48980,6 @@
       }
     ],
     "abstract": "The Resource Description Framework (RDF) is a general-purpose language for representing information in the Web."
-  },
-  {
-    "url": "https://www.w3.org/TR/vc-overview/",
-    "title": "Verifiable Credentials Overview",
-    "status": "Note",
-    "date": "2024-06-13",
-    "histUrl": "https://www.w3.org/standards/history/vc-overview/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/NOTE-vc-overview-20240613/",
-        "status": "Note",
-        "date": "2024-06-13"
-      }
-    ],
-    "abstract": "Credentials are a part of our daily lives; driver's licenses are used to assert that we are capable of operating a motor vehicle, university degrees can be used to assert our level of education, and government-issued passports enable us to travel between countries. The family of W3C Recommendations for Verifiable Credentials, described in this overview document, provides a mechanism to express these sorts of credentials on the Web in a way that is cryptographically secure, privacy respecting, and machine-verifiable."
   },
   {
     "url": "https://www.w3.org/TR/compute-pressure/",
@@ -52530,306 +52405,6 @@
       }
     ],
     "abstract": "This specification defines a mechanism that allows developers to selectively enable and disable use of various browser features and APIs."
-  },
-  {
-    "url": "https://www.w3.org/TR/vc-jose-cose/",
-    "title": "Securing Verifiable Credentials using JOSE and COSE",
-    "status": "Candidate Standard",
-    "date": "2024-06-28",
-    "histUrl": "https://www.w3.org/standards/history/vc-jose-cose/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-vc-jose-cose-20240628/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-06-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-vc-jose-cose-20240626/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-06-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-vc-jose-cose-20240620/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-06-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-vc-jose-cose-20240521/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-05-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-vc-jose-cose-20240425/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-04-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CR-vc-jose-cose-20240425/",
-        "status": "Candidate Recommendation Snapshot",
-        "date": "2024-04-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240403/",
-        "status": "Working Draft",
-        "date": "2024-04-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240329/",
-        "status": "Working Draft",
-        "date": "2024-03-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240328/",
-        "status": "Working Draft",
-        "date": "2024-03-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240308/",
-        "status": "Working Draft",
-        "date": "2024-03-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240307/",
-        "status": "Working Draft",
-        "date": "2024-03-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240306/",
-        "status": "Working Draft",
-        "date": "2024-03-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240304/",
-        "status": "Working Draft",
-        "date": "2024-03-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240228/",
-        "status": "Working Draft",
-        "date": "2024-02-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240226/",
-        "status": "Working Draft",
-        "date": "2024-02-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240216/",
-        "status": "Working Draft",
-        "date": "2024-02-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240212/",
-        "status": "Working Draft",
-        "date": "2024-02-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240207/",
-        "status": "Working Draft",
-        "date": "2024-02-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240126/",
-        "status": "Working Draft",
-        "date": "2024-01-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240101/",
-        "status": "Working Draft",
-        "date": "2024-01-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231221/",
-        "status": "Working Draft",
-        "date": "2023-12-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231215/",
-        "status": "Working Draft",
-        "date": "2023-12-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231204/",
-        "status": "Working Draft",
-        "date": "2023-12-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231201/",
-        "status": "Working Draft",
-        "date": "2023-12-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231125/",
-        "status": "Working Draft",
-        "date": "2023-11-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231117/",
-        "status": "Working Draft",
-        "date": "2023-11-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231027/",
-        "status": "Working Draft",
-        "date": "2023-10-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231024/",
-        "status": "Working Draft",
-        "date": "2023-10-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231016/",
-        "status": "Working Draft",
-        "date": "2023-10-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231014/",
-        "status": "Working Draft",
-        "date": "2023-10-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231010/",
-        "status": "Working Draft",
-        "date": "2023-10-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231006/",
-        "status": "Working Draft",
-        "date": "2023-10-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230927/",
-        "status": "Working Draft",
-        "date": "2023-09-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230921/",
-        "status": "Working Draft",
-        "date": "2023-09-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230920/",
-        "status": "Working Draft",
-        "date": "2023-09-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230914/",
-        "status": "Working Draft",
-        "date": "2023-09-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230913/",
-        "status": "Working Draft",
-        "date": "2023-09-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230912/",
-        "status": "Working Draft",
-        "date": "2023-09-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230908/",
-        "status": "Working Draft",
-        "date": "2023-09-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230824/",
-        "status": "Working Draft",
-        "date": "2023-08-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230823/",
-        "status": "Working Draft",
-        "date": "2023-08-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230816/",
-        "status": "Working Draft",
-        "date": "2023-08-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230815/",
-        "status": "Working Draft",
-        "date": "2023-08-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230811/",
-        "status": "Working Draft",
-        "date": "2023-08-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230721/",
-        "status": "Working Draft",
-        "date": "2023-07-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230720/",
-        "status": "Working Draft",
-        "date": "2023-07-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230710/",
-        "status": "Working Draft",
-        "date": "2023-07-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230630/",
-        "status": "Working Draft",
-        "date": "2023-06-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230629/",
-        "status": "Working Draft",
-        "date": "2023-06-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230615/",
-        "status": "Working Draft",
-        "date": "2023-06-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230614/",
-        "status": "Working Draft",
-        "date": "2023-06-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230607/",
-        "status": "Working Draft",
-        "date": "2023-06-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230606/",
-        "status": "Working Draft",
-        "date": "2023-06-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230601/",
-        "status": "Working Draft",
-        "date": "2023-06-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230525/",
-        "status": "Working Draft",
-        "date": "2023-05-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230515/",
-        "status": "Working Draft",
-        "date": "2023-05-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230501/",
-        "status": "Working Draft",
-        "date": "2023-05-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230427/",
-        "status": "First Public Working Draft",
-        "date": "2023-04-27"
-      }
-    ],
-    "abstract": "This specification defines how to secure credentials and presentations conforming to the Verifiable Credential data model [VC-DATA-MODEL-2.0] with JSON Object Signing and Encryption (JOSE), Selective Disclosure for JWTs [SD-JWT], and CBOR Object Signing and Encryption (COSE) [RFC9052]. This enables the Verifiable Credential data model [VC-DATA-MODEL-2.0] to be implemented with standards for signing and encryption that are widely adopted."
   },
   {
     "url": "https://www.w3.org/TR/webdriver2/",
@@ -69932,6 +69507,61 @@
     "abstract": "This document describes and prioritises gaps for the support of Korean language on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, in particular HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders. This is a preliminary analysis."
   },
   {
+    "url": "https://www.w3.org/TR/typography/",
+    "title": "Language enablement index",
+    "status": "Note",
+    "date": "2024-07-05",
+    "histUrl": "https://www.w3.org/standards/history/typography/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-typography-20240705/",
+        "status": "Draft Note",
+        "date": "2024-07-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-typography-20240322/",
+        "status": "Draft Note",
+        "date": "2024-03-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-typography-20240321/",
+        "status": "Draft Note",
+        "date": "2024-03-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-typography-20240125/",
+        "status": "Draft Note",
+        "date": "2024-01-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-typography-20221101/",
+        "status": "Draft Note",
+        "date": "2022-11-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-typography-20200520/",
+        "status": "Working Draft",
+        "date": "2020-05-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-typography-20190520/",
+        "status": "Working Draft",
+        "date": "2019-05-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-typography-20180828/",
+        "status": "Working Draft",
+        "date": "2018-08-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-typography-20170209/",
+        "status": "First Public Working Draft",
+        "date": "2017-02-09"
+      }
+    ],
+    "abstract": "This document points browser implementers and specification developers to information about how to support typographic features of scripts or writing systems from around the world, and also points to relevant information in specifications, to tests, and to useful articles and papers. It is not exhaustive, and will be added to from time to time."
+  },
+  {
     "url": "https://www.w3.org/TR/laoo-gap/",
     "title": "Lao Gap Analysis",
     "status": "Note",
@@ -70100,6 +69730,311 @@
       }
     ],
     "abstract": "This document describes or points to requirements for the layout and presentation of text in languages that use the Traditional Mongolian script. The target audience is developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Mongolian text."
+  },
+  {
+    "url": "https://www.w3.org/TR/vc-jose-cose/",
+    "title": "Securing Verifiable Credentials using JOSE and COSE",
+    "status": "Candidate Standard",
+    "date": "2024-07-05",
+    "histUrl": "https://www.w3.org/standards/history/vc-jose-cose/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-jose-cose-20240705/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-07-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-jose-cose-20240628/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-06-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-jose-cose-20240626/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-06-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-jose-cose-20240620/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-06-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-jose-cose-20240521/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-05-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-jose-cose-20240425/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-04-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CR-vc-jose-cose-20240425/",
+        "status": "Candidate Recommendation Snapshot",
+        "date": "2024-04-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240403/",
+        "status": "Working Draft",
+        "date": "2024-04-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240329/",
+        "status": "Working Draft",
+        "date": "2024-03-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240328/",
+        "status": "Working Draft",
+        "date": "2024-03-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240308/",
+        "status": "Working Draft",
+        "date": "2024-03-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240307/",
+        "status": "Working Draft",
+        "date": "2024-03-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240306/",
+        "status": "Working Draft",
+        "date": "2024-03-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240304/",
+        "status": "Working Draft",
+        "date": "2024-03-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240228/",
+        "status": "Working Draft",
+        "date": "2024-02-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240226/",
+        "status": "Working Draft",
+        "date": "2024-02-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240216/",
+        "status": "Working Draft",
+        "date": "2024-02-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240212/",
+        "status": "Working Draft",
+        "date": "2024-02-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240207/",
+        "status": "Working Draft",
+        "date": "2024-02-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240126/",
+        "status": "Working Draft",
+        "date": "2024-01-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240101/",
+        "status": "Working Draft",
+        "date": "2024-01-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231221/",
+        "status": "Working Draft",
+        "date": "2023-12-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231215/",
+        "status": "Working Draft",
+        "date": "2023-12-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231204/",
+        "status": "Working Draft",
+        "date": "2023-12-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231201/",
+        "status": "Working Draft",
+        "date": "2023-12-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231125/",
+        "status": "Working Draft",
+        "date": "2023-11-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231117/",
+        "status": "Working Draft",
+        "date": "2023-11-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231027/",
+        "status": "Working Draft",
+        "date": "2023-10-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231024/",
+        "status": "Working Draft",
+        "date": "2023-10-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231016/",
+        "status": "Working Draft",
+        "date": "2023-10-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231014/",
+        "status": "Working Draft",
+        "date": "2023-10-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231010/",
+        "status": "Working Draft",
+        "date": "2023-10-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231006/",
+        "status": "Working Draft",
+        "date": "2023-10-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230927/",
+        "status": "Working Draft",
+        "date": "2023-09-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230921/",
+        "status": "Working Draft",
+        "date": "2023-09-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230920/",
+        "status": "Working Draft",
+        "date": "2023-09-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230914/",
+        "status": "Working Draft",
+        "date": "2023-09-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230913/",
+        "status": "Working Draft",
+        "date": "2023-09-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230912/",
+        "status": "Working Draft",
+        "date": "2023-09-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230908/",
+        "status": "Working Draft",
+        "date": "2023-09-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230824/",
+        "status": "Working Draft",
+        "date": "2023-08-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230823/",
+        "status": "Working Draft",
+        "date": "2023-08-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230816/",
+        "status": "Working Draft",
+        "date": "2023-08-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230815/",
+        "status": "Working Draft",
+        "date": "2023-08-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230811/",
+        "status": "Working Draft",
+        "date": "2023-08-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230721/",
+        "status": "Working Draft",
+        "date": "2023-07-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230720/",
+        "status": "Working Draft",
+        "date": "2023-07-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230710/",
+        "status": "Working Draft",
+        "date": "2023-07-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230630/",
+        "status": "Working Draft",
+        "date": "2023-06-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230629/",
+        "status": "Working Draft",
+        "date": "2023-06-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230615/",
+        "status": "Working Draft",
+        "date": "2023-06-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230614/",
+        "status": "Working Draft",
+        "date": "2023-06-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230607/",
+        "status": "Working Draft",
+        "date": "2023-06-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230606/",
+        "status": "Working Draft",
+        "date": "2023-06-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230601/",
+        "status": "Working Draft",
+        "date": "2023-06-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230525/",
+        "status": "Working Draft",
+        "date": "2023-05-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230515/",
+        "status": "Working Draft",
+        "date": "2023-05-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230501/",
+        "status": "Working Draft",
+        "date": "2023-05-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230427/",
+        "status": "First Public Working Draft",
+        "date": "2023-04-27"
+      }
+    ],
+    "abstract": "This specification defines how to secure credentials and presentations conforming to the Verifiable Credential data model [VC-DATA-MODEL-2.0] with JSON Object Signing and Encryption (JOSE), Selective Disclosure for JWTs [SD-JWT], and CBOR Object Signing and Encryption (COSE) [RFC9052]. This enables the Verifiable Credential data model [VC-DATA-MODEL-2.0] to be implemented with standards for signing and encryption that are widely adopted."
   },
   {
     "url": "https://www.w3.org/TR/taml-gap/",
@@ -70290,6 +70225,41 @@
       }
     ],
     "abstract": "This document describes and prioritises gaps for the support of Tibetan on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, in particular HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders. This is a preliminary analysis."
+  },
+  {
+    "url": "https://www.w3.org/TR/tlreq/",
+    "title": "Tibetan script Layout Requirements",
+    "status": "Note",
+    "date": "2024-07-05",
+    "histUrl": "https://www.w3.org/standards/history/tlreq/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-tlreq-20240705/",
+        "status": "Draft Note",
+        "date": "2024-07-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-tlreq-20240515/",
+        "status": "Draft Note",
+        "date": "2024-05-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-tlreq-20240419/",
+        "status": "Draft Note",
+        "date": "2024-04-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-tlreq-20240402/",
+        "status": "Draft Note",
+        "date": "2024-04-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-tlreq-20200616/",
+        "status": "First Public Working Draft",
+        "date": "2020-06-16"
+      }
+    ],
+    "abstract": "This document describes or points to requirements for the layout and presentation of text in languages that use the Tibetan script. The target audience is developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Tibetan script text."
   },
   {
     "url": "https://www.w3.org/TR/webnn/",
@@ -70935,5 +70905,60 @@
       }
     ],
     "abstract": "This document describes a dedicated low-level API for neural network inference hardware acceleration."
+  },
+  {
+    "url": "https://www.w3.org/TR/vc-overview/",
+    "title": "Verifiable Credentials Overview",
+    "status": "Note",
+    "date": "2024-07-06",
+    "histUrl": "https://www.w3.org/standards/history/vc-overview/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/NOTE-vc-overview-20240706/",
+        "status": "Note",
+        "date": "2024-07-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/NOTE-vc-overview-20240613/",
+        "status": "Note",
+        "date": "2024-06-13"
+      }
+    ],
+    "abstract": "Credentials are a part of our daily lives; driver's licenses are used to assert that we are capable of operating a motor vehicle, university degrees can be used to assert our level of education, and government-issued passports enable us to travel between countries. The family of W3C Recommendations for Verifiable Credentials, described in this overview document, provides a mechanism to express these sorts of credentials on the Web in a way that is cryptographically secure, privacy respecting, and machine-verifiable."
+  },
+  {
+    "url": "https://www.w3.org/TR/webmidi/",
+    "title": "Web MIDI API",
+    "status": "Draft Standard",
+    "date": "2024-07-06",
+    "histUrl": "https://www.w3.org/standards/history/webmidi/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-webmidi-20240706/",
+        "status": "Working Draft",
+        "date": "2024-07-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2015/WD-webmidi-20150317/",
+        "status": "Working Draft",
+        "date": "2015-03-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2013/WD-webmidi-20131126/",
+        "status": "Working Draft",
+        "date": "2013-11-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2012/WD-webmidi-20121213/",
+        "status": "Working Draft",
+        "date": "2012-12-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2012/WD-webmidi-20121025/",
+        "status": "Working Draft",
+        "date": "2012-10-25"
+      }
+    ],
+    "abstract": "Some user agents have music devices, such as synthesizers, keyboard and other controllers, and drum machines connected to their host computer or device. The widely adopted Musical Instrument Digital Interface (MIDI) protocol enables electronic musical instruments, controllers and computers to communicate and synchronize with each other. MIDI does not transmit audio signals: instead, it sends event messages about musical notes, controller signals for parameters such as volume, vibrato and panning, cues and clock signals to set the tempo, and system-specific MIDI communications (e.g. to remotely store synthesizer-specific patch data). This same protocol has become a standard for non-musical uses, such as show control, lighting and special effects control."
   }
 ]
