@@ -41872,31 +41872,6 @@
     "abstract": "This specification defines common infrastructure that other specifications can use to interact with browser permissions. These permissions represent a user's choice to allow or deny access to \"powerful features\" of the platform. For developers, the specification standardizes an API to query the permission state of a powerful feature, and be notified if a permission to use a powerful feature changes state."
   },
   {
-    "url": "https://www.w3.org/TR/ctaur/",
-    "title": "Collaboration Tools Accessibility User Requirements",
-    "status": "Note",
-    "date": "2024-03-20",
-    "histUrl": "https://www.w3.org/standards/history/ctaur/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-ctaur-20240320/",
-        "status": "Draft Note",
-        "date": "2024-03-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-ctaur-20231024/",
-        "status": "Draft Note",
-        "date": "2023-10-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-ctaur-20221108/",
-        "status": "Draft Note",
-        "date": "2022-11-08"
-      }
-    ],
-    "abstract": "This document outlines various accessibility-related user needs, requirements and scenarios for both synchronous and asynchronous web-based collaboration tools. These tools typically include one or more specific collaborative features such as content editing by multiple authors, support for comments annotations, and revision control in real-time synchronous sessions, or asynchronously. Asynchronous tools are more commonly known as revision control systems rather than collaboration tools though their functionality is otherwise very similar. The Cloud-based office application suites from Google and Microsoft are well-known examples of synchronous, real-time collaboration tools, though they also support asynchronous collaboration. Web tools built on git are well-known example of asynchronous collaboration tools."
-  },
-  {
     "url": "https://www.w3.org/TR/compositing-1/",
     "title": "Compositing and Blending Level 1",
     "status": "Candidate Standard",
@@ -49322,286 +49297,6 @@
     "abstract": "An API that allows applications to lock down powerful APIs to only accept non-spoofable, typed values in place of strings to prevent vulnerabilities caused by using these APIs with attacker-controlled inputs."
   },
   {
-    "url": "https://www.w3.org/TR/vc-data-integrity/",
-    "title": "Verifiable Credential Data Integrity 1.0",
-    "status": "Candidate Standard",
-    "date": "2024-06-20",
-    "histUrl": "https://www.w3.org/standards/history/vc-data-integrity/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20240620/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-06-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20240614/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-06-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20240609/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-06-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20240605/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-06-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20240428/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-04-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20240315/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-03-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20240303/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-03-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20240225/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-02-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20240224/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-02-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-vc-data-integrity-20231210/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-12-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CR-vc-data-integrity-20231121/",
-        "status": "Candidate Recommendation Snapshot",
-        "date": "2023-11-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20231021/",
-        "status": "Working Draft",
-        "date": "2023-10-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20231017/",
-        "status": "Working Draft",
-        "date": "2023-10-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20231013/",
-        "status": "Working Draft",
-        "date": "2023-10-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20231012/",
-        "status": "Working Draft",
-        "date": "2023-10-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230925/",
-        "status": "Working Draft",
-        "date": "2023-09-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230918/",
-        "status": "Working Draft",
-        "date": "2023-09-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230902/",
-        "status": "Working Draft",
-        "date": "2023-09-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230831/",
-        "status": "Working Draft",
-        "date": "2023-08-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230826/",
-        "status": "Working Draft",
-        "date": "2023-08-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230824/",
-        "status": "Working Draft",
-        "date": "2023-08-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230819/",
-        "status": "Working Draft",
-        "date": "2023-08-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230818/",
-        "status": "Working Draft",
-        "date": "2023-08-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230812/",
-        "status": "Working Draft",
-        "date": "2023-08-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230810/",
-        "status": "Working Draft",
-        "date": "2023-08-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230806/",
-        "status": "Working Draft",
-        "date": "2023-08-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230805/",
-        "status": "Working Draft",
-        "date": "2023-08-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230731/",
-        "status": "Working Draft",
-        "date": "2023-07-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230713/",
-        "status": "Working Draft",
-        "date": "2023-07-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230709/",
-        "status": "Working Draft",
-        "date": "2023-07-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230705/",
-        "status": "Working Draft",
-        "date": "2023-07-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230704/",
-        "status": "Working Draft",
-        "date": "2023-07-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230630/",
-        "status": "Working Draft",
-        "date": "2023-06-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230528/",
-        "status": "Working Draft",
-        "date": "2023-05-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230515/",
-        "status": "Working Draft",
-        "date": "2023-05-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230428/",
-        "status": "Working Draft",
-        "date": "2023-04-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230420/",
-        "status": "Working Draft",
-        "date": "2023-04-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230408/",
-        "status": "Working Draft",
-        "date": "2023-04-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230317/",
-        "status": "Working Draft",
-        "date": "2023-03-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230305/",
-        "status": "Working Draft",
-        "date": "2023-03-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230304/",
-        "status": "Working Draft",
-        "date": "2023-03-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230226/",
-        "status": "Working Draft",
-        "date": "2023-02-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230225/",
-        "status": "Working Draft",
-        "date": "2023-02-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230211/",
-        "status": "Working Draft",
-        "date": "2023-02-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230128/",
-        "status": "Working Draft",
-        "date": "2023-01-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-vc-data-integrity-20221110/",
-        "status": "First Public Working Draft",
-        "date": "2022-11-10"
-      }
-    ],
-    "abstract": "This specification describes mechanisms for ensuring the authenticity and integrity of Verifiable Credentials and similar types of constrained digital documents using cryptography, especially through the use of digital signatures and related mathematical proofs."
-  },
-  {
-    "url": "https://www.w3.org/TR/accname-1.2/",
-    "title": "Accessible Name and Description Computation 1.2",
-    "status": "Draft Standard",
-    "date": "2024-06-21",
-    "histUrl": "https://www.w3.org/standards/history/accname-1.2/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-accname-1.2-20240621/",
-        "status": "Working Draft",
-        "date": "2024-06-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-accname-1.2-20240607/",
-        "status": "Working Draft",
-        "date": "2024-06-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-accname-1.2-20240429/",
-        "status": "Working Draft",
-        "date": "2024-04-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-accname-1.2-20240403/",
-        "status": "Working Draft",
-        "date": "2024-04-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-accname-1.2-20240227/",
-        "status": "Working Draft",
-        "date": "2024-02-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-accname-1.2-20190711/",
-        "status": "First Public Working Draft",
-        "date": "2019-07-11"
-      }
-    ],
-    "abstract": "This document describes how user agents determine the names and descriptions of accessible objects from web content languages. This information is in turn exposed through accessibility APIs so that assistive technologies can identify these objects and present their names or descriptions to users. Documenting the algorithm through which names and descriptions are to be determined promotes interoperable exposure of these properties among different accessibility APIs and helps to ensure that this information appears in a manner consistent with author intent."
-  },
-  {
     "url": "https://www.w3.org/TR/core-aam-1.2/",
     "title": "Core Accessibility API Mappings 1.2",
     "status": "Candidate Standard",
@@ -52275,96 +51970,6 @@
       }
     ],
     "abstract": "WebDriver is a remote control interface that enables introspection and control of user agents. It provides a platform- and language-neutral wire protocol as a way for out-of-process programs to remotely instruct the behavior of web browsers."
-  },
-  {
-    "url": "https://www.w3.org/TR/alreq-gap/",
-    "title": "Arabic and Persian Gap Analysis",
-    "status": "Note",
-    "date": "2024-06-30",
-    "histUrl": "https://www.w3.org/standards/history/alreq-gap/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-alreq-gap-20240709/",
-        "status": "Draft Note",
-        "date": "2024-07-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-alreq-gap-20240630/",
-        "status": "Draft Note",
-        "date": "2024-06-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-alreq-gap-20240314/",
-        "status": "Draft Note",
-        "date": "2024-03-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-alreq-gap-20231004/",
-        "status": "Draft Note",
-        "date": "2023-10-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-alreq-gap-20230807/",
-        "status": "Draft Note",
-        "date": "2023-08-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-alreq-gap-20230614/",
-        "status": "Draft Note",
-        "date": "2023-06-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-alreq-gap-20220713/",
-        "status": "Draft Note",
-        "date": "2022-07-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/DNOTE-alreq-gap-20211125/",
-        "status": "Draft Note",
-        "date": "2021-11-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-alreq-gap-20210521/",
-        "status": "Working Draft",
-        "date": "2021-05-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-alreq-gap-20210216/",
-        "status": "Working Draft",
-        "date": "2021-02-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-alreq-gap-20210126/",
-        "status": "Working Draft",
-        "date": "2021-01-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-alreq-gap-20210122/",
-        "status": "Working Draft",
-        "date": "2021-01-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-alreq-gap-20210121/",
-        "status": "Working Draft",
-        "date": "2021-01-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-alreq-gap-20210120/",
-        "status": "Working Draft",
-        "date": "2021-01-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-alreq-gap-20210119/",
-        "status": "Working Draft",
-        "date": "2021-01-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-alreq-gap-20200616/",
-        "status": "First Public Working Draft",
-        "date": "2020-06-16"
-      }
-    ],
-    "abstract": "This document describes and prioritises gaps for the support of the Arabic script on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, such as HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders."
   },
   {
     "url": "https://www.w3.org/TR/controller-document/",
@@ -56172,116 +55777,6 @@
     "abstract": "This registration is entered into the [webcodecs-codec-registry]. It describes, for AAC, the (1) fully qualified codec strings, (2) the codec-specific EncodedAudioChunk [[internal data]] bytes, (3) the AudioDecoderConfig.description bytes, (4) the values of EncodedAudioChunk [[type]], and (5) the codec-specific extensions to AudioEncoderConfig"
   },
   {
-    "url": "https://www.w3.org/TR/adlm-gap/",
-    "title": "Adlam Gap Analysis",
-    "status": "Note",
-    "date": "2024-07-04",
-    "histUrl": "https://www.w3.org/standards/history/adlm-gap/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-adlm-gap-20240704/",
-        "status": "Draft Note",
-        "date": "2024-07-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-adlm-gap-20240701/",
-        "status": "Draft Note",
-        "date": "2024-07-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-adlm-gap-20231004/",
-        "status": "Draft Note",
-        "date": "2023-10-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-adlm-gap-20230807/",
-        "status": "Draft Note",
-        "date": "2023-08-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-adlm-gap-20230616/",
-        "status": "Draft Note",
-        "date": "2023-06-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-adlm-gap-20230614/",
-        "status": "Draft Note",
-        "date": "2023-06-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-adlm-gap-20220712/",
-        "status": "Draft Note",
-        "date": "2022-07-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-adlm-gap-20220203/",
-        "status": "Draft Note",
-        "date": "2022-02-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-adlm-gap-20220201/",
-        "status": "Draft Note",
-        "date": "2022-02-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-adlm-gap-20220128/",
-        "status": "Draft Note",
-        "date": "2022-01-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-adlm-gap-20220112/",
-        "status": "Draft Note",
-        "date": "2022-01-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/DNOTE-adlm-gap-20211202/",
-        "status": "Draft Note",
-        "date": "2021-12-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-adlm-gap-20210521/",
-        "status": "Working Draft",
-        "date": "2021-05-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-adlm-gap-20210216/",
-        "status": "Working Draft",
-        "date": "2021-02-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-adlm-gap-20210204/",
-        "status": "First Public Working Draft",
-        "date": "2021-02-04"
-      }
-    ],
-    "abstract": "This document describes and prioritises gaps for the support of Adlam on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, in particular HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders. This is a preliminary analysis."
-  },
-  {
-    "url": "https://www.w3.org/TR/adlm-lreq/",
-    "title": "Adlam Layout Requirements",
-    "status": "Note",
-    "date": "2024-07-04",
-    "histUrl": "https://www.w3.org/standards/history/adlm-lreq/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-adlm-lreq-20240704/",
-        "status": "Draft Note",
-        "date": "2024-07-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-adlm-lreq-20240701/",
-        "status": "Draft Note",
-        "date": "2024-07-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-adlm-lreq-20240530/",
-        "status": "Draft Note",
-        "date": "2024-05-30"
-      }
-    ],
-    "abstract": "This document describes or points to requirements for the layout and presentation of text in languages that use the Adlam script. The target audience is developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Adlam text."
-  },
-  {
     "url": "https://www.w3.org/TR/autoplay-detection/",
     "title": "Autoplay Policy Detection",
     "status": "Draft Standard",
@@ -57457,276 +56952,6 @@
     "abstract": "This registration is entered into the [webcodecs-codec-registry]. It describes, for AVC (H.264), the (1) fully qualified codec strings, (2) the codec-specific EncodedVideoChunk [[internal data]] bytes, (3) the VideoDecoderConfig.description bytes, (4) the values of EncodedVideoChunk [[type]], (5) the codec-specific extensions to VideoEncoderConfig, and (6) the codec-specific extensions to VideoEncoderEncodeOptions."
   },
   {
-    "url": "https://www.w3.org/TR/beng-gap/",
-    "title": "Bengali Gap Analysis",
-    "status": "Note",
-    "date": "2024-07-04",
-    "histUrl": "https://www.w3.org/standards/history/beng-gap/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-beng-gap-20240704/",
-        "status": "Draft Note",
-        "date": "2024-07-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-beng-gap-20240701/",
-        "status": "Draft Note",
-        "date": "2024-07-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-beng-gap-20231004/",
-        "status": "Draft Note",
-        "date": "2023-10-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-beng-gap-20230830/",
-        "status": "Draft Note",
-        "date": "2023-08-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-beng-gap-20230614/",
-        "status": "Draft Note",
-        "date": "2023-06-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/DNOTE-beng-gap-20211215/",
-        "status": "Draft Note",
-        "date": "2021-12-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-beng-gap-20210525/",
-        "status": "Working Draft",
-        "date": "2021-05-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-beng-gap-20210331/",
-        "status": "Working Draft",
-        "date": "2021-03-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-beng-gap-20210330/",
-        "status": "Working Draft",
-        "date": "2021-03-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-beng-gap-20210217/",
-        "status": "Working Draft",
-        "date": "2021-02-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-beng-gap-20210210/",
-        "status": "Working Draft",
-        "date": "2021-02-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-beng-gap-20210126/",
-        "status": "Working Draft",
-        "date": "2021-01-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-beng-gap-20200616/",
-        "status": "First Public Working Draft",
-        "date": "2020-06-16"
-      }
-    ],
-    "abstract": "This document describes and prioritises gaps for the support of languages using the Bengali script on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, in particular HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders. This is a preliminary analysis."
-  },
-  {
-    "url": "https://www.w3.org/TR/cher-gap/",
-    "title": "Cherokee Gap Analysis",
-    "status": "Note",
-    "date": "2024-07-04",
-    "histUrl": "https://www.w3.org/standards/history/cher-gap/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-cher-gap-20240704/",
-        "status": "Draft Note",
-        "date": "2024-07-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-cher-gap-20240701/",
-        "status": "Draft Note",
-        "date": "2024-07-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-cher-gap-20240630/",
-        "status": "Draft Note",
-        "date": "2024-06-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-cher-gap-20230615/",
-        "status": "Draft Note",
-        "date": "2023-06-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-cher-gap-20230614/",
-        "status": "Draft Note",
-        "date": "2023-06-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-cher-gap-20220119/",
-        "status": "Draft Note",
-        "date": "2022-01-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-cher-gap-20210521/",
-        "status": "Working Draft",
-        "date": "2021-05-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-cher-gap-20200715/",
-        "status": "Working Draft",
-        "date": "2020-07-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-cher-gap-20200618/",
-        "status": "Working Draft",
-        "date": "2020-06-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-cher-gap-20200616/",
-        "status": "First Public Working Draft",
-        "date": "2020-06-16"
-      }
-    ],
-    "abstract": "This document describes and prioritises gaps for the support of Cherokee on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, in particular HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders. This is a preliminary analysis."
-  },
-  {
-    "url": "https://www.w3.org/TR/clreq-gap/",
-    "title": "Chinese Layout Gap Analysis",
-    "status": "Note",
-    "date": "2024-07-04",
-    "histUrl": "https://www.w3.org/standards/history/clreq-gap/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-clreq-gap-20240704/",
-        "status": "Draft Note",
-        "date": "2024-07-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-clreq-gap-20240208/",
-        "status": "Draft Note",
-        "date": "2024-02-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-clreq-gap-20231004/",
-        "status": "Draft Note",
-        "date": "2023-10-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-clreq-gap-20230721/",
-        "status": "Draft Note",
-        "date": "2023-07-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-clreq-gap-20230720/",
-        "status": "Draft Note",
-        "date": "2023-07-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-clreq-gap-20230615/",
-        "status": "Draft Note",
-        "date": "2023-06-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-clreq-gap-20220923/",
-        "status": "Draft Note",
-        "date": "2022-09-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-clreq-gap-20211119/",
-        "status": "Working Draft",
-        "date": "2021-11-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-clreq-gap-20210614/",
-        "status": "Working Draft",
-        "date": "2021-06-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-clreq-gap-20210525/",
-        "status": "Working Draft",
-        "date": "2021-05-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-clreq-gap-20200616/",
-        "status": "First Public Working Draft",
-        "date": "2020-06-16"
-      }
-    ],
-    "abstract": "This document describes and prioritises gaps for the support of Simplified and Traditional Chinese on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, in particular HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders. This is a preliminary analysis."
-  },
-  {
-    "url": "https://www.w3.org/TR/deva-gap/",
-    "title": "Devanagari Gap Analysis",
-    "status": "Note",
-    "date": "2024-07-04",
-    "histUrl": "https://www.w3.org/standards/history/deva-gap/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-deva-gap-20240704/",
-        "status": "Draft Note",
-        "date": "2024-07-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-deva-gap-20240701/",
-        "status": "Draft Note",
-        "date": "2024-07-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-deva-gap-20231004/",
-        "status": "Draft Note",
-        "date": "2023-10-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-deva-gap-20230830/",
-        "status": "Draft Note",
-        "date": "2023-08-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-deva-gap-20230614/",
-        "status": "Draft Note",
-        "date": "2023-06-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-deva-gap-20220119/",
-        "status": "Draft Note",
-        "date": "2022-01-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-deva-gap-20210525/",
-        "status": "Working Draft",
-        "date": "2021-05-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-deva-gap-20210331/",
-        "status": "Working Draft",
-        "date": "2021-03-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-deva-gap-20210330/",
-        "status": "Working Draft",
-        "date": "2021-03-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-deva-gap-20210217/",
-        "status": "Working Draft",
-        "date": "2021-02-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-deva-gap-20210126/",
-        "status": "Working Draft",
-        "date": "2021-01-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-deva-gap-20200616/",
-        "status": "First Public Working Draft",
-        "date": "2020-06-16"
-      }
-    ],
-    "abstract": "This document describes and prioritises gaps for the support of the Devanagari script on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, in particular HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders. This is a preliminary analysis."
-  },
-  {
     "url": "https://www.w3.org/TR/epub-a11y-tech-11/",
     "title": "EPUB Accessibility Techniques 1.1",
     "status": "Note",
@@ -57995,51 +57220,6 @@
       }
     ],
     "abstract": "EPUB Accessibility Techniques defines discovery and content accessibility requirements for EPUB® Publications."
-  },
-  {
-    "url": "https://www.w3.org/TR/elreq-gap/",
-    "title": "Ethiopic Layout Gap Analysis",
-    "status": "Note",
-    "date": "2024-07-04",
-    "histUrl": "https://www.w3.org/standards/history/elreq-gap/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-elreq-gap-20240704/",
-        "status": "Draft Note",
-        "date": "2024-07-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-elreq-gap-20240701/",
-        "status": "Draft Note",
-        "date": "2024-07-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-elreq-gap-20231004/",
-        "status": "Draft Note",
-        "date": "2023-10-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-elreq-gap-20230614/",
-        "status": "Draft Note",
-        "date": "2023-06-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-elreq-gap-20210524/",
-        "status": "Working Draft",
-        "date": "2021-05-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-elreq-gap-20210126/",
-        "status": "Working Draft",
-        "date": "2021-01-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-elreq-gap-20200611/",
-        "status": "First Public Working Draft",
-        "date": "2020-06-11"
-      }
-    ],
-    "abstract": "This document describes and prioritises gaps for the support of languages using the Ethiopic script on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, in particular HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders. This is a preliminary analysis."
   },
   {
     "url": "https://www.w3.org/TR/webcodecs-flac-codec-registration/",
@@ -58597,101 +57777,6 @@
     "abstract": "This document describes and prioritises gaps for the support of Georgian on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, in particular HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders. This is a preliminary analysis."
   },
   {
-    "url": "https://www.w3.org/TR/gujr-gap/",
-    "title": "Gujarati Gap Analysis",
-    "status": "Note",
-    "date": "2024-07-04",
-    "histUrl": "https://www.w3.org/standards/history/gujr-gap/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-gujr-gap-20240704/",
-        "status": "Draft Note",
-        "date": "2024-07-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-gujr-gap-20240702/",
-        "status": "Draft Note",
-        "date": "2024-07-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-gujr-gap-20231004/",
-        "status": "Draft Note",
-        "date": "2023-10-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-gujr-gap-20230614/",
-        "status": "Draft Note",
-        "date": "2023-06-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-gujr-gap-20220119/",
-        "status": "Draft Note",
-        "date": "2022-01-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-gujr-gap-20210525/",
-        "status": "Working Draft",
-        "date": "2021-05-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-gujr-gap-20210217/",
-        "status": "Working Draft",
-        "date": "2021-02-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-gujr-gap-20210127/",
-        "status": "Working Draft",
-        "date": "2021-01-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-gujr-gap-20200616/",
-        "status": "First Public Working Draft",
-        "date": "2020-06-16"
-      }
-    ],
-    "abstract": "This document describes and prioritises gaps for the support of languages using the Gujarati script on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, in particular HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders. This is a preliminary analysis."
-  },
-  {
-    "url": "https://www.w3.org/TR/guru-gap/",
-    "title": "Gurmukhi Gap Analysis",
-    "status": "Note",
-    "date": "2024-07-04",
-    "histUrl": "https://www.w3.org/standards/history/guru-gap/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-guru-gap-20240704/",
-        "status": "Draft Note",
-        "date": "2024-07-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-guru-gap-20240702/",
-        "status": "Draft Note",
-        "date": "2024-07-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-guru-gap-20230830/",
-        "status": "Draft Note",
-        "date": "2023-08-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-guru-gap-20230614/",
-        "status": "Draft Note",
-        "date": "2023-06-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-guru-gap-20210525/",
-        "status": "Working Draft",
-        "date": "2021-05-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-guru-gap-20200616/",
-        "status": "First Public Working Draft",
-        "date": "2020-06-16"
-      }
-    ],
-    "abstract": "This document describes and prioritises gaps for the support of languages using the Gurmukhi script on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, in particular HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders. This is a preliminary analysis."
-  },
-  {
     "url": "https://www.w3.org/TR/hebr-gap/",
     "title": "Hebrew Gap Analysis",
     "status": "Note",
@@ -59095,46 +58180,6 @@
       }
     ],
     "abstract": "This registration is entered into the [webcodecs-codec-registry]. It describes, for HEVC (H.265), the (1) fully qualified codec strings, (2) the codec-specific EncodedVideoChunk [[internal data]] bytes, (3) the VideoDecoderConfig.description bytes, (4) the values of EncodedVideoChunk [[type]], and (5) the codec-specific extensions to VideoEncoderConfig"
-  },
-  {
-    "url": "https://www.w3.org/TR/cans-iu-cr-gap/",
-    "title": "Inuktitut & Cree Gap Analysis",
-    "status": "Note",
-    "date": "2024-07-04",
-    "histUrl": "https://www.w3.org/standards/history/cans-iu-cr-gap/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-cans-iu-cr-gap-20240704/",
-        "status": "Draft Note",
-        "date": "2024-07-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-cans-iu-cr-gap-20240701/",
-        "status": "Draft Note",
-        "date": "2024-07-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-cans-iu-cr-gap-20230614/",
-        "status": "Draft Note",
-        "date": "2023-06-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-cans-iu-cr-gap-20210521/",
-        "status": "Working Draft",
-        "date": "2021-05-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-cans-iu-cr-gap-20200715/",
-        "status": "Working Draft",
-        "date": "2020-07-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-cans-iu-cr-gap-20200616/",
-        "status": "First Public Working Draft",
-        "date": "2020-06-16"
-      }
-    ],
-    "abstract": "This document describes and prioritises gaps for the support of Inuktitut & Cree using Canadian Syllabics on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, in particular HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders. This is a preliminary analysis."
   },
   {
     "url": "https://www.w3.org/TR/webcodecs-pcm-codec-registration/",
@@ -60482,131 +59527,6 @@
     "abstract": "This registration is entered into the [webcodecs-codec-registry]. It describes, for MP3, the (1) fully qualified codec strings, (2) the AudioDecoderConfig.description bytes, (3) the codec-specific EncodedAudioChunk [[internal data]] bytes, and (4) the values of EncodedAudioChunk [[type]]."
   },
   {
-    "url": "https://www.w3.org/TR/nkoo-gap/",
-    "title": "N’Ko Gap Analysis",
-    "status": "Note",
-    "date": "2024-07-04",
-    "histUrl": "https://www.w3.org/standards/history/nkoo-gap/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-nkoo-gap-20240704/",
-        "status": "Draft Note",
-        "date": "2024-07-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-nkoo-gap-20240701/",
-        "status": "Draft Note",
-        "date": "2024-07-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-nkoo-gap-20231004/",
-        "status": "Draft Note",
-        "date": "2023-10-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-nkoo-gap-20230807/",
-        "status": "Draft Note",
-        "date": "2023-08-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-nkoo-gap-20230727/",
-        "status": "Draft Note",
-        "date": "2023-07-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-nkoo-gap-20230627/",
-        "status": "Draft Note",
-        "date": "2023-06-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-nkoo-gap-20230615/",
-        "status": "Draft Note",
-        "date": "2023-06-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-nkoo-gap-20230608/",
-        "status": "Draft Note",
-        "date": "2023-06-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-nkoo-gap-20220712/",
-        "status": "Draft Note",
-        "date": "2022-07-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-nkoo-gap-20220128/",
-        "status": "Draft Note",
-        "date": "2022-01-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-nkoo-gap-20220119/",
-        "status": "Draft Note",
-        "date": "2022-01-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/DNOTE-nkoo-gap-20211202/",
-        "status": "Draft Note",
-        "date": "2021-12-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/DNOTE-nkoo-gap-20211125/",
-        "status": "Draft Note",
-        "date": "2021-11-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-nkoo-gap-20210521/",
-        "status": "Working Draft",
-        "date": "2021-05-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-nkoo-gap-20210216/",
-        "status": "Working Draft",
-        "date": "2021-02-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-nkoo-gap-20210204/",
-        "status": "First Public Working Draft",
-        "date": "2021-02-04"
-      }
-    ],
-    "abstract": "This document describes and prioritises gaps for the support of N’Ko on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, in particular HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders. This is a preliminary analysis."
-  },
-  {
-    "url": "https://www.w3.org/TR/nkoo-lreq/",
-    "title": "N’Ko Layout Requirements",
-    "status": "Note",
-    "date": "2024-07-04",
-    "histUrl": "https://www.w3.org/standards/history/nkoo-lreq/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-nkoo-lreq-20240704/",
-        "status": "Draft Note",
-        "date": "2024-07-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-nkoo-lreq-20240701/",
-        "status": "Draft Note",
-        "date": "2024-07-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-nkoo-lreq-20240515/",
-        "status": "Draft Note",
-        "date": "2024-05-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-nkoo-lreq-20240510/",
-        "status": "Draft Note",
-        "date": "2024-05-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-nkoo-lreq-20230613/",
-        "status": "Draft Note",
-        "date": "2023-06-13"
-      }
-    ],
-    "abstract": "This document describes or points to requirements for the layout and presentation of text in languages that use the N’Ko script. The target audience is developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render N’Ko text."
-  },
-  {
     "url": "https://www.w3.org/TR/webcodecs-opus-codec-registration/",
     "title": "Opus WebCodecs Registration",
     "status": "Note",
@@ -61095,41 +60015,6 @@
       }
     ],
     "abstract": "This registration is entered into the [webcodecs-codec-registry]. It describes, for Opus, the (1) fully qualified codec strings, (2) the codec-specific EncodedAudioChunk [[internal data]] bytes, (3) the AudioDecoderConfig.description bytes, (4) the values of EncodedAudioChunk [[type]], and (5) the codec-specific extensions to AudioEncoderConfig"
-  },
-  {
-    "url": "https://www.w3.org/TR/osge-osa-gap/",
-    "title": "Osage Gap Analysis",
-    "status": "Note",
-    "date": "2024-07-04",
-    "histUrl": "https://www.w3.org/standards/history/osge-osa-gap/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-osge-osa-gap-20240704/",
-        "status": "Draft Note",
-        "date": "2024-07-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-osge-osa-gap-20240701/",
-        "status": "Draft Note",
-        "date": "2024-07-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-osge-osa-gap-20230614/",
-        "status": "Draft Note",
-        "date": "2023-06-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-osge-osa-gap-20210524/",
-        "status": "Working Draft",
-        "date": "2021-05-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-osge-osa-gap-20210204/",
-        "status": "First Public Working Draft",
-        "date": "2021-02-04"
-      }
-    ],
-    "abstract": "This document describes and prioritises gaps for the support of Osage using the Osage script on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, in particular HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders. This is a preliminary analysis."
   },
   {
     "url": "https://www.w3.org/TR/picture-in-picture/",
@@ -66392,221 +65277,6 @@
     "abstract": "Shading language for WebGPU."
   },
   {
-    "url": "https://www.w3.org/TR/jpan-gap/",
-    "title": "Japanese Gap Analysis",
-    "status": "Note",
-    "date": "2024-07-05",
-    "histUrl": "https://www.w3.org/standards/history/jpan-gap/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-jpan-gap-20240705/",
-        "status": "Draft Note",
-        "date": "2024-07-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-jpan-gap-20231004/",
-        "status": "Draft Note",
-        "date": "2023-10-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-jpan-gap-20230721/",
-        "status": "Draft Note",
-        "date": "2023-07-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-jpan-gap-20230720/",
-        "status": "Draft Note",
-        "date": "2023-07-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-jpan-gap-20230617/",
-        "status": "Draft Note",
-        "date": "2023-06-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-jpan-gap-20230615/",
-        "status": "Draft Note",
-        "date": "2023-06-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-jpan-gap-20220923/",
-        "status": "Draft Note",
-        "date": "2022-09-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/DNOTE-jpan-gap-20211122/",
-        "status": "Draft Note",
-        "date": "2021-11-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-jpan-gap-20211117/",
-        "status": "Working Draft",
-        "date": "2021-11-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-jpan-gap-20210525/",
-        "status": "Working Draft",
-        "date": "2021-05-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-jpan-gap-20210128/",
-        "status": "Working Draft",
-        "date": "2021-01-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-jpan-gap-20200616/",
-        "status": "First Public Working Draft",
-        "date": "2020-06-16"
-      }
-    ],
-    "abstract": "This document describes and prioritises gaps for the support of Japanese on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, in particular HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders. This is a preliminary analysis."
-  },
-  {
-    "url": "https://www.w3.org/TR/java-gap/",
-    "title": "Javanese Script Gap Analysis",
-    "status": "Note",
-    "date": "2024-07-05",
-    "histUrl": "https://www.w3.org/standards/history/java-gap/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-java-gap-20240705/",
-        "status": "Draft Note",
-        "date": "2024-07-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-java-gap-20230807/",
-        "status": "Draft Note",
-        "date": "2023-08-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-java-gap-20230615/",
-        "status": "Draft Note",
-        "date": "2023-06-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-java-gap-20220119/",
-        "status": "Draft Note",
-        "date": "2022-01-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-java-gap-20210525/",
-        "status": "Working Draft",
-        "date": "2021-05-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-java-gap-20200616/",
-        "status": "First Public Working Draft",
-        "date": "2020-06-16"
-      }
-    ],
-    "abstract": "This document describes and prioritises gaps for the support of Javanese written with the Javanese script on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, in particular HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders. This is a preliminary analysis."
-  },
-  {
-    "url": "https://www.w3.org/TR/khmr-gap/",
-    "title": "Khmer Gap Analysis",
-    "status": "Note",
-    "date": "2024-07-05",
-    "histUrl": "https://www.w3.org/standards/history/khmr-gap/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-khmr-gap-20240705/",
-        "status": "Draft Note",
-        "date": "2024-07-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-khmr-gap-20240630/",
-        "status": "Draft Note",
-        "date": "2024-06-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-khmr-gap-20240314/",
-        "status": "Draft Note",
-        "date": "2024-03-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-khmr-gap-20230615/",
-        "status": "Draft Note",
-        "date": "2023-06-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-khmr-gap-20220119/",
-        "status": "Draft Note",
-        "date": "2022-01-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-khmr-gap-20210525/",
-        "status": "Working Draft",
-        "date": "2021-05-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-khmr-gap-20200616/",
-        "status": "First Public Working Draft",
-        "date": "2020-06-16"
-      }
-    ],
-    "abstract": "This document describes and prioritises gaps for the support of Khmer on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, in particular HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders. This is a preliminary analysis."
-  },
-  {
-    "url": "https://www.w3.org/TR/khmr-lreq/",
-    "title": "Khmer Layout Requirements (Draft)",
-    "status": "Note",
-    "date": "2024-07-05",
-    "histUrl": "https://www.w3.org/standards/history/khmr-lreq/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-khmr-lreq-20240705/",
-        "status": "Draft Note",
-        "date": "2024-07-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-khmr-lreq-20240630/",
-        "status": "Draft Note",
-        "date": "2024-06-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-khmr-lreq-20240515/",
-        "status": "Draft Note",
-        "date": "2024-05-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-khmr-lreq-20240419/",
-        "status": "Draft Note",
-        "date": "2024-04-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-khmr-lreq-20240411/",
-        "status": "Draft Note",
-        "date": "2024-04-11"
-      }
-    ],
-    "abstract": "This document describes or points to requirements for the layout and presentation of text in languages that use the Khmer script. The target audience is developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Khmer text."
-  },
-  {
-    "url": "https://www.w3.org/TR/kore-gap/",
-    "title": "Korean Layout Gap Analysis",
-    "status": "Note",
-    "date": "2024-07-05",
-    "histUrl": "https://www.w3.org/standards/history/kore-gap/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-kore-gap-20240705/",
-        "status": "Draft Note",
-        "date": "2024-07-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-kore-gap-20230720/",
-        "status": "Draft Note",
-        "date": "2023-07-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-kore-gap-20230711/",
-        "status": "Draft Note",
-        "date": "2023-07-11"
-      }
-    ],
-    "abstract": "This document describes and prioritises gaps for the support of Korean language on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, in particular HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders. This is a preliminary analysis."
-  },
-  {
     "url": "https://www.w3.org/TR/typography/",
     "title": "Language enablement index",
     "status": "Note",
@@ -66660,136 +65330,6 @@
       }
     ],
     "abstract": "This document points browser implementers and specification developers to information about how to support typographic features of scripts or writing systems from around the world, and also points to relevant information in specifications, to tests, and to useful articles and papers. It is not exhaustive, and will be added to from time to time."
-  },
-  {
-    "url": "https://www.w3.org/TR/laoo-gap/",
-    "title": "Lao Gap Analysis",
-    "status": "Note",
-    "date": "2024-07-05",
-    "histUrl": "https://www.w3.org/standards/history/laoo-gap/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-laoo-gap-20240705/",
-        "status": "Draft Note",
-        "date": "2024-07-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-laoo-gap-20240630/",
-        "status": "Draft Note",
-        "date": "2024-06-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-laoo-gap-20230615/",
-        "status": "Draft Note",
-        "date": "2023-06-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-laoo-gap-20220119/",
-        "status": "Draft Note",
-        "date": "2022-01-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-laoo-gap-20210525/",
-        "status": "Working Draft",
-        "date": "2021-05-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-laoo-gap-20210127/",
-        "status": "Working Draft",
-        "date": "2021-01-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-laoo-gap-20200616/",
-        "status": "First Public Working Draft",
-        "date": "2020-06-16"
-      }
-    ],
-    "abstract": "This document describes and prioritises gaps for the support of Lao on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, in particular HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders. This is a preliminary analysis."
-  },
-  {
-    "url": "https://www.w3.org/TR/laoo-lreq/",
-    "title": "Lao Layout Requirements",
-    "status": "Note",
-    "date": "2024-07-05",
-    "histUrl": "https://www.w3.org/standards/history/laoo-lreq/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-laoo-lreq-20240705/",
-        "status": "Draft Note",
-        "date": "2024-07-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-laoo-lreq-20240630/",
-        "status": "Draft Note",
-        "date": "2024-06-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-laoo-lreq-20240515/",
-        "status": "Draft Note",
-        "date": "2024-05-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-laoo-lreq-20240430/",
-        "status": "Draft Note",
-        "date": "2024-04-30"
-      }
-    ],
-    "abstract": "This document describes or points to requirements for the layout and presentation of text in languages that use the Lao script. The target audience is developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Lao text."
-  },
-  {
-    "url": "https://www.w3.org/TR/mong-gap/",
-    "title": "Mongolian Gap Analysis",
-    "status": "Note",
-    "date": "2024-07-05",
-    "histUrl": "https://www.w3.org/standards/history/mong-gap/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-mong-gap-20240705/",
-        "status": "Draft Note",
-        "date": "2024-07-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-mong-gap-20240630/",
-        "status": "Draft Note",
-        "date": "2024-06-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-mong-gap-20230720/",
-        "status": "Draft Note",
-        "date": "2023-07-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-mong-gap-20230614/",
-        "status": "Draft Note",
-        "date": "2023-06-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-mong-gap-20220125/",
-        "status": "Draft Note",
-        "date": "2022-01-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-mong-gap-20211117/",
-        "status": "Working Draft",
-        "date": "2021-11-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-mong-gap-20210525/",
-        "status": "Working Draft",
-        "date": "2021-05-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-mong-gap-20210127/",
-        "status": "Working Draft",
-        "date": "2021-01-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-mong-gap-20200616/",
-        "status": "First Public Working Draft",
-        "date": "2020-06-16"
-      }
-    ],
-    "abstract": "This document describes and prioritises gaps for the support of the Traditional Mongolian script (Hudum) on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, in particular HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders. This is a preliminary analysis."
   },
   {
     "url": "https://www.w3.org/TR/vc-jose-cose/",
@@ -67095,196 +65635,6 @@
       }
     ],
     "abstract": "This specification defines how to secure credentials and presentations conforming to the Verifiable Credential data model [VC-DATA-MODEL-2.0] with JSON Object Signing and Encryption (JOSE), Selective Disclosure for JWTs [SD-JWT], and CBOR Object Signing and Encryption (COSE) [RFC9052]. This enables the Verifiable Credential data model [VC-DATA-MODEL-2.0] to be implemented with standards for signing and encryption that are widely adopted."
-  },
-  {
-    "url": "https://www.w3.org/TR/taml-gap/",
-    "title": "Tamil Gap Analysis",
-    "status": "Note",
-    "date": "2024-07-05",
-    "histUrl": "https://www.w3.org/standards/history/taml-gap/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-taml-gap-20240705/",
-        "status": "Draft Note",
-        "date": "2024-07-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-taml-gap-20240701/",
-        "status": "Draft Note",
-        "date": "2024-07-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-taml-gap-20231004/",
-        "status": "Draft Note",
-        "date": "2023-10-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-taml-gap-20230614/",
-        "status": "Draft Note",
-        "date": "2023-06-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-taml-gap-20220121/",
-        "status": "Draft Note",
-        "date": "2022-01-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-taml-gap-20220119/",
-        "status": "Draft Note",
-        "date": "2022-01-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-taml-gap-20210525/",
-        "status": "Working Draft",
-        "date": "2021-05-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-taml-gap-20210331/",
-        "status": "Working Draft",
-        "date": "2021-03-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-taml-gap-20210330/",
-        "status": "Working Draft",
-        "date": "2021-03-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-taml-gap-20210217/",
-        "status": "Working Draft",
-        "date": "2021-02-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-taml-gap-20210210/",
-        "status": "Working Draft",
-        "date": "2021-02-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-taml-gap-20210126/",
-        "status": "Working Draft",
-        "date": "2021-01-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-taml-gap-20200616/",
-        "status": "First Public Working Draft",
-        "date": "2020-06-16"
-      }
-    ],
-    "abstract": "This document describes and prioritises gaps for the support of the Tamil script on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, in particular HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders. This is a preliminary analysis."
-  },
-  {
-    "url": "https://www.w3.org/TR/thai-gap/",
-    "title": "Thai Gap Analysis",
-    "status": "Note",
-    "date": "2024-07-05",
-    "histUrl": "https://www.w3.org/standards/history/thai-gap/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-thai-gap-20240705/",
-        "status": "Draft Note",
-        "date": "2024-07-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-thai-gap-20240630/",
-        "status": "Draft Note",
-        "date": "2024-06-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-thai-gap-20230615/",
-        "status": "Draft Note",
-        "date": "2023-06-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-thai-gap-20220119/",
-        "status": "Draft Note",
-        "date": "2022-01-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-thai-gap-20210525/",
-        "status": "Working Draft",
-        "date": "2021-05-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-thai-gap-20210218/",
-        "status": "Working Draft",
-        "date": "2021-02-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-thai-gap-20210129/",
-        "status": "Working Draft",
-        "date": "2021-01-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-thai-gap-20210127/",
-        "status": "Working Draft",
-        "date": "2021-01-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-thai-gap-20200616/",
-        "status": "First Public Working Draft",
-        "date": "2020-06-16"
-      }
-    ],
-    "abstract": "This document describes and prioritises gaps for the support of languages using the Thai script on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, in particular HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders. This is a preliminary analysis."
-  },
-  {
-    "url": "https://www.w3.org/TR/thai-lreq/",
-    "title": "Thai Layout Requirements",
-    "status": "Note",
-    "date": "2024-07-05",
-    "histUrl": "https://www.w3.org/standards/history/thai-lreq/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-thai-lreq-20240705/",
-        "status": "Draft Note",
-        "date": "2024-07-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-thai-lreq-20240630/",
-        "status": "Draft Note",
-        "date": "2024-06-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-thai-lreq-20240515/",
-        "status": "Draft Note",
-        "date": "2024-05-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-thai-lreq-20240430/",
-        "status": "Draft Note",
-        "date": "2024-04-30"
-      }
-    ],
-    "abstract": "This document describes or points to requirements for the layout and presentation of text in languages that use the Thai script. The target audience is developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Thai text."
-  },
-  {
-    "url": "https://www.w3.org/TR/tibt-gap/",
-    "title": "Tibetan Gap Analysis",
-    "status": "Note",
-    "date": "2024-07-05",
-    "histUrl": "https://www.w3.org/standards/history/tibt-gap/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-tibt-gap-20240705/",
-        "status": "Draft Note",
-        "date": "2024-07-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-tibt-gap-20220119/",
-        "status": "Draft Note",
-        "date": "2022-01-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-tibt-gap-20210525/",
-        "status": "Working Draft",
-        "date": "2021-05-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-tibt-gap-20200616/",
-        "status": "First Public Working Draft",
-        "date": "2020-06-16"
-      }
-    ],
-    "abstract": "This document describes and prioritises gaps for the support of Tibetan on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, in particular HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders. This is a preliminary analysis."
   },
   {
     "url": "https://www.w3.org/TR/tlreq/",
@@ -68022,12 +66372,1452 @@
     "abstract": "Privacy is an essential part of the web. This document provides definitions for privacy and related concepts that are applicable worldwide as well as a set of privacy principles that should guide the development of the web as a trustworthy platform. People using the web would benefit from a stronger relationship between technology and policy, and this document is written to work with both."
   },
   {
+    "url": "https://www.w3.org/TR/vc-overview/",
+    "title": "Verifiable Credentials Overview",
+    "status": "Note",
+    "date": "2024-07-06",
+    "histUrl": "https://www.w3.org/standards/history/vc-overview/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/NOTE-vc-overview-20240706/",
+        "status": "Note",
+        "date": "2024-07-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/NOTE-vc-overview-20240613/",
+        "status": "Note",
+        "date": "2024-06-13"
+      }
+    ],
+    "abstract": "Credentials are a part of our daily lives; driver's licenses are used to assert that we are capable of operating a motor vehicle, university degrees can be used to assert our level of education, and government-issued passports enable us to travel between countries. The family of W3C Recommendations for Verifiable Credentials, described in this overview document, provides a mechanism to express these sorts of credentials on the Web in a way that is cryptographically secure, privacy respecting, and machine-verifiable."
+  },
+  {
+    "url": "https://www.w3.org/TR/webmidi/",
+    "title": "Web MIDI API",
+    "status": "Draft Standard",
+    "date": "2024-07-06",
+    "histUrl": "https://www.w3.org/standards/history/webmidi/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-webmidi-20240706/",
+        "status": "Working Draft",
+        "date": "2024-07-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2015/WD-webmidi-20150317/",
+        "status": "Working Draft",
+        "date": "2015-03-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2013/WD-webmidi-20131126/",
+        "status": "Working Draft",
+        "date": "2013-11-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2012/WD-webmidi-20121213/",
+        "status": "Working Draft",
+        "date": "2012-12-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2012/WD-webmidi-20121025/",
+        "status": "Working Draft",
+        "date": "2012-10-25"
+      }
+    ],
+    "abstract": "Some user agents have music devices, such as synthesizers, keyboard and other controllers, and drum machines connected to their host computer or device. The widely adopted Musical Instrument Digital Interface (MIDI) protocol enables electronic musical instruments, controllers and computers to communicate and synchronize with each other. MIDI does not transmit audio signals: instead, it sends event messages about musical notes, controller signals for parameters such as volume, vibrato and panning, cues and clock signals to set the tempo, and system-specific MIDI communications (e.g. to remotely store synthesizer-specific patch data). This same protocol has become a standard for non-musical uses, such as show control, lighting and special effects control."
+  },
+  {
+    "url": "https://www.w3.org/TR/contact-picker/",
+    "title": "Contact Picker API",
+    "status": "Draft Standard",
+    "date": "2024-07-08",
+    "histUrl": "https://www.w3.org/standards/history/contact-picker/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-contact-picker-20240708/",
+        "status": "Working Draft",
+        "date": "2024-07-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-contact-picker-20240618/",
+        "status": "Working Draft",
+        "date": "2024-06-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-contact-picker-20240430/",
+        "status": "Working Draft",
+        "date": "2024-04-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-contact-picker-20240227/",
+        "status": "Working Draft",
+        "date": "2024-02-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-contact-picker-20240207/",
+        "status": "Working Draft",
+        "date": "2024-02-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-contact-picker-20231013/",
+        "status": "Working Draft",
+        "date": "2023-10-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-contact-picker-20230308/",
+        "status": "Working Draft",
+        "date": "2023-03-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-contact-picker-20230127/",
+        "status": "Working Draft",
+        "date": "2023-01-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-contact-picker-20230126/",
+        "status": "Working Draft",
+        "date": "2023-01-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-contact-picker-1-20230120/",
+        "status": "Working Draft",
+        "date": "2023-01-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-contact-picker-1-20221220/",
+        "status": "First Public Working Draft",
+        "date": "2022-12-20"
+      }
+    ],
+    "abstract": "An API to give one-off access to a user’s contact information with full control over the shared data."
+  },
+  {
+    "url": "https://www.w3.org/TR/push-api/",
+    "title": "Push API",
+    "status": "Draft Standard",
+    "date": "2024-07-08",
+    "histUrl": "https://www.w3.org/standards/history/push-api/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-push-api-20240708/",
+        "status": "Working Draft",
+        "date": "2024-07-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-push-api-20240530/",
+        "status": "Working Draft",
+        "date": "2024-05-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-push-api-20231211/",
+        "status": "Working Draft",
+        "date": "2023-12-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-push-api-20231010/",
+        "status": "Working Draft",
+        "date": "2023-10-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-push-api-20220630/",
+        "status": "Working Draft",
+        "date": "2022-06-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-push-api-20220602/",
+        "status": "Working Draft",
+        "date": "2022-06-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-push-api-20220323/",
+        "status": "Working Draft",
+        "date": "2022-03-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-push-api-20211103/",
+        "status": "Working Draft",
+        "date": "2021-11-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-push-api-20211028/",
+        "status": "Working Draft",
+        "date": "2021-10-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-push-api-20211027/",
+        "status": "Working Draft",
+        "date": "2021-10-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-push-api-20211025/",
+        "status": "Working Draft",
+        "date": "2021-10-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-push-api-20211021/",
+        "status": "Working Draft",
+        "date": "2021-10-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-push-api-20211020/",
+        "status": "Working Draft",
+        "date": "2021-10-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-push-api-20210616/",
+        "status": "Working Draft",
+        "date": "2021-06-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-push-api-20200204/",
+        "status": "Working Draft",
+        "date": "2020-02-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-push-api-20191003/",
+        "status": "Working Draft",
+        "date": "2019-10-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-push-api-20190724/",
+        "status": "Working Draft",
+        "date": "2019-07-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-push-api-20190717/",
+        "status": "Working Draft",
+        "date": "2019-07-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-push-api-20190716/",
+        "status": "Working Draft",
+        "date": "2019-07-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-push-api-20190715/",
+        "status": "Working Draft",
+        "date": "2019-07-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-push-api-20190714/",
+        "status": "Working Draft",
+        "date": "2019-07-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-push-api-20190711/",
+        "status": "Working Draft",
+        "date": "2019-07-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-push-api-20190603/",
+        "status": "Working Draft",
+        "date": "2019-06-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-push-api-20190530/",
+        "status": "Working Draft",
+        "date": "2019-05-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-push-api-20181026/",
+        "status": "Working Draft",
+        "date": "2018-10-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-push-api-20171215/",
+        "status": "Working Draft",
+        "date": "2017-12-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-push-api-20171026/",
+        "status": "Working Draft",
+        "date": "2017-10-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-push-api-20170823/",
+        "status": "Working Draft",
+        "date": "2017-08-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-push-api-20170822/",
+        "status": "Working Draft",
+        "date": "2017-08-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-push-api-20170821/",
+        "status": "Working Draft",
+        "date": "2017-08-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-push-api-20170813/",
+        "status": "Working Draft",
+        "date": "2017-08-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-push-api-20170705/",
+        "status": "Working Draft",
+        "date": "2017-07-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-push-api-20170623/",
+        "status": "Working Draft",
+        "date": "2017-06-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-push-api-20170622/",
+        "status": "Working Draft",
+        "date": "2017-06-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-push-api-20170621/",
+        "status": "Working Draft",
+        "date": "2017-06-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-push-api-20170508/",
+        "status": "Working Draft",
+        "date": "2017-05-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-push-api-20170503/",
+        "status": "Working Draft",
+        "date": "2017-05-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-push-api-20170427/",
+        "status": "Working Draft",
+        "date": "2017-04-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-push-api-20170425/",
+        "status": "Working Draft",
+        "date": "2017-04-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-push-api-20170419/",
+        "status": "Working Draft",
+        "date": "2017-04-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-push-api-20170418/",
+        "status": "Working Draft",
+        "date": "2017-04-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-push-api-20170328/",
+        "status": "Working Draft",
+        "date": "2017-03-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-push-api-20170222/",
+        "status": "Working Draft",
+        "date": "2017-02-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2015/WD-push-api-20151215/",
+        "status": "Working Draft",
+        "date": "2015-12-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2015/WD-push-api-20150427/",
+        "status": "Working Draft",
+        "date": "2015-04-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2014/WD-push-api-20141007/",
+        "status": "Working Draft",
+        "date": "2014-10-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2013/WD-push-api-20130815/",
+        "status": "Working Draft",
+        "date": "2013-08-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2012/WD-push-api-20121018/",
+        "status": "Working Draft",
+        "date": "2012-10-18"
+      }
+    ],
+    "abstract": "The Push API enables sending of a push message to a web application via a push service. An application server can send a push message at any time, even when a web application or user agent is inactive. The push service ensures reliable and efficient delivery to the user agent. Push messages are delivered to a Service Worker that runs in the origin of the web application, which can use the information in the message to update local state or display a notification to the user."
+  },
+  {
+    "url": "https://www.w3.org/TR/adlm-gap/",
+    "title": "Adlam Gap Analysis",
+    "status": "Note",
+    "date": "2024-07-09",
+    "histUrl": "https://www.w3.org/standards/history/adlm-gap/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-adlm-gap-20240709/",
+        "status": "Draft Note",
+        "date": "2024-07-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-adlm-gap-20240704/",
+        "status": "Draft Note",
+        "date": "2024-07-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-adlm-gap-20240701/",
+        "status": "Draft Note",
+        "date": "2024-07-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-adlm-gap-20231004/",
+        "status": "Draft Note",
+        "date": "2023-10-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-adlm-gap-20230807/",
+        "status": "Draft Note",
+        "date": "2023-08-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-adlm-gap-20230616/",
+        "status": "Draft Note",
+        "date": "2023-06-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-adlm-gap-20230614/",
+        "status": "Draft Note",
+        "date": "2023-06-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-adlm-gap-20220712/",
+        "status": "Draft Note",
+        "date": "2022-07-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-adlm-gap-20220203/",
+        "status": "Draft Note",
+        "date": "2022-02-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-adlm-gap-20220201/",
+        "status": "Draft Note",
+        "date": "2022-02-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-adlm-gap-20220128/",
+        "status": "Draft Note",
+        "date": "2022-01-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-adlm-gap-20220112/",
+        "status": "Draft Note",
+        "date": "2022-01-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/DNOTE-adlm-gap-20211202/",
+        "status": "Draft Note",
+        "date": "2021-12-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-adlm-gap-20210521/",
+        "status": "Working Draft",
+        "date": "2021-05-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-adlm-gap-20210216/",
+        "status": "Working Draft",
+        "date": "2021-02-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-adlm-gap-20210204/",
+        "status": "First Public Working Draft",
+        "date": "2021-02-04"
+      }
+    ],
+    "abstract": "This document describes and prioritises gaps for the support of the Adlam script on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, such as HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders."
+  },
+  {
+    "url": "https://www.w3.org/TR/adlm-lreq/",
+    "title": "Adlam Script Resources",
+    "status": "Note",
+    "date": "2024-07-09",
+    "histUrl": "https://www.w3.org/standards/history/adlm-lreq/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-adlm-lreq-20240709/",
+        "status": "Draft Note",
+        "date": "2024-07-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-adlm-lreq-20240704/",
+        "status": "Draft Note",
+        "date": "2024-07-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-adlm-lreq-20240701/",
+        "status": "Draft Note",
+        "date": "2024-07-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-adlm-lreq-20240530/",
+        "status": "Draft Note",
+        "date": "2024-05-30"
+      }
+    ],
+    "abstract": "This document points to resources for the layout and presentation of text in languages that use the Adlam script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Adlam text."
+  },
+  {
+    "url": "https://www.w3.org/TR/alreq/",
+    "title": "Arabic & Persian Layout Requirements",
+    "status": "Note",
+    "date": "2024-07-09",
+    "histUrl": "https://www.w3.org/standards/history/alreq/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-alreq-20240709/",
+        "status": "Draft Note",
+        "date": "2024-07-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-alreq-20240630/",
+        "status": "Draft Note",
+        "date": "2024-06-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-alreq-20240515/",
+        "status": "Draft Note",
+        "date": "2024-05-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-alreq-20240430/",
+        "status": "Draft Note",
+        "date": "2024-04-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-alreq-20231212/",
+        "status": "Draft Note",
+        "date": "2023-12-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-alreq-20211026/",
+        "status": "Working Draft",
+        "date": "2021-10-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-alreq-20200520/",
+        "status": "Working Draft",
+        "date": "2020-05-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-alreq-20180222/",
+        "status": "First Public Working Draft",
+        "date": "2018-02-22"
+      }
+    ],
+    "abstract": "This document describes requirements for the layout and presentation of text in languages that use the Arabic script when they are used by Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode."
+  },
+  {
+    "url": "https://www.w3.org/TR/alreq-gap/",
+    "title": "Arabic Script Gap Analysis",
+    "status": "Note",
+    "date": "2024-07-09",
+    "histUrl": "https://www.w3.org/standards/history/alreq-gap/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-alreq-gap-20240709/",
+        "status": "Draft Note",
+        "date": "2024-07-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-alreq-gap-20240630/",
+        "status": "Draft Note",
+        "date": "2024-06-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-alreq-gap-20240314/",
+        "status": "Draft Note",
+        "date": "2024-03-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-alreq-gap-20231004/",
+        "status": "Draft Note",
+        "date": "2023-10-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-alreq-gap-20230807/",
+        "status": "Draft Note",
+        "date": "2023-08-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-alreq-gap-20230614/",
+        "status": "Draft Note",
+        "date": "2023-06-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-alreq-gap-20220713/",
+        "status": "Draft Note",
+        "date": "2022-07-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/DNOTE-alreq-gap-20211125/",
+        "status": "Draft Note",
+        "date": "2021-11-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-alreq-gap-20210521/",
+        "status": "Working Draft",
+        "date": "2021-05-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-alreq-gap-20210216/",
+        "status": "Working Draft",
+        "date": "2021-02-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-alreq-gap-20210126/",
+        "status": "Working Draft",
+        "date": "2021-01-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-alreq-gap-20210122/",
+        "status": "Working Draft",
+        "date": "2021-01-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-alreq-gap-20210121/",
+        "status": "Working Draft",
+        "date": "2021-01-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-alreq-gap-20210120/",
+        "status": "Working Draft",
+        "date": "2021-01-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-alreq-gap-20210119/",
+        "status": "Working Draft",
+        "date": "2021-01-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-alreq-gap-20200616/",
+        "status": "First Public Working Draft",
+        "date": "2020-06-16"
+      }
+    ],
+    "abstract": "This document describes and prioritises gaps for the support of the Arabic script on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, such as HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders."
+  },
+  {
+    "url": "https://www.w3.org/TR/cans-iu-cr-gap/",
+    "title": "Canadian Syllabics Gap Analysis",
+    "status": "Note",
+    "date": "2024-07-09",
+    "histUrl": "https://www.w3.org/standards/history/cans-iu-cr-gap/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-cans-iu-cr-gap-20240709/",
+        "status": "Draft Note",
+        "date": "2024-07-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-cans-iu-cr-gap-20240704/",
+        "status": "Draft Note",
+        "date": "2024-07-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-cans-iu-cr-gap-20240701/",
+        "status": "Draft Note",
+        "date": "2024-07-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-cans-iu-cr-gap-20230614/",
+        "status": "Draft Note",
+        "date": "2023-06-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-cans-iu-cr-gap-20210521/",
+        "status": "Working Draft",
+        "date": "2021-05-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-cans-iu-cr-gap-20200715/",
+        "status": "Working Draft",
+        "date": "2020-07-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-cans-iu-cr-gap-20200616/",
+        "status": "First Public Working Draft",
+        "date": "2020-06-16"
+      }
+    ],
+    "abstract": "This document describes and prioritises gaps for the support of the Canadian Syllabics script on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, such as HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders."
+  },
+  {
+    "url": "https://www.w3.org/TR/cher-gap/",
+    "title": "Cherokee Gap Analysis",
+    "status": "Note",
+    "date": "2024-07-09",
+    "histUrl": "https://www.w3.org/standards/history/cher-gap/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-cher-gap-20240709/",
+        "status": "Draft Note",
+        "date": "2024-07-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-cher-gap-20240704/",
+        "status": "Draft Note",
+        "date": "2024-07-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-cher-gap-20240701/",
+        "status": "Draft Note",
+        "date": "2024-07-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-cher-gap-20240630/",
+        "status": "Draft Note",
+        "date": "2024-06-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-cher-gap-20230615/",
+        "status": "Draft Note",
+        "date": "2023-06-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-cher-gap-20230614/",
+        "status": "Draft Note",
+        "date": "2023-06-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-cher-gap-20220119/",
+        "status": "Draft Note",
+        "date": "2022-01-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-cher-gap-20210521/",
+        "status": "Working Draft",
+        "date": "2021-05-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-cher-gap-20200715/",
+        "status": "Working Draft",
+        "date": "2020-07-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-cher-gap-20200618/",
+        "status": "Working Draft",
+        "date": "2020-06-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-cher-gap-20200616/",
+        "status": "First Public Working Draft",
+        "date": "2020-06-16"
+      }
+    ],
+    "abstract": "This document describes and prioritises gaps for the support of the Cherokee script on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, such as HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders."
+  },
+  {
+    "url": "https://www.w3.org/TR/clreq-gap/",
+    "title": "Chinese Layout Gap Analysis",
+    "status": "Note",
+    "date": "2024-07-09",
+    "histUrl": "https://www.w3.org/standards/history/clreq-gap/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-clreq-gap-20240709/",
+        "status": "Draft Note",
+        "date": "2024-07-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-clreq-gap-20240704/",
+        "status": "Draft Note",
+        "date": "2024-07-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-clreq-gap-20240208/",
+        "status": "Draft Note",
+        "date": "2024-02-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-clreq-gap-20231004/",
+        "status": "Draft Note",
+        "date": "2023-10-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-clreq-gap-20230721/",
+        "status": "Draft Note",
+        "date": "2023-07-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-clreq-gap-20230720/",
+        "status": "Draft Note",
+        "date": "2023-07-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-clreq-gap-20230615/",
+        "status": "Draft Note",
+        "date": "2023-06-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-clreq-gap-20220923/",
+        "status": "Draft Note",
+        "date": "2022-09-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-clreq-gap-20211119/",
+        "status": "Working Draft",
+        "date": "2021-11-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-clreq-gap-20210614/",
+        "status": "Working Draft",
+        "date": "2021-06-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-clreq-gap-20210525/",
+        "status": "Working Draft",
+        "date": "2021-05-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-clreq-gap-20200616/",
+        "status": "First Public Working Draft",
+        "date": "2020-06-16"
+      }
+    ],
+    "abstract": "This document describes and prioritises gaps for the support of the Chinese script on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, such as HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders."
+  },
+  {
+    "url": "https://www.w3.org/TR/elreq-gap/",
+    "title": "Ethiopic Layout Gap Analysis",
+    "status": "Note",
+    "date": "2024-07-09",
+    "histUrl": "https://www.w3.org/standards/history/elreq-gap/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-elreq-gap-20240709/",
+        "status": "Draft Note",
+        "date": "2024-07-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-elreq-gap-20240704/",
+        "status": "Draft Note",
+        "date": "2024-07-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-elreq-gap-20240701/",
+        "status": "Draft Note",
+        "date": "2024-07-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-elreq-gap-20231004/",
+        "status": "Draft Note",
+        "date": "2023-10-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-elreq-gap-20230614/",
+        "status": "Draft Note",
+        "date": "2023-06-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-elreq-gap-20210524/",
+        "status": "Working Draft",
+        "date": "2021-05-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-elreq-gap-20210126/",
+        "status": "Working Draft",
+        "date": "2021-01-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-elreq-gap-20200611/",
+        "status": "First Public Working Draft",
+        "date": "2020-06-11"
+      }
+    ],
+    "abstract": "This document describes and prioritises gaps for the support of the Ethiopic script on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, such as HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders."
+  },
+  {
+    "url": "https://www.w3.org/TR/IFT/",
+    "title": "Incremental Font Transfer",
+    "status": "Draft Standard",
+    "date": "2024-07-09",
+    "histUrl": "https://www.w3.org/standards/history/IFT/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-IFT-20240709/",
+        "status": "Working Draft",
+        "date": "2024-07-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-IFT-20230530/",
+        "status": "Working Draft",
+        "date": "2023-05-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-IFT-20220628/",
+        "status": "Working Draft",
+        "date": "2022-06-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-IFT-20210907/",
+        "status": "First Public Working Draft",
+        "date": "2021-09-07"
+      }
+    ],
+    "abstract": "This specification defines a method to incrementally transfer fonts from server to client. Incremental transfer allows clients to load only the portions of the font they actually need which speeds up font loads and reduces data transfer needed to load the fonts. A font can be loaded over multiple requests where each request incrementally adds additional data."
+  },
+  {
+    "url": "https://www.w3.org/TR/mlreq/",
+    "title": "Mongolian Layout Requirements",
+    "status": "Note",
+    "date": "2024-07-09",
+    "histUrl": "https://www.w3.org/standards/history/mlreq/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-mlreq-20240709/",
+        "status": "Draft Note",
+        "date": "2024-07-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-mlreq-20240705/",
+        "status": "Draft Note",
+        "date": "2024-07-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-mlreq-20240630/",
+        "status": "Draft Note",
+        "date": "2024-06-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-mlreq-20240515/",
+        "status": "Draft Note",
+        "date": "2024-05-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-mlreq-20240501/",
+        "status": "Draft Note",
+        "date": "2024-05-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-mlreq-20231124/",
+        "status": "Draft Note",
+        "date": "2023-11-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-mlreq-20200616/",
+        "status": "First Public Working Draft",
+        "date": "2020-06-16"
+      }
+    ],
+    "abstract": "This document describes or points to requirements for the layout and presentation of text in languages that use the Traditional Mongolian script. The target audience is developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Mongolian text."
+  },
+  {
+    "url": "https://www.w3.org/TR/nkoo-gap/",
+    "title": "N’Ko Gap Analysis",
+    "status": "Note",
+    "date": "2024-07-09",
+    "histUrl": "https://www.w3.org/standards/history/nkoo-gap/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-nkoo-gap-20240709/",
+        "status": "Draft Note",
+        "date": "2024-07-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-nkoo-gap-20240704/",
+        "status": "Draft Note",
+        "date": "2024-07-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-nkoo-gap-20240701/",
+        "status": "Draft Note",
+        "date": "2024-07-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-nkoo-gap-20231004/",
+        "status": "Draft Note",
+        "date": "2023-10-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-nkoo-gap-20230807/",
+        "status": "Draft Note",
+        "date": "2023-08-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-nkoo-gap-20230727/",
+        "status": "Draft Note",
+        "date": "2023-07-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-nkoo-gap-20230627/",
+        "status": "Draft Note",
+        "date": "2023-06-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-nkoo-gap-20230615/",
+        "status": "Draft Note",
+        "date": "2023-06-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-nkoo-gap-20230608/",
+        "status": "Draft Note",
+        "date": "2023-06-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-nkoo-gap-20220712/",
+        "status": "Draft Note",
+        "date": "2022-07-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-nkoo-gap-20220128/",
+        "status": "Draft Note",
+        "date": "2022-01-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-nkoo-gap-20220119/",
+        "status": "Draft Note",
+        "date": "2022-01-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/DNOTE-nkoo-gap-20211202/",
+        "status": "Draft Note",
+        "date": "2021-12-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/DNOTE-nkoo-gap-20211125/",
+        "status": "Draft Note",
+        "date": "2021-11-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-nkoo-gap-20210521/",
+        "status": "Working Draft",
+        "date": "2021-05-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-nkoo-gap-20210216/",
+        "status": "Working Draft",
+        "date": "2021-02-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-nkoo-gap-20210204/",
+        "status": "First Public Working Draft",
+        "date": "2021-02-04"
+      }
+    ],
+    "abstract": "This document describes and prioritises gaps for the support of the N’Ko script on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, such as HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders."
+  },
+  {
+    "url": "https://www.w3.org/TR/nkoo-lreq/",
+    "title": "N’Ko Script Resources",
+    "status": "Note",
+    "date": "2024-07-09",
+    "histUrl": "https://www.w3.org/standards/history/nkoo-lreq/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-nkoo-lreq-20240709/",
+        "status": "Draft Note",
+        "date": "2024-07-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-nkoo-lreq-20240704/",
+        "status": "Draft Note",
+        "date": "2024-07-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-nkoo-lreq-20240701/",
+        "status": "Draft Note",
+        "date": "2024-07-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-nkoo-lreq-20240515/",
+        "status": "Draft Note",
+        "date": "2024-05-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-nkoo-lreq-20240510/",
+        "status": "Draft Note",
+        "date": "2024-05-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-nkoo-lreq-20230613/",
+        "status": "Draft Note",
+        "date": "2023-06-13"
+      }
+    ],
+    "abstract": "This document points to resources for the layout and presentation of text in languages that use the N’Ko script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render N’Ko text."
+  },
+  {
+    "url": "https://www.w3.org/TR/osge-osa-gap/",
+    "title": "Osage Gap Analysis",
+    "status": "Note",
+    "date": "2024-07-09",
+    "histUrl": "https://www.w3.org/standards/history/osge-osa-gap/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-osge-osa-gap-20240709/",
+        "status": "Draft Note",
+        "date": "2024-07-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-osge-osa-gap-20240704/",
+        "status": "Draft Note",
+        "date": "2024-07-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-osge-osa-gap-20240701/",
+        "status": "Draft Note",
+        "date": "2024-07-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-osge-osa-gap-20230614/",
+        "status": "Draft Note",
+        "date": "2023-06-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-osge-osa-gap-20210524/",
+        "status": "Working Draft",
+        "date": "2021-05-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-osge-osa-gap-20210204/",
+        "status": "First Public Working Draft",
+        "date": "2021-02-04"
+      }
+    ],
+    "abstract": "This document describes and prioritises gaps for the support of the Osage script on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, such as HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders."
+  },
+  {
+    "url": "https://www.w3.org/TR/taml-gap/",
+    "title": "Tamil Gap Analysis",
+    "status": "Note",
+    "date": "2024-07-09",
+    "histUrl": "https://www.w3.org/standards/history/taml-gap/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-taml-gap-20240709/",
+        "status": "Draft Note",
+        "date": "2024-07-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-taml-gap-20240705/",
+        "status": "Draft Note",
+        "date": "2024-07-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-taml-gap-20240701/",
+        "status": "Draft Note",
+        "date": "2024-07-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-taml-gap-20231004/",
+        "status": "Draft Note",
+        "date": "2023-10-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-taml-gap-20230614/",
+        "status": "Draft Note",
+        "date": "2023-06-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-taml-gap-20220121/",
+        "status": "Draft Note",
+        "date": "2022-01-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-taml-gap-20220119/",
+        "status": "Draft Note",
+        "date": "2022-01-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-taml-gap-20210525/",
+        "status": "Working Draft",
+        "date": "2021-05-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-taml-gap-20210331/",
+        "status": "Working Draft",
+        "date": "2021-03-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-taml-gap-20210330/",
+        "status": "Working Draft",
+        "date": "2021-03-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-taml-gap-20210217/",
+        "status": "Working Draft",
+        "date": "2021-02-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-taml-gap-20210210/",
+        "status": "Working Draft",
+        "date": "2021-02-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-taml-gap-20210126/",
+        "status": "Working Draft",
+        "date": "2021-01-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-taml-gap-20200616/",
+        "status": "First Public Working Draft",
+        "date": "2020-06-16"
+      }
+    ],
+    "abstract": "This document describes and prioritises gaps for the support of the Tamil script on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, such as HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders."
+  },
+  {
+    "url": "https://www.w3.org/TR/vc-data-integrity/",
+    "title": "Verifiable Credential Data Integrity 1.0",
+    "status": "Candidate Standard",
+    "date": "2024-07-09",
+    "histUrl": "https://www.w3.org/standards/history/vc-data-integrity/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20240709/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-07-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20240620/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-06-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20240614/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-06-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20240609/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-06-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20240605/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-06-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20240428/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-04-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20240315/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-03-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20240303/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-03-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20240225/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-02-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20240224/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-02-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-vc-data-integrity-20231210/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-12-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CR-vc-data-integrity-20231121/",
+        "status": "Candidate Recommendation Snapshot",
+        "date": "2023-11-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20231021/",
+        "status": "Working Draft",
+        "date": "2023-10-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20231017/",
+        "status": "Working Draft",
+        "date": "2023-10-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20231013/",
+        "status": "Working Draft",
+        "date": "2023-10-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20231012/",
+        "status": "Working Draft",
+        "date": "2023-10-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230925/",
+        "status": "Working Draft",
+        "date": "2023-09-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230918/",
+        "status": "Working Draft",
+        "date": "2023-09-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230902/",
+        "status": "Working Draft",
+        "date": "2023-09-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230831/",
+        "status": "Working Draft",
+        "date": "2023-08-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230826/",
+        "status": "Working Draft",
+        "date": "2023-08-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230824/",
+        "status": "Working Draft",
+        "date": "2023-08-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230819/",
+        "status": "Working Draft",
+        "date": "2023-08-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230818/",
+        "status": "Working Draft",
+        "date": "2023-08-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230812/",
+        "status": "Working Draft",
+        "date": "2023-08-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230810/",
+        "status": "Working Draft",
+        "date": "2023-08-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230806/",
+        "status": "Working Draft",
+        "date": "2023-08-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230805/",
+        "status": "Working Draft",
+        "date": "2023-08-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230731/",
+        "status": "Working Draft",
+        "date": "2023-07-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230713/",
+        "status": "Working Draft",
+        "date": "2023-07-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230709/",
+        "status": "Working Draft",
+        "date": "2023-07-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230705/",
+        "status": "Working Draft",
+        "date": "2023-07-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230704/",
+        "status": "Working Draft",
+        "date": "2023-07-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230630/",
+        "status": "Working Draft",
+        "date": "2023-06-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230528/",
+        "status": "Working Draft",
+        "date": "2023-05-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230515/",
+        "status": "Working Draft",
+        "date": "2023-05-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230428/",
+        "status": "Working Draft",
+        "date": "2023-04-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230420/",
+        "status": "Working Draft",
+        "date": "2023-04-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230408/",
+        "status": "Working Draft",
+        "date": "2023-04-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230317/",
+        "status": "Working Draft",
+        "date": "2023-03-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230305/",
+        "status": "Working Draft",
+        "date": "2023-03-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230304/",
+        "status": "Working Draft",
+        "date": "2023-03-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230226/",
+        "status": "Working Draft",
+        "date": "2023-02-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230225/",
+        "status": "Working Draft",
+        "date": "2023-02-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230211/",
+        "status": "Working Draft",
+        "date": "2023-02-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230128/",
+        "status": "Working Draft",
+        "date": "2023-01-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-vc-data-integrity-20221110/",
+        "status": "First Public Working Draft",
+        "date": "2022-11-10"
+      }
+    ],
+    "abstract": "This specification describes mechanisms for ensuring the authenticity and integrity of Verifiable Credentials and similar types of constrained digital documents using cryptography, especially through the use of digital signatures and related mathematical proofs."
+  },
+  {
     "url": "https://www.w3.org/TR/vc-data-model-2.0/",
     "title": "Verifiable Credentials Data Model v2.0",
     "status": "Candidate Standard",
-    "date": "2024-07-06",
+    "date": "2024-07-09",
     "histUrl": "https://www.w3.org/standards/history/vc-data-model-2.0/",
     "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-data-model-2.0-20240709/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-07-09"
+      },
       {
         "url": "https://www.w3.org/TR/2024/CRD-vc-data-model-2.0-20240706/",
         "status": "Candidate Recommendation Draft",
@@ -68692,382 +68482,17 @@
     "abstract": "Credentials are a part of our daily lives; driver's licenses are used to assert that we are capable of operating a motor vehicle, university degrees can be used to assert our level of education, and government-issued passports enable us to travel between countries. This specification provides a mechanism to express these sorts of credentials on the Web in a way that is cryptographically secure, privacy respecting, and machine-verifiable."
   },
   {
-    "url": "https://www.w3.org/TR/vc-overview/",
-    "title": "Verifiable Credentials Overview",
-    "status": "Note",
-    "date": "2024-07-06",
-    "histUrl": "https://www.w3.org/standards/history/vc-overview/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/NOTE-vc-overview-20240706/",
-        "status": "Note",
-        "date": "2024-07-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/NOTE-vc-overview-20240613/",
-        "status": "Note",
-        "date": "2024-06-13"
-      }
-    ],
-    "abstract": "Credentials are a part of our daily lives; driver's licenses are used to assert that we are capable of operating a motor vehicle, university degrees can be used to assert our level of education, and government-issued passports enable us to travel between countries. The family of W3C Recommendations for Verifiable Credentials, described in this overview document, provides a mechanism to express these sorts of credentials on the Web in a way that is cryptographically secure, privacy respecting, and machine-verifiable."
-  },
-  {
-    "url": "https://www.w3.org/TR/webmidi/",
-    "title": "Web MIDI API",
-    "status": "Draft Standard",
-    "date": "2024-07-06",
-    "histUrl": "https://www.w3.org/standards/history/webmidi/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-webmidi-20240706/",
-        "status": "Working Draft",
-        "date": "2024-07-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2015/WD-webmidi-20150317/",
-        "status": "Working Draft",
-        "date": "2015-03-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2013/WD-webmidi-20131126/",
-        "status": "Working Draft",
-        "date": "2013-11-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2012/WD-webmidi-20121213/",
-        "status": "Working Draft",
-        "date": "2012-12-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2012/WD-webmidi-20121025/",
-        "status": "Working Draft",
-        "date": "2012-10-25"
-      }
-    ],
-    "abstract": "Some user agents have music devices, such as synthesizers, keyboard and other controllers, and drum machines connected to their host computer or device. The widely adopted Musical Instrument Digital Interface (MIDI) protocol enables electronic musical instruments, controllers and computers to communicate and synchronize with each other. MIDI does not transmit audio signals: instead, it sends event messages about musical notes, controller signals for parameters such as volume, vibrato and panning, cues and clock signals to set the tempo, and system-specific MIDI communications (e.g. to remotely store synthesizer-specific patch data). This same protocol has become a standard for non-musical uses, such as show control, lighting and special effects control."
-  },
-  {
-    "url": "https://www.w3.org/TR/contact-picker/",
-    "title": "Contact Picker API",
-    "status": "Draft Standard",
-    "date": "2024-07-08",
-    "histUrl": "https://www.w3.org/standards/history/contact-picker/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-contact-picker-20240708/",
-        "status": "Working Draft",
-        "date": "2024-07-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-contact-picker-20240618/",
-        "status": "Working Draft",
-        "date": "2024-06-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-contact-picker-20240430/",
-        "status": "Working Draft",
-        "date": "2024-04-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-contact-picker-20240227/",
-        "status": "Working Draft",
-        "date": "2024-02-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-contact-picker-20240207/",
-        "status": "Working Draft",
-        "date": "2024-02-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-contact-picker-20231013/",
-        "status": "Working Draft",
-        "date": "2023-10-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-contact-picker-20230308/",
-        "status": "Working Draft",
-        "date": "2023-03-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-contact-picker-20230127/",
-        "status": "Working Draft",
-        "date": "2023-01-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-contact-picker-20230126/",
-        "status": "Working Draft",
-        "date": "2023-01-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-contact-picker-1-20230120/",
-        "status": "Working Draft",
-        "date": "2023-01-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-contact-picker-1-20221220/",
-        "status": "First Public Working Draft",
-        "date": "2022-12-20"
-      }
-    ],
-    "abstract": "An API to give one-off access to a user’s contact information with full control over the shared data."
-  },
-  {
-    "url": "https://www.w3.org/TR/push-api/",
-    "title": "Push API",
-    "status": "Draft Standard",
-    "date": "2024-07-08",
-    "histUrl": "https://www.w3.org/standards/history/push-api/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-push-api-20240708/",
-        "status": "Working Draft",
-        "date": "2024-07-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-push-api-20240530/",
-        "status": "Working Draft",
-        "date": "2024-05-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-push-api-20231211/",
-        "status": "Working Draft",
-        "date": "2023-12-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-push-api-20231010/",
-        "status": "Working Draft",
-        "date": "2023-10-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-push-api-20220630/",
-        "status": "Working Draft",
-        "date": "2022-06-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-push-api-20220602/",
-        "status": "Working Draft",
-        "date": "2022-06-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-push-api-20220323/",
-        "status": "Working Draft",
-        "date": "2022-03-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-push-api-20211103/",
-        "status": "Working Draft",
-        "date": "2021-11-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-push-api-20211028/",
-        "status": "Working Draft",
-        "date": "2021-10-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-push-api-20211027/",
-        "status": "Working Draft",
-        "date": "2021-10-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-push-api-20211025/",
-        "status": "Working Draft",
-        "date": "2021-10-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-push-api-20211021/",
-        "status": "Working Draft",
-        "date": "2021-10-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-push-api-20211020/",
-        "status": "Working Draft",
-        "date": "2021-10-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-push-api-20210616/",
-        "status": "Working Draft",
-        "date": "2021-06-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-push-api-20200204/",
-        "status": "Working Draft",
-        "date": "2020-02-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-push-api-20191003/",
-        "status": "Working Draft",
-        "date": "2019-10-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-push-api-20190724/",
-        "status": "Working Draft",
-        "date": "2019-07-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-push-api-20190717/",
-        "status": "Working Draft",
-        "date": "2019-07-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-push-api-20190716/",
-        "status": "Working Draft",
-        "date": "2019-07-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-push-api-20190715/",
-        "status": "Working Draft",
-        "date": "2019-07-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-push-api-20190714/",
-        "status": "Working Draft",
-        "date": "2019-07-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-push-api-20190711/",
-        "status": "Working Draft",
-        "date": "2019-07-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-push-api-20190603/",
-        "status": "Working Draft",
-        "date": "2019-06-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-push-api-20190530/",
-        "status": "Working Draft",
-        "date": "2019-05-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-push-api-20181026/",
-        "status": "Working Draft",
-        "date": "2018-10-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-push-api-20171215/",
-        "status": "Working Draft",
-        "date": "2017-12-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-push-api-20171026/",
-        "status": "Working Draft",
-        "date": "2017-10-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-push-api-20170823/",
-        "status": "Working Draft",
-        "date": "2017-08-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-push-api-20170822/",
-        "status": "Working Draft",
-        "date": "2017-08-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-push-api-20170821/",
-        "status": "Working Draft",
-        "date": "2017-08-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-push-api-20170813/",
-        "status": "Working Draft",
-        "date": "2017-08-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-push-api-20170705/",
-        "status": "Working Draft",
-        "date": "2017-07-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-push-api-20170623/",
-        "status": "Working Draft",
-        "date": "2017-06-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-push-api-20170622/",
-        "status": "Working Draft",
-        "date": "2017-06-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-push-api-20170621/",
-        "status": "Working Draft",
-        "date": "2017-06-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-push-api-20170508/",
-        "status": "Working Draft",
-        "date": "2017-05-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-push-api-20170503/",
-        "status": "Working Draft",
-        "date": "2017-05-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-push-api-20170427/",
-        "status": "Working Draft",
-        "date": "2017-04-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-push-api-20170425/",
-        "status": "Working Draft",
-        "date": "2017-04-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-push-api-20170419/",
-        "status": "Working Draft",
-        "date": "2017-04-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-push-api-20170418/",
-        "status": "Working Draft",
-        "date": "2017-04-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-push-api-20170328/",
-        "status": "Working Draft",
-        "date": "2017-03-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-push-api-20170222/",
-        "status": "Working Draft",
-        "date": "2017-02-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2015/WD-push-api-20151215/",
-        "status": "Working Draft",
-        "date": "2015-12-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2015/WD-push-api-20150427/",
-        "status": "Working Draft",
-        "date": "2015-04-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2014/WD-push-api-20141007/",
-        "status": "Working Draft",
-        "date": "2014-10-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2013/WD-push-api-20130815/",
-        "status": "Working Draft",
-        "date": "2013-08-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2012/WD-push-api-20121018/",
-        "status": "Working Draft",
-        "date": "2012-10-18"
-      }
-    ],
-    "abstract": "The Push API enables sending of a push message to a web application via a push service. An application server can send a push message at any time, even when a web application or user agent is inactive. The push service ensures reliable and efficient delivery to the user agent. Push messages are delivered to a Service Worker that runs in the origin of the web application, which can use the information in the message to update local state or display a notification to the user."
-  },
-  {
     "url": "https://www.w3.org/TR/webgpu/",
     "title": "WebGPU",
     "status": "Draft Standard",
-    "date": "2024-07-08",
+    "date": "2024-07-09",
     "histUrl": "https://www.w3.org/standards/history/webgpu/",
     "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-webgpu-20240709/",
+        "status": "Working Draft",
+        "date": "2024-07-09"
+      },
       {
         "url": "https://www.w3.org/TR/2024/WD-webgpu-20240708/",
         "status": "Working Draft",
@@ -70882,128 +70307,853 @@
     "abstract": "WebGPU exposes an API for performing operations, such as rendering and computation, on a Graphics Processing Unit."
   },
   {
-    "url": "https://www.w3.org/TR/alreq/",
-    "title": "Arabic & Persian Layout Requirements",
-    "status": "Note",
-    "date": "2024-07-09",
-    "histUrl": "https://www.w3.org/standards/history/alreq/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-alreq-20240709/",
-        "status": "Draft Note",
-        "date": "2024-07-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-alreq-20240630/",
-        "status": "Draft Note",
-        "date": "2024-06-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-alreq-20240515/",
-        "status": "Draft Note",
-        "date": "2024-05-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-alreq-20240430/",
-        "status": "Draft Note",
-        "date": "2024-04-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-alreq-20231212/",
-        "status": "Draft Note",
-        "date": "2023-12-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-alreq-20211026/",
-        "status": "Working Draft",
-        "date": "2021-10-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-alreq-20200520/",
-        "status": "Working Draft",
-        "date": "2020-05-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-alreq-20180222/",
-        "status": "First Public Working Draft",
-        "date": "2018-02-22"
-      }
-    ],
-    "abstract": "This document describes requirements for the layout and presentation of text in languages that use the Arabic script when they are used by Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode."
-  },
-  {
-    "url": "https://www.w3.org/TR/IFT/",
-    "title": "Incremental Font Transfer",
+    "url": "https://www.w3.org/TR/accname-1.2/",
+    "title": "Accessible Name and Description Computation 1.2",
     "status": "Draft Standard",
-    "date": "2024-07-09",
-    "histUrl": "https://www.w3.org/standards/history/IFT/",
+    "date": "2024-07-10",
+    "histUrl": "https://www.w3.org/standards/history/accname-1.2/",
     "history": [
       {
-        "url": "https://www.w3.org/TR/2024/WD-IFT-20240709/",
+        "url": "https://www.w3.org/TR/2024/WD-accname-1.2-20240710/",
         "status": "Working Draft",
-        "date": "2024-07-09"
+        "date": "2024-07-10"
       },
       {
-        "url": "https://www.w3.org/TR/2023/WD-IFT-20230530/",
+        "url": "https://www.w3.org/TR/2024/WD-accname-1.2-20240621/",
         "status": "Working Draft",
-        "date": "2023-05-30"
+        "date": "2024-06-21"
       },
       {
-        "url": "https://www.w3.org/TR/2022/WD-IFT-20220628/",
+        "url": "https://www.w3.org/TR/2024/WD-accname-1.2-20240607/",
         "status": "Working Draft",
-        "date": "2022-06-28"
+        "date": "2024-06-07"
       },
       {
-        "url": "https://www.w3.org/TR/2021/WD-IFT-20210907/",
+        "url": "https://www.w3.org/TR/2024/WD-accname-1.2-20240429/",
+        "status": "Working Draft",
+        "date": "2024-04-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-accname-1.2-20240403/",
+        "status": "Working Draft",
+        "date": "2024-04-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-accname-1.2-20240227/",
+        "status": "Working Draft",
+        "date": "2024-02-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-accname-1.2-20190711/",
         "status": "First Public Working Draft",
-        "date": "2021-09-07"
+        "date": "2019-07-11"
       }
     ],
-    "abstract": "This specification defines a method to incrementally transfer fonts from server to client. Incremental transfer allows clients to load only the portions of the font they actually need which speeds up font loads and reduces data transfer needed to load the fonts. A font can be loaded over multiple requests where each request incrementally adds additional data."
+    "abstract": "This document describes how user agents determine the names and descriptions of accessible objects from web content languages. This information is in turn exposed through accessibility APIs so that assistive technologies can identify these objects and present their names or descriptions to users. Documenting the algorithm through which names and descriptions are to be determined promotes interoperable exposure of these properties among different accessibility APIs and helps to ensure that this information appears in a manner consistent with author intent."
   },
   {
-    "url": "https://www.w3.org/TR/mlreq/",
-    "title": "Mongolian Layout Requirements",
+    "url": "https://www.w3.org/TR/beng-gap/",
+    "title": "Bengali Gap Analysis",
     "status": "Note",
-    "date": "2024-07-09",
-    "histUrl": "https://www.w3.org/standards/history/mlreq/",
+    "date": "2024-07-10",
+    "histUrl": "https://www.w3.org/standards/history/beng-gap/",
     "history": [
       {
-        "url": "https://www.w3.org/TR/2024/DNOTE-mlreq-20240709/",
+        "url": "https://www.w3.org/TR/2024/DNOTE-beng-gap-20240710/",
         "status": "Draft Note",
-        "date": "2024-07-09"
+        "date": "2024-07-10"
       },
       {
-        "url": "https://www.w3.org/TR/2024/DNOTE-mlreq-20240705/",
+        "url": "https://www.w3.org/TR/2024/DNOTE-beng-gap-20240704/",
         "status": "Draft Note",
-        "date": "2024-07-05"
+        "date": "2024-07-04"
       },
       {
-        "url": "https://www.w3.org/TR/2024/DNOTE-mlreq-20240630/",
+        "url": "https://www.w3.org/TR/2024/DNOTE-beng-gap-20240701/",
         "status": "Draft Note",
-        "date": "2024-06-30"
+        "date": "2024-07-01"
       },
       {
-        "url": "https://www.w3.org/TR/2024/DNOTE-mlreq-20240515/",
+        "url": "https://www.w3.org/TR/2023/DNOTE-beng-gap-20231004/",
         "status": "Draft Note",
-        "date": "2024-05-15"
+        "date": "2023-10-04"
       },
       {
-        "url": "https://www.w3.org/TR/2024/DNOTE-mlreq-20240501/",
+        "url": "https://www.w3.org/TR/2023/DNOTE-beng-gap-20230830/",
         "status": "Draft Note",
-        "date": "2024-05-01"
+        "date": "2023-08-30"
       },
       {
-        "url": "https://www.w3.org/TR/2023/DNOTE-mlreq-20231124/",
+        "url": "https://www.w3.org/TR/2023/DNOTE-beng-gap-20230614/",
         "status": "Draft Note",
-        "date": "2023-11-24"
+        "date": "2023-06-14"
       },
       {
-        "url": "https://www.w3.org/TR/2020/WD-mlreq-20200616/",
+        "url": "https://www.w3.org/TR/2021/DNOTE-beng-gap-20211215/",
+        "status": "Draft Note",
+        "date": "2021-12-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-beng-gap-20210525/",
+        "status": "Working Draft",
+        "date": "2021-05-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-beng-gap-20210331/",
+        "status": "Working Draft",
+        "date": "2021-03-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-beng-gap-20210330/",
+        "status": "Working Draft",
+        "date": "2021-03-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-beng-gap-20210217/",
+        "status": "Working Draft",
+        "date": "2021-02-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-beng-gap-20210210/",
+        "status": "Working Draft",
+        "date": "2021-02-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-beng-gap-20210126/",
+        "status": "Working Draft",
+        "date": "2021-01-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-beng-gap-20200616/",
         "status": "First Public Working Draft",
         "date": "2020-06-16"
       }
     ],
-    "abstract": "This document describes or points to requirements for the layout and presentation of text in languages that use the Traditional Mongolian script. The target audience is developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Mongolian text."
+    "abstract": "This document describes and prioritises gaps for the support of the Bengali script on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, such as HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders."
+  },
+  {
+    "url": "https://www.w3.org/TR/ctaur/",
+    "title": "Collaboration Tools Accessibility User Requirements",
+    "status": "Note",
+    "date": "2024-07-10",
+    "histUrl": "https://www.w3.org/standards/history/ctaur/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-ctaur-20240710/",
+        "status": "Draft Note",
+        "date": "2024-07-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-ctaur-20240320/",
+        "status": "Draft Note",
+        "date": "2024-03-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-ctaur-20231024/",
+        "status": "Draft Note",
+        "date": "2023-10-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-ctaur-20221108/",
+        "status": "Draft Note",
+        "date": "2022-11-08"
+      }
+    ],
+    "abstract": "This document outlines various accessibility-related user needs and requirements for both synchronous and asynchronous web-based collaboration tools based on various collaborative engagement scenarios. These tools typically include one or more specific collaborative features such as content editing by multiple authors, support for comments annotations, and revision control in real-time synchronous sessions, or asynchronously. Asynchronous tools are more commonly known as revision control systems rather than collaboration tools though their functionality is otherwise very similar. The Cloud-based office application suites from Google and Microsoft are well-known examples of synchronous, real-time collaboration tools, though they also support asynchronous collaboration. Web tools built on git are well-known example of asynchronous collaboration tools."
+  },
+  {
+    "url": "https://www.w3.org/TR/deva-gap/",
+    "title": "Devanagari Gap Analysis",
+    "status": "Note",
+    "date": "2024-07-10",
+    "histUrl": "https://www.w3.org/standards/history/deva-gap/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-deva-gap-20240710/",
+        "status": "Draft Note",
+        "date": "2024-07-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-deva-gap-20240704/",
+        "status": "Draft Note",
+        "date": "2024-07-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-deva-gap-20240701/",
+        "status": "Draft Note",
+        "date": "2024-07-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-deva-gap-20231004/",
+        "status": "Draft Note",
+        "date": "2023-10-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-deva-gap-20230830/",
+        "status": "Draft Note",
+        "date": "2023-08-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-deva-gap-20230614/",
+        "status": "Draft Note",
+        "date": "2023-06-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-deva-gap-20220119/",
+        "status": "Draft Note",
+        "date": "2022-01-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-deva-gap-20210525/",
+        "status": "Working Draft",
+        "date": "2021-05-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-deva-gap-20210331/",
+        "status": "Working Draft",
+        "date": "2021-03-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-deva-gap-20210330/",
+        "status": "Working Draft",
+        "date": "2021-03-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-deva-gap-20210217/",
+        "status": "Working Draft",
+        "date": "2021-02-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-deva-gap-20210126/",
+        "status": "Working Draft",
+        "date": "2021-01-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-deva-gap-20200616/",
+        "status": "First Public Working Draft",
+        "date": "2020-06-16"
+      }
+    ],
+    "abstract": "This document describes and prioritises gaps for the support of the Devanagari script on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, such as HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders."
+  },
+  {
+    "url": "https://www.w3.org/TR/gujr-gap/",
+    "title": "Gujarati Gap Analysis",
+    "status": "Note",
+    "date": "2024-07-10",
+    "histUrl": "https://www.w3.org/standards/history/gujr-gap/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-gujr-gap-20240710/",
+        "status": "Draft Note",
+        "date": "2024-07-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-gujr-gap-20240704/",
+        "status": "Draft Note",
+        "date": "2024-07-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-gujr-gap-20240702/",
+        "status": "Draft Note",
+        "date": "2024-07-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-gujr-gap-20231004/",
+        "status": "Draft Note",
+        "date": "2023-10-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-gujr-gap-20230614/",
+        "status": "Draft Note",
+        "date": "2023-06-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-gujr-gap-20220119/",
+        "status": "Draft Note",
+        "date": "2022-01-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-gujr-gap-20210525/",
+        "status": "Working Draft",
+        "date": "2021-05-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-gujr-gap-20210217/",
+        "status": "Working Draft",
+        "date": "2021-02-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-gujr-gap-20210127/",
+        "status": "Working Draft",
+        "date": "2021-01-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-gujr-gap-20200616/",
+        "status": "First Public Working Draft",
+        "date": "2020-06-16"
+      }
+    ],
+    "abstract": "This document describes and prioritises gaps for the support of the Gujarati script on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, such as HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders."
+  },
+  {
+    "url": "https://www.w3.org/TR/guru-gap/",
+    "title": "Gurmukhi Gap Analysis",
+    "status": "Note",
+    "date": "2024-07-10",
+    "histUrl": "https://www.w3.org/standards/history/guru-gap/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-guru-gap-20240710/",
+        "status": "Draft Note",
+        "date": "2024-07-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-guru-gap-20240704/",
+        "status": "Draft Note",
+        "date": "2024-07-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-guru-gap-20240702/",
+        "status": "Draft Note",
+        "date": "2024-07-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-guru-gap-20230830/",
+        "status": "Draft Note",
+        "date": "2023-08-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-guru-gap-20230614/",
+        "status": "Draft Note",
+        "date": "2023-06-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-guru-gap-20210525/",
+        "status": "Working Draft",
+        "date": "2021-05-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-guru-gap-20200616/",
+        "status": "First Public Working Draft",
+        "date": "2020-06-16"
+      }
+    ],
+    "abstract": "This document describes and prioritises gaps for the support of the Gurmukhi script on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, such as HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders."
+  },
+  {
+    "url": "https://www.w3.org/TR/jpan-gap/",
+    "title": "Japanese Gap Analysis",
+    "status": "Note",
+    "date": "2024-07-10",
+    "histUrl": "https://www.w3.org/standards/history/jpan-gap/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-jpan-gap-20240710/",
+        "status": "Draft Note",
+        "date": "2024-07-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-jpan-gap-20240705/",
+        "status": "Draft Note",
+        "date": "2024-07-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-jpan-gap-20231004/",
+        "status": "Draft Note",
+        "date": "2023-10-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-jpan-gap-20230721/",
+        "status": "Draft Note",
+        "date": "2023-07-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-jpan-gap-20230720/",
+        "status": "Draft Note",
+        "date": "2023-07-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-jpan-gap-20230617/",
+        "status": "Draft Note",
+        "date": "2023-06-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-jpan-gap-20230615/",
+        "status": "Draft Note",
+        "date": "2023-06-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-jpan-gap-20220923/",
+        "status": "Draft Note",
+        "date": "2022-09-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/DNOTE-jpan-gap-20211122/",
+        "status": "Draft Note",
+        "date": "2021-11-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-jpan-gap-20211117/",
+        "status": "Working Draft",
+        "date": "2021-11-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-jpan-gap-20210525/",
+        "status": "Working Draft",
+        "date": "2021-05-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-jpan-gap-20210128/",
+        "status": "Working Draft",
+        "date": "2021-01-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-jpan-gap-20200616/",
+        "status": "First Public Working Draft",
+        "date": "2020-06-16"
+      }
+    ],
+    "abstract": "This document describes and prioritises gaps for the support of Japanese on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, such as HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders."
+  },
+  {
+    "url": "https://www.w3.org/TR/java-gap/",
+    "title": "Javanese Script Gap Analysis",
+    "status": "Note",
+    "date": "2024-07-10",
+    "histUrl": "https://www.w3.org/standards/history/java-gap/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-java-gap-20240710/",
+        "status": "Draft Note",
+        "date": "2024-07-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-java-gap-20240705/",
+        "status": "Draft Note",
+        "date": "2024-07-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-java-gap-20230807/",
+        "status": "Draft Note",
+        "date": "2023-08-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-java-gap-20230615/",
+        "status": "Draft Note",
+        "date": "2023-06-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-java-gap-20220119/",
+        "status": "Draft Note",
+        "date": "2022-01-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-java-gap-20210525/",
+        "status": "Working Draft",
+        "date": "2021-05-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-java-gap-20200616/",
+        "status": "First Public Working Draft",
+        "date": "2020-06-16"
+      }
+    ],
+    "abstract": "This document describes and prioritises gaps for the support of the Javanese script on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, such as HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders."
+  },
+  {
+    "url": "https://www.w3.org/TR/khmr-gap/",
+    "title": "Khmer Gap Analysis",
+    "status": "Note",
+    "date": "2024-07-10",
+    "histUrl": "https://www.w3.org/standards/history/khmr-gap/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-khmr-gap-20240710/",
+        "status": "Draft Note",
+        "date": "2024-07-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-khmr-gap-20240705/",
+        "status": "Draft Note",
+        "date": "2024-07-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-khmr-gap-20240630/",
+        "status": "Draft Note",
+        "date": "2024-06-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-khmr-gap-20240314/",
+        "status": "Draft Note",
+        "date": "2024-03-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-khmr-gap-20230615/",
+        "status": "Draft Note",
+        "date": "2023-06-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-khmr-gap-20220119/",
+        "status": "Draft Note",
+        "date": "2022-01-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-khmr-gap-20210525/",
+        "status": "Working Draft",
+        "date": "2021-05-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-khmr-gap-20200616/",
+        "status": "First Public Working Draft",
+        "date": "2020-06-16"
+      }
+    ],
+    "abstract": "This document describes and prioritises gaps for the support of the Khmer script on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, such as HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders."
+  },
+  {
+    "url": "https://www.w3.org/TR/khmr-lreq/",
+    "title": "Khmer Script Resources",
+    "status": "Note",
+    "date": "2024-07-10",
+    "histUrl": "https://www.w3.org/standards/history/khmr-lreq/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-khmr-lreq-20240710/",
+        "status": "Draft Note",
+        "date": "2024-07-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-khmr-lreq-20240705/",
+        "status": "Draft Note",
+        "date": "2024-07-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-khmr-lreq-20240630/",
+        "status": "Draft Note",
+        "date": "2024-06-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-khmr-lreq-20240515/",
+        "status": "Draft Note",
+        "date": "2024-05-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-khmr-lreq-20240419/",
+        "status": "Draft Note",
+        "date": "2024-04-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-khmr-lreq-20240411/",
+        "status": "Draft Note",
+        "date": "2024-04-11"
+      }
+    ],
+    "abstract": "This document points to resources for the layout and presentation of text in languages that use the Khmer script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Khmer text."
+  },
+  {
+    "url": "https://www.w3.org/TR/kore-gap/",
+    "title": "Korean Layout Gap Analysis",
+    "status": "Note",
+    "date": "2024-07-10",
+    "histUrl": "https://www.w3.org/standards/history/kore-gap/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-kore-gap-20240710/",
+        "status": "Draft Note",
+        "date": "2024-07-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-kore-gap-20240705/",
+        "status": "Draft Note",
+        "date": "2024-07-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-kore-gap-20230720/",
+        "status": "Draft Note",
+        "date": "2023-07-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-kore-gap-20230711/",
+        "status": "Draft Note",
+        "date": "2023-07-11"
+      }
+    ],
+    "abstract": "This document describes and prioritises gaps for the support of the Korean script on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, such as HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders."
+  },
+  {
+    "url": "https://www.w3.org/TR/laoo-gap/",
+    "title": "Lao Gap Analysis",
+    "status": "Note",
+    "date": "2024-07-10",
+    "histUrl": "https://www.w3.org/standards/history/laoo-gap/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-laoo-gap-20240710/",
+        "status": "Draft Note",
+        "date": "2024-07-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-laoo-gap-20240705/",
+        "status": "Draft Note",
+        "date": "2024-07-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-laoo-gap-20240630/",
+        "status": "Draft Note",
+        "date": "2024-06-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-laoo-gap-20230615/",
+        "status": "Draft Note",
+        "date": "2023-06-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-laoo-gap-20220119/",
+        "status": "Draft Note",
+        "date": "2022-01-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-laoo-gap-20210525/",
+        "status": "Working Draft",
+        "date": "2021-05-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-laoo-gap-20210127/",
+        "status": "Working Draft",
+        "date": "2021-01-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-laoo-gap-20200616/",
+        "status": "First Public Working Draft",
+        "date": "2020-06-16"
+      }
+    ],
+    "abstract": "This document describes and prioritises gaps for the support of the Lao script on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, such as HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders."
+  },
+  {
+    "url": "https://www.w3.org/TR/laoo-lreq/",
+    "title": "Lao Script Resources",
+    "status": "Note",
+    "date": "2024-07-10",
+    "histUrl": "https://www.w3.org/standards/history/laoo-lreq/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-laoo-lreq-20240710/",
+        "status": "Draft Note",
+        "date": "2024-07-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-laoo-lreq-20240705/",
+        "status": "Draft Note",
+        "date": "2024-07-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-laoo-lreq-20240630/",
+        "status": "Draft Note",
+        "date": "2024-06-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-laoo-lreq-20240515/",
+        "status": "Draft Note",
+        "date": "2024-05-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-laoo-lreq-20240430/",
+        "status": "Draft Note",
+        "date": "2024-04-30"
+      }
+    ],
+    "abstract": "This document points to resources for the layout and presentation of text in languages that use the Lao script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Lao text."
+  },
+  {
+    "url": "https://www.w3.org/TR/mong-gap/",
+    "title": "Mongolian Gap Analysis",
+    "status": "Note",
+    "date": "2024-07-10",
+    "histUrl": "https://www.w3.org/standards/history/mong-gap/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-mong-gap-20240710/",
+        "status": "Draft Note",
+        "date": "2024-07-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-mong-gap-20240705/",
+        "status": "Draft Note",
+        "date": "2024-07-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-mong-gap-20240630/",
+        "status": "Draft Note",
+        "date": "2024-06-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-mong-gap-20230720/",
+        "status": "Draft Note",
+        "date": "2023-07-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-mong-gap-20230614/",
+        "status": "Draft Note",
+        "date": "2023-06-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-mong-gap-20220125/",
+        "status": "Draft Note",
+        "date": "2022-01-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-mong-gap-20211117/",
+        "status": "Working Draft",
+        "date": "2021-11-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-mong-gap-20210525/",
+        "status": "Working Draft",
+        "date": "2021-05-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-mong-gap-20210127/",
+        "status": "Working Draft",
+        "date": "2021-01-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-mong-gap-20200616/",
+        "status": "First Public Working Draft",
+        "date": "2020-06-16"
+      }
+    ],
+    "abstract": "This document describes and prioritises gaps for the support of the Mongolian script on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, such as HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders."
+  },
+  {
+    "url": "https://www.w3.org/TR/thai-gap/",
+    "title": "Thai Gap Analysis",
+    "status": "Note",
+    "date": "2024-07-10",
+    "histUrl": "https://www.w3.org/standards/history/thai-gap/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-thai-gap-20240710/",
+        "status": "Draft Note",
+        "date": "2024-07-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-thai-gap-20240705/",
+        "status": "Draft Note",
+        "date": "2024-07-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-thai-gap-20240630/",
+        "status": "Draft Note",
+        "date": "2024-06-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-thai-gap-20230615/",
+        "status": "Draft Note",
+        "date": "2023-06-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-thai-gap-20220119/",
+        "status": "Draft Note",
+        "date": "2022-01-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-thai-gap-20210525/",
+        "status": "Working Draft",
+        "date": "2021-05-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-thai-gap-20210218/",
+        "status": "Working Draft",
+        "date": "2021-02-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-thai-gap-20210129/",
+        "status": "Working Draft",
+        "date": "2021-01-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-thai-gap-20210127/",
+        "status": "Working Draft",
+        "date": "2021-01-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-thai-gap-20200616/",
+        "status": "First Public Working Draft",
+        "date": "2020-06-16"
+      }
+    ],
+    "abstract": "This document describes and prioritises gaps for the support of the Thai script on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, such as HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders."
+  },
+  {
+    "url": "https://www.w3.org/TR/thai-lreq/",
+    "title": "Thai Script Resources",
+    "status": "Note",
+    "date": "2024-07-10",
+    "histUrl": "https://www.w3.org/standards/history/thai-lreq/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-thai-lreq-20240710/",
+        "status": "Draft Note",
+        "date": "2024-07-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-thai-lreq-20240705/",
+        "status": "Draft Note",
+        "date": "2024-07-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-thai-lreq-20240630/",
+        "status": "Draft Note",
+        "date": "2024-06-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-thai-lreq-20240515/",
+        "status": "Draft Note",
+        "date": "2024-05-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-thai-lreq-20240430/",
+        "status": "Draft Note",
+        "date": "2024-04-30"
+      }
+    ],
+    "abstract": "This document points to resources for the layout and presentation of text in languages that use the Thai script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Thai text."
+  },
+  {
+    "url": "https://www.w3.org/TR/tibt-gap/",
+    "title": "Tibetan Gap Analysis",
+    "status": "Note",
+    "date": "2024-07-10",
+    "histUrl": "https://www.w3.org/standards/history/tibt-gap/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-tibt-gap-20240710/",
+        "status": "Draft Note",
+        "date": "2024-07-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-tibt-gap-20240705/",
+        "status": "Draft Note",
+        "date": "2024-07-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-tibt-gap-20220119/",
+        "status": "Draft Note",
+        "date": "2022-01-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-tibt-gap-20210525/",
+        "status": "Working Draft",
+        "date": "2021-05-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-tibt-gap-20200616/",
+        "status": "First Public Working Draft",
+        "date": "2020-06-16"
+      }
+    ],
+    "abstract": "This document describes and prioritises gaps for the support of the Tibetan script on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, such as HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders."
   }
 ]
