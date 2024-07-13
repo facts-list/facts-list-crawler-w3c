@@ -57582,41 +57582,6 @@
     "abstract": "Credentials are a part of our daily lives; driver's licenses are used to assert that we are capable of operating a motor vehicle, university degrees can be used to assert our level of education, and government-issued passports enable us to travel between countries. The family of W3C Recommendations for Verifiable Credentials, described in this overview document, provides a mechanism to express these sorts of credentials on the Web in a way that is cryptographically secure, privacy respecting, and machine-verifiable."
   },
   {
-    "url": "https://www.w3.org/TR/webmidi/",
-    "title": "Web MIDI API",
-    "status": "Draft Standard",
-    "date": "2024-07-06",
-    "histUrl": "https://www.w3.org/standards/history/webmidi/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-webmidi-20240706/",
-        "status": "Working Draft",
-        "date": "2024-07-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2015/WD-webmidi-20150317/",
-        "status": "Working Draft",
-        "date": "2015-03-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2013/WD-webmidi-20131126/",
-        "status": "Working Draft",
-        "date": "2013-11-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2012/WD-webmidi-20121213/",
-        "status": "Working Draft",
-        "date": "2012-12-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2012/WD-webmidi-20121025/",
-        "status": "Working Draft",
-        "date": "2012-10-25"
-      }
-    ],
-    "abstract": "Some user agents have music devices, such as synthesizers, keyboard and other controllers, and drum machines connected to their host computer or device. The widely adopted Musical Instrument Digital Interface (MIDI) protocol enables electronic musical instruments, controllers and computers to communicate and synchronize with each other. MIDI does not transmit audio signals: instead, it sends event messages about musical notes, controller signals for parameters such as volume, vibrato and panning, cues and clock signals to set the tempo, and system-specific MIDI communications (e.g. to remotely store synthesizer-specific patch data). This same protocol has become a standard for non-musical uses, such as show control, lighting and special effects control."
-  },
-  {
     "url": "https://www.w3.org/TR/contact-picker/",
     "title": "Contact Picker API",
     "status": "Draft Standard",
@@ -68785,6 +68750,46 @@
       }
     ],
     "abstract": "This registry is intended to enumerate the metadata fields that can be attached to VideoFrame objects via the VideoFrameMetadata dictionary."
+  },
+  {
+    "url": "https://www.w3.org/TR/webmidi/",
+    "title": "Web MIDI API",
+    "status": "Draft Standard",
+    "date": "2024-07-12",
+    "histUrl": "https://www.w3.org/standards/history/webmidi/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-webmidi-20240712/",
+        "status": "Working Draft",
+        "date": "2024-07-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-webmidi-20240706/",
+        "status": "Working Draft",
+        "date": "2024-07-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2015/WD-webmidi-20150317/",
+        "status": "Working Draft",
+        "date": "2015-03-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2013/WD-webmidi-20131126/",
+        "status": "Working Draft",
+        "date": "2013-11-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2012/WD-webmidi-20121213/",
+        "status": "Working Draft",
+        "date": "2012-12-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2012/WD-webmidi-20121025/",
+        "status": "Working Draft",
+        "date": "2012-10-25"
+      }
+    ],
+    "abstract": "Some user agents have music devices, such as synthesizers, keyboard and other controllers, and drum machines connected to their host computer or device. The widely adopted Musical Instrument Digital Interface (MIDI) protocol enables electronic musical instruments, controllers and computers to communicate and synchronize with each other. MIDI does not transmit audio signals: instead, it sends event messages about musical notes, controller signals for parameters such as volume, vibrato and panning, cues and clock signals to set the tempo, and system-specific MIDI communications (e.g. to remotely store synthesizer-specific patch data). This same protocol has become a standard for non-musical uses, such as show control, lighting and special effects control."
   },
   {
     "url": "https://www.w3.org/TR/webnn/",
