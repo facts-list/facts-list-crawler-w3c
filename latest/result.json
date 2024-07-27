@@ -63497,36 +63497,6 @@
     "abstract": "This registry is intended to enhance interoperability among implementations and users of [WEBCODECS]. In particular, this registry provides the means to identify and avoid collisions among codec strings and provides a mechanism to define codec-specific members of [WEBCODECS] codec configuration dictionaries."
   },
   {
-    "url": "https://www.w3.org/TR/webcodecs-video-frame-metadata-registry/",
-    "title": "WebCodecs VideoFrame Metadata Registry",
-    "status": "Draft Registry",
-    "date": "2024-07-17",
-    "histUrl": "https://www.w3.org/standards/history/webcodecs-video-frame-metadata-registry/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/DRY-webcodecs-video-frame-metadata-registry-20240717/",
-        "status": "Draft Registry",
-        "date": "2024-07-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DRY-webcodecs-video-frame-metadata-registry-20240711/",
-        "status": "Draft Registry",
-        "date": "2024-07-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DRY-webcodecs-video-frame-metadata-registry-20240704/",
-        "status": "Draft Registry",
-        "date": "2024-07-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DRY-webcodecs-video-frame-metadata-registry-20240702/",
-        "status": "Draft Registry",
-        "date": "2024-07-02"
-      }
-    ],
-    "abstract": "This registry is intended to enumerate the metadata fields that can be attached to VideoFrame objects via the VideoFrameMetadata dictionary."
-  },
-  {
     "url": "https://www.w3.org/TR/eme-initdata-cenc/",
     "title": "\"cenc\" Initialization Data Format",
     "status": "Note",
@@ -69702,12 +69672,52 @@
     "abstract": "This specification describes an imperative API enabling a website to request a user’s credentials from a user agent, and to help the user agent correctly store user credentials for future use."
   },
   {
+    "url": "https://www.w3.org/TR/webcodecs-video-frame-metadata-registry/",
+    "title": "WebCodecs VideoFrame Metadata Registry",
+    "status": "Draft Registry",
+    "date": "2024-07-26",
+    "histUrl": "https://www.w3.org/standards/history/webcodecs-video-frame-metadata-registry/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/DRY-webcodecs-video-frame-metadata-registry-20240726/",
+        "status": "Draft Registry",
+        "date": "2024-07-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DRY-webcodecs-video-frame-metadata-registry-20240717/",
+        "status": "Draft Registry",
+        "date": "2024-07-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DRY-webcodecs-video-frame-metadata-registry-20240711/",
+        "status": "Draft Registry",
+        "date": "2024-07-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DRY-webcodecs-video-frame-metadata-registry-20240704/",
+        "status": "Draft Registry",
+        "date": "2024-07-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DRY-webcodecs-video-frame-metadata-registry-20240702/",
+        "status": "Draft Registry",
+        "date": "2024-07-02"
+      }
+    ],
+    "abstract": "This registry is intended to enumerate the metadata fields that can be attached to VideoFrame objects via the VideoFrameMetadata dictionary."
+  },
+  {
     "url": "https://www.w3.org/TR/webgpu/",
     "title": "WebGPU",
     "status": "Draft Standard",
-    "date": "2024-07-26",
+    "date": "2024-07-27",
     "histUrl": "https://www.w3.org/standards/history/webgpu/",
     "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-webgpu-20240727/",
+        "status": "Working Draft",
+        "date": "2024-07-27"
+      },
       {
         "url": "https://www.w3.org/TR/2024/WD-webgpu-20240726/",
         "status": "Working Draft",
