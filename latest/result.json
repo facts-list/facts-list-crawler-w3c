@@ -67927,81 +67927,6 @@
     "abstract": "Shading language for WebGPU."
   },
   {
-    "url": "https://www.w3.org/TR/credential-management-1/",
-    "title": "Credential Management Level 1",
-    "status": "Draft Standard",
-    "date": "2024-07-26",
-    "histUrl": "https://www.w3.org/standards/history/credential-management-1/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-credential-management-1-20240726/",
-        "status": "Working Draft",
-        "date": "2024-07-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-credential-management-1-20240724/",
-        "status": "Working Draft",
-        "date": "2024-07-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-credential-management-1-20240613/",
-        "status": "Working Draft",
-        "date": "2024-06-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-credential-management-1-20240610/",
-        "status": "Working Draft",
-        "date": "2024-06-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-credential-management-1-20240530/",
-        "status": "Working Draft",
-        "date": "2024-05-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-credential-management-1-20240529/",
-        "status": "Working Draft",
-        "date": "2024-05-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-credential-management-1-20240523/",
-        "status": "Working Draft",
-        "date": "2024-05-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-credential-management-1-20240522/",
-        "status": "Working Draft",
-        "date": "2024-05-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-credential-management-1-20240228/",
-        "status": "Working Draft",
-        "date": "2024-02-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-credential-management-1-20190117/",
-        "status": "Working Draft",
-        "date": "2019-01-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-credential-management-1-20170804/",
-        "status": "Working Draft",
-        "date": "2017-08-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2016/WD-credential-management-1-20160425/",
-        "status": "Working Draft",
-        "date": "2016-04-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2015/WD-credential-management-1-20150430/",
-        "status": "First Public Working Draft",
-        "date": "2015-04-30"
-      }
-    ],
-    "abstract": "This specification describes an imperative API enabling a website to request a user’s credentials from a user agent, and to help the user agent correctly store user credentials for future use."
-  },
-  {
     "url": "https://www.w3.org/TR/webcodecs-video-frame-metadata-registry/",
     "title": "WebCodecs VideoFrame Metadata Registry",
     "status": "Draft Registry",
@@ -71585,5 +71510,85 @@
       }
     ],
     "abstract": "WebGPU exposes an API for performing operations, such as rendering and computation, on a Graphics Processing Unit."
+  },
+  {
+    "url": "https://www.w3.org/TR/credential-management-1/",
+    "title": "Credential Management Level 1",
+    "status": "Draft Standard",
+    "date": "2024-07-29",
+    "histUrl": "https://www.w3.org/standards/history/credential-management-1/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-credential-management-1-20240729/",
+        "status": "Working Draft",
+        "date": "2024-07-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-credential-management-1-20240726/",
+        "status": "Working Draft",
+        "date": "2024-07-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-credential-management-1-20240724/",
+        "status": "Working Draft",
+        "date": "2024-07-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-credential-management-1-20240613/",
+        "status": "Working Draft",
+        "date": "2024-06-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-credential-management-1-20240610/",
+        "status": "Working Draft",
+        "date": "2024-06-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-credential-management-1-20240530/",
+        "status": "Working Draft",
+        "date": "2024-05-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-credential-management-1-20240529/",
+        "status": "Working Draft",
+        "date": "2024-05-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-credential-management-1-20240523/",
+        "status": "Working Draft",
+        "date": "2024-05-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-credential-management-1-20240522/",
+        "status": "Working Draft",
+        "date": "2024-05-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-credential-management-1-20240228/",
+        "status": "Working Draft",
+        "date": "2024-02-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-credential-management-1-20190117/",
+        "status": "Working Draft",
+        "date": "2019-01-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-credential-management-1-20170804/",
+        "status": "Working Draft",
+        "date": "2017-08-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/WD-credential-management-1-20160425/",
+        "status": "Working Draft",
+        "date": "2016-04-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2015/WD-credential-management-1-20150430/",
+        "status": "First Public Working Draft",
+        "date": "2015-04-30"
+      }
+    ],
+    "abstract": "This specification describes an imperative API enabling a website to request a user’s credentials from a user agent, and to help the user agent correctly store user credentials for future use."
   }
 ]
