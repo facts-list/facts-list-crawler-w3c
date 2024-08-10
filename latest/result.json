@@ -31962,56 +31962,6 @@
     "abstract": "This module describes how the CSS formatting box tree is generated from the document element tree and defines the display property that controls it."
   },
   {
-    "url": "https://www.w3.org/TR/css-position-3/",
-    "title": "CSS Positioned Layout Module Level 3",
-    "status": "Draft Standard",
-    "date": "2023-04-03",
-    "histUrl": "https://www.w3.org/standards/history/css-position-3/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2023/WD-css-position-3-20230403/",
-        "status": "Working Draft",
-        "date": "2023-04-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-css-position-3-20230217/",
-        "status": "Working Draft",
-        "date": "2023-02-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-css-position-3-20220901/",
-        "status": "Working Draft",
-        "date": "2022-09-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-css-position-3-20211216/",
-        "status": "Working Draft",
-        "date": "2021-12-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-css-position-3-20200519/",
-        "status": "Working Draft",
-        "date": "2020-05-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2016/WD-css-position-3-20160517/",
-        "status": "Working Draft",
-        "date": "2016-05-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2015/WD-css3-positioning-20150203/",
-        "status": "Working Draft",
-        "date": "2015-02-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2012/WD-css3-positioning-20120207/",
-        "status": "Working Draft",
-        "date": "2012-02-07"
-      }
-    ],
-    "abstract": "This module contains defines coordinate-based positioning and offsetting schemes of CSS: relative positioning, sticky positioning, absolute positioning, and fixed positioning."
-  },
-  {
     "url": "https://www.w3.org/TR/css-font-loading-3/",
     "title": "CSS Font Loading Module Level 3",
     "status": "Draft Standard",
@@ -36750,61 +36700,6 @@
       }
     ],
     "abstract": "This document defines a set of Fetch metadata request headers that aim to provide servers with enough information to make a priori decisions about whether or not to service a request based on the way it was made, and the context in which it will be used."
-  },
-  {
-    "url": "https://www.w3.org/TR/reporting-1/",
-    "title": "Reporting API",
-    "status": "Draft Standard",
-    "date": "2023-11-10",
-    "histUrl": "https://www.w3.org/standards/history/reporting-1/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2023/WD-reporting-1-20231110/",
-        "status": "Working Draft",
-        "date": "2023-11-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-reporting-1-20230512/",
-        "status": "Working Draft",
-        "date": "2023-05-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-reporting-1-20220917/",
-        "status": "Working Draft",
-        "date": "2022-09-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-reporting-1-20220916/",
-        "status": "Working Draft",
-        "date": "2022-09-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-reporting-1-20220915/",
-        "status": "Working Draft",
-        "date": "2022-09-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-reporting-1-20220405/",
-        "status": "Working Draft",
-        "date": "2022-04-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-reporting-1-20180925/",
-        "status": "Working Draft",
-        "date": "2018-09-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2016/NOTE-reporting-1-20160607/",
-        "status": "Retired",
-        "date": "2016-06-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2016/WD-reporting-1-20160407/",
-        "status": "First Public Working Draft",
-        "date": "2016-04-07"
-      }
-    ],
-    "abstract": "This document defines a generic reporting framework which allows web developers to associate a set of named reporting endpoints with an origin. Various platform features can use these endpoints to deliver feature-specific reports in a consistent manner."
   },
   {
     "url": "https://www.w3.org/TR/secure-contexts/",
@@ -48585,171 +48480,6 @@
       }
     ],
     "abstract": "This document summarizes text composition requirements in the Chinese writing system. One of the goals of the task force is to describe issues for Chinese layout, another is to describe correspondences with existing standards (such as Unicode), as well as to encourage vendors to implement relevant features correctly."
-  },
-  {
-    "url": "https://www.w3.org/TR/geolocation/",
-    "title": "Geolocation",
-    "status": "Standard",
-    "date": "2024-07-02",
-    "histUrl": "https://www.w3.org/standards/history/geolocation/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/REC-geolocation-20240702/",
-        "status": "Recommendation",
-        "date": "2024-07-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/REC-geolocation-20240619/",
-        "status": "Recommendation",
-        "date": "2024-06-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/REC-geolocation-20240615/",
-        "status": "Recommendation",
-        "date": "2024-06-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/REC-geolocation-20240614/",
-        "status": "Recommendation",
-        "date": "2024-06-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/REC-geolocation-20240613/",
-        "status": "Recommendation",
-        "date": "2024-06-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/REC-geolocation-20220901/",
-        "status": "Recommendation",
-        "date": "2022-09-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/PR-geolocation-20220407/",
-        "status": "Proposed Recommendation",
-        "date": "2022-04-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/CRD-geolocation-20220318/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2022-03-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/CRD-geolocation-20220314/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2022-03-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/CRD-geolocation-20220307/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2022-03-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/CRD-geolocation-20220221/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2022-02-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/CR-geolocation-20220217/",
-        "status": "Candidate Recommendation Snapshot",
-        "date": "2022-02-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-geolocation-20220210/",
-        "status": "Working Draft",
-        "date": "2022-02-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-geolocation-20220129/",
-        "status": "Working Draft",
-        "date": "2022-01-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-geolocation-20211124/",
-        "status": "Working Draft",
-        "date": "2021-11-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-geolocation-20211123/",
-        "status": "Working Draft",
-        "date": "2021-11-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-geolocation-20211103/",
-        "status": "Working Draft",
-        "date": "2021-11-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-geolocation-20211012/",
-        "status": "Working Draft",
-        "date": "2021-10-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210930/",
-        "status": "Working Draft",
-        "date": "2021-09-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210812/",
-        "status": "Working Draft",
-        "date": "2021-08-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210730/",
-        "status": "Working Draft",
-        "date": "2021-07-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210727/",
-        "status": "Working Draft",
-        "date": "2021-07-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210726/",
-        "status": "Working Draft",
-        "date": "2021-07-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210715/",
-        "status": "Working Draft",
-        "date": "2021-07-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210708/",
-        "status": "Working Draft",
-        "date": "2021-07-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210615/",
-        "status": "Working Draft",
-        "date": "2021-06-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210610/",
-        "status": "Working Draft",
-        "date": "2021-06-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210607/",
-        "status": "Working Draft",
-        "date": "2021-06-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210601/",
-        "status": "Working Draft",
-        "date": "2021-06-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210531/",
-        "status": "Working Draft",
-        "date": "2021-05-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210527/",
-        "status": "First Public Working Draft",
-        "date": "2021-05-27"
-      }
-    ],
-    "abstract": "Geolocation provides access to geographical location information associated with the hosting device."
   },
   {
     "url": "https://www.w3.org/TR/wcag2ict-22/",
@@ -61887,176 +61617,6 @@
     "abstract": "This document contains a set of design principles to be used when designing web platform technologies. These principles have been collected during the Technical Architecture Group’s discussions in reviewing developing specifications, and build upon the Ethical Web Principles [ETHICAL-WEB]. We encourage specification designers to read this document and use it as a resource when making design decisions."
   },
   {
-    "url": "https://www.w3.org/TR/wasm-core-2/",
-    "title": "WebAssembly Core Specification",
-    "status": "Draft Standard",
-    "date": "2024-07-18",
-    "histUrl": "https://www.w3.org/standards/history/wasm-core-2/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-core-2-20240718/",
-        "status": "Working Draft",
-        "date": "2024-07-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-core-2-20240702/",
-        "status": "Working Draft",
-        "date": "2024-07-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-core-2-20240626/",
-        "status": "Working Draft",
-        "date": "2024-06-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-core-2-20240428/",
-        "status": "Working Draft",
-        "date": "2024-04-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-core-2-20240412/",
-        "status": "Working Draft",
-        "date": "2024-04-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-core-2-20240410/",
-        "status": "Working Draft",
-        "date": "2024-04-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-core-2-20240403/",
-        "status": "Working Draft",
-        "date": "2024-04-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-core-2-20240402/",
-        "status": "Working Draft",
-        "date": "2024-04-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-core-2-20240305/",
-        "status": "Working Draft",
-        "date": "2024-03-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-core-2-20240228/",
-        "status": "Working Draft",
-        "date": "2024-02-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-core-2-20240219/",
-        "status": "Working Draft",
-        "date": "2024-02-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-core-2-20240218/",
-        "status": "Working Draft",
-        "date": "2024-02-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-core-2-20240217/",
-        "status": "Working Draft",
-        "date": "2024-02-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-wasm-core-2-20220419/",
-        "status": "First Public Working Draft",
-        "date": "2022-04-19"
-      }
-    ],
-    "abstract": "This document describes release 2.0 of the core WebAssembly standard, a safe, portable, low-level code format designed for efficient execution and compact representation."
-  },
-  {
-    "url": "https://www.w3.org/TR/wasm-web-api-2/",
-    "title": "WebAssembly Web API",
-    "status": "Draft Standard",
-    "date": "2024-07-18",
-    "histUrl": "https://www.w3.org/standards/history/wasm-web-api-2/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240718/",
-        "status": "Working Draft",
-        "date": "2024-07-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240702/",
-        "status": "Working Draft",
-        "date": "2024-07-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240626/",
-        "status": "Working Draft",
-        "date": "2024-06-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240428/",
-        "status": "Working Draft",
-        "date": "2024-04-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240412/",
-        "status": "Working Draft",
-        "date": "2024-04-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240410/",
-        "status": "Working Draft",
-        "date": "2024-04-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240403/",
-        "status": "Working Draft",
-        "date": "2024-04-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240402/",
-        "status": "Working Draft",
-        "date": "2024-04-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240305/",
-        "status": "Working Draft",
-        "date": "2024-03-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240228/",
-        "status": "Working Draft",
-        "date": "2024-02-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240219/",
-        "status": "Working Draft",
-        "date": "2024-02-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240218/",
-        "status": "Working Draft",
-        "date": "2024-02-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240217/",
-        "status": "Working Draft",
-        "date": "2024-02-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240216/",
-        "status": "Working Draft",
-        "date": "2024-02-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240215/",
-        "status": "Working Draft",
-        "date": "2024-02-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-wasm-web-api-2-20220419/",
-        "status": "First Public Working Draft",
-        "date": "2022-04-19"
-      }
-    ],
-    "abstract": "This document describes the integration of WebAssembly with the broader web platform."
-  },
-  {
     "url": "https://www.w3.org/TR/eme-stream-webm/",
     "title": "WebM Stream Format",
     "status": "Note",
@@ -71102,12 +70662,462 @@
     "abstract": "This document points to resources for the layout and presentation of text in languages that use the Tamil script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Tamil text."
   },
   {
+    "url": "https://www.w3.org/TR/WOFF2/",
+    "title": "WOFF File Format 2.0",
+    "status": "Standard",
+    "date": "2024-08-08",
+    "histUrl": "https://www.w3.org/standards/history/WOFF2/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/REC-WOFF2-20240808/",
+        "status": "Recommendation",
+        "date": "2024-08-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/REC-WOFF2-20220310/",
+        "status": "Recommendation",
+        "date": "2022-03-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/REC-WOFF2-20210706/",
+        "status": "Recommendation",
+        "date": "2021-07-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/REC-WOFF2-20180301/",
+        "status": "Recommendation",
+        "date": "2018-03-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/PR-WOFF2-20180111/",
+        "status": "Proposed Recommendation",
+        "date": "2018-01-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/CR-WOFF2-20160315/",
+        "status": "Candidate Recommendation Snapshot",
+        "date": "2016-03-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2015/WD-WOFF2-20150414/",
+        "status": "Working Draft",
+        "date": "2015-04-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2014/WD-WOFF2-20140508/",
+        "status": "First Public Working Draft",
+        "date": "2014-05-08"
+      }
+    ],
+    "abstract": "Based on experience with WOFF 1.0, which is widely deployed, this specification was developed to provide improved compression and thus lower use of network bandwidth, while still allowing fast decompression even on mobile devices. This is achieved by combining a content-aware preprocessing step and improved entropy coding, compared to the Flate compression used in WOFF 1.0."
+  },
+  {
+    "url": "https://www.w3.org/TR/geolocation/",
+    "title": "Geolocation",
+    "status": "Standard",
+    "date": "2024-08-09",
+    "histUrl": "https://www.w3.org/standards/history/geolocation/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/REC-geolocation-20240809/",
+        "status": "Recommendation",
+        "date": "2024-08-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/REC-geolocation-20240702/",
+        "status": "Recommendation",
+        "date": "2024-07-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/REC-geolocation-20240619/",
+        "status": "Recommendation",
+        "date": "2024-06-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/REC-geolocation-20240615/",
+        "status": "Recommendation",
+        "date": "2024-06-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/REC-geolocation-20240614/",
+        "status": "Recommendation",
+        "date": "2024-06-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/REC-geolocation-20240613/",
+        "status": "Recommendation",
+        "date": "2024-06-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/REC-geolocation-20220901/",
+        "status": "Recommendation",
+        "date": "2022-09-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/PR-geolocation-20220407/",
+        "status": "Proposed Recommendation",
+        "date": "2022-04-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/CRD-geolocation-20220318/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2022-03-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/CRD-geolocation-20220314/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2022-03-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/CRD-geolocation-20220307/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2022-03-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/CRD-geolocation-20220221/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2022-02-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/CR-geolocation-20220217/",
+        "status": "Candidate Recommendation Snapshot",
+        "date": "2022-02-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-geolocation-20220210/",
+        "status": "Working Draft",
+        "date": "2022-02-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-geolocation-20220129/",
+        "status": "Working Draft",
+        "date": "2022-01-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-geolocation-20211124/",
+        "status": "Working Draft",
+        "date": "2021-11-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-geolocation-20211123/",
+        "status": "Working Draft",
+        "date": "2021-11-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-geolocation-20211103/",
+        "status": "Working Draft",
+        "date": "2021-11-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-geolocation-20211012/",
+        "status": "Working Draft",
+        "date": "2021-10-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210930/",
+        "status": "Working Draft",
+        "date": "2021-09-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210812/",
+        "status": "Working Draft",
+        "date": "2021-08-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210730/",
+        "status": "Working Draft",
+        "date": "2021-07-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210727/",
+        "status": "Working Draft",
+        "date": "2021-07-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210726/",
+        "status": "Working Draft",
+        "date": "2021-07-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210715/",
+        "status": "Working Draft",
+        "date": "2021-07-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210708/",
+        "status": "Working Draft",
+        "date": "2021-07-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210615/",
+        "status": "Working Draft",
+        "date": "2021-06-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210610/",
+        "status": "Working Draft",
+        "date": "2021-06-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210607/",
+        "status": "Working Draft",
+        "date": "2021-06-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210601/",
+        "status": "Working Draft",
+        "date": "2021-06-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210531/",
+        "status": "Working Draft",
+        "date": "2021-05-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210527/",
+        "status": "First Public Working Draft",
+        "date": "2021-05-27"
+      }
+    ],
+    "abstract": "Geolocation provides access to geographical location information associated with the hosting device."
+  },
+  {
+    "url": "https://www.w3.org/TR/java-lreq/",
+    "title": "Javanese Script Resources",
+    "status": "Note",
+    "date": "2024-08-09",
+    "histUrl": "https://www.w3.org/standards/history/java-lreq/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-java-lreq-20240809/",
+        "status": "Draft Note",
+        "date": "2024-08-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-java-lreq-20240730/",
+        "status": "Draft Note",
+        "date": "2024-07-30"
+      }
+    ],
+    "abstract": "This document points to resources for the layout and presentation of text in languages that use the Javanese script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Javanese text."
+  },
+  {
+    "url": "https://www.w3.org/TR/khmr-lreq/",
+    "title": "Khmer Script Resources",
+    "status": "Note",
+    "date": "2024-08-09",
+    "histUrl": "https://www.w3.org/standards/history/khmr-lreq/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-khmr-lreq-20240809/",
+        "status": "Draft Note",
+        "date": "2024-08-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-khmr-lreq-20240710/",
+        "status": "Draft Note",
+        "date": "2024-07-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-khmr-lreq-20240705/",
+        "status": "Draft Note",
+        "date": "2024-07-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-khmr-lreq-20240630/",
+        "status": "Draft Note",
+        "date": "2024-06-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-khmr-lreq-20240515/",
+        "status": "Draft Note",
+        "date": "2024-05-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-khmr-lreq-20240419/",
+        "status": "Draft Note",
+        "date": "2024-04-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-khmr-lreq-20240411/",
+        "status": "Draft Note",
+        "date": "2024-04-11"
+      }
+    ],
+    "abstract": "This document points to resources for the layout and presentation of text in languages that use the Khmer script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Khmer text."
+  },
+  {
+    "url": "https://www.w3.org/TR/laoo-lreq/",
+    "title": "Lao Script Resources",
+    "status": "Note",
+    "date": "2024-08-09",
+    "histUrl": "https://www.w3.org/standards/history/laoo-lreq/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-laoo-lreq-20240809/",
+        "status": "Draft Note",
+        "date": "2024-08-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-laoo-lreq-20240710/",
+        "status": "Draft Note",
+        "date": "2024-07-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-laoo-lreq-20240705/",
+        "status": "Draft Note",
+        "date": "2024-07-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-laoo-lreq-20240630/",
+        "status": "Draft Note",
+        "date": "2024-06-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-laoo-lreq-20240515/",
+        "status": "Draft Note",
+        "date": "2024-05-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-laoo-lreq-20240430/",
+        "status": "Draft Note",
+        "date": "2024-04-30"
+      }
+    ],
+    "abstract": "This document points to resources for the layout and presentation of text in languages that use the Lao script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Lao text."
+  },
+  {
+    "url": "https://www.w3.org/TR/reporting-1/",
+    "title": "Reporting API",
+    "status": "Draft Standard",
+    "date": "2024-08-09",
+    "histUrl": "https://www.w3.org/standards/history/reporting-1/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-reporting-1-20240809/",
+        "status": "Working Draft",
+        "date": "2024-08-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-reporting-1-20231110/",
+        "status": "Working Draft",
+        "date": "2023-11-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-reporting-1-20230512/",
+        "status": "Working Draft",
+        "date": "2023-05-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-reporting-1-20220917/",
+        "status": "Working Draft",
+        "date": "2022-09-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-reporting-1-20220916/",
+        "status": "Working Draft",
+        "date": "2022-09-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-reporting-1-20220915/",
+        "status": "Working Draft",
+        "date": "2022-09-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-reporting-1-20220405/",
+        "status": "Working Draft",
+        "date": "2022-04-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-reporting-1-20180925/",
+        "status": "Working Draft",
+        "date": "2018-09-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/NOTE-reporting-1-20160607/",
+        "status": "Retired",
+        "date": "2016-06-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/WD-reporting-1-20160407/",
+        "status": "First Public Working Draft",
+        "date": "2016-04-07"
+      }
+    ],
+    "abstract": "This document defines a generic reporting framework which allows web developers to associate a set of named reporting endpoints with an origin. Various platform features can use these endpoints to deliver feature-specific reports in a consistent manner."
+  },
+  {
+    "url": "https://www.w3.org/TR/thai-lreq/",
+    "title": "Thai Script Resources",
+    "status": "Note",
+    "date": "2024-08-09",
+    "histUrl": "https://www.w3.org/standards/history/thai-lreq/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-thai-lreq-20240809/",
+        "status": "Draft Note",
+        "date": "2024-08-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-thai-lreq-20240710/",
+        "status": "Draft Note",
+        "date": "2024-07-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-thai-lreq-20240705/",
+        "status": "Draft Note",
+        "date": "2024-07-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-thai-lreq-20240630/",
+        "status": "Draft Note",
+        "date": "2024-06-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-thai-lreq-20240515/",
+        "status": "Draft Note",
+        "date": "2024-05-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-thai-lreq-20240430/",
+        "status": "Draft Note",
+        "date": "2024-04-30"
+      }
+    ],
+    "abstract": "This document points to resources for the layout and presentation of text in languages that use the Thai script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Thai text."
+  },
+  {
+    "url": "https://www.w3.org/TR/tibt-lreq/",
+    "title": "Tibetan Script Resources",
+    "status": "Note",
+    "date": "2024-08-09",
+    "histUrl": "https://www.w3.org/standards/history/tibt-lreq/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-tibt-lreq-20240809/",
+        "status": "Draft Note",
+        "date": "2024-08-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-tibt-lreq-20240730/",
+        "status": "Draft Note",
+        "date": "2024-07-30"
+      }
+    ],
+    "abstract": "This document describes or points to requirements for the layout and presentation of text in languages that use the Tibetan script. The target audience is developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Tibetan script text."
+  },
+  {
     "url": "https://www.w3.org/TR/vc-data-model-2.0/",
     "title": "Verifiable Credentials Data Model v2.0",
     "status": "Candidate Standard",
-    "date": "2024-08-08",
+    "date": "2024-08-09",
     "histUrl": "https://www.w3.org/standards/history/vc-data-model-2.0/",
     "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-data-model-2.0-20240809/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-08-09"
+      },
       {
         "url": "https://www.w3.org/TR/2024/CRD-vc-data-model-2.0-20240808/",
         "status": "Candidate Recommendation Draft",
@@ -71827,218 +71837,238 @@
     "abstract": "Credentials are a part of our daily lives; driver's licenses are used to assert that we are capable of operating a motor vehicle, university degrees can be used to assert our level of education, and government-issued passports enable us to travel between countries. This specification provides a mechanism to express these sorts of credentials on the Web in a way that is cryptographically secure, privacy respecting, and machine-verifiable."
   },
   {
-    "url": "https://www.w3.org/TR/WOFF2/",
-    "title": "WOFF File Format 2.0",
-    "status": "Standard",
-    "date": "2024-08-08",
-    "histUrl": "https://www.w3.org/standards/history/WOFF2/",
+    "url": "https://www.w3.org/TR/wasm-core-2/",
+    "title": "WebAssembly Core Specification",
+    "status": "Draft Standard",
+    "date": "2024-08-09",
+    "histUrl": "https://www.w3.org/standards/history/wasm-core-2/",
     "history": [
       {
-        "url": "https://www.w3.org/TR/2024/REC-WOFF2-20240808/",
-        "status": "Recommendation",
-        "date": "2024-08-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/REC-WOFF2-20220310/",
-        "status": "Recommendation",
-        "date": "2022-03-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/REC-WOFF2-20210706/",
-        "status": "Recommendation",
-        "date": "2021-07-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/REC-WOFF2-20180301/",
-        "status": "Recommendation",
-        "date": "2018-03-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/PR-WOFF2-20180111/",
-        "status": "Proposed Recommendation",
-        "date": "2018-01-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2016/CR-WOFF2-20160315/",
-        "status": "Candidate Recommendation Snapshot",
-        "date": "2016-03-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2015/WD-WOFF2-20150414/",
+        "url": "https://www.w3.org/TR/2024/WD-wasm-core-2-20240809/",
         "status": "Working Draft",
-        "date": "2015-04-14"
+        "date": "2024-08-09"
       },
       {
-        "url": "https://www.w3.org/TR/2014/WD-WOFF2-20140508/",
+        "url": "https://www.w3.org/TR/2024/WD-wasm-core-2-20240718/",
+        "status": "Working Draft",
+        "date": "2024-07-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-core-2-20240702/",
+        "status": "Working Draft",
+        "date": "2024-07-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-core-2-20240626/",
+        "status": "Working Draft",
+        "date": "2024-06-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-core-2-20240428/",
+        "status": "Working Draft",
+        "date": "2024-04-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-core-2-20240412/",
+        "status": "Working Draft",
+        "date": "2024-04-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-core-2-20240410/",
+        "status": "Working Draft",
+        "date": "2024-04-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-core-2-20240403/",
+        "status": "Working Draft",
+        "date": "2024-04-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-core-2-20240402/",
+        "status": "Working Draft",
+        "date": "2024-04-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-core-2-20240305/",
+        "status": "Working Draft",
+        "date": "2024-03-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-core-2-20240228/",
+        "status": "Working Draft",
+        "date": "2024-02-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-core-2-20240219/",
+        "status": "Working Draft",
+        "date": "2024-02-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-core-2-20240218/",
+        "status": "Working Draft",
+        "date": "2024-02-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-core-2-20240217/",
+        "status": "Working Draft",
+        "date": "2024-02-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-wasm-core-2-20220419/",
         "status": "First Public Working Draft",
-        "date": "2014-05-08"
+        "date": "2022-04-19"
       }
     ],
-    "abstract": "Based on experience with WOFF 1.0, which is widely deployed, this specification was developed to provide improved compression and thus lower use of network bandwidth, while still allowing fast decompression even on mobile devices. This is achieved by combining a content-aware preprocessing step and improved entropy coding, compared to the Flate compression used in WOFF 1.0."
+    "abstract": "This document describes release 2.0 of the core WebAssembly standard, a safe, portable, low-level code format designed for efficient execution and compact representation."
   },
   {
-    "url": "https://www.w3.org/TR/java-lreq/",
-    "title": "Javanese Script Resources",
-    "status": "Note",
+    "url": "https://www.w3.org/TR/wasm-web-api-2/",
+    "title": "WebAssembly Web API",
+    "status": "Draft Standard",
     "date": "2024-08-09",
-    "histUrl": "https://www.w3.org/standards/history/java-lreq/",
+    "histUrl": "https://www.w3.org/standards/history/wasm-web-api-2/",
     "history": [
       {
-        "url": "https://www.w3.org/TR/2024/DNOTE-java-lreq-20240809/",
-        "status": "Draft Note",
+        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240809/",
+        "status": "Working Draft",
         "date": "2024-08-09"
       },
       {
-        "url": "https://www.w3.org/TR/2024/DNOTE-java-lreq-20240730/",
-        "status": "Draft Note",
-        "date": "2024-07-30"
+        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240718/",
+        "status": "Working Draft",
+        "date": "2024-07-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240702/",
+        "status": "Working Draft",
+        "date": "2024-07-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240626/",
+        "status": "Working Draft",
+        "date": "2024-06-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240428/",
+        "status": "Working Draft",
+        "date": "2024-04-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240412/",
+        "status": "Working Draft",
+        "date": "2024-04-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240410/",
+        "status": "Working Draft",
+        "date": "2024-04-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240403/",
+        "status": "Working Draft",
+        "date": "2024-04-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240402/",
+        "status": "Working Draft",
+        "date": "2024-04-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240305/",
+        "status": "Working Draft",
+        "date": "2024-03-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240228/",
+        "status": "Working Draft",
+        "date": "2024-02-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240219/",
+        "status": "Working Draft",
+        "date": "2024-02-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240218/",
+        "status": "Working Draft",
+        "date": "2024-02-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240217/",
+        "status": "Working Draft",
+        "date": "2024-02-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240216/",
+        "status": "Working Draft",
+        "date": "2024-02-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240215/",
+        "status": "Working Draft",
+        "date": "2024-02-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-wasm-web-api-2-20220419/",
+        "status": "First Public Working Draft",
+        "date": "2022-04-19"
       }
     ],
-    "abstract": "This document points to resources for the layout and presentation of text in languages that use the Javanese script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Javanese text."
+    "abstract": "This document describes the integration of WebAssembly with the broader web platform."
   },
   {
-    "url": "https://www.w3.org/TR/khmr-lreq/",
-    "title": "Khmer Script Resources",
-    "status": "Note",
-    "date": "2024-08-09",
-    "histUrl": "https://www.w3.org/standards/history/khmr-lreq/",
+    "url": "https://www.w3.org/TR/css-position-3/",
+    "title": "CSS Positioned Layout Module Level 3",
+    "status": "Draft Standard",
+    "date": "2024-08-10",
+    "histUrl": "https://www.w3.org/standards/history/css-position-3/",
     "history": [
       {
-        "url": "https://www.w3.org/TR/2024/DNOTE-khmr-lreq-20240809/",
-        "status": "Draft Note",
-        "date": "2024-08-09"
+        "url": "https://www.w3.org/TR/2024/WD-css-position-3-20240810/",
+        "status": "Working Draft",
+        "date": "2024-08-10"
       },
       {
-        "url": "https://www.w3.org/TR/2024/DNOTE-khmr-lreq-20240710/",
-        "status": "Draft Note",
-        "date": "2024-07-10"
+        "url": "https://www.w3.org/TR/2023/WD-css-position-3-20230403/",
+        "status": "Working Draft",
+        "date": "2023-04-03"
       },
       {
-        "url": "https://www.w3.org/TR/2024/DNOTE-khmr-lreq-20240705/",
-        "status": "Draft Note",
-        "date": "2024-07-05"
+        "url": "https://www.w3.org/TR/2023/WD-css-position-3-20230217/",
+        "status": "Working Draft",
+        "date": "2023-02-17"
       },
       {
-        "url": "https://www.w3.org/TR/2024/DNOTE-khmr-lreq-20240630/",
-        "status": "Draft Note",
-        "date": "2024-06-30"
+        "url": "https://www.w3.org/TR/2022/WD-css-position-3-20220901/",
+        "status": "Working Draft",
+        "date": "2022-09-01"
       },
       {
-        "url": "https://www.w3.org/TR/2024/DNOTE-khmr-lreq-20240515/",
-        "status": "Draft Note",
-        "date": "2024-05-15"
+        "url": "https://www.w3.org/TR/2021/WD-css-position-3-20211216/",
+        "status": "Working Draft",
+        "date": "2021-12-16"
       },
       {
-        "url": "https://www.w3.org/TR/2024/DNOTE-khmr-lreq-20240419/",
-        "status": "Draft Note",
-        "date": "2024-04-19"
+        "url": "https://www.w3.org/TR/2020/WD-css-position-3-20200519/",
+        "status": "Working Draft",
+        "date": "2020-05-19"
       },
       {
-        "url": "https://www.w3.org/TR/2024/DNOTE-khmr-lreq-20240411/",
-        "status": "Draft Note",
-        "date": "2024-04-11"
+        "url": "https://www.w3.org/TR/2016/WD-css-position-3-20160517/",
+        "status": "Working Draft",
+        "date": "2016-05-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2015/WD-css3-positioning-20150203/",
+        "status": "Working Draft",
+        "date": "2015-02-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2012/WD-css3-positioning-20120207/",
+        "status": "Working Draft",
+        "date": "2012-02-07"
       }
     ],
-    "abstract": "This document points to resources for the layout and presentation of text in languages that use the Khmer script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Khmer text."
-  },
-  {
-    "url": "https://www.w3.org/TR/laoo-lreq/",
-    "title": "Lao Script Resources",
-    "status": "Note",
-    "date": "2024-08-09",
-    "histUrl": "https://www.w3.org/standards/history/laoo-lreq/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-laoo-lreq-20240809/",
-        "status": "Draft Note",
-        "date": "2024-08-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-laoo-lreq-20240710/",
-        "status": "Draft Note",
-        "date": "2024-07-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-laoo-lreq-20240705/",
-        "status": "Draft Note",
-        "date": "2024-07-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-laoo-lreq-20240630/",
-        "status": "Draft Note",
-        "date": "2024-06-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-laoo-lreq-20240515/",
-        "status": "Draft Note",
-        "date": "2024-05-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-laoo-lreq-20240430/",
-        "status": "Draft Note",
-        "date": "2024-04-30"
-      }
-    ],
-    "abstract": "This document points to resources for the layout and presentation of text in languages that use the Lao script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Lao text."
-  },
-  {
-    "url": "https://www.w3.org/TR/thai-lreq/",
-    "title": "Thai Script Resources",
-    "status": "Note",
-    "date": "2024-08-09",
-    "histUrl": "https://www.w3.org/standards/history/thai-lreq/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-thai-lreq-20240809/",
-        "status": "Draft Note",
-        "date": "2024-08-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-thai-lreq-20240710/",
-        "status": "Draft Note",
-        "date": "2024-07-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-thai-lreq-20240705/",
-        "status": "Draft Note",
-        "date": "2024-07-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-thai-lreq-20240630/",
-        "status": "Draft Note",
-        "date": "2024-06-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-thai-lreq-20240515/",
-        "status": "Draft Note",
-        "date": "2024-05-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-thai-lreq-20240430/",
-        "status": "Draft Note",
-        "date": "2024-04-30"
-      }
-    ],
-    "abstract": "This document points to resources for the layout and presentation of text in languages that use the Thai script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Thai text."
-  },
-  {
-    "url": "https://www.w3.org/TR/tibt-lreq/",
-    "title": "Tibetan Script Resources",
-    "status": "Note",
-    "date": "2024-08-09",
-    "histUrl": "https://www.w3.org/standards/history/tibt-lreq/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-tibt-lreq-20240809/",
-        "status": "Draft Note",
-        "date": "2024-08-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-tibt-lreq-20240730/",
-        "status": "Draft Note",
-        "date": "2024-07-30"
-      }
-    ],
-    "abstract": "This document describes or points to requirements for the layout and presentation of text in languages that use the Tibetan script. The target audience is developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Tibetan script text."
+    "abstract": "This module contains defines coordinate-based positioning and offsetting schemes of CSS: relative positioning, sticky positioning, absolute positioning, and fixed positioning."
   }
 ]
