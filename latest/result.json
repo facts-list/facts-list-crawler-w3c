@@ -58637,41 +58637,6 @@
     "abstract": "This specification defines the \"cenc\" initialization data format for use with the Encrypted Media Extensions [ENCRYPTED-MEDIA]. This format is commonly used with the ISO Common Encryption ('cenc') Protection Scheme for ISO Base Media File Format Stream Format [EME-STREAM-REGISTRY]."
   },
   {
-    "url": "https://www.w3.org/TR/eme-initdata-keyids/",
-    "title": "\"keyids\" Initialization Data Format",
-    "status": "Note",
-    "date": "2024-07-18",
-    "histUrl": "https://www.w3.org/standards/history/eme-initdata-keyids/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/NOTE-eme-initdata-keyids-20240718/",
-        "status": "Note",
-        "date": "2024-07-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2016/NOTE-eme-initdata-keyids-20160915/",
-        "status": "Note",
-        "date": "2016-09-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2016/NOTE-eme-initdata-keyids-20160907/",
-        "status": "Note",
-        "date": "2016-09-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2016/NOTE-eme-initdata-keyids-20160831/",
-        "status": "Note",
-        "date": "2016-08-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2016/NOTE-eme-initdata-keyids-20160510/",
-        "status": "Note",
-        "date": "2016-05-10"
-      }
-    ],
-    "abstract": "This specification defines the \"keyids\" initialization data format for use with the Encrypted Media Extensions [ENCRYPTED-MEDIA]."
-  },
-  {
     "url": "https://www.w3.org/TR/eme-initdata-webm/",
     "title": "\"webm\" Initialization Data Format",
     "status": "Note",
@@ -70302,12 +70267,72 @@
     "abstract": "Credentials are integral to our daily lives; driver's licenses confirm our capability to operate motor vehicles, university degrees assert our level of education, and government-issued passports permit travel between countries. This specification provides a mechanism to express these sorts of credentials on the Web in cryptographically secure, privacy-respecting, and machine-verifiable way."
   },
   {
+    "url": "https://www.w3.org/TR/eme-initdata-keyids/",
+    "title": "\"keyids\" Initialization Data Format",
+    "status": "Note",
+    "date": "2024-08-20",
+    "histUrl": "https://www.w3.org/standards/history/eme-initdata-keyids/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/NOTE-eme-initdata-keyids-20240820/",
+        "status": "Note",
+        "date": "2024-08-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/NOTE-eme-initdata-keyids-20240718/",
+        "status": "Note",
+        "date": "2024-07-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/NOTE-eme-initdata-keyids-20160915/",
+        "status": "Note",
+        "date": "2016-09-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/NOTE-eme-initdata-keyids-20160907/",
+        "status": "Note",
+        "date": "2016-09-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/NOTE-eme-initdata-keyids-20160831/",
+        "status": "Note",
+        "date": "2016-08-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/NOTE-eme-initdata-keyids-20160510/",
+        "status": "Note",
+        "date": "2016-05-10"
+      }
+    ],
+    "abstract": "This specification defines the \"keyids\" initialization data format for use with the Encrypted Media Extensions [ENCRYPTED-MEDIA]."
+  },
+  {
+    "url": "https://www.w3.org/TR/fedcm-1/",
+    "title": "Federated Credential Management API",
+    "status": "Draft Standard",
+    "date": "2024-08-20",
+    "histUrl": "https://www.w3.org/standards/history/fedcm-1/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-fedcm-1-20240820/",
+        "status": "First Public Working Draft",
+        "date": "2024-08-20"
+      }
+    ],
+    "abstract": "A Web Platform API that allows users to login to websites with their federated accounts in a privacy preserving manner."
+  },
+  {
     "url": "https://www.w3.org/TR/WGSL/",
     "title": "WebGPU Shading Language",
     "status": "Draft Standard",
-    "date": "2024-08-19",
+    "date": "2024-08-20",
     "histUrl": "https://www.w3.org/standards/history/WGSL/",
     "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-WGSL-20240820/",
+        "status": "Working Draft",
+        "date": "2024-08-20"
+      },
       {
         "url": "https://www.w3.org/TR/2024/WD-WGSL-20240819/",
         "status": "Working Draft",
@@ -72285,20 +72310,5 @@
       }
     ],
     "abstract": "Shading language for WebGPU."
-  },
-  {
-    "url": "https://www.w3.org/TR/fedcm-1/",
-    "title": "Federated Credential Management API",
-    "status": "Draft Standard",
-    "date": "2024-08-20",
-    "histUrl": "https://www.w3.org/standards/history/fedcm-1/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-fedcm-1-20240820/",
-        "status": "First Public Working Draft",
-        "date": "2024-08-20"
-      }
-    ],
-    "abstract": "A Web Platform API that allows users to login to websites with their federated accounts in a privacy preserving manner."
   }
 ]
