@@ -31682,26 +31682,6 @@
     "abstract": "This document provides guidance for publishers looking to move from the use of the EPUB 3 epub:type attribute to ARIA roles for accessibility."
   },
   {
-    "url": "https://www.w3.org/TR/css-cascade-6/",
-    "title": "CSS Cascading and Inheritance Level 6",
-    "status": "Draft Standard",
-    "date": "2023-03-21",
-    "histUrl": "https://www.w3.org/standards/history/css-cascade-6/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2023/WD-css-cascade-6-20230321/",
-        "status": "Working Draft",
-        "date": "2023-03-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-css-cascade-6-20211221/",
-        "status": "First Public Working Draft",
-        "date": "2021-12-21"
-      }
-    ],
-    "abstract": "This CSS module describes how to collate style rules and assign values to all properties on all elements. By way of cascading and inheritance, values are propagated for all properties on all elements."
-  },
-  {
     "url": "https://www.w3.org/TR/css-overflow-4/",
     "title": "CSS Overflow Module Level 4",
     "status": "Draft Standard",
@@ -37115,26 +37095,6 @@
       }
     ],
     "abstract": "This document describes an extended set of use cases motivating the development of additional WebRTC APIs, as well as the requirements derived from those use cases."
-  },
-  {
-    "url": "https://www.w3.org/TR/epub-a11y-exemption/",
-    "title": "The EPUB Accessibility exemption property",
-    "status": "Note",
-    "date": "2023-12-15",
-    "histUrl": "https://www.w3.org/standards/history/epub-a11y-exemption/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-epub-a11y-exemption-20231215/",
-        "status": "Note",
-        "date": "2023-12-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-epub-a11y-exemption-20231003/",
-        "status": "Note",
-        "date": "2023-10-03"
-      }
-    ],
-    "abstract": "The exemption property allows EPUB creators to indicate that an EPUB publication that does not meet accessibility conformance requirements has an exemption under the applicable jurisdiction's laws."
   },
   {
     "url": "https://www.w3.org/TR/css-images-3/",
@@ -45365,216 +45325,6 @@
       }
     ],
     "abstract": "Enabling users of assistive technologies to find their way through web content requires embedding semantic metadata about web document structural divisions. This is particularly important for structural divisions of long-form documents and goes along with embedding semantic metadata about web-application widgets and behaviors for assistive technologies. This specification defines a set of WAI-ARIA roles specific to helping users of assistive technologies navigate through such long-form documents."
-  },
-  {
-    "url": "https://www.w3.org/TR/uievents/",
-    "title": "UI Events",
-    "status": "Draft Standard",
-    "date": "2024-06-22",
-    "histUrl": "https://www.w3.org/standards/history/uievents/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-uievents-20240622/",
-        "status": "Working Draft",
-        "date": "2024-06-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-uievents-20240613/",
-        "status": "Working Draft",
-        "date": "2024-06-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-uievents-20240607/",
-        "status": "Working Draft",
-        "date": "2024-06-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-uievents-20240221/",
-        "status": "Working Draft",
-        "date": "2024-02-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-uievents-20231204/",
-        "status": "Working Draft",
-        "date": "2023-12-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-uievents-20230915/",
-        "status": "Working Draft",
-        "date": "2023-09-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-uievents-20230823/",
-        "status": "Working Draft",
-        "date": "2023-08-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-uievents-20230627/",
-        "status": "Working Draft",
-        "date": "2023-06-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-uievents-20230509/",
-        "status": "Working Draft",
-        "date": "2023-05-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-uievents-20220913/",
-        "status": "Working Draft",
-        "date": "2022-09-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-uievents-20220629/",
-        "status": "Working Draft",
-        "date": "2022-06-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-uievents-20220601/",
-        "status": "Working Draft",
-        "date": "2022-06-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-uievents-20211020/",
-        "status": "Working Draft",
-        "date": "2021-10-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-uievents-20211019/",
-        "status": "Working Draft",
-        "date": "2021-10-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-uievents-20211015/",
-        "status": "Working Draft",
-        "date": "2021-10-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-uievents-20211008/",
-        "status": "Working Draft",
-        "date": "2021-10-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-uievents-20210916/",
-        "status": "Working Draft",
-        "date": "2021-09-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-uievents-20190530/",
-        "status": "Working Draft",
-        "date": "2019-05-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-uievents-20181108/",
-        "status": "Working Draft",
-        "date": "2018-11-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2016/WD-uievents-20160804/",
-        "status": "Working Draft",
-        "date": "2016-08-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2015/WD-uievents-20151215/",
-        "status": "Working Draft",
-        "date": "2015-12-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2015/WD-uievents-20150428/",
-        "status": "Working Draft",
-        "date": "2015-04-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2015/WD-uievents-20150319/",
-        "status": "Working Draft",
-        "date": "2015-03-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2014/WD-DOM-Level-3-Events-20140925/",
-        "status": "Working Draft",
-        "date": "2014-09-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2013/WD-DOM-Level-3-Events-20131105/",
-        "status": "Working Draft",
-        "date": "2013-11-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2012/WD-DOM-Level-3-Events-20120906/",
-        "status": "Last Call Working Draft",
-        "date": "2012-09-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2012/WD-DOM-Level-3-Events-20120614/",
-        "status": "Working Draft",
-        "date": "2012-06-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2011/WD-DOM-Level-3-Events-20110531/",
-        "status": "Last Call Working Draft",
-        "date": "2011-05-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2010/WD-DOM-Level-3-Events-20100907",
-        "status": "Last Call Working Draft",
-        "date": "2010-09-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2009/WD-DOM-Level-3-Events-20090908",
-        "status": "Working Draft",
-        "date": "2009-09-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2007/WD-DOM-Level-3-Events-20071221",
-        "status": "Working Draft",
-        "date": "2007-12-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2006/WD-DOM-Level-3-Events-20060413",
-        "status": "Working Draft",
-        "date": "2006-04-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2003/NOTE-DOM-Level-3-Events-20031107",
-        "status": "Note",
-        "date": "2003-11-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2003/WD-DOM-Level-3-Events-20030331",
-        "status": "Last Call Working Draft",
-        "date": "2003-03-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2003/WD-DOM-Level-3-Events-20030221",
-        "status": "Working Draft",
-        "date": "2003-02-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2002/WD-DOM-Level-3-Events-20020712",
-        "status": "Last Call Working Draft",
-        "date": "2002-07-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2002/WD-DOM-Level-3-Events-20020208/",
-        "status": "Working Draft",
-        "date": "2002-02-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2001/WD-DOM-Level-3-Events-20010823/",
-        "status": "Working Draft",
-        "date": "2001-08-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2001/WD-DOM-Level-3-Events-20010410/",
-        "status": "Working Draft",
-        "date": "2001-04-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2000/WD-DOM-Level-3-Events-20000901/",
-        "status": "Working Draft",
-        "date": "2000-09-01"
-      }
-    ],
-    "abstract": "This specification defines UI Events which extend the DOM Event objects defined in [DOM]. UI Events are those typically implemented by visual user agents for handling user interaction such as mouse and keyboard input."
   },
   {
     "url": "https://www.w3.org/TR/input-events-2/",
@@ -65997,66 +65747,6 @@
     "abstract": "This document serves as a repository for all known global parameters, properties, and values used by the Decentralized Identifier ecosystem."
   },
   {
-    "url": "https://www.w3.org/TR/controller-document/",
-    "title": "Controller Documents 1.0",
-    "status": "Draft Standard",
-    "date": "2024-09-02",
-    "histUrl": "https://www.w3.org/standards/history/controller-document/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240902/",
-        "status": "Working Draft",
-        "date": "2024-09-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240831/",
-        "status": "Working Draft",
-        "date": "2024-08-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240829/",
-        "status": "Working Draft",
-        "date": "2024-08-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240817/",
-        "status": "Working Draft",
-        "date": "2024-08-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240803/",
-        "status": "Working Draft",
-        "date": "2024-08-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240727/",
-        "status": "Working Draft",
-        "date": "2024-07-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240630/",
-        "status": "Working Draft",
-        "date": "2024-06-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240617/",
-        "status": "Working Draft",
-        "date": "2024-06-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240611/",
-        "status": "Working Draft",
-        "date": "2024-06-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240523/",
-        "status": "First Public Working Draft",
-        "date": "2024-05-23"
-      }
-    ],
-    "abstract": "A controller document is a set of data that specifies one or more relationships between a controller and a set of data, such as a set of public cryptographic keys."
-  },
-  {
     "url": "https://www.w3.org/TR/picture-in-picture/",
     "title": "Picture-in-Picture",
     "status": "Draft Standard",
@@ -70667,6 +70357,121 @@
     "abstract": "This document describes a dedicated low-level API for neural network inference hardware acceleration."
   },
   {
+    "url": "https://www.w3.org/TR/controller-document/",
+    "title": "Controller Documents 1.0",
+    "status": "Draft Standard",
+    "date": "2024-09-06",
+    "histUrl": "https://www.w3.org/standards/history/controller-document/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240906/",
+        "status": "Working Draft",
+        "date": "2024-09-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240902/",
+        "status": "Working Draft",
+        "date": "2024-09-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240831/",
+        "status": "Working Draft",
+        "date": "2024-08-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240829/",
+        "status": "Working Draft",
+        "date": "2024-08-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240817/",
+        "status": "Working Draft",
+        "date": "2024-08-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240803/",
+        "status": "Working Draft",
+        "date": "2024-08-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240727/",
+        "status": "Working Draft",
+        "date": "2024-07-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240630/",
+        "status": "Working Draft",
+        "date": "2024-06-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240617/",
+        "status": "Working Draft",
+        "date": "2024-06-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240611/",
+        "status": "Working Draft",
+        "date": "2024-06-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240523/",
+        "status": "First Public Working Draft",
+        "date": "2024-05-23"
+      }
+    ],
+    "abstract": "A controller document is a set of data that specifies one or more relationships between a controller and a set of data, such as a set of public cryptographic keys."
+  },
+  {
+    "url": "https://www.w3.org/TR/css-cascade-6/",
+    "title": "CSS Cascading and Inheritance Level 6",
+    "status": "Draft Standard",
+    "date": "2024-09-06",
+    "histUrl": "https://www.w3.org/standards/history/css-cascade-6/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-css-cascade-6-20240906/",
+        "status": "Working Draft",
+        "date": "2024-09-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-css-cascade-6-20230321/",
+        "status": "Working Draft",
+        "date": "2023-03-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-css-cascade-6-20211221/",
+        "status": "First Public Working Draft",
+        "date": "2021-12-21"
+      }
+    ],
+    "abstract": "This CSS module describes how to collate style rules and assign values to all properties on all elements. By way of cascading and inheritance, values are propagated for all properties on all elements."
+  },
+  {
+    "url": "https://www.w3.org/TR/epub-a11y-exemption/",
+    "title": "The EPUB Accessibility exemption property",
+    "status": "Note",
+    "date": "2024-09-06",
+    "histUrl": "https://www.w3.org/standards/history/epub-a11y-exemption/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/NOTE-epub-a11y-exemption-20240906/",
+        "status": "Note",
+        "date": "2024-09-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-epub-a11y-exemption-20231215/",
+        "status": "Note",
+        "date": "2023-12-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-epub-a11y-exemption-20231003/",
+        "status": "Note",
+        "date": "2023-10-03"
+      }
+    ],
+    "abstract": "The exemption property allows EPUB creators to indicate that an EPUB publication that does not meet accessibility conformance requirements has an exemption under the applicable jurisdiction's laws."
+  },
+  {
     "url": "https://www.w3.org/TR/webgpu/",
     "title": "WebGPU",
     "status": "Draft Standard",
@@ -72570,5 +72375,225 @@
       }
     ],
     "abstract": "WebGPU exposes an API for performing operations, such as rendering and computation, on a Graphics Processing Unit."
+  },
+  {
+    "url": "https://www.w3.org/TR/uievents/",
+    "title": "UI Events",
+    "status": "Draft Standard",
+    "date": "2024-09-07",
+    "histUrl": "https://www.w3.org/standards/history/uievents/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-uievents-20240907/",
+        "status": "Working Draft",
+        "date": "2024-09-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-uievents-20240906/",
+        "status": "Working Draft",
+        "date": "2024-09-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-uievents-20240622/",
+        "status": "Working Draft",
+        "date": "2024-06-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-uievents-20240613/",
+        "status": "Working Draft",
+        "date": "2024-06-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-uievents-20240607/",
+        "status": "Working Draft",
+        "date": "2024-06-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-uievents-20240221/",
+        "status": "Working Draft",
+        "date": "2024-02-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-uievents-20231204/",
+        "status": "Working Draft",
+        "date": "2023-12-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-uievents-20230915/",
+        "status": "Working Draft",
+        "date": "2023-09-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-uievents-20230823/",
+        "status": "Working Draft",
+        "date": "2023-08-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-uievents-20230627/",
+        "status": "Working Draft",
+        "date": "2023-06-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-uievents-20230509/",
+        "status": "Working Draft",
+        "date": "2023-05-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-uievents-20220913/",
+        "status": "Working Draft",
+        "date": "2022-09-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-uievents-20220629/",
+        "status": "Working Draft",
+        "date": "2022-06-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-uievents-20220601/",
+        "status": "Working Draft",
+        "date": "2022-06-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-uievents-20211020/",
+        "status": "Working Draft",
+        "date": "2021-10-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-uievents-20211019/",
+        "status": "Working Draft",
+        "date": "2021-10-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-uievents-20211015/",
+        "status": "Working Draft",
+        "date": "2021-10-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-uievents-20211008/",
+        "status": "Working Draft",
+        "date": "2021-10-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-uievents-20210916/",
+        "status": "Working Draft",
+        "date": "2021-09-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-uievents-20190530/",
+        "status": "Working Draft",
+        "date": "2019-05-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-uievents-20181108/",
+        "status": "Working Draft",
+        "date": "2018-11-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/WD-uievents-20160804/",
+        "status": "Working Draft",
+        "date": "2016-08-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2015/WD-uievents-20151215/",
+        "status": "Working Draft",
+        "date": "2015-12-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2015/WD-uievents-20150428/",
+        "status": "Working Draft",
+        "date": "2015-04-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2015/WD-uievents-20150319/",
+        "status": "Working Draft",
+        "date": "2015-03-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2014/WD-DOM-Level-3-Events-20140925/",
+        "status": "Working Draft",
+        "date": "2014-09-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2013/WD-DOM-Level-3-Events-20131105/",
+        "status": "Working Draft",
+        "date": "2013-11-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2012/WD-DOM-Level-3-Events-20120906/",
+        "status": "Last Call Working Draft",
+        "date": "2012-09-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2012/WD-DOM-Level-3-Events-20120614/",
+        "status": "Working Draft",
+        "date": "2012-06-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2011/WD-DOM-Level-3-Events-20110531/",
+        "status": "Last Call Working Draft",
+        "date": "2011-05-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2010/WD-DOM-Level-3-Events-20100907",
+        "status": "Last Call Working Draft",
+        "date": "2010-09-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2009/WD-DOM-Level-3-Events-20090908",
+        "status": "Working Draft",
+        "date": "2009-09-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2007/WD-DOM-Level-3-Events-20071221",
+        "status": "Working Draft",
+        "date": "2007-12-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2006/WD-DOM-Level-3-Events-20060413",
+        "status": "Working Draft",
+        "date": "2006-04-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2003/NOTE-DOM-Level-3-Events-20031107",
+        "status": "Note",
+        "date": "2003-11-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2003/WD-DOM-Level-3-Events-20030331",
+        "status": "Last Call Working Draft",
+        "date": "2003-03-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2003/WD-DOM-Level-3-Events-20030221",
+        "status": "Working Draft",
+        "date": "2003-02-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2002/WD-DOM-Level-3-Events-20020712",
+        "status": "Last Call Working Draft",
+        "date": "2002-07-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2002/WD-DOM-Level-3-Events-20020208/",
+        "status": "Working Draft",
+        "date": "2002-02-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2001/WD-DOM-Level-3-Events-20010823/",
+        "status": "Working Draft",
+        "date": "2001-08-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2001/WD-DOM-Level-3-Events-20010410/",
+        "status": "Working Draft",
+        "date": "2001-04-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2000/WD-DOM-Level-3-Events-20000901/",
+        "status": "Working Draft",
+        "date": "2000-09-01"
+      }
+    ],
+    "abstract": "This specification defines UI Events which extend the DOM Event objects defined in [DOM]. UI Events are those typically implemented by visual user agents for handling user interaction such as mouse and keyboard input."
   }
 ]
