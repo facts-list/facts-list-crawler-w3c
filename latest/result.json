@@ -60197,326 +60197,6 @@
     "abstract": "Secure Payment Confirmation (SPC) is a Web API to support streamlined authentication during a payment transaction. It is designed to scale authentication across merchants, to be used within a wide range of authentication protocols, and to produce cryptographic evidence that the user has confirmed transaction details."
   },
   {
-    "url": "https://www.w3.org/TR/vc-jose-cose/",
-    "title": "Securing Verifiable Credentials using JOSE and COSE",
-    "status": "Candidate Standard",
-    "date": "2024-08-13",
-    "histUrl": "https://www.w3.org/standards/history/vc-jose-cose/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-vc-jose-cose-20240813/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-08-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-vc-jose-cose-20240812/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-08-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-vc-jose-cose-20240808/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-08-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-vc-jose-cose-20240705/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-07-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-vc-jose-cose-20240628/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-06-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-vc-jose-cose-20240626/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-06-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-vc-jose-cose-20240620/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-06-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-vc-jose-cose-20240521/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-05-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-vc-jose-cose-20240425/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-04-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CR-vc-jose-cose-20240425/",
-        "status": "Candidate Recommendation Snapshot",
-        "date": "2024-04-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240403/",
-        "status": "Working Draft",
-        "date": "2024-04-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240329/",
-        "status": "Working Draft",
-        "date": "2024-03-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240328/",
-        "status": "Working Draft",
-        "date": "2024-03-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240308/",
-        "status": "Working Draft",
-        "date": "2024-03-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240307/",
-        "status": "Working Draft",
-        "date": "2024-03-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240306/",
-        "status": "Working Draft",
-        "date": "2024-03-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240304/",
-        "status": "Working Draft",
-        "date": "2024-03-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240228/",
-        "status": "Working Draft",
-        "date": "2024-02-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240226/",
-        "status": "Working Draft",
-        "date": "2024-02-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240216/",
-        "status": "Working Draft",
-        "date": "2024-02-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240212/",
-        "status": "Working Draft",
-        "date": "2024-02-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240207/",
-        "status": "Working Draft",
-        "date": "2024-02-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240126/",
-        "status": "Working Draft",
-        "date": "2024-01-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240101/",
-        "status": "Working Draft",
-        "date": "2024-01-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231221/",
-        "status": "Working Draft",
-        "date": "2023-12-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231215/",
-        "status": "Working Draft",
-        "date": "2023-12-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231204/",
-        "status": "Working Draft",
-        "date": "2023-12-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231201/",
-        "status": "Working Draft",
-        "date": "2023-12-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231125/",
-        "status": "Working Draft",
-        "date": "2023-11-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231117/",
-        "status": "Working Draft",
-        "date": "2023-11-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231027/",
-        "status": "Working Draft",
-        "date": "2023-10-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231024/",
-        "status": "Working Draft",
-        "date": "2023-10-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231016/",
-        "status": "Working Draft",
-        "date": "2023-10-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231014/",
-        "status": "Working Draft",
-        "date": "2023-10-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231010/",
-        "status": "Working Draft",
-        "date": "2023-10-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231006/",
-        "status": "Working Draft",
-        "date": "2023-10-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230927/",
-        "status": "Working Draft",
-        "date": "2023-09-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230921/",
-        "status": "Working Draft",
-        "date": "2023-09-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230920/",
-        "status": "Working Draft",
-        "date": "2023-09-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230914/",
-        "status": "Working Draft",
-        "date": "2023-09-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230913/",
-        "status": "Working Draft",
-        "date": "2023-09-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230912/",
-        "status": "Working Draft",
-        "date": "2023-09-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230908/",
-        "status": "Working Draft",
-        "date": "2023-09-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230824/",
-        "status": "Working Draft",
-        "date": "2023-08-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230823/",
-        "status": "Working Draft",
-        "date": "2023-08-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230816/",
-        "status": "Working Draft",
-        "date": "2023-08-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230815/",
-        "status": "Working Draft",
-        "date": "2023-08-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230811/",
-        "status": "Working Draft",
-        "date": "2023-08-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230721/",
-        "status": "Working Draft",
-        "date": "2023-07-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230720/",
-        "status": "Working Draft",
-        "date": "2023-07-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230710/",
-        "status": "Working Draft",
-        "date": "2023-07-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230630/",
-        "status": "Working Draft",
-        "date": "2023-06-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230629/",
-        "status": "Working Draft",
-        "date": "2023-06-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230615/",
-        "status": "Working Draft",
-        "date": "2023-06-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230614/",
-        "status": "Working Draft",
-        "date": "2023-06-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230607/",
-        "status": "Working Draft",
-        "date": "2023-06-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230606/",
-        "status": "Working Draft",
-        "date": "2023-06-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230601/",
-        "status": "Working Draft",
-        "date": "2023-06-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230525/",
-        "status": "Working Draft",
-        "date": "2023-05-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230515/",
-        "status": "Working Draft",
-        "date": "2023-05-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230501/",
-        "status": "Working Draft",
-        "date": "2023-05-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230427/",
-        "status": "First Public Working Draft",
-        "date": "2023-04-27"
-      }
-    ],
-    "abstract": "This specification defines how to secure credentials and presentations conforming to the Verifiable Credential data model [VC-DATA-MODEL-2.0] with JSON Object Signing and Encryption (JOSE), Selective Disclosure for JWTs [SD-JWT], and CBOR Object Signing and Encryption (COSE) [RFC9052]. This enables the Verifiable Credential data model [VC-DATA-MODEL-2.0] to be implemented with standards for signing and encryption that are widely adopted."
-  },
-  {
     "url": "https://www.w3.org/TR/payment-request/",
     "title": "Payment Request API",
     "status": "Candidate Standard",
@@ -72375,6 +72055,331 @@
       }
     ],
     "abstract": "WebGPU exposes an API for performing operations, such as rendering and computation, on a Graphics Processing Unit."
+  },
+  {
+    "url": "https://www.w3.org/TR/vc-jose-cose/",
+    "title": "Securing Verifiable Credentials using JOSE and COSE",
+    "status": "Candidate Standard",
+    "date": "2024-09-07",
+    "histUrl": "https://www.w3.org/standards/history/vc-jose-cose/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-jose-cose-20240907/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-09-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-jose-cose-20240813/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-08-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-jose-cose-20240812/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-08-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-jose-cose-20240808/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-08-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-jose-cose-20240705/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-07-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-jose-cose-20240628/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-06-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-jose-cose-20240626/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-06-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-jose-cose-20240620/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-06-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-jose-cose-20240521/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-05-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-jose-cose-20240425/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-04-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CR-vc-jose-cose-20240425/",
+        "status": "Candidate Recommendation Snapshot",
+        "date": "2024-04-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240403/",
+        "status": "Working Draft",
+        "date": "2024-04-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240329/",
+        "status": "Working Draft",
+        "date": "2024-03-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240328/",
+        "status": "Working Draft",
+        "date": "2024-03-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240308/",
+        "status": "Working Draft",
+        "date": "2024-03-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240307/",
+        "status": "Working Draft",
+        "date": "2024-03-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240306/",
+        "status": "Working Draft",
+        "date": "2024-03-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240304/",
+        "status": "Working Draft",
+        "date": "2024-03-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240228/",
+        "status": "Working Draft",
+        "date": "2024-02-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240226/",
+        "status": "Working Draft",
+        "date": "2024-02-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240216/",
+        "status": "Working Draft",
+        "date": "2024-02-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240212/",
+        "status": "Working Draft",
+        "date": "2024-02-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240207/",
+        "status": "Working Draft",
+        "date": "2024-02-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240126/",
+        "status": "Working Draft",
+        "date": "2024-01-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-jose-cose-20240101/",
+        "status": "Working Draft",
+        "date": "2024-01-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231221/",
+        "status": "Working Draft",
+        "date": "2023-12-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231215/",
+        "status": "Working Draft",
+        "date": "2023-12-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231204/",
+        "status": "Working Draft",
+        "date": "2023-12-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231201/",
+        "status": "Working Draft",
+        "date": "2023-12-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231125/",
+        "status": "Working Draft",
+        "date": "2023-11-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231117/",
+        "status": "Working Draft",
+        "date": "2023-11-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231027/",
+        "status": "Working Draft",
+        "date": "2023-10-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231024/",
+        "status": "Working Draft",
+        "date": "2023-10-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231016/",
+        "status": "Working Draft",
+        "date": "2023-10-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231014/",
+        "status": "Working Draft",
+        "date": "2023-10-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231010/",
+        "status": "Working Draft",
+        "date": "2023-10-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20231006/",
+        "status": "Working Draft",
+        "date": "2023-10-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230927/",
+        "status": "Working Draft",
+        "date": "2023-09-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230921/",
+        "status": "Working Draft",
+        "date": "2023-09-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230920/",
+        "status": "Working Draft",
+        "date": "2023-09-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230914/",
+        "status": "Working Draft",
+        "date": "2023-09-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230913/",
+        "status": "Working Draft",
+        "date": "2023-09-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230912/",
+        "status": "Working Draft",
+        "date": "2023-09-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230908/",
+        "status": "Working Draft",
+        "date": "2023-09-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230824/",
+        "status": "Working Draft",
+        "date": "2023-08-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230823/",
+        "status": "Working Draft",
+        "date": "2023-08-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230816/",
+        "status": "Working Draft",
+        "date": "2023-08-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230815/",
+        "status": "Working Draft",
+        "date": "2023-08-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230811/",
+        "status": "Working Draft",
+        "date": "2023-08-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230721/",
+        "status": "Working Draft",
+        "date": "2023-07-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jose-cose-20230720/",
+        "status": "Working Draft",
+        "date": "2023-07-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230710/",
+        "status": "Working Draft",
+        "date": "2023-07-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230630/",
+        "status": "Working Draft",
+        "date": "2023-06-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230629/",
+        "status": "Working Draft",
+        "date": "2023-06-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230615/",
+        "status": "Working Draft",
+        "date": "2023-06-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230614/",
+        "status": "Working Draft",
+        "date": "2023-06-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230607/",
+        "status": "Working Draft",
+        "date": "2023-06-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230606/",
+        "status": "Working Draft",
+        "date": "2023-06-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230601/",
+        "status": "Working Draft",
+        "date": "2023-06-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230525/",
+        "status": "Working Draft",
+        "date": "2023-05-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230515/",
+        "status": "Working Draft",
+        "date": "2023-05-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230501/",
+        "status": "Working Draft",
+        "date": "2023-05-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-jwt-20230427/",
+        "status": "First Public Working Draft",
+        "date": "2023-04-27"
+      }
+    ],
+    "abstract": "This specification defines how to secure credentials and presentations conforming to the Verifiable Credential data model [VC-DATA-MODEL-2.0] with JSON Object Signing and Encryption (JOSE), Selective Disclosure for JWTs [SD-JWT], and CBOR Object Signing and Encryption (COSE) [RFC9052]. This enables the Verifiable Credential data model [VC-DATA-MODEL-2.0] to be implemented with standards for signing and encryption that are widely adopted."
   },
   {
     "url": "https://www.w3.org/TR/uievents/",
