@@ -57127,301 +57127,6 @@
     "abstract": "The Push API enables sending of a push message to a web application via a push service. An application server can send a push message at any time, even when a web application or user agent is inactive. The push service ensures reliable and efficient delivery to the user agent. Push messages are delivered to a Service Worker that runs in the origin of the web application, which can use the information in the message to update local state or display a notification to the user."
   },
   {
-    "url": "https://www.w3.org/TR/wasm-core-2/",
-    "title": "WebAssembly Core Specification",
-    "status": "Draft Standard",
-    "date": "2024-09-03",
-    "histUrl": "https://www.w3.org/standards/history/wasm-core-2/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-core-2-20240903/",
-        "status": "Working Draft",
-        "date": "2024-09-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-core-2-20240822/",
-        "status": "Working Draft",
-        "date": "2024-08-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-core-2-20240821/",
-        "status": "Working Draft",
-        "date": "2024-08-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-core-2-20240816/",
-        "status": "Working Draft",
-        "date": "2024-08-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-core-2-20240811/",
-        "status": "Working Draft",
-        "date": "2024-08-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-core-2-20240809/",
-        "status": "Working Draft",
-        "date": "2024-08-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-core-2-20240718/",
-        "status": "Working Draft",
-        "date": "2024-07-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-core-2-20240702/",
-        "status": "Working Draft",
-        "date": "2024-07-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-core-2-20240626/",
-        "status": "Working Draft",
-        "date": "2024-06-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-core-2-20240428/",
-        "status": "Working Draft",
-        "date": "2024-04-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-core-2-20240412/",
-        "status": "Working Draft",
-        "date": "2024-04-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-core-2-20240410/",
-        "status": "Working Draft",
-        "date": "2024-04-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-core-2-20240403/",
-        "status": "Working Draft",
-        "date": "2024-04-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-core-2-20240402/",
-        "status": "Working Draft",
-        "date": "2024-04-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-core-2-20240305/",
-        "status": "Working Draft",
-        "date": "2024-03-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-core-2-20240228/",
-        "status": "Working Draft",
-        "date": "2024-02-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-core-2-20240219/",
-        "status": "Working Draft",
-        "date": "2024-02-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-core-2-20240218/",
-        "status": "Working Draft",
-        "date": "2024-02-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-core-2-20240217/",
-        "status": "Working Draft",
-        "date": "2024-02-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-wasm-core-2-20220419/",
-        "status": "First Public Working Draft",
-        "date": "2022-04-19"
-      }
-    ],
-    "abstract": "This document describes release 2.0 of the core WebAssembly standard, a safe, portable, low-level code format designed for efficient execution and compact representation."
-  },
-  {
-    "url": "https://www.w3.org/TR/wasm-js-api-2/",
-    "title": "WebAssembly JavaScript Interface",
-    "status": "Draft Standard",
-    "date": "2024-09-03",
-    "histUrl": "https://www.w3.org/standards/history/wasm-js-api-2/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-js-api-2-20240903/",
-        "status": "Working Draft",
-        "date": "2024-09-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-js-api-2-20240822/",
-        "status": "Working Draft",
-        "date": "2024-08-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-js-api-2-20240821/",
-        "status": "Working Draft",
-        "date": "2024-08-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-js-api-2-20240626/",
-        "status": "Working Draft",
-        "date": "2024-06-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-js-api-2-20240402/",
-        "status": "Working Draft",
-        "date": "2024-04-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-js-api-2-20240305/",
-        "status": "Working Draft",
-        "date": "2024-03-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-js-api-2-20240219/",
-        "status": "Working Draft",
-        "date": "2024-02-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-js-api-2-20240217/",
-        "status": "Working Draft",
-        "date": "2024-02-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-js-api-2-20240216/",
-        "status": "Working Draft",
-        "date": "2024-02-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-js-api-2-20240215/",
-        "status": "Working Draft",
-        "date": "2024-02-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-wasm-js-api-2-20220419/",
-        "status": "First Public Working Draft",
-        "date": "2022-04-19"
-      }
-    ],
-    "abstract": "This document provides an explicit JavaScript API for interacting with WebAssembly."
-  },
-  {
-    "url": "https://www.w3.org/TR/wasm-web-api-2/",
-    "title": "WebAssembly Web API",
-    "status": "Draft Standard",
-    "date": "2024-09-03",
-    "histUrl": "https://www.w3.org/standards/history/wasm-web-api-2/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240903/",
-        "status": "Working Draft",
-        "date": "2024-09-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240822/",
-        "status": "Working Draft",
-        "date": "2024-08-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240821/",
-        "status": "Working Draft",
-        "date": "2024-08-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240816/",
-        "status": "Working Draft",
-        "date": "2024-08-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240811/",
-        "status": "Working Draft",
-        "date": "2024-08-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240809/",
-        "status": "Working Draft",
-        "date": "2024-08-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240718/",
-        "status": "Working Draft",
-        "date": "2024-07-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240702/",
-        "status": "Working Draft",
-        "date": "2024-07-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240626/",
-        "status": "Working Draft",
-        "date": "2024-06-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240428/",
-        "status": "Working Draft",
-        "date": "2024-04-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240412/",
-        "status": "Working Draft",
-        "date": "2024-04-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240410/",
-        "status": "Working Draft",
-        "date": "2024-04-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240403/",
-        "status": "Working Draft",
-        "date": "2024-04-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240402/",
-        "status": "Working Draft",
-        "date": "2024-04-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240305/",
-        "status": "Working Draft",
-        "date": "2024-03-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240228/",
-        "status": "Working Draft",
-        "date": "2024-02-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240219/",
-        "status": "Working Draft",
-        "date": "2024-02-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240218/",
-        "status": "Working Draft",
-        "date": "2024-02-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240217/",
-        "status": "Working Draft",
-        "date": "2024-02-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240216/",
-        "status": "Working Draft",
-        "date": "2024-02-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240215/",
-        "status": "Working Draft",
-        "date": "2024-02-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-wasm-web-api-2-20220419/",
-        "status": "First Public Working Draft",
-        "date": "2022-04-19"
-      }
-    ],
-    "abstract": "This document describes the integration of WebAssembly with the broader web platform."
-  },
-  {
     "url": "https://www.w3.org/TR/grek-lreq/",
     "title": "Greek Script Resources",
     "status": "Note",
@@ -70815,6 +70520,316 @@
       }
     ],
     "abstract": "An API that allows applications to lock down powerful APIs to only accept non-spoofable, typed values in place of strings to prevent vulnerabilities caused by using these APIs with attacker-controlled inputs."
+  },
+  {
+    "url": "https://www.w3.org/TR/wasm-core-2/",
+    "title": "WebAssembly Core Specification",
+    "status": "Draft Standard",
+    "date": "2024-09-11",
+    "histUrl": "https://www.w3.org/standards/history/wasm-core-2/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-core-2-20240911/",
+        "status": "Working Draft",
+        "date": "2024-09-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-core-2-20240903/",
+        "status": "Working Draft",
+        "date": "2024-09-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-core-2-20240822/",
+        "status": "Working Draft",
+        "date": "2024-08-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-core-2-20240821/",
+        "status": "Working Draft",
+        "date": "2024-08-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-core-2-20240816/",
+        "status": "Working Draft",
+        "date": "2024-08-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-core-2-20240811/",
+        "status": "Working Draft",
+        "date": "2024-08-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-core-2-20240809/",
+        "status": "Working Draft",
+        "date": "2024-08-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-core-2-20240718/",
+        "status": "Working Draft",
+        "date": "2024-07-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-core-2-20240702/",
+        "status": "Working Draft",
+        "date": "2024-07-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-core-2-20240626/",
+        "status": "Working Draft",
+        "date": "2024-06-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-core-2-20240428/",
+        "status": "Working Draft",
+        "date": "2024-04-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-core-2-20240412/",
+        "status": "Working Draft",
+        "date": "2024-04-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-core-2-20240410/",
+        "status": "Working Draft",
+        "date": "2024-04-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-core-2-20240403/",
+        "status": "Working Draft",
+        "date": "2024-04-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-core-2-20240402/",
+        "status": "Working Draft",
+        "date": "2024-04-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-core-2-20240305/",
+        "status": "Working Draft",
+        "date": "2024-03-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-core-2-20240228/",
+        "status": "Working Draft",
+        "date": "2024-02-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-core-2-20240219/",
+        "status": "Working Draft",
+        "date": "2024-02-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-core-2-20240218/",
+        "status": "Working Draft",
+        "date": "2024-02-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-core-2-20240217/",
+        "status": "Working Draft",
+        "date": "2024-02-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-wasm-core-2-20220419/",
+        "status": "First Public Working Draft",
+        "date": "2022-04-19"
+      }
+    ],
+    "abstract": "This document describes release 2.0 of the core WebAssembly standard, a safe, portable, low-level code format designed for efficient execution and compact representation."
+  },
+  {
+    "url": "https://www.w3.org/TR/wasm-js-api-2/",
+    "title": "WebAssembly JavaScript Interface",
+    "status": "Draft Standard",
+    "date": "2024-09-11",
+    "histUrl": "https://www.w3.org/standards/history/wasm-js-api-2/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-js-api-2-20240911/",
+        "status": "Working Draft",
+        "date": "2024-09-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-js-api-2-20240903/",
+        "status": "Working Draft",
+        "date": "2024-09-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-js-api-2-20240822/",
+        "status": "Working Draft",
+        "date": "2024-08-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-js-api-2-20240821/",
+        "status": "Working Draft",
+        "date": "2024-08-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-js-api-2-20240626/",
+        "status": "Working Draft",
+        "date": "2024-06-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-js-api-2-20240402/",
+        "status": "Working Draft",
+        "date": "2024-04-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-js-api-2-20240305/",
+        "status": "Working Draft",
+        "date": "2024-03-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-js-api-2-20240219/",
+        "status": "Working Draft",
+        "date": "2024-02-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-js-api-2-20240217/",
+        "status": "Working Draft",
+        "date": "2024-02-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-js-api-2-20240216/",
+        "status": "Working Draft",
+        "date": "2024-02-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-js-api-2-20240215/",
+        "status": "Working Draft",
+        "date": "2024-02-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-wasm-js-api-2-20220419/",
+        "status": "First Public Working Draft",
+        "date": "2022-04-19"
+      }
+    ],
+    "abstract": "This document provides an explicit JavaScript API for interacting with WebAssembly."
+  },
+  {
+    "url": "https://www.w3.org/TR/wasm-web-api-2/",
+    "title": "WebAssembly Web API",
+    "status": "Draft Standard",
+    "date": "2024-09-11",
+    "histUrl": "https://www.w3.org/standards/history/wasm-web-api-2/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240911/",
+        "status": "Working Draft",
+        "date": "2024-09-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240903/",
+        "status": "Working Draft",
+        "date": "2024-09-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240822/",
+        "status": "Working Draft",
+        "date": "2024-08-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240821/",
+        "status": "Working Draft",
+        "date": "2024-08-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240816/",
+        "status": "Working Draft",
+        "date": "2024-08-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240811/",
+        "status": "Working Draft",
+        "date": "2024-08-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240809/",
+        "status": "Working Draft",
+        "date": "2024-08-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240718/",
+        "status": "Working Draft",
+        "date": "2024-07-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240702/",
+        "status": "Working Draft",
+        "date": "2024-07-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240626/",
+        "status": "Working Draft",
+        "date": "2024-06-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240428/",
+        "status": "Working Draft",
+        "date": "2024-04-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240412/",
+        "status": "Working Draft",
+        "date": "2024-04-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240410/",
+        "status": "Working Draft",
+        "date": "2024-04-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240403/",
+        "status": "Working Draft",
+        "date": "2024-04-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240402/",
+        "status": "Working Draft",
+        "date": "2024-04-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240305/",
+        "status": "Working Draft",
+        "date": "2024-03-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240228/",
+        "status": "Working Draft",
+        "date": "2024-02-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240219/",
+        "status": "Working Draft",
+        "date": "2024-02-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240218/",
+        "status": "Working Draft",
+        "date": "2024-02-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240217/",
+        "status": "Working Draft",
+        "date": "2024-02-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240216/",
+        "status": "Working Draft",
+        "date": "2024-02-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-wasm-web-api-2-20240215/",
+        "status": "Working Draft",
+        "date": "2024-02-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-wasm-web-api-2-20220419/",
+        "status": "First Public Working Draft",
+        "date": "2022-04-19"
+      }
+    ],
+    "abstract": "This document describes the integration of WebAssembly with the broader web platform."
   },
   {
     "url": "https://www.w3.org/TR/webgpu/",
