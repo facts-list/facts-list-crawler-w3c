@@ -56317,21 +56317,6 @@
     "abstract": "This specification provides APIs to allow websites to create a floating video window always on top of other windows so that users may continue consuming media while they interact with other content sites, or applications on their device."
   },
   {
-    "url": "https://www.w3.org/TR/css-values-5/",
-    "title": "CSS Values and Units Module Level 5",
-    "status": "Draft Standard",
-    "date": "2024-09-03",
-    "histUrl": "https://www.w3.org/standards/history/css-values-5/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-css-values-5-20240903/",
-        "status": "First Public Working Draft",
-        "date": "2024-09-03"
-      }
-    ],
-    "abstract": "This CSS module describes the common values and units that CSS properties accept and the syntax used for describing them in CSS property definitions."
-  },
-  {
     "url": "https://www.w3.org/TR/push-api/",
     "title": "Push API",
     "status": "Draft Standard",
@@ -72780,5 +72765,25 @@
       }
     ],
     "abstract": "WebGPU exposes an API for performing operations, such as rendering and computation, on a Graphics Processing Unit."
+  },
+  {
+    "url": "https://www.w3.org/TR/css-values-5/",
+    "title": "CSS Values and Units Module Level 5",
+    "status": "Draft Standard",
+    "date": "2024-09-13",
+    "histUrl": "https://www.w3.org/standards/history/css-values-5/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-css-values-5-20240913/",
+        "status": "Working Draft",
+        "date": "2024-09-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-css-values-5-20240903/",
+        "status": "First Public Working Draft",
+        "date": "2024-09-03"
+      }
+    ],
+    "abstract": "This CSS module describes the common values and units that CSS properties accept and the syntax used for describing them in CSS property definitions."
   }
 ]
