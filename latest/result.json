@@ -69797,131 +69797,6 @@
     "abstract": "This specification intends to provide APIs to allow websites to make an optimal decision when picking media content for the user. The APIs will expose information about the decoding and encoding capabilities for a given format but also output capabilities to find the best match based on the device’s display."
   },
   {
-    "url": "https://www.w3.org/TR/openscreenprotocol/",
-    "title": "Open Screen Protocol",
-    "status": "Draft Standard",
-    "date": "2024-09-10",
-    "histUrl": "https://www.w3.org/standards/history/openscreenprotocol/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-openscreenprotocol-20240910/",
-        "status": "Working Draft",
-        "date": "2024-09-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-openscreenprotocol-20240801/",
-        "status": "Working Draft",
-        "date": "2024-08-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-openscreenprotocol-20240603/",
-        "status": "Working Draft",
-        "date": "2024-06-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-openscreenprotocol-20240531/",
-        "status": "Working Draft",
-        "date": "2024-05-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-openscreenprotocol-20240425/",
-        "status": "Working Draft",
-        "date": "2024-04-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-openscreenprotocol-20240228/",
-        "status": "Working Draft",
-        "date": "2024-02-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-openscreenprotocol-20240122/",
-        "status": "Working Draft",
-        "date": "2024-01-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-openscreenprotocol-20231016/",
-        "status": "Working Draft",
-        "date": "2023-10-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-openscreenprotocol-20231013/",
-        "status": "Working Draft",
-        "date": "2023-10-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-openscreenprotocol-20231012/",
-        "status": "Working Draft",
-        "date": "2023-10-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-openscreenprotocol-20231004/",
-        "status": "Working Draft",
-        "date": "2023-10-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-openscreenprotocol-20230911/",
-        "status": "Working Draft",
-        "date": "2023-09-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-openscreenprotocol-20230908/",
-        "status": "Working Draft",
-        "date": "2023-09-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-openscreenprotocol-20230305/",
-        "status": "Working Draft",
-        "date": "2023-03-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-openscreenprotocol-20221212/",
-        "status": "Working Draft",
-        "date": "2022-12-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-openscreenprotocol-20221114/",
-        "status": "Working Draft",
-        "date": "2022-11-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-openscreenprotocol-20221107/",
-        "status": "Working Draft",
-        "date": "2022-11-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-openscreenprotocol-20221018/",
-        "status": "Working Draft",
-        "date": "2022-10-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-openscreenprotocol-20220912/",
-        "status": "Working Draft",
-        "date": "2022-09-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-openscreenprotocol-20220909/",
-        "status": "Working Draft",
-        "date": "2022-09-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-openscreenprotocol-20220907/",
-        "status": "Working Draft",
-        "date": "2022-09-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-openscreenprotocol-20220422/",
-        "status": "Working Draft",
-        "date": "2022-04-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-openscreenprotocol-20210318/",
-        "status": "First Public Working Draft",
-        "date": "2021-03-18"
-      }
-    ],
-    "abstract": "The Open Screen Protocol is a suite of network protocols that allow user agents to implement the Presentation API and the Remote Playback API in an interoperable fashion."
-  },
-  {
     "url": "https://www.w3.org/TR/trusted-types/",
     "title": "Trusted Types",
     "status": "Draft Standard",
@@ -72785,5 +72660,135 @@
       }
     ],
     "abstract": "This CSS module describes the common values and units that CSS properties accept and the syntax used for describing them in CSS property definitions."
+  },
+  {
+    "url": "https://www.w3.org/TR/openscreenprotocol/",
+    "title": "Open Screen Protocol",
+    "status": "Draft Standard",
+    "date": "2024-09-14",
+    "histUrl": "https://www.w3.org/standards/history/openscreenprotocol/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-openscreenprotocol-20240914/",
+        "status": "Working Draft",
+        "date": "2024-09-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-openscreenprotocol-20240910/",
+        "status": "Working Draft",
+        "date": "2024-09-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-openscreenprotocol-20240801/",
+        "status": "Working Draft",
+        "date": "2024-08-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-openscreenprotocol-20240603/",
+        "status": "Working Draft",
+        "date": "2024-06-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-openscreenprotocol-20240531/",
+        "status": "Working Draft",
+        "date": "2024-05-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-openscreenprotocol-20240425/",
+        "status": "Working Draft",
+        "date": "2024-04-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-openscreenprotocol-20240228/",
+        "status": "Working Draft",
+        "date": "2024-02-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-openscreenprotocol-20240122/",
+        "status": "Working Draft",
+        "date": "2024-01-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-openscreenprotocol-20231016/",
+        "status": "Working Draft",
+        "date": "2023-10-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-openscreenprotocol-20231013/",
+        "status": "Working Draft",
+        "date": "2023-10-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-openscreenprotocol-20231012/",
+        "status": "Working Draft",
+        "date": "2023-10-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-openscreenprotocol-20231004/",
+        "status": "Working Draft",
+        "date": "2023-10-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-openscreenprotocol-20230911/",
+        "status": "Working Draft",
+        "date": "2023-09-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-openscreenprotocol-20230908/",
+        "status": "Working Draft",
+        "date": "2023-09-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-openscreenprotocol-20230305/",
+        "status": "Working Draft",
+        "date": "2023-03-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-openscreenprotocol-20221212/",
+        "status": "Working Draft",
+        "date": "2022-12-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-openscreenprotocol-20221114/",
+        "status": "Working Draft",
+        "date": "2022-11-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-openscreenprotocol-20221107/",
+        "status": "Working Draft",
+        "date": "2022-11-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-openscreenprotocol-20221018/",
+        "status": "Working Draft",
+        "date": "2022-10-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-openscreenprotocol-20220912/",
+        "status": "Working Draft",
+        "date": "2022-09-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-openscreenprotocol-20220909/",
+        "status": "Working Draft",
+        "date": "2022-09-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-openscreenprotocol-20220907/",
+        "status": "Working Draft",
+        "date": "2022-09-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-openscreenprotocol-20220422/",
+        "status": "Working Draft",
+        "date": "2022-04-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-openscreenprotocol-20210318/",
+        "status": "First Public Working Draft",
+        "date": "2021-03-18"
+      }
+    ],
+    "abstract": "The Open Screen Protocol is a suite of network protocols that allow user agents to implement the Presentation API and the Remote Playback API in an interoperable fashion."
   }
 ]
