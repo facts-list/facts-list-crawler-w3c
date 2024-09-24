@@ -43682,46 +43682,6 @@
     "abstract": "This document defines a set of ECMAScript APIs in WebIDL to allow data to be sent and received between a browser and server, utilizing [WEB-TRANSPORT-HTTP3] and [WEB-TRANSPORT-HTTP2]. This specification is being developed in conjunction with protocol specifications developed by the IETF WEBTRANS Working Group."
   },
   {
-    "url": "https://www.w3.org/TR/webxr-depth-sensing-1/",
-    "title": "WebXR Depth Sensing Module",
-    "status": "Draft Standard",
-    "date": "2024-05-31",
-    "histUrl": "https://www.w3.org/standards/history/webxr-depth-sensing-1/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-webxr-depth-sensing-1-20240531/",
-        "status": "Working Draft",
-        "date": "2024-05-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-webxr-depth-sensing-1-20240528/",
-        "status": "Working Draft",
-        "date": "2024-05-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webxr-depth-sensing-1-20220419/",
-        "status": "Working Draft",
-        "date": "2022-04-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webxr-depth-sensing-1-20220223/",
-        "status": "Working Draft",
-        "date": "2022-02-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webxr-depth-sensing-1-20220215/",
-        "status": "Working Draft",
-        "date": "2022-02-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webxr-depth-sensing-1-20210831/",
-        "status": "First Public Working Draft",
-        "date": "2021-08-31"
-      }
-    ],
-    "abstract": "Depth Sensing API is a module extending the capabilities of WebXR Device API. It enables apps to obtain depth information computed by supported XR devices in order to provide more immersive experiences. The example use cases of depth sensing API include (but are not limited to) simulating physical interactions of virtual objects with the real world, occlusion, and non-visual applications that can make use of increased awareness of users' environment."
-  },
-  {
     "url": "https://www.w3.org/TR/change-password-url/",
     "title": "A Well-Known URL for Changing Passwords",
     "status": "Draft Standard",
@@ -70377,146 +70337,6 @@
     "abstract": "This document points to resources for the layout and presentation of text in languages that use the N’Ko script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render N’Ko text."
   },
   {
-    "url": "https://www.w3.org/TR/openscreenprotocol/",
-    "title": "Open Screen Protocol",
-    "status": "Draft Standard",
-    "date": "2024-09-20",
-    "histUrl": "https://www.w3.org/standards/history/openscreenprotocol/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-openscreenprotocol-20240920/",
-        "status": "Working Draft",
-        "date": "2024-09-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-openscreenprotocol-20240919/",
-        "status": "Working Draft",
-        "date": "2024-09-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-openscreenprotocol-20240914/",
-        "status": "Working Draft",
-        "date": "2024-09-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-openscreenprotocol-20240910/",
-        "status": "Working Draft",
-        "date": "2024-09-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-openscreenprotocol-20240801/",
-        "status": "Working Draft",
-        "date": "2024-08-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-openscreenprotocol-20240603/",
-        "status": "Working Draft",
-        "date": "2024-06-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-openscreenprotocol-20240531/",
-        "status": "Working Draft",
-        "date": "2024-05-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-openscreenprotocol-20240425/",
-        "status": "Working Draft",
-        "date": "2024-04-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-openscreenprotocol-20240228/",
-        "status": "Working Draft",
-        "date": "2024-02-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-openscreenprotocol-20240122/",
-        "status": "Working Draft",
-        "date": "2024-01-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-openscreenprotocol-20231016/",
-        "status": "Working Draft",
-        "date": "2023-10-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-openscreenprotocol-20231013/",
-        "status": "Working Draft",
-        "date": "2023-10-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-openscreenprotocol-20231012/",
-        "status": "Working Draft",
-        "date": "2023-10-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-openscreenprotocol-20231004/",
-        "status": "Working Draft",
-        "date": "2023-10-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-openscreenprotocol-20230911/",
-        "status": "Working Draft",
-        "date": "2023-09-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-openscreenprotocol-20230908/",
-        "status": "Working Draft",
-        "date": "2023-09-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-openscreenprotocol-20230305/",
-        "status": "Working Draft",
-        "date": "2023-03-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-openscreenprotocol-20221212/",
-        "status": "Working Draft",
-        "date": "2022-12-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-openscreenprotocol-20221114/",
-        "status": "Working Draft",
-        "date": "2022-11-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-openscreenprotocol-20221107/",
-        "status": "Working Draft",
-        "date": "2022-11-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-openscreenprotocol-20221018/",
-        "status": "Working Draft",
-        "date": "2022-10-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-openscreenprotocol-20220912/",
-        "status": "Working Draft",
-        "date": "2022-09-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-openscreenprotocol-20220909/",
-        "status": "Working Draft",
-        "date": "2022-09-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-openscreenprotocol-20220907/",
-        "status": "Working Draft",
-        "date": "2022-09-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-openscreenprotocol-20220422/",
-        "status": "Working Draft",
-        "date": "2022-04-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-openscreenprotocol-20210318/",
-        "status": "First Public Working Draft",
-        "date": "2021-03-18"
-      }
-    ],
-    "abstract": "The Open Screen Protocol is a suite of network protocols that allow user agents to implement the Presentation API and the Remote Playback API in an interoperable fashion."
-  },
-  {
     "url": "https://www.w3.org/TR/osge-osa-gap/",
     "title": "Osage Gap Analysis",
     "status": "Note",
@@ -73105,5 +72925,195 @@
       }
     ],
     "abstract": "This specification defines a mechanism that allows developers to selectively enable and disable use of various browser features and APIs."
+  },
+  {
+    "url": "https://www.w3.org/TR/openscreenprotocol/",
+    "title": "Open Screen Protocol",
+    "status": "Draft Standard",
+    "date": "2024-09-23",
+    "histUrl": "https://www.w3.org/standards/history/openscreenprotocol/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-openscreenprotocol-20240923/",
+        "status": "Working Draft",
+        "date": "2024-09-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-openscreenprotocol-20240920/",
+        "status": "Working Draft",
+        "date": "2024-09-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-openscreenprotocol-20240919/",
+        "status": "Working Draft",
+        "date": "2024-09-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-openscreenprotocol-20240914/",
+        "status": "Working Draft",
+        "date": "2024-09-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-openscreenprotocol-20240910/",
+        "status": "Working Draft",
+        "date": "2024-09-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-openscreenprotocol-20240801/",
+        "status": "Working Draft",
+        "date": "2024-08-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-openscreenprotocol-20240603/",
+        "status": "Working Draft",
+        "date": "2024-06-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-openscreenprotocol-20240531/",
+        "status": "Working Draft",
+        "date": "2024-05-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-openscreenprotocol-20240425/",
+        "status": "Working Draft",
+        "date": "2024-04-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-openscreenprotocol-20240228/",
+        "status": "Working Draft",
+        "date": "2024-02-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-openscreenprotocol-20240122/",
+        "status": "Working Draft",
+        "date": "2024-01-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-openscreenprotocol-20231016/",
+        "status": "Working Draft",
+        "date": "2023-10-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-openscreenprotocol-20231013/",
+        "status": "Working Draft",
+        "date": "2023-10-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-openscreenprotocol-20231012/",
+        "status": "Working Draft",
+        "date": "2023-10-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-openscreenprotocol-20231004/",
+        "status": "Working Draft",
+        "date": "2023-10-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-openscreenprotocol-20230911/",
+        "status": "Working Draft",
+        "date": "2023-09-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-openscreenprotocol-20230908/",
+        "status": "Working Draft",
+        "date": "2023-09-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-openscreenprotocol-20230305/",
+        "status": "Working Draft",
+        "date": "2023-03-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-openscreenprotocol-20221212/",
+        "status": "Working Draft",
+        "date": "2022-12-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-openscreenprotocol-20221114/",
+        "status": "Working Draft",
+        "date": "2022-11-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-openscreenprotocol-20221107/",
+        "status": "Working Draft",
+        "date": "2022-11-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-openscreenprotocol-20221018/",
+        "status": "Working Draft",
+        "date": "2022-10-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-openscreenprotocol-20220912/",
+        "status": "Working Draft",
+        "date": "2022-09-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-openscreenprotocol-20220909/",
+        "status": "Working Draft",
+        "date": "2022-09-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-openscreenprotocol-20220907/",
+        "status": "Working Draft",
+        "date": "2022-09-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-openscreenprotocol-20220422/",
+        "status": "Working Draft",
+        "date": "2022-04-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-openscreenprotocol-20210318/",
+        "status": "First Public Working Draft",
+        "date": "2021-03-18"
+      }
+    ],
+    "abstract": "The Open Screen Protocol is a suite of network protocols that allow user agents to implement the Presentation API and the Remote Playback API in an interoperable fashion."
+  },
+  {
+    "url": "https://www.w3.org/TR/webxr-depth-sensing-1/",
+    "title": "WebXR Depth Sensing Module",
+    "status": "Draft Standard",
+    "date": "2024-09-23",
+    "histUrl": "https://www.w3.org/standards/history/webxr-depth-sensing-1/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-webxr-depth-sensing-1-20240923/",
+        "status": "Working Draft",
+        "date": "2024-09-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-webxr-depth-sensing-1-20240531/",
+        "status": "Working Draft",
+        "date": "2024-05-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-webxr-depth-sensing-1-20240528/",
+        "status": "Working Draft",
+        "date": "2024-05-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webxr-depth-sensing-1-20220419/",
+        "status": "Working Draft",
+        "date": "2022-04-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webxr-depth-sensing-1-20220223/",
+        "status": "Working Draft",
+        "date": "2022-02-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webxr-depth-sensing-1-20220215/",
+        "status": "Working Draft",
+        "date": "2022-02-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-webxr-depth-sensing-1-20210831/",
+        "status": "First Public Working Draft",
+        "date": "2021-08-31"
+      }
+    ],
+    "abstract": "Depth Sensing API is a module extending the capabilities of WebXR Device API. It enables apps to obtain depth information computed by supported XR devices in order to provide more immersive experiences. The example use cases of depth sensing API include (but are not limited to) simulating physical interactions of virtual objects with the real world, occlusion, and non-visual applications that can make use of increased awareness of users' environment."
   }
 ]
