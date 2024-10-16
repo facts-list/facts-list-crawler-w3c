@@ -46917,181 +46917,6 @@
     "abstract": "The CSS formatting model provides for a flow of elements and text inside of a container to be wrapped into lines. This module describes box model for this inline layout model and defines the block-axis alignment and sizing of inline-level content, extending the model in [CSS2]. It also adds a special layout mode for drop-caps."
   },
   {
-    "url": "https://www.w3.org/TR/core-aam-1.2/",
-    "title": "Core Accessibility API Mappings 1.2",
-    "status": "Candidate Standard",
-    "date": "2024-08-13",
-    "histUrl": "https://www.w3.org/standards/history/core-aam-1.2/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-core-aam-1.2-20240813/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-08-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-core-aam-1.2-20240621/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-06-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-core-aam-1.2-20240620/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-06-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-core-aam-1.2-20231102/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-11-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-core-aam-1.2-20231031/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-10-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-core-aam-1.2-20231026/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-10-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-core-aam-1.2-20231012/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-10-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-core-aam-1.2-20230904/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-09-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-core-aam-1.2-20230902/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-09-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-core-aam-1.2-20230901/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-09-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-core-aam-1.2-20230825/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-08-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-core-aam-1.2-20230821/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-08-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-core-aam-1.2-20230817/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-08-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-core-aam-1.2-20230816/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-08-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-core-aam-1.2-20230705/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-07-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-core-aam-1.2-20230628/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-06-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-core-aam-1.2-20230626/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-06-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-core-aam-1.2-20230518/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-05-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/CR-core-aam-1.2-20221122/",
-        "status": "Candidate Recommendation Snapshot",
-        "date": "2022-11-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-core-aam-1.2-20221101/",
-        "status": "Working Draft",
-        "date": "2022-11-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-core-aam-1.2-20221013/",
-        "status": "Working Draft",
-        "date": "2022-10-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-core-aam-1.2-20221008/",
-        "status": "Working Draft",
-        "date": "2022-10-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-core-aam-1.2-20220930/",
-        "status": "Working Draft",
-        "date": "2022-09-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-core-aam-1.2-20220915/",
-        "status": "Working Draft",
-        "date": "2022-09-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-core-aam-1.2-20220830/",
-        "status": "Working Draft",
-        "date": "2022-08-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-core-aam-1.2-20220526/",
-        "status": "Working Draft",
-        "date": "2022-05-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-core-aam-1.2-20220524/",
-        "status": "Working Draft",
-        "date": "2022-05-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-core-aam-1.2-20220517/",
-        "status": "Working Draft",
-        "date": "2022-05-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-core-aam-1.2-20220215/",
-        "status": "Working Draft",
-        "date": "2022-02-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-core-aam-1.2-20220120/",
-        "status": "Working Draft",
-        "date": "2022-01-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-core-aam-1.2-20191218/",
-        "status": "Working Draft",
-        "date": "2019-12-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-core-aam-1.2-20181218/",
-        "status": "Working Draft",
-        "date": "2018-12-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-core-aam-1.2-20180719/",
-        "status": "First Public Working Draft",
-        "date": "2018-07-19"
-      }
-    ],
-    "abstract": "This document describes how user agents should expose semantics of web content languages to accessibility APIs. This helps users with disabilities to obtain and interact with information using assistive technologies. Documenting these mappings promotes interoperable exposure of roles, states, properties, and events implemented by accessibility APIs and helps to ensure that this information appears in a manner consistent with author intent."
-  },
-  {
     "url": "https://www.w3.org/TR/credential-management-1/",
     "title": "Credential Management Level 1",
     "status": "Draft Standard",
@@ -49430,136 +49255,6 @@
       }
     ],
     "abstract": "The Resource Description Framework (RDF) is a framework for representing information in the Web. This document defines an abstract syntax (a data model) which serves to link all RDF-based languages and specifications. The abstract syntax has two key data structures:"
-  },
-  {
-    "url": "https://www.w3.org/TR/vc-di-bbs/",
-    "title": "Data Integrity BBS Cryptosuites v1.0",
-    "status": "Candidate Standard",
-    "date": "2024-08-28",
-    "histUrl": "https://www.w3.org/standards/history/vc-di-bbs/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-vc-di-bbs-20240828/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-08-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-vc-di-bbs-20240819/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-08-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-vc-di-bbs-20240630/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-06-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-vc-di-bbs-20240626/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-06-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-vc-di-bbs-20240617/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-06-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-vc-di-bbs-20240614/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-06-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-vc-di-bbs-20240428/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-04-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CR-vc-di-bbs-20240404/",
-        "status": "Candidate Recommendation Snapshot",
-        "date": "2024-04-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-di-bbs-20240401/",
-        "status": "Working Draft",
-        "date": "2024-04-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-di-bbs-20240318/",
-        "status": "Working Draft",
-        "date": "2024-03-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-di-bbs-20240316/",
-        "status": "Working Draft",
-        "date": "2024-03-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-di-bbs-20240315/",
-        "status": "Working Draft",
-        "date": "2024-03-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-di-bbs-20240314/",
-        "status": "Working Draft",
-        "date": "2024-03-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-di-bbs-20240309/",
-        "status": "Working Draft",
-        "date": "2024-03-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-di-bbs-20240307/",
-        "status": "Working Draft",
-        "date": "2024-03-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-di-bbs-20240303/",
-        "status": "Working Draft",
-        "date": "2024-03-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-di-bbs-20240202/",
-        "status": "Working Draft",
-        "date": "2024-02-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-di-bbs-20231218/",
-        "status": "Working Draft",
-        "date": "2023-12-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-di-bbs-20231214/",
-        "status": "Working Draft",
-        "date": "2023-12-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-di-bbs-20231104/",
-        "status": "Working Draft",
-        "date": "2023-11-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-di-bbs-20231025/",
-        "status": "Working Draft",
-        "date": "2023-10-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-di-bbs-20231016/",
-        "status": "Working Draft",
-        "date": "2023-10-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-di-bbs-20230524/",
-        "status": "Working Draft",
-        "date": "2023-05-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-di-bbs-20230518/",
-        "status": "First Public Working Draft",
-        "date": "2023-05-18"
-      }
-    ],
-    "abstract": "This specification describes a Data Integrity Cryptosuite for use when generating digital signatures using the BBS signature scheme. The Signature Suite utilizes BBS signatures to provide selective disclosure and unlinkable derived proofs."
   },
   {
     "url": "https://www.w3.org/TR/css-easing-2/",
@@ -71437,91 +71132,6 @@
     "abstract": "Some user agents have music devices, such as synthesizers, keyboard and other controllers, and drum machines connected to their host computer or device. The widely adopted Musical Instrument Digital Interface (MIDI) protocol enables electronic musical instruments, controllers and computers to communicate and synchronize with each other. MIDI does not transmit audio signals: instead, it sends event messages about musical notes, controller signals for parameters such as volume, vibrato and panning, cues and clock signals to set the tempo, and system-specific MIDI communications (e.g. to remotely store synthesizer-specific patch data). This same protocol has become a standard for non-musical uses, such as show control, lighting and special effects control."
   },
   {
-    "url": "https://www.w3.org/TR/controller-document/",
-    "title": "Controller Documents 1.0",
-    "status": "Draft Standard",
-    "date": "2024-10-13",
-    "histUrl": "https://www.w3.org/standards/history/controller-document/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-controller-document-20241013/",
-        "status": "Working Draft",
-        "date": "2024-10-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-controller-document-20241012/",
-        "status": "Working Draft",
-        "date": "2024-10-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240927/",
-        "status": "Working Draft",
-        "date": "2024-09-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240908/",
-        "status": "Working Draft",
-        "date": "2024-09-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240906/",
-        "status": "Working Draft",
-        "date": "2024-09-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240902/",
-        "status": "Working Draft",
-        "date": "2024-09-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240831/",
-        "status": "Working Draft",
-        "date": "2024-08-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240829/",
-        "status": "Working Draft",
-        "date": "2024-08-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240817/",
-        "status": "Working Draft",
-        "date": "2024-08-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240803/",
-        "status": "Working Draft",
-        "date": "2024-08-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240727/",
-        "status": "Working Draft",
-        "date": "2024-07-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240630/",
-        "status": "Working Draft",
-        "date": "2024-06-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240617/",
-        "status": "Working Draft",
-        "date": "2024-06-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240611/",
-        "status": "Working Draft",
-        "date": "2024-06-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240523/",
-        "status": "First Public Working Draft",
-        "date": "2024-05-23"
-      }
-    ],
-    "abstract": "A controller document is a set of data that specifies one or more relationships between a controller and a set of data, such as a set of public cryptographic keys."
-  },
-  {
     "url": "https://www.w3.org/TR/sparql12-query/",
     "title": "SPARQL 1.2 Query Language",
     "status": "Draft Standard",
@@ -71922,12 +71532,452 @@
     "abstract": "This document defines a mechanism by which web developers can control the resources which a particular page can fetch or execute, as well as a number of security-relevant policy decisions."
   },
   {
+    "url": "https://www.w3.org/TR/vc-overview/",
+    "title": "Verifiable Credentials Overview",
+    "status": "Note",
+    "date": "2024-10-14",
+    "histUrl": "https://www.w3.org/standards/history/vc-overview/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/NOTE-vc-overview-20241014/",
+        "status": "Note",
+        "date": "2024-10-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/NOTE-vc-overview-20240919/",
+        "status": "Note",
+        "date": "2024-09-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/NOTE-vc-overview-20240706/",
+        "status": "Note",
+        "date": "2024-07-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/NOTE-vc-overview-20240613/",
+        "status": "Note",
+        "date": "2024-06-13"
+      }
+    ],
+    "abstract": "Credentials are a part of our daily lives; driver's licenses are used to assert that we are capable of operating a motor vehicle, university degrees can be used to assert our level of education, and government-issued passports enable us to travel between countries. The family of W3C Recommendations for Verifiable Credentials, described in this overview document, provides a mechanism to express these sorts of credentials on the Web in a way that is cryptographically secure, privacy respecting, and machine-verifiable."
+  },
+  {
+    "url": "https://www.w3.org/TR/controller-document/",
+    "title": "Controller Documents 1.0",
+    "status": "Draft Standard",
+    "date": "2024-10-15",
+    "histUrl": "https://www.w3.org/standards/history/controller-document/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-controller-document-20241015/",
+        "status": "Working Draft",
+        "date": "2024-10-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-controller-document-20241013/",
+        "status": "Working Draft",
+        "date": "2024-10-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-controller-document-20241012/",
+        "status": "Working Draft",
+        "date": "2024-10-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240927/",
+        "status": "Working Draft",
+        "date": "2024-09-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240908/",
+        "status": "Working Draft",
+        "date": "2024-09-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240906/",
+        "status": "Working Draft",
+        "date": "2024-09-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240902/",
+        "status": "Working Draft",
+        "date": "2024-09-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240831/",
+        "status": "Working Draft",
+        "date": "2024-08-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240829/",
+        "status": "Working Draft",
+        "date": "2024-08-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240817/",
+        "status": "Working Draft",
+        "date": "2024-08-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240803/",
+        "status": "Working Draft",
+        "date": "2024-08-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240727/",
+        "status": "Working Draft",
+        "date": "2024-07-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240630/",
+        "status": "Working Draft",
+        "date": "2024-06-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240617/",
+        "status": "Working Draft",
+        "date": "2024-06-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240611/",
+        "status": "Working Draft",
+        "date": "2024-06-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240523/",
+        "status": "First Public Working Draft",
+        "date": "2024-05-23"
+      }
+    ],
+    "abstract": "A controller document is a set of data that specifies one or more relationships between a controller and a set of data, such as a set of public cryptographic keys."
+  },
+  {
+    "url": "https://www.w3.org/TR/core-aam-1.2/",
+    "title": "Core Accessibility API Mappings 1.2",
+    "status": "Candidate Standard",
+    "date": "2024-10-15",
+    "histUrl": "https://www.w3.org/standards/history/core-aam-1.2/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-core-aam-1.2-20241015/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-10-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-core-aam-1.2-20240813/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-08-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-core-aam-1.2-20240621/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-06-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-core-aam-1.2-20240620/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-06-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-core-aam-1.2-20231102/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-11-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-core-aam-1.2-20231031/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-10-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-core-aam-1.2-20231026/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-10-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-core-aam-1.2-20231012/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-10-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-core-aam-1.2-20230904/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-09-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-core-aam-1.2-20230902/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-09-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-core-aam-1.2-20230901/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-09-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-core-aam-1.2-20230825/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-08-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-core-aam-1.2-20230821/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-08-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-core-aam-1.2-20230817/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-08-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-core-aam-1.2-20230816/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-08-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-core-aam-1.2-20230705/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-07-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-core-aam-1.2-20230628/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-06-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-core-aam-1.2-20230626/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-06-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-core-aam-1.2-20230518/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-05-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/CR-core-aam-1.2-20221122/",
+        "status": "Candidate Recommendation Snapshot",
+        "date": "2022-11-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-core-aam-1.2-20221101/",
+        "status": "Working Draft",
+        "date": "2022-11-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-core-aam-1.2-20221013/",
+        "status": "Working Draft",
+        "date": "2022-10-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-core-aam-1.2-20221008/",
+        "status": "Working Draft",
+        "date": "2022-10-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-core-aam-1.2-20220930/",
+        "status": "Working Draft",
+        "date": "2022-09-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-core-aam-1.2-20220915/",
+        "status": "Working Draft",
+        "date": "2022-09-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-core-aam-1.2-20220830/",
+        "status": "Working Draft",
+        "date": "2022-08-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-core-aam-1.2-20220526/",
+        "status": "Working Draft",
+        "date": "2022-05-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-core-aam-1.2-20220524/",
+        "status": "Working Draft",
+        "date": "2022-05-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-core-aam-1.2-20220517/",
+        "status": "Working Draft",
+        "date": "2022-05-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-core-aam-1.2-20220215/",
+        "status": "Working Draft",
+        "date": "2022-02-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-core-aam-1.2-20220120/",
+        "status": "Working Draft",
+        "date": "2022-01-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-core-aam-1.2-20191218/",
+        "status": "Working Draft",
+        "date": "2019-12-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-core-aam-1.2-20181218/",
+        "status": "Working Draft",
+        "date": "2018-12-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-core-aam-1.2-20180719/",
+        "status": "First Public Working Draft",
+        "date": "2018-07-19"
+      }
+    ],
+    "abstract": "This document describes how user agents should expose semantics of web content languages to accessibility APIs. This helps users with disabilities to obtain and interact with information using assistive technologies. Documenting these mappings promotes interoperable exposure of roles, states, properties, and events implemented by accessibility APIs and helps to ensure that this information appears in a manner consistent with author intent."
+  },
+  {
+    "url": "https://www.w3.org/TR/vc-di-bbs/",
+    "title": "Data Integrity BBS Cryptosuites v1.0",
+    "status": "Candidate Standard",
+    "date": "2024-10-15",
+    "histUrl": "https://www.w3.org/standards/history/vc-di-bbs/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-di-bbs-20241015/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-10-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-di-bbs-20240828/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-08-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-di-bbs-20240819/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-08-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-di-bbs-20240630/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-06-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-di-bbs-20240626/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-06-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-di-bbs-20240617/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-06-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-di-bbs-20240614/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-06-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-di-bbs-20240428/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-04-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CR-vc-di-bbs-20240404/",
+        "status": "Candidate Recommendation Snapshot",
+        "date": "2024-04-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-di-bbs-20240401/",
+        "status": "Working Draft",
+        "date": "2024-04-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-di-bbs-20240318/",
+        "status": "Working Draft",
+        "date": "2024-03-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-di-bbs-20240316/",
+        "status": "Working Draft",
+        "date": "2024-03-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-di-bbs-20240315/",
+        "status": "Working Draft",
+        "date": "2024-03-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-di-bbs-20240314/",
+        "status": "Working Draft",
+        "date": "2024-03-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-di-bbs-20240309/",
+        "status": "Working Draft",
+        "date": "2024-03-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-di-bbs-20240307/",
+        "status": "Working Draft",
+        "date": "2024-03-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-di-bbs-20240303/",
+        "status": "Working Draft",
+        "date": "2024-03-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-di-bbs-20240202/",
+        "status": "Working Draft",
+        "date": "2024-02-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-di-bbs-20231218/",
+        "status": "Working Draft",
+        "date": "2023-12-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-di-bbs-20231214/",
+        "status": "Working Draft",
+        "date": "2023-12-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-di-bbs-20231104/",
+        "status": "Working Draft",
+        "date": "2023-11-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-di-bbs-20231025/",
+        "status": "Working Draft",
+        "date": "2023-10-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-di-bbs-20231016/",
+        "status": "Working Draft",
+        "date": "2023-10-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-di-bbs-20230524/",
+        "status": "Working Draft",
+        "date": "2023-05-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-di-bbs-20230518/",
+        "status": "First Public Working Draft",
+        "date": "2023-05-18"
+      }
+    ],
+    "abstract": "This specification describes a Data Integrity Cryptosuite for use when generating digital signatures using the BBS signature scheme. The Signature Suite utilizes BBS signatures to provide selective disclosure and unlinkable derived proofs."
+  },
+  {
     "url": "https://www.w3.org/TR/vc-di-ecdsa/",
     "title": "Data Integrity ECDSA Cryptosuites v1.0",
     "status": "Candidate Standard",
-    "date": "2024-10-14",
+    "date": "2024-10-15",
     "histUrl": "https://www.w3.org/standards/history/vc-di-ecdsa/",
     "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-di-ecdsa-20241015/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-10-15"
+      },
       {
         "url": "https://www.w3.org/TR/2024/CRD-vc-di-ecdsa-20241014/",
         "status": "Candidate Recommendation Draft",
@@ -72180,9 +72230,14 @@
     "url": "https://www.w3.org/TR/vc-di-eddsa/",
     "title": "Data Integrity EdDSA Cryptosuites v1.0",
     "status": "Candidate Standard",
-    "date": "2024-10-14",
+    "date": "2024-10-15",
     "histUrl": "https://www.w3.org/standards/history/vc-di-eddsa/",
     "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-di-eddsa-20241015/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-10-15"
+      },
       {
         "url": "https://www.w3.org/TR/2024/CRD-vc-di-eddsa-20241014/",
         "status": "Candidate Recommendation Draft",
@@ -72372,12 +72427,107 @@
     "abstract": "This specification describes Data Integrity cryptographic suites for use when creating or verifying a digital signature using the the Ed25519 instantiation of the Edwards-Curve Digital Signature Algorithm (EdDSA)."
   },
   {
+    "url": "https://www.w3.org/TR/IndexedDB-3/",
+    "title": "Indexed Database API 3.0",
+    "status": "Draft Standard",
+    "date": "2024-10-15",
+    "histUrl": "https://www.w3.org/standards/history/IndexedDB-3/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-IndexedDB-3-20241015/",
+        "status": "Working Draft",
+        "date": "2024-10-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-IndexedDB-3-20231212/",
+        "status": "Working Draft",
+        "date": "2023-12-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-IndexedDB-3-20230808/",
+        "status": "Working Draft",
+        "date": "2023-08-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-IndexedDB-3-20230804/",
+        "status": "Working Draft",
+        "date": "2023-08-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-IndexedDB-3-20230803/",
+        "status": "Working Draft",
+        "date": "2023-08-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-IndexedDB-3-20230613/",
+        "status": "Working Draft",
+        "date": "2023-06-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-IndexedDB-3-20230413/",
+        "status": "Working Draft",
+        "date": "2023-04-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-IndexedDB-3-20230303/",
+        "status": "Working Draft",
+        "date": "2023-03-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-IndexedDB-3-20230210/",
+        "status": "Working Draft",
+        "date": "2023-02-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-IndexedDB-3-20220915/",
+        "status": "Working Draft",
+        "date": "2022-09-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-IndexedDB-3-20220706/",
+        "status": "Working Draft",
+        "date": "2022-07-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-IndexedDB-3-20220629/",
+        "status": "Working Draft",
+        "date": "2022-06-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-IndexedDB-3-20220608/",
+        "status": "Working Draft",
+        "date": "2022-06-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-IndexedDB-3-20211006/",
+        "status": "Working Draft",
+        "date": "2021-10-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-IndexedDB-3-20210618/",
+        "status": "Working Draft",
+        "date": "2021-06-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-IndexedDB-3-20210311/",
+        "status": "First Public Working Draft",
+        "date": "2021-03-11"
+      }
+    ],
+    "abstract": "This document defines APIs for a database of records holding simple values and hierarchical objects. Each record consists of a key and some value. Moreover, the database maintains indexes over records it stores. An application developer directly uses an API to locate records either by their key or by using an index. A query language can be layered on this API. An indexed database can be implemented using a persistent B-tree data structure."
+  },
+  {
     "url": "https://www.w3.org/TR/vc-data-integrity/",
     "title": "Verifiable Credential Data Integrity 1.0",
     "status": "Candidate Standard",
-    "date": "2024-10-14",
+    "date": "2024-10-15",
     "histUrl": "https://www.w3.org/standards/history/vc-data-integrity/",
     "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20241015/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-10-15"
+      },
       {
         "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20241014/",
         "status": "Candidate Recommendation Draft",
@@ -72675,9 +72825,14 @@
     "url": "https://www.w3.org/TR/vc-data-model-2.0/",
     "title": "Verifiable Credentials Data Model v2.0",
     "status": "Candidate Standard",
-    "date": "2024-10-14",
+    "date": "2024-10-15",
     "histUrl": "https://www.w3.org/standards/history/vc-data-model-2.0/",
     "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-data-model-2.0-20241015/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-10-15"
+      },
       {
         "url": "https://www.w3.org/TR/2024/CRD-vc-data-model-2.0-20241014/",
         "status": "Candidate Recommendation Draft",
@@ -73465,125 +73620,5 @@
       }
     ],
     "abstract": "Credentials are integral to our daily lives: driver's licenses confirm our capability to operate motor vehicles; university degrees assert our level of education; and government-issued passports attest to our citizenship when traveling between countries. This specification provides a mechanism for expressing these sorts of credentials on the Web in a way that is cryptographically secure, privacy respecting, and machine verifiable. These credentials provide benefits to us when used in the physical world, but their use on the Web continues to be elusive."
-  },
-  {
-    "url": "https://www.w3.org/TR/vc-overview/",
-    "title": "Verifiable Credentials Overview",
-    "status": "Note",
-    "date": "2024-10-14",
-    "histUrl": "https://www.w3.org/standards/history/vc-overview/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/NOTE-vc-overview-20241014/",
-        "status": "Note",
-        "date": "2024-10-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/NOTE-vc-overview-20240919/",
-        "status": "Note",
-        "date": "2024-09-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/NOTE-vc-overview-20240706/",
-        "status": "Note",
-        "date": "2024-07-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/NOTE-vc-overview-20240613/",
-        "status": "Note",
-        "date": "2024-06-13"
-      }
-    ],
-    "abstract": "Credentials are a part of our daily lives; driver's licenses are used to assert that we are capable of operating a motor vehicle, university degrees can be used to assert our level of education, and government-issued passports enable us to travel between countries. The family of W3C Recommendations for Verifiable Credentials, described in this overview document, provides a mechanism to express these sorts of credentials on the Web in a way that is cryptographically secure, privacy respecting, and machine-verifiable."
-  },
-  {
-    "url": "https://www.w3.org/TR/IndexedDB-3/",
-    "title": "Indexed Database API 3.0",
-    "status": "Draft Standard",
-    "date": "2024-10-15",
-    "histUrl": "https://www.w3.org/standards/history/IndexedDB-3/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-IndexedDB-3-20241015/",
-        "status": "Working Draft",
-        "date": "2024-10-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-IndexedDB-3-20231212/",
-        "status": "Working Draft",
-        "date": "2023-12-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-IndexedDB-3-20230808/",
-        "status": "Working Draft",
-        "date": "2023-08-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-IndexedDB-3-20230804/",
-        "status": "Working Draft",
-        "date": "2023-08-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-IndexedDB-3-20230803/",
-        "status": "Working Draft",
-        "date": "2023-08-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-IndexedDB-3-20230613/",
-        "status": "Working Draft",
-        "date": "2023-06-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-IndexedDB-3-20230413/",
-        "status": "Working Draft",
-        "date": "2023-04-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-IndexedDB-3-20230303/",
-        "status": "Working Draft",
-        "date": "2023-03-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-IndexedDB-3-20230210/",
-        "status": "Working Draft",
-        "date": "2023-02-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-IndexedDB-3-20220915/",
-        "status": "Working Draft",
-        "date": "2022-09-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-IndexedDB-3-20220706/",
-        "status": "Working Draft",
-        "date": "2022-07-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-IndexedDB-3-20220629/",
-        "status": "Working Draft",
-        "date": "2022-06-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-IndexedDB-3-20220608/",
-        "status": "Working Draft",
-        "date": "2022-06-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-IndexedDB-3-20211006/",
-        "status": "Working Draft",
-        "date": "2021-10-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-IndexedDB-3-20210618/",
-        "status": "Working Draft",
-        "date": "2021-06-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-IndexedDB-3-20210311/",
-        "status": "First Public Working Draft",
-        "date": "2021-03-11"
-      }
-    ],
-    "abstract": "This document defines APIs for a database of records holding simple values and hierarchical objects. Each record consists of a key and some value. Moreover, the database maintains indexes over records it stores. An application developer directly uses an API to locate records either by their key or by using an index. A query language can be layered on this API. An indexed database can be implemented using a persistent B-tree data structure."
   }
 ]
