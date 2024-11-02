@@ -56192,71 +56192,6 @@
     "abstract": "This document describes and prioritises gaps for the support of the Hebrew script on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, such as HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders."
   },
   {
-    "url": "https://www.w3.org/TR/typography/",
-    "title": "Language enablement index",
-    "status": "Draft Note",
-    "date": "2024-09-20",
-    "histUrl": "https://www.w3.org/standards/history/typography/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-typography-20240920/",
-        "status": "Draft Note",
-        "date": "2024-09-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-typography-20240815/",
-        "status": "Draft Note",
-        "date": "2024-08-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-typography-20240705/",
-        "status": "Draft Note",
-        "date": "2024-07-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-typography-20240322/",
-        "status": "Draft Note",
-        "date": "2024-03-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-typography-20240321/",
-        "status": "Draft Note",
-        "date": "2024-03-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-typography-20240125/",
-        "status": "Draft Note",
-        "date": "2024-01-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-typography-20221101/",
-        "status": "Draft Note",
-        "date": "2022-11-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-typography-20200520/",
-        "status": "Working Draft",
-        "date": "2020-05-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-typography-20190520/",
-        "status": "Working Draft",
-        "date": "2019-05-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-typography-20180828/",
-        "status": "Working Draft",
-        "date": "2018-08-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-typography-20170209/",
-        "status": "First Public Working Draft",
-        "date": "2017-02-09"
-      }
-    ],
-    "abstract": "This document points browser implementers and specification developers to information about how to support typographic features of scripts or writing systems from around the world, and also points to relevant information in specifications, to tests, and to useful articles and papers. It is not exhaustive, and will be added to from time to time."
-  },
-  {
     "url": "https://www.w3.org/TR/latn-gap/",
     "title": "Latin Script Gap Analysis",
     "status": "Draft Note",
@@ -72502,26 +72437,6 @@
     "abstract": "A controller document contains cryptographic material and identifies service endpoints that can be used to verify proofs from, and interact with, the controller of an identifier."
   },
   {
-    "url": "https://www.w3.org/TR/mathml4/",
-    "title": "Mathematical Markup Language (MathML) Version 4.0",
-    "status": "Draft Standard",
-    "date": "2024-10-28",
-    "histUrl": "https://www.w3.org/standards/history/mathml4/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-mathml4-20241028/",
-        "status": "Working Draft",
-        "date": "2024-10-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-mathml4-20220908/",
-        "status": "First Public Working Draft",
-        "date": "2022-09-08"
-      }
-    ],
-    "abstract": "This specification defines the Mathematical Markup Language, or MathML. MathML is a markup language for describing mathematical notation and capturing both its structure and content. The goal of MathML is to enable mathematics to be served, received, and processed on the World Wide Web, just as [HTML] has enabled this functionality for text."
-  },
-  {
     "url": "https://www.w3.org/TR/trusted-types/",
     "title": "Trusted Types",
     "status": "Draft Standard",
@@ -73720,5 +73635,100 @@
       }
     ],
     "abstract": "This specification defines an interface to help web developers measure the performance of their applications by giving them access to high precision timestamps."
+  },
+  {
+    "url": "https://www.w3.org/TR/typography/",
+    "title": "Language enablement index",
+    "status": "Draft Note",
+    "date": "2024-11-01",
+    "histUrl": "https://www.w3.org/standards/history/typography/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-typography-20241101/",
+        "status": "Draft Note",
+        "date": "2024-11-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-typography-20240920/",
+        "status": "Draft Note",
+        "date": "2024-09-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-typography-20240815/",
+        "status": "Draft Note",
+        "date": "2024-08-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-typography-20240705/",
+        "status": "Draft Note",
+        "date": "2024-07-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-typography-20240322/",
+        "status": "Draft Note",
+        "date": "2024-03-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-typography-20240321/",
+        "status": "Draft Note",
+        "date": "2024-03-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-typography-20240125/",
+        "status": "Draft Note",
+        "date": "2024-01-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-typography-20221101/",
+        "status": "Draft Note",
+        "date": "2022-11-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-typography-20200520/",
+        "status": "Working Draft",
+        "date": "2020-05-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-typography-20190520/",
+        "status": "Working Draft",
+        "date": "2019-05-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-typography-20180828/",
+        "status": "Working Draft",
+        "date": "2018-08-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-typography-20170209/",
+        "status": "First Public Working Draft",
+        "date": "2017-02-09"
+      }
+    ],
+    "abstract": "This document points browser implementers and specification developers to information about how to support typographic features of scripts or writing systems from around the world, and also points to relevant information in specifications, to tests, and to useful articles and papers. It is not exhaustive, and will be added to from time to time."
+  },
+  {
+    "url": "https://www.w3.org/TR/mathml4/",
+    "title": "Mathematical Markup Language (MathML) Version 4.0",
+    "status": "Draft Standard",
+    "date": "2024-11-01",
+    "histUrl": "https://www.w3.org/standards/history/mathml4/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-mathml4-20241101/",
+        "status": "Working Draft",
+        "date": "2024-11-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-mathml4-20241028/",
+        "status": "Working Draft",
+        "date": "2024-10-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-mathml4-20220908/",
+        "status": "First Public Working Draft",
+        "date": "2022-09-08"
+      }
+    ],
+    "abstract": "This specification defines the Mathematical Markup Language, or MathML. MathML is a markup language for describing mathematical notation and capturing both its structure and content. The goal of MathML is to enable mathematics to be served, received, and processed on the World Wide Web, just as [HTML] has enabled this functionality for text."
   }
 ]
