@@ -34852,41 +34852,6 @@
     "abstract": "This specification defines a base orientation sensor interface and concrete sensor subclasses to monitor the device’s physical orientation in relation to a stationary three dimensional Cartesian coordinate system."
   },
   {
-    "url": "https://www.w3.org/TR/largest-contentful-paint/",
-    "title": "Largest Contentful Paint",
-    "status": "Draft Standard",
-    "date": "2024-01-15",
-    "histUrl": "https://www.w3.org/standards/history/largest-contentful-paint/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-largest-contentful-paint-20240115/",
-        "status": "Working Draft",
-        "date": "2024-01-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-largest-contentful-paint-20230906/",
-        "status": "Working Draft",
-        "date": "2023-09-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-largest-contentful-paint-20230905/",
-        "status": "Working Draft",
-        "date": "2023-09-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-largest-contentful-paint-20230901/",
-        "status": "Working Draft",
-        "date": "2023-09-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-largest-contentful-paint-20220524/",
-        "status": "First Public Working Draft",
-        "date": "2022-05-24"
-      }
-    ],
-    "abstract": "This document defines an API that enables monitoring the largest paint an element triggered on screen."
-  },
-  {
     "url": "https://www.w3.org/TR/wai-aria-1.3/",
     "title": "Accessible Rich Internet Applications (WAI-ARIA) 1.3",
     "status": "Draft Standard",
@@ -36897,31 +36862,6 @@
     "abstract": "SPARQL is a query language and a protocol for data that is stored natively as RDF or viewed as RDF via middleware. The main mechanism for computing query results in SPARQL is subgraph matching: RDF triples in both the queried RDF data and the query pattern are interpreted as nodes and edges of directed graphs, and the resulting query graph is matched to the data graph using variables as wild cards. Various W3C standards, including RDF 1.2 Concepts and Abstract Syntax [RDF12-CONCEPTS] and OWL 2 Web Ontology Language Mapping to RDF Graphs (Second Edition) [OWL2-MAPPING-TO-RDF], provide semantic interpretations for RDF graphs that allow additional RDF statements to be inferred from explicitly given assertions. Many applications that rely on these semantics require a query language such as SPARQL, but in order to use SPARQL, basic graph pattern matching has to be defined using semantic entailment relations instead of explicitly given graph structures. There are different possible ways of defining a basic graph pattern matching extension for an entailment relation. This document specifies one such way for a range of standard semantic web entailment relations. Such extensions of the SPARQL semantics are called entailment regimes within this document. An entailment regime defines not only which entailment relation is used, but also which queries and graphs are well-formed for the regime, how the entailment is used (since there are potentially different meaningful ways to use the same entailment relation), and what kinds of errors can arise. The entailment relations used in this document are standard entailment relations in the semantic web: RDF entailment, RDFS entailment, D-entailment, OWL Direct and RDF-Based Semantics entailment, and RIF Core entailment."
   },
   {
-    "url": "https://www.w3.org/TR/sparql12-graph-store-protocol/",
-    "title": "SPARQL 1.2 Graph Store Protocol",
-    "status": "Draft Standard",
-    "date": "2024-04-18",
-    "histUrl": "https://www.w3.org/standards/history/sparql12-graph-store-protocol/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-sparql12-graph-store-protocol-20240418/",
-        "status": "Working Draft",
-        "date": "2024-04-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-graph-store-protocol-20230616/",
-        "status": "Working Draft",
-        "date": "2023-06-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-graph-store-protocol-20230516/",
-        "status": "First Public Working Draft",
-        "date": "2023-05-16"
-      }
-    ],
-    "abstract": "This document describes the use of HTTP operations for the purpose of managing a collection of RDF graphs. This interface is an alternative to SPARQL 1.2 Protocol. Most of the operations defined here can be performed using that interface, but for some clients or servers, this interface may be easier to implement or work with. This specification may serve as a non-normative suggestion for HTTP operations on RDF graphs which are managed outside of a SPARQL graph store."
-  },
-  {
     "url": "https://www.w3.org/TR/webrtc-encoded-transform/",
     "title": "WebRTC Encoded Transform",
     "status": "Draft Standard",
@@ -38415,21 +38355,6 @@
       }
     ],
     "abstract": "This specification describes multi-column layouts in CSS, a style sheet language for the web. Using functionality described in the specification, content can be flowed into multiple columns with a gap and a rule between them."
-  },
-  {
-    "url": "https://www.w3.org/TR/css-view-transitions-2/",
-    "title": "CSS View Transitions Module Level 2",
-    "status": "Draft Standard",
-    "date": "2024-05-16",
-    "histUrl": "https://www.w3.org/standards/history/css-view-transitions-2/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-css-view-transitions-2-20240516/",
-        "status": "First Public Working Draft",
-        "date": "2024-05-16"
-      }
-    ],
-    "abstract": "This module defines how the View Transition API works with cross-document navigations."
   },
   {
     "url": "https://www.w3.org/TR/mediaqueries-3/",
@@ -43530,241 +43455,6 @@
       }
     ],
     "abstract": "This CSS module describes a way for authors to define a transformation that controls the rate of change of some value. Applied to animations, such transformations can be used to produce animations that mimic physical phenomena such as momentum or to cause the animation to move in discrete steps producing robot-like movement. Level 2 adds more sophisticated functions for custom easing curves."
-  },
-  {
-    "url": "https://www.w3.org/TR/sparql12-protocol/",
-    "title": "SPARQL 1.2 Protocol",
-    "status": "Draft Standard",
-    "date": "2024-08-29",
-    "histUrl": "https://www.w3.org/standards/history/sparql12-protocol/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-sparql12-protocol-20240829/",
-        "status": "Working Draft",
-        "date": "2024-08-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-sparql12-protocol-20240502/",
-        "status": "Working Draft",
-        "date": "2024-05-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-sparql12-protocol-20240418/",
-        "status": "Working Draft",
-        "date": "2024-04-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-protocol-20231214/",
-        "status": "Working Draft",
-        "date": "2023-12-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-protocol-20231102/",
-        "status": "Working Draft",
-        "date": "2023-11-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-protocol-20230616/",
-        "status": "Working Draft",
-        "date": "2023-06-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-protocol-20230516/",
-        "status": "First Public Working Draft",
-        "date": "2023-05-16"
-      }
-    ],
-    "abstract": "The SPARQL Protocol and RDF Query Language (SPARQL) is a query language and protocol for RDF. This document specifies the SPARQL Protocol; it describes a means for conveying SPARQL queries and updates to a SPARQL processing service and returning the results via HTTP to the entity that requested them. This protocol was developed by the W3C SPARQL Working Group, part of the Semantic Web Activity as described in the activity statement ."
-  },
-  {
-    "url": "https://www.w3.org/TR/sparql12-results-csv-tsv/",
-    "title": "SPARQL 1.2 Query Results CSV and TSV Formats",
-    "status": "Draft Standard",
-    "date": "2024-08-29",
-    "histUrl": "https://www.w3.org/standards/history/sparql12-results-csv-tsv/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-sparql12-results-csv-tsv-20240829/",
-        "status": "Working Draft",
-        "date": "2024-08-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-sparql12-results-csv-tsv-20240502/",
-        "status": "Working Draft",
-        "date": "2024-05-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-sparql12-results-csv-tsv-20240418/",
-        "status": "Working Draft",
-        "date": "2024-04-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-results-csv-tsv-20231110/",
-        "status": "Working Draft",
-        "date": "2023-11-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-results-csv-tsv-20230629/",
-        "status": "Working Draft",
-        "date": "2023-06-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-results-csv-tsv-20230616/",
-        "status": "Working Draft",
-        "date": "2023-06-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-results-csv-tsv-20230516/",
-        "status": "First Public Working Draft",
-        "date": "2023-05-16"
-      }
-    ],
-    "abstract": "The formats CSV [RFC4180] (comma separated values) and TSV [IANA-TSV] (tab separated values) provide simple, easy to process formats for the transmission of tabular data. They are supported as input datat formats by many tools, particularly spreadsheets. This document describes their use for expressing SPARQL query results from SELECT queries."
-  },
-  {
-    "url": "https://www.w3.org/TR/sparql12-results-json/",
-    "title": "SPARQL 1.2 Query Results JSON Format",
-    "status": "Draft Standard",
-    "date": "2024-08-29",
-    "histUrl": "https://www.w3.org/standards/history/sparql12-results-json/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-sparql12-results-json-20240829/",
-        "status": "Working Draft",
-        "date": "2024-08-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-sparql12-results-json-20240502/",
-        "status": "Working Draft",
-        "date": "2024-05-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-sparql12-results-json-20240418/",
-        "status": "Working Draft",
-        "date": "2024-04-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-sparql12-results-json-20240208/",
-        "status": "Working Draft",
-        "date": "2024-02-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-results-json-20231130/",
-        "status": "Working Draft",
-        "date": "2023-11-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-results-json-20230728/",
-        "status": "Working Draft",
-        "date": "2023-07-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-results-json-20230727/",
-        "status": "Working Draft",
-        "date": "2023-07-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-results-json-20230616/",
-        "status": "Working Draft",
-        "date": "2023-06-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-results-json-20230516/",
-        "status": "First Public Working Draft",
-        "date": "2023-05-16"
-      }
-    ],
-    "abstract": "SPARQL is a set of standards for the query and update of RDF data, along with ways to access such data over the web. This document describes the representation of SELECT and ASK query results using JSON."
-  },
-  {
-    "url": "https://www.w3.org/TR/sparql12-results-xml/",
-    "title": "SPARQL 1.2 Query Results XML Format",
-    "status": "Draft Standard",
-    "date": "2024-08-29",
-    "histUrl": "https://www.w3.org/standards/history/sparql12-results-xml/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-sparql12-results-xml-20240829/",
-        "status": "Working Draft",
-        "date": "2024-08-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-sparql12-results-xml-20240502/",
-        "status": "Working Draft",
-        "date": "2024-05-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-sparql12-results-xml-20240418/",
-        "status": "Working Draft",
-        "date": "2024-04-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-results-xml-20231130/",
-        "status": "Working Draft",
-        "date": "2023-11-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-results-xml-20230728/",
-        "status": "Working Draft",
-        "date": "2023-07-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-results-xml-20230727/",
-        "status": "Working Draft",
-        "date": "2023-07-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-results-xml-20230616/",
-        "status": "Working Draft",
-        "date": "2023-06-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-results-xml-20230516/",
-        "status": "First Public Working Draft",
-        "date": "2023-05-16"
-      }
-    ],
-    "abstract": ""
-  },
-  {
-    "url": "https://www.w3.org/TR/sparql12-service-description/",
-    "title": "SPARQL 1.2 Service Description",
-    "status": "Draft Standard",
-    "date": "2024-08-29",
-    "histUrl": "https://www.w3.org/standards/history/sparql12-service-description/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-sparql12-service-description-20240829/",
-        "status": "Working Draft",
-        "date": "2024-08-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-sparql12-service-description-20240502/",
-        "status": "Working Draft",
-        "date": "2024-05-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-sparql12-service-description-20240418/",
-        "status": "Working Draft",
-        "date": "2024-04-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-service-description-20231214/",
-        "status": "Working Draft",
-        "date": "2023-12-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-service-description-20230616/",
-        "status": "Working Draft",
-        "date": "2023-06-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-service-description-20230516/",
-        "status": "First Public Working Draft",
-        "date": "2023-05-16"
-      }
-    ],
-    "abstract": "This document describes SPARQL service description, a method for discovering, and vocabulary for describing SPARQL services made available via the SPARQL 1.2 Protocol. These descriptions provide a mechanism by which a client or end user can discover information about the SPARQL service such as supported extension functions and details about the available dataset."
   },
   {
     "url": "https://www.w3.org/TR/did-spec-registries/",
@@ -52227,41 +51917,6 @@
     "abstract": "This registry is intended to enumerate the metadata fields that can be attached to VideoFrame objects via the VideoFrameMetadata dictionary."
   },
   {
-    "url": "https://www.w3.org/TR/sparql12-federated-query/",
-    "title": "SPARQL 1.2 Federated Query",
-    "status": "Draft Standard",
-    "date": "2024-09-12",
-    "histUrl": "https://www.w3.org/standards/history/sparql12-federated-query/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-sparql12-federated-query-20240912/",
-        "status": "Working Draft",
-        "date": "2024-09-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-sparql12-federated-query-20240418/",
-        "status": "Working Draft",
-        "date": "2024-04-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-sparql12-federated-query-20240321/",
-        "status": "Working Draft",
-        "date": "2024-03-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-federated-query-20230616/",
-        "status": "Working Draft",
-        "date": "2023-06-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-federated-query-20230516/",
-        "status": "First Public Working Draft",
-        "date": "2023-05-16"
-      }
-    ],
-    "abstract": "RDF is a directed, labeled graph data model for representing information in the Web. SPARQL can be used to express queries across diverse data sources, whether the data is stored natively as RDF or viewed as RDF via middleware. This specification defines the syntax and semantics of SPARQL 1.1 Federated Query extension for executing queries distributed over different SPARQL endpoints. The SERVICE keyword extends SPARQL 1.1 to support queries that merge data distributed across the Web."
-  },
-  {
     "url": "https://www.w3.org/TR/vc-json-schema/",
     "title": "Verifiable Credentials JSON Schema Specification",
     "status": "Candidate Standard",
@@ -57772,161 +57427,6 @@
     "abstract": "This specification describes a Data Integrity Cryptosuite for use when generating digital signatures using the BBS signature scheme. The Signature Suite utilizes BBS signatures to provide selective disclosure and unlinkable derived proofs."
   },
   {
-    "url": "https://www.w3.org/TR/dapt/",
-    "title": "Dubbing and Audio description Profiles of TTML2",
-    "status": "Draft Standard",
-    "date": "2024-10-17",
-    "histUrl": "https://www.w3.org/standards/history/dapt/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20241017/",
-        "status": "Working Draft",
-        "date": "2024-10-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20241011/",
-        "status": "Working Draft",
-        "date": "2024-10-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20241010/",
-        "status": "Working Draft",
-        "date": "2024-10-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20241009/",
-        "status": "Working Draft",
-        "date": "2024-10-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20241008/",
-        "status": "Working Draft",
-        "date": "2024-10-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20240928/",
-        "status": "Working Draft",
-        "date": "2024-09-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20240916/",
-        "status": "Working Draft",
-        "date": "2024-09-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20240829/",
-        "status": "Working Draft",
-        "date": "2024-08-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20240412/",
-        "status": "Working Draft",
-        "date": "2024-04-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20240328/",
-        "status": "Working Draft",
-        "date": "2024-03-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20240301/",
-        "status": "Working Draft",
-        "date": "2024-03-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20240215/",
-        "status": "Working Draft",
-        "date": "2024-02-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20240213/",
-        "status": "Working Draft",
-        "date": "2024-02-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20240208/",
-        "status": "Working Draft",
-        "date": "2024-02-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20231221/",
-        "status": "Working Draft",
-        "date": "2023-12-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20231123/",
-        "status": "Working Draft",
-        "date": "2023-11-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20231102/",
-        "status": "Working Draft",
-        "date": "2023-11-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20231019/",
-        "status": "Working Draft",
-        "date": "2023-10-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20231013/",
-        "status": "Working Draft",
-        "date": "2023-10-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20231011/",
-        "status": "Working Draft",
-        "date": "2023-10-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20231006/",
-        "status": "Working Draft",
-        "date": "2023-10-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20230801/",
-        "status": "Working Draft",
-        "date": "2023-08-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20230727/",
-        "status": "Working Draft",
-        "date": "2023-07-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20230628/",
-        "status": "Working Draft",
-        "date": "2023-06-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20230619/",
-        "status": "Working Draft",
-        "date": "2023-06-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20230606/",
-        "status": "Working Draft",
-        "date": "2023-06-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20230505/",
-        "status": "Working Draft",
-        "date": "2023-05-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20230504/",
-        "status": "Working Draft",
-        "date": "2023-05-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20230425/",
-        "status": "First Public Working Draft",
-        "date": "2023-04-25"
-      }
-    ],
-    "abstract": "This specification defines DAPT, a TTML-based file format for the exchange of timed text content in dubbing and audio description workflows."
-  },
-  {
     "url": "https://www.w3.org/TR/epub-33/",
     "title": "EPUB 3.3",
     "status": "Standard",
@@ -63222,66 +62722,6 @@
     "abstract": "This specification defines how to secure credentials and presentations conforming to the Verifiable Credential data model [VC-DATA-MODEL-2.0] with JSON Object Signing and Encryption (JOSE), Selective Disclosure for JWTs [SD-JWT], and CBOR Object Signing and Encryption (COSE) [RFC9052]. This enables the Verifiable Credential data model [VC-DATA-MODEL-2.0] to be implemented with standards for signing and encryption that are widely adopted."
   },
   {
-    "url": "https://www.w3.org/TR/sparql12-update/",
-    "title": "SPARQL 1.2 Update",
-    "status": "Draft Standard",
-    "date": "2024-10-25",
-    "histUrl": "https://www.w3.org/standards/history/sparql12-update/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-sparql12-update-20241025/",
-        "status": "Working Draft",
-        "date": "2024-10-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-sparql12-update-20240829/",
-        "status": "Working Draft",
-        "date": "2024-08-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-sparql12-update-20240502/",
-        "status": "Working Draft",
-        "date": "2024-05-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-sparql12-update-20240418/",
-        "status": "Working Draft",
-        "date": "2024-04-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-update-20230928/",
-        "status": "Working Draft",
-        "date": "2023-09-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-update-20230922/",
-        "status": "Working Draft",
-        "date": "2023-09-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-update-20230714/",
-        "status": "Working Draft",
-        "date": "2023-07-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-update-20230706/",
-        "status": "Working Draft",
-        "date": "2023-07-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-update-20230616/",
-        "status": "Working Draft",
-        "date": "2023-06-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-sparql12-update-20230516/",
-        "status": "First Public Working Draft",
-        "date": "2023-05-16"
-      }
-    ],
-    "abstract": "This document describes SPARQL 1.2 Update, an update language for RDF graphs. It uses a syntax derived from the SPARQL Query Language for RDF. Update operations are performed on a collection of graphs in a Graph Store. Operations are provided to update, create, and remove RDF graphs in a Graph Store."
-  },
-  {
     "url": "https://www.w3.org/TR/controller-document/",
     "title": "Controller Documents 1.0",
     "status": "Draft Standard",
@@ -64156,7 +63596,7 @@
     "title": "User Timing",
     "status": "Candidate Standard",
     "date": "2024-10-31",
-    "histUrl": "https://www.w3.org/standards/history/user-timing-1/",
+    "histUrl": "https://www.w3.org/standards/history/user-timing/",
     "history": [
       {
         "url": "https://www.w3.org/TR/2024/CRD-user-timing-20241031/",
@@ -64167,6 +63607,21 @@
         "url": "https://www.w3.org/TR/2023/CRD-user-timing-20231114/",
         "status": "Candidate Recommendation Draft",
         "date": "2023-11-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-user-timing-20231106/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-11-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-user-timing-20230426/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-04-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/CRD-user-timing-20220803/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2022-08-03"
       },
       {
         "url": "https://www.w3.org/TR/2021/CR-user-timing-20211202/",
@@ -69632,41 +69087,6 @@
     "abstract": "WebGPU exposes an API for performing operations, such as rendering and computation, on a Graphics Processing Unit."
   },
   {
-    "url": "https://www.w3.org/TR/mathml4/",
-    "title": "Mathematical Markup Language (MathML) Version 4.0",
-    "status": "Draft Standard",
-    "date": "2024-11-08",
-    "histUrl": "https://www.w3.org/standards/history/mathml4/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-mathml4-20241108/",
-        "status": "Working Draft",
-        "date": "2024-11-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-mathml4-20241107/",
-        "status": "Working Draft",
-        "date": "2024-11-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-mathml4-20241101/",
-        "status": "Working Draft",
-        "date": "2024-11-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-mathml4-20241028/",
-        "status": "Working Draft",
-        "date": "2024-10-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-mathml4-20220908/",
-        "status": "First Public Working Draft",
-        "date": "2022-09-08"
-      }
-    ],
-    "abstract": "This specification defines the Mathematical Markup Language, or MathML. MathML is a markup language for describing mathematical notation and capturing both its structure and content. The goal of MathML is to enable mathematics to be served, received, and processed on the World Wide Web, just as [HTML] has enabled this functionality for text."
-  },
-  {
     "url": "https://www.w3.org/TR/vc-overview/",
     "title": "Verifiable Credentials Overview",
     "status": "Note",
@@ -73502,26 +72922,6 @@
     "abstract": "Secure Payment Confirmation (SPC) is a Web API to support streamlined authentication during a payment transaction. It is designed to scale authentication across merchants, to be used within a wide range of authentication protocols, and to produce cryptographic evidence that the user has confirmed transaction details."
   },
   {
-    "url": "https://www.w3.org/TR/audio-session/",
-    "title": "Audio Session",
-    "status": "Draft Standard",
-    "date": "2024-11-12",
-    "histUrl": "https://www.w3.org/standards/history/audio-session/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-audio-session-20241112/",
-        "status": "Working Draft",
-        "date": "2024-11-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-audio-session-20241107/",
-        "status": "First Public Working Draft",
-        "date": "2024-11-07"
-      }
-    ],
-    "abstract": "This API defines an API surface for controlling how audio is rendered and interacts with other audio playing applications."
-  },
-  {
     "url": "https://www.w3.org/TR/paint-timing/",
     "title": "Paint Timing",
     "status": "Draft Standard",
@@ -73970,5 +73370,685 @@
       }
     ],
     "abstract": "This document describes the integration of WebAssembly with the broader web platform."
+  },
+  {
+    "url": "https://www.w3.org/TR/audio-session/",
+    "title": "Audio Session",
+    "status": "Draft Standard",
+    "date": "2024-11-13",
+    "histUrl": "https://www.w3.org/standards/history/audio-session/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-audio-session-20241113/",
+        "status": "Working Draft",
+        "date": "2024-11-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-audio-session-20241112/",
+        "status": "Working Draft",
+        "date": "2024-11-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-audio-session-20241107/",
+        "status": "First Public Working Draft",
+        "date": "2024-11-07"
+      }
+    ],
+    "abstract": "This API defines an API surface for controlling how audio is rendered and interacts with other audio playing applications."
+  },
+  {
+    "url": "https://www.w3.org/TR/css-view-transitions-2/",
+    "title": "CSS View Transitions Module Level 2",
+    "status": "Draft Standard",
+    "date": "2024-11-13",
+    "histUrl": "https://www.w3.org/standards/history/css-view-transitions-2/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-css-view-transitions-2-20241113/",
+        "status": "Working Draft",
+        "date": "2024-11-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-css-view-transitions-2-20240516/",
+        "status": "First Public Working Draft",
+        "date": "2024-05-16"
+      }
+    ],
+    "abstract": "This module defines how the View Transition API works with cross-document navigations."
+  },
+  {
+    "url": "https://www.w3.org/TR/dapt/",
+    "title": "Dubbing and Audio description Profiles of TTML2",
+    "status": "Draft Standard",
+    "date": "2024-11-13",
+    "histUrl": "https://www.w3.org/standards/history/dapt/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20241113/",
+        "status": "Working Draft",
+        "date": "2024-11-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20241017/",
+        "status": "Working Draft",
+        "date": "2024-10-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20241011/",
+        "status": "Working Draft",
+        "date": "2024-10-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20241010/",
+        "status": "Working Draft",
+        "date": "2024-10-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20241009/",
+        "status": "Working Draft",
+        "date": "2024-10-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20241008/",
+        "status": "Working Draft",
+        "date": "2024-10-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20240928/",
+        "status": "Working Draft",
+        "date": "2024-09-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20240916/",
+        "status": "Working Draft",
+        "date": "2024-09-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20240829/",
+        "status": "Working Draft",
+        "date": "2024-08-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20240412/",
+        "status": "Working Draft",
+        "date": "2024-04-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20240328/",
+        "status": "Working Draft",
+        "date": "2024-03-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20240301/",
+        "status": "Working Draft",
+        "date": "2024-03-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20240215/",
+        "status": "Working Draft",
+        "date": "2024-02-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20240213/",
+        "status": "Working Draft",
+        "date": "2024-02-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20240208/",
+        "status": "Working Draft",
+        "date": "2024-02-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20231221/",
+        "status": "Working Draft",
+        "date": "2023-12-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20231123/",
+        "status": "Working Draft",
+        "date": "2023-11-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20231102/",
+        "status": "Working Draft",
+        "date": "2023-11-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20231019/",
+        "status": "Working Draft",
+        "date": "2023-10-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20231013/",
+        "status": "Working Draft",
+        "date": "2023-10-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20231011/",
+        "status": "Working Draft",
+        "date": "2023-10-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20231006/",
+        "status": "Working Draft",
+        "date": "2023-10-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20230801/",
+        "status": "Working Draft",
+        "date": "2023-08-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20230727/",
+        "status": "Working Draft",
+        "date": "2023-07-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20230628/",
+        "status": "Working Draft",
+        "date": "2023-06-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20230619/",
+        "status": "Working Draft",
+        "date": "2023-06-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20230606/",
+        "status": "Working Draft",
+        "date": "2023-06-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20230505/",
+        "status": "Working Draft",
+        "date": "2023-05-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20230504/",
+        "status": "Working Draft",
+        "date": "2023-05-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20230425/",
+        "status": "First Public Working Draft",
+        "date": "2023-04-25"
+      }
+    ],
+    "abstract": "This specification defines DAPT, a TTML-based file format for the exchange of timed text content in dubbing and audio description workflows."
+  },
+  {
+    "url": "https://www.w3.org/TR/largest-contentful-paint/",
+    "title": "Largest Contentful Paint",
+    "status": "Draft Standard",
+    "date": "2024-11-13",
+    "histUrl": "https://www.w3.org/standards/history/largest-contentful-paint/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-largest-contentful-paint-20241113/",
+        "status": "Working Draft",
+        "date": "2024-11-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-largest-contentful-paint-20240115/",
+        "status": "Working Draft",
+        "date": "2024-01-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-largest-contentful-paint-20230906/",
+        "status": "Working Draft",
+        "date": "2023-09-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-largest-contentful-paint-20230905/",
+        "status": "Working Draft",
+        "date": "2023-09-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-largest-contentful-paint-20230901/",
+        "status": "Working Draft",
+        "date": "2023-09-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-largest-contentful-paint-20220524/",
+        "status": "First Public Working Draft",
+        "date": "2022-05-24"
+      }
+    ],
+    "abstract": "This document defines an API that enables monitoring the largest paint an element triggered on screen."
+  },
+  {
+    "url": "https://www.w3.org/TR/sparql12-federated-query/",
+    "title": "SPARQL 1.2 Federated Query",
+    "status": "Draft Standard",
+    "date": "2024-11-13",
+    "histUrl": "https://www.w3.org/standards/history/sparql12-federated-query/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-sparql12-federated-query-20241113/",
+        "status": "Working Draft",
+        "date": "2024-11-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-sparql12-federated-query-20240912/",
+        "status": "Working Draft",
+        "date": "2024-09-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-sparql12-federated-query-20240418/",
+        "status": "Working Draft",
+        "date": "2024-04-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-sparql12-federated-query-20240321/",
+        "status": "Working Draft",
+        "date": "2024-03-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-federated-query-20230616/",
+        "status": "Working Draft",
+        "date": "2023-06-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-federated-query-20230516/",
+        "status": "First Public Working Draft",
+        "date": "2023-05-16"
+      }
+    ],
+    "abstract": "RDF is a directed, labeled graph data model for representing information in the Web. SPARQL can be used to express queries across diverse data sources, whether the data is stored natively as RDF or viewed as RDF via middleware. This specification defines the syntax and semantics of SPARQL 1.1 Federated Query extension for executing queries distributed over different SPARQL endpoints. The SERVICE keyword extends SPARQL 1.1 to support queries that merge data distributed across the Web."
+  },
+  {
+    "url": "https://www.w3.org/TR/sparql12-graph-store-protocol/",
+    "title": "SPARQL 1.2 Graph Store Protocol",
+    "status": "Draft Standard",
+    "date": "2024-11-13",
+    "histUrl": "https://www.w3.org/standards/history/sparql12-graph-store-protocol/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-sparql12-graph-store-protocol-20241113/",
+        "status": "Working Draft",
+        "date": "2024-11-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-sparql12-graph-store-protocol-20240418/",
+        "status": "Working Draft",
+        "date": "2024-04-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-graph-store-protocol-20230616/",
+        "status": "Working Draft",
+        "date": "2023-06-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-graph-store-protocol-20230516/",
+        "status": "First Public Working Draft",
+        "date": "2023-05-16"
+      }
+    ],
+    "abstract": "This document describes the use of HTTP operations for the purpose of managing a collection of RDF graphs. This interface is an alternative to SPARQL 1.2 Protocol. Most of the operations defined here can be performed using that interface, but for some clients or servers, this interface may be easier to implement or work with. This specification may serve as a non-normative suggestion for HTTP operations on RDF graphs which are managed outside of a SPARQL graph store."
+  },
+  {
+    "url": "https://www.w3.org/TR/sparql12-protocol/",
+    "title": "SPARQL 1.2 Protocol",
+    "status": "Draft Standard",
+    "date": "2024-11-13",
+    "histUrl": "https://www.w3.org/standards/history/sparql12-protocol/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-sparql12-protocol-20241113/",
+        "status": "Working Draft",
+        "date": "2024-11-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-sparql12-protocol-20240829/",
+        "status": "Working Draft",
+        "date": "2024-08-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-sparql12-protocol-20240502/",
+        "status": "Working Draft",
+        "date": "2024-05-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-sparql12-protocol-20240418/",
+        "status": "Working Draft",
+        "date": "2024-04-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-protocol-20231214/",
+        "status": "Working Draft",
+        "date": "2023-12-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-protocol-20231102/",
+        "status": "Working Draft",
+        "date": "2023-11-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-protocol-20230616/",
+        "status": "Working Draft",
+        "date": "2023-06-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-protocol-20230516/",
+        "status": "First Public Working Draft",
+        "date": "2023-05-16"
+      }
+    ],
+    "abstract": "The SPARQL Protocol and RDF Query Language (SPARQL) is a query language and protocol for RDF. This document specifies the SPARQL Protocol; it describes a means for conveying SPARQL queries and updates to a SPARQL processing service and returning the results via HTTP to the entity that requested them. This protocol was developed by the W3C SPARQL Working Group, part of the Semantic Web Activity as described in the activity statement ."
+  },
+  {
+    "url": "https://www.w3.org/TR/sparql12-results-csv-tsv/",
+    "title": "SPARQL 1.2 Query Results CSV and TSV Formats",
+    "status": "Draft Standard",
+    "date": "2024-11-13",
+    "histUrl": "https://www.w3.org/standards/history/sparql12-results-csv-tsv/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-sparql12-results-csv-tsv-20241113/",
+        "status": "Working Draft",
+        "date": "2024-11-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-sparql12-results-csv-tsv-20240829/",
+        "status": "Working Draft",
+        "date": "2024-08-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-sparql12-results-csv-tsv-20240502/",
+        "status": "Working Draft",
+        "date": "2024-05-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-sparql12-results-csv-tsv-20240418/",
+        "status": "Working Draft",
+        "date": "2024-04-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-results-csv-tsv-20231110/",
+        "status": "Working Draft",
+        "date": "2023-11-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-results-csv-tsv-20230629/",
+        "status": "Working Draft",
+        "date": "2023-06-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-results-csv-tsv-20230616/",
+        "status": "Working Draft",
+        "date": "2023-06-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-results-csv-tsv-20230516/",
+        "status": "First Public Working Draft",
+        "date": "2023-05-16"
+      }
+    ],
+    "abstract": "The formats CSV [RFC4180] (comma separated values) and TSV [IANA-TSV] (tab separated values) provide simple, easy to process formats for the transmission of tabular data. They are supported as input datat formats by many tools, particularly spreadsheets. This document describes their use for expressing SPARQL query results from SELECT queries."
+  },
+  {
+    "url": "https://www.w3.org/TR/sparql12-results-json/",
+    "title": "SPARQL 1.2 Query Results JSON Format",
+    "status": "Draft Standard",
+    "date": "2024-11-13",
+    "histUrl": "https://www.w3.org/standards/history/sparql12-results-json/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-sparql12-results-json-20241113/",
+        "status": "Working Draft",
+        "date": "2024-11-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-sparql12-results-json-20240829/",
+        "status": "Working Draft",
+        "date": "2024-08-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-sparql12-results-json-20240502/",
+        "status": "Working Draft",
+        "date": "2024-05-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-sparql12-results-json-20240418/",
+        "status": "Working Draft",
+        "date": "2024-04-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-sparql12-results-json-20240208/",
+        "status": "Working Draft",
+        "date": "2024-02-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-results-json-20231130/",
+        "status": "Working Draft",
+        "date": "2023-11-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-results-json-20230728/",
+        "status": "Working Draft",
+        "date": "2023-07-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-results-json-20230727/",
+        "status": "Working Draft",
+        "date": "2023-07-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-results-json-20230616/",
+        "status": "Working Draft",
+        "date": "2023-06-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-results-json-20230516/",
+        "status": "First Public Working Draft",
+        "date": "2023-05-16"
+      }
+    ],
+    "abstract": "SPARQL is a set of standards for the query and update of RDF data, along with ways to access such data over the web. This document describes the representation of SELECT and ASK query results using JSON."
+  },
+  {
+    "url": "https://www.w3.org/TR/sparql12-results-xml/",
+    "title": "SPARQL 1.2 Query Results XML Format",
+    "status": "Draft Standard",
+    "date": "2024-11-13",
+    "histUrl": "https://www.w3.org/standards/history/sparql12-results-xml/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-sparql12-results-xml-20241113/",
+        "status": "Working Draft",
+        "date": "2024-11-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-sparql12-results-xml-20240829/",
+        "status": "Working Draft",
+        "date": "2024-08-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-sparql12-results-xml-20240502/",
+        "status": "Working Draft",
+        "date": "2024-05-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-sparql12-results-xml-20240418/",
+        "status": "Working Draft",
+        "date": "2024-04-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-results-xml-20231130/",
+        "status": "Working Draft",
+        "date": "2023-11-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-results-xml-20230728/",
+        "status": "Working Draft",
+        "date": "2023-07-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-results-xml-20230727/",
+        "status": "Working Draft",
+        "date": "2023-07-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-results-xml-20230616/",
+        "status": "Working Draft",
+        "date": "2023-06-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-results-xml-20230516/",
+        "status": "First Public Working Draft",
+        "date": "2023-05-16"
+      }
+    ],
+    "abstract": ""
+  },
+  {
+    "url": "https://www.w3.org/TR/sparql12-service-description/",
+    "title": "SPARQL 1.2 Service Description",
+    "status": "Draft Standard",
+    "date": "2024-11-13",
+    "histUrl": "https://www.w3.org/standards/history/sparql12-service-description/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-sparql12-service-description-20241113/",
+        "status": "Working Draft",
+        "date": "2024-11-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-sparql12-service-description-20240829/",
+        "status": "Working Draft",
+        "date": "2024-08-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-sparql12-service-description-20240502/",
+        "status": "Working Draft",
+        "date": "2024-05-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-sparql12-service-description-20240418/",
+        "status": "Working Draft",
+        "date": "2024-04-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-service-description-20231214/",
+        "status": "Working Draft",
+        "date": "2023-12-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-service-description-20230616/",
+        "status": "Working Draft",
+        "date": "2023-06-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-service-description-20230516/",
+        "status": "First Public Working Draft",
+        "date": "2023-05-16"
+      }
+    ],
+    "abstract": "This document describes SPARQL service description, a method for discovering, and vocabulary for describing SPARQL services made available via the SPARQL 1.2 Protocol. These descriptions provide a mechanism by which a client or end user can discover information about the SPARQL service such as supported extension functions and details about the available dataset."
+  },
+  {
+    "url": "https://www.w3.org/TR/sparql12-update/",
+    "title": "SPARQL 1.2 Update",
+    "status": "Draft Standard",
+    "date": "2024-11-13",
+    "histUrl": "https://www.w3.org/standards/history/sparql12-update/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-sparql12-update-20241113/",
+        "status": "Working Draft",
+        "date": "2024-11-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-sparql12-update-20241025/",
+        "status": "Working Draft",
+        "date": "2024-10-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-sparql12-update-20240829/",
+        "status": "Working Draft",
+        "date": "2024-08-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-sparql12-update-20240502/",
+        "status": "Working Draft",
+        "date": "2024-05-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-sparql12-update-20240418/",
+        "status": "Working Draft",
+        "date": "2024-04-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-update-20230928/",
+        "status": "Working Draft",
+        "date": "2023-09-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-update-20230922/",
+        "status": "Working Draft",
+        "date": "2023-09-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-update-20230714/",
+        "status": "Working Draft",
+        "date": "2023-07-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-update-20230706/",
+        "status": "Working Draft",
+        "date": "2023-07-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-update-20230616/",
+        "status": "Working Draft",
+        "date": "2023-06-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-sparql12-update-20230516/",
+        "status": "First Public Working Draft",
+        "date": "2023-05-16"
+      }
+    ],
+    "abstract": "This document describes SPARQL 1.2 Update, an update language for RDF graphs. It uses a syntax derived from the SPARQL Query Language for RDF. Update operations are performed on a collection of graphs in a Graph Store. Operations are provided to update, create, and remove RDF graphs in a Graph Store."
+  },
+  {
+    "url": "https://www.w3.org/TR/mathml4/",
+    "title": "Mathematical Markup Language (MathML) Version 4.0",
+    "status": "Draft Standard",
+    "date": "2024-11-14",
+    "histUrl": "https://www.w3.org/standards/history/mathml4/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-mathml4-20241114/",
+        "status": "Working Draft",
+        "date": "2024-11-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-mathml4-20241108/",
+        "status": "Working Draft",
+        "date": "2024-11-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-mathml4-20241107/",
+        "status": "Working Draft",
+        "date": "2024-11-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-mathml4-20241101/",
+        "status": "Working Draft",
+        "date": "2024-11-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-mathml4-20241028/",
+        "status": "Working Draft",
+        "date": "2024-10-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-mathml4-20220908/",
+        "status": "First Public Working Draft",
+        "date": "2022-09-08"
+      }
+    ],
+    "abstract": "This specification defines the Mathematical Markup Language, or MathML. MathML is a markup language for describing mathematical notation and capturing both its structure and content. The goal of MathML is to enable mathematics to be served, received, and processed on the World Wide Web, just as [HTML] has enabled this functionality for text."
   }
 ]
