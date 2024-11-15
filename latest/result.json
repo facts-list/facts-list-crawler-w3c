@@ -31782,116 +31782,6 @@
     "abstract": "This specification defines the MiniApp lifecycle events and the process to manage MiniApp and each page's lifecycle. Implementing this specification enables the user agent to manage the lifecycle events of both the global application lifecycle and the page lifecycle."
   },
   {
-    "url": "https://www.w3.org/TR/miniapp-manifest/",
-    "title": "MiniApp Manifest",
-    "status": "Draft Standard",
-    "date": "2023-05-30",
-    "histUrl": "https://www.w3.org/standards/history/miniapp-manifest/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2023/WD-miniapp-manifest-20230530/",
-        "status": "Working Draft",
-        "date": "2023-05-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-miniapp-manifest-20230228/",
-        "status": "Working Draft",
-        "date": "2023-02-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-miniapp-manifest-20230220/",
-        "status": "Working Draft",
-        "date": "2023-02-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-miniapp-manifest-20221125/",
-        "status": "Working Draft",
-        "date": "2022-11-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-miniapp-manifest-20221027/",
-        "status": "Working Draft",
-        "date": "2022-10-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-miniapp-manifest-20220701/",
-        "status": "Working Draft",
-        "date": "2022-07-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-miniapp-manifest-20220517/",
-        "status": "Working Draft",
-        "date": "2022-05-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-miniapp-manifest-20220428/",
-        "status": "Working Draft",
-        "date": "2022-04-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-miniapp-manifest-20220324/",
-        "status": "Working Draft",
-        "date": "2022-03-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-miniapp-manifest-20220128/",
-        "status": "Working Draft",
-        "date": "2022-01-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-miniapp-manifest-20220120/",
-        "status": "Working Draft",
-        "date": "2022-01-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-miniapp-manifest-20211221/",
-        "status": "Working Draft",
-        "date": "2021-12-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-miniapp-manifest-20211003/",
-        "status": "Working Draft",
-        "date": "2021-10-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-miniapp-manifest-20210925/",
-        "status": "Working Draft",
-        "date": "2021-09-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-miniapp-manifest-20210826/",
-        "status": "Working Draft",
-        "date": "2021-08-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-miniapp-manifest-20210628/",
-        "status": "Working Draft",
-        "date": "2021-06-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-miniapp-manifest-20210624/",
-        "status": "Working Draft",
-        "date": "2021-06-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-miniapp-manifest-20210606/",
-        "status": "Working Draft",
-        "date": "2021-06-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-miniapp-manifest-20210603/",
-        "status": "Working Draft",
-        "date": "2021-06-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-miniapp-manifest-20210511/",
-        "status": "First Public Working Draft",
-        "date": "2021-05-11"
-      }
-    ],
-    "abstract": "This specification is a registry of supplementary members for the Web Application Manifest and the Web App Manifest - Application Information specifications that provide additional metadata to an application manifest to describe MiniApps. This JSON-based manifest file enables developers to set up basic information of a MiniApp, like identification, human-readable description, versioning data, and styling information. The MiniApp manifest also configures the routing of the pages and widgets that are part of a MiniApp."
-  },
-  {
     "url": "https://www.w3.org/TR/RangeRequest/",
     "title": "Range Request Incremental Font Transfer",
     "status": "Draft Standard",
@@ -41972,41 +41862,6 @@
     "abstract": "This document describes how user agents determine the names and descriptions of accessible objects from web content languages. This information is in turn exposed through accessibility APIs so that assistive technologies can identify these objects and present their names or descriptions to users. Documenting the algorithm through which names and descriptions are to be determined promotes interoperable exposure of these properties among different accessibility APIs and helps to ensure that this information appears in a manner consistent with author intent."
   },
   {
-    "url": "https://www.w3.org/TR/adlm-lreq/",
-    "title": "Adlam Script Resources",
-    "status": "Draft Note",
-    "date": "2024-08-02",
-    "histUrl": "https://www.w3.org/standards/history/adlm-lreq/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-adlm-lreq-20240802/",
-        "status": "Draft Note",
-        "date": "2024-08-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-adlm-lreq-20240709/",
-        "status": "Draft Note",
-        "date": "2024-07-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-adlm-lreq-20240704/",
-        "status": "Draft Note",
-        "date": "2024-07-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-adlm-lreq-20240701/",
-        "status": "Draft Note",
-        "date": "2024-07-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-adlm-lreq-20240530/",
-        "status": "Draft Note",
-        "date": "2024-05-30"
-      }
-    ],
-    "abstract": "This document points to resources for the layout and presentation of text in languages that use the Adlam script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Adlam text."
-  },
-  {
     "url": "https://www.w3.org/TR/css-box-4/",
     "title": "CSS Box Model Module Level 4",
     "status": "Draft Standard",
@@ -42062,131 +41917,6 @@
     "abstract": "This specification extends HTMLMediaElement [HTML] providing APIs to control playback of encrypted content."
   },
   {
-    "url": "https://www.w3.org/TR/cher-lreq/",
-    "title": "Cherokee Script Resources",
-    "status": "Draft Note",
-    "date": "2024-08-08",
-    "histUrl": "https://www.w3.org/standards/history/cher-lreq/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-cher-lreq-20240808/",
-        "status": "Draft Note",
-        "date": "2024-08-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-cher-lreq-20240730/",
-        "status": "Draft Note",
-        "date": "2024-07-30"
-      }
-    ],
-    "abstract": "This document points to resources for the layout and presentation of text in languages that use the Cherokee script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Cherokee text."
-  },
-  {
-    "url": "https://www.w3.org/TR/gujr-lreq/",
-    "title": "Gujarati Script Resources",
-    "status": "Draft Note",
-    "date": "2024-08-08",
-    "histUrl": "https://www.w3.org/standards/history/gujr-lreq/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-gujr-lreq-20240808/",
-        "status": "Draft Note",
-        "date": "2024-08-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-gujr-lreq-20240730/",
-        "status": "Draft Note",
-        "date": "2024-07-30"
-      }
-    ],
-    "abstract": "This document points to resources for the layout and presentation of text in languages that use the Gujarati script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Gujarati text."
-  },
-  {
-    "url": "https://www.w3.org/TR/guru-lreq/",
-    "title": "Gurmukhi Script Resources",
-    "status": "Draft Note",
-    "date": "2024-08-08",
-    "histUrl": "https://www.w3.org/standards/history/guru-lreq/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-guru-lreq-20240808/",
-        "status": "Draft Note",
-        "date": "2024-08-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-guru-lreq-20240719/",
-        "status": "Draft Note",
-        "date": "2024-07-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-guru-lreq-20230214/",
-        "status": "Draft Note",
-        "date": "2023-02-14"
-      }
-    ],
-    "abstract": "This document points to resources for the layout and presentation of text in languages that use the Gurmukhi script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Gurmukhi text."
-  },
-  {
-    "url": "https://www.w3.org/TR/kore-lreq/",
-    "title": "Korean Script Resources",
-    "status": "Draft Note",
-    "date": "2024-08-08",
-    "histUrl": "https://www.w3.org/standards/history/kore-lreq/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-kore-lreq-20240808/",
-        "status": "Draft Note",
-        "date": "2024-08-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-kore-lreq-20240723/",
-        "status": "Draft Note",
-        "date": "2024-07-23"
-      }
-    ],
-    "abstract": "This document points to resources for the layout and presentation of text in languages that use the Korean script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Korean text."
-  },
-  {
-    "url": "https://www.w3.org/TR/osge-lreq/",
-    "title": "Osage Script Resources",
-    "status": "Draft Note",
-    "date": "2024-08-08",
-    "histUrl": "https://www.w3.org/standards/history/osge-lreq/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-osge-lreq-20240808/",
-        "status": "Draft Note",
-        "date": "2024-08-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-osge-lreq-20240730/",
-        "status": "Draft Note",
-        "date": "2024-07-30"
-      }
-    ],
-    "abstract": "This document points to resources for the layout and presentation of text in languages that use the Osage script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Osage text."
-  },
-  {
-    "url": "https://www.w3.org/TR/taml-lreq/",
-    "title": "Tamil Script Resources",
-    "status": "Draft Note",
-    "date": "2024-08-08",
-    "histUrl": "https://www.w3.org/standards/history/taml-lreq/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-taml-lreq-20240808/",
-        "status": "Draft Note",
-        "date": "2024-08-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-taml-lreq-20240730/",
-        "status": "Draft Note",
-        "date": "2024-07-30"
-      }
-    ],
-    "abstract": "This document points to resources for the layout and presentation of text in languages that use the Tamil script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Tamil text."
-  },
-  {
     "url": "https://www.w3.org/TR/WOFF2/",
     "title": "WOFF File Format 2.0",
     "status": "Standard",
@@ -42235,131 +41965,6 @@
       }
     ],
     "abstract": "Based on experience with WOFF 1.0, which is widely deployed, this specification was developed to provide improved compression and thus lower use of network bandwidth, while still allowing fast decompression even on mobile devices. This is achieved by combining a content-aware preprocessing step and improved entropy coding, compared to the Flate compression used in WOFF 1.0."
-  },
-  {
-    "url": "https://www.w3.org/TR/java-lreq/",
-    "title": "Javanese Script Resources",
-    "status": "Draft Note",
-    "date": "2024-08-09",
-    "histUrl": "https://www.w3.org/standards/history/java-lreq/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-java-lreq-20240809/",
-        "status": "Draft Note",
-        "date": "2024-08-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-java-lreq-20240730/",
-        "status": "Draft Note",
-        "date": "2024-07-30"
-      }
-    ],
-    "abstract": "This document points to resources for the layout and presentation of text in languages that use the Javanese script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Javanese text."
-  },
-  {
-    "url": "https://www.w3.org/TR/khmr-lreq/",
-    "title": "Khmer Script Resources",
-    "status": "Draft Note",
-    "date": "2024-08-09",
-    "histUrl": "https://www.w3.org/standards/history/khmr-lreq/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-khmr-lreq-20240809/",
-        "status": "Draft Note",
-        "date": "2024-08-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-khmr-lreq-20240710/",
-        "status": "Draft Note",
-        "date": "2024-07-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-khmr-lreq-20240705/",
-        "status": "Draft Note",
-        "date": "2024-07-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-khmr-lreq-20240630/",
-        "status": "Draft Note",
-        "date": "2024-06-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-khmr-lreq-20240515/",
-        "status": "Draft Note",
-        "date": "2024-05-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-khmr-lreq-20240419/",
-        "status": "Draft Note",
-        "date": "2024-04-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-khmr-lreq-20240411/",
-        "status": "Draft Note",
-        "date": "2024-04-11"
-      }
-    ],
-    "abstract": "This document points to resources for the layout and presentation of text in languages that use the Khmer script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Khmer text."
-  },
-  {
-    "url": "https://www.w3.org/TR/laoo-lreq/",
-    "title": "Lao Script Resources",
-    "status": "Draft Note",
-    "date": "2024-08-09",
-    "histUrl": "https://www.w3.org/standards/history/laoo-lreq/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-laoo-lreq-20240809/",
-        "status": "Draft Note",
-        "date": "2024-08-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-laoo-lreq-20240710/",
-        "status": "Draft Note",
-        "date": "2024-07-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-laoo-lreq-20240705/",
-        "status": "Draft Note",
-        "date": "2024-07-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-laoo-lreq-20240630/",
-        "status": "Draft Note",
-        "date": "2024-06-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-laoo-lreq-20240515/",
-        "status": "Draft Note",
-        "date": "2024-05-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-laoo-lreq-20240430/",
-        "status": "Draft Note",
-        "date": "2024-04-30"
-      }
-    ],
-    "abstract": "This document points to resources for the layout and presentation of text in languages that use the Lao script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Lao text."
-  },
-  {
-    "url": "https://www.w3.org/TR/tibt-lreq/",
-    "title": "Tibetan Script Resources",
-    "status": "Draft Note",
-    "date": "2024-08-09",
-    "histUrl": "https://www.w3.org/standards/history/tibt-lreq/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-tibt-lreq-20240809/",
-        "status": "Draft Note",
-        "date": "2024-08-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-tibt-lreq-20240730/",
-        "status": "Draft Note",
-        "date": "2024-07-30"
-      }
-    ],
-    "abstract": "This document describes or points to requirements for the layout and presentation of text in languages that use the Tibetan script. The target audience is developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Tibetan script text."
   },
   {
     "url": "https://www.w3.org/TR/css-position-3/",
@@ -42817,81 +42422,6 @@
     "abstract": "This module contains the features of CSS for conditional processing of parts of style sheets, conditioned on capabilities of the processor or the document the style sheet is being applied to. It includes and extends the functionality of CSS level 2 [CSS21], which builds on CSS level 1 [CSS1]. The main extensions compared to level 2 are allowing nesting of certain at-rules inside @media, and the addition of the @supports rule for conditional processing."
   },
   {
-    "url": "https://www.w3.org/TR/ethi-lreq/",
-    "title": "Ethiopic Script Resources",
-    "status": "Draft Note",
-    "date": "2024-08-15",
-    "histUrl": "https://www.w3.org/standards/history/ethi-lreq/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-ethi-lreq-20240815/",
-        "status": "Draft Note",
-        "date": "2024-08-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-ethi-lreq-20240808/",
-        "status": "Draft Note",
-        "date": "2024-08-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-ethi-lreq-20240723/",
-        "status": "Draft Note",
-        "date": "2024-07-23"
-      }
-    ],
-    "abstract": "This document points to resources for the layout and presentation of text in languages that use the Ethiopic script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Ethiopic text."
-  },
-  {
-    "url": "https://www.w3.org/TR/hebr-lreq/",
-    "title": "Hebrew Script Resources",
-    "status": "Draft Note",
-    "date": "2024-08-15",
-    "histUrl": "https://www.w3.org/standards/history/hebr-lreq/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-hebr-lreq-20240815/",
-        "status": "Draft Note",
-        "date": "2024-08-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-hebr-lreq-20240808/",
-        "status": "Draft Note",
-        "date": "2024-08-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-hebr-lreq-20240716/",
-        "status": "Draft Note",
-        "date": "2024-07-16"
-      }
-    ],
-    "abstract": "This document points to resources for the layout and presentation of text in languages that use the Hebrew script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Hebrew text."
-  },
-  {
-    "url": "https://www.w3.org/TR/latn-lreq/",
-    "title": "Latin Script Resources",
-    "status": "Draft Note",
-    "date": "2024-08-15",
-    "histUrl": "https://www.w3.org/standards/history/latn-lreq/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-latn-lreq-20240815/",
-        "status": "Draft Note",
-        "date": "2024-08-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-latn-lreq-20240808/",
-        "status": "Draft Note",
-        "date": "2024-08-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-latn-lreq-20240716/",
-        "status": "Draft Note",
-        "date": "2024-07-16"
-      }
-    ],
-    "abstract": "This document points to resources for the layout and presentation of text in languages that use the Latin script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Latin text."
-  },
-  {
     "url": "https://www.w3.org/TR/predefined-counter-styles/",
     "title": "Ready-made Counter Styles",
     "status": "Note",
@@ -42965,51 +42495,6 @@
       }
     ],
     "abstract": "This document provides ready-made definitions for counter styles and covers the needs of a range of cultures around the world. The code snippets provided in the document can be included in style declarations by simply copying and pasting, or they can be use as a starting point and modified as desired."
-  },
-  {
-    "url": "https://www.w3.org/TR/thai-lreq/",
-    "title": "Thai Script Resources",
-    "status": "Draft Note",
-    "date": "2024-08-15",
-    "histUrl": "https://www.w3.org/standards/history/thai-lreq/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-thai-lreq-20240815/",
-        "status": "Draft Note",
-        "date": "2024-08-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-thai-lreq-20240809/",
-        "status": "Draft Note",
-        "date": "2024-08-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-thai-lreq-20240710/",
-        "status": "Draft Note",
-        "date": "2024-07-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-thai-lreq-20240705/",
-        "status": "Draft Note",
-        "date": "2024-07-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-thai-lreq-20240630/",
-        "status": "Draft Note",
-        "date": "2024-06-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-thai-lreq-20240515/",
-        "status": "Draft Note",
-        "date": "2024-05-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-thai-lreq-20240430/",
-        "status": "Draft Note",
-        "date": "2024-04-30"
-      }
-    ],
-    "abstract": "This document points to resources for the layout and presentation of text in languages that use the Thai script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Thai text."
   },
   {
     "url": "https://www.w3.org/TR/java-gap/",
@@ -52407,36 +51892,6 @@
     "abstract": "This document describes and prioritises gaps for the support of the Arabic script on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, such as HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders."
   },
   {
-    "url": "https://www.w3.org/TR/arab-lreq/",
-    "title": "Arabic Script Resources",
-    "status": "Draft Note",
-    "date": "2024-09-19",
-    "histUrl": "https://www.w3.org/standards/history/arab-lreq/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-arab-lreq-20240919/",
-        "status": "Draft Note",
-        "date": "2024-09-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-arab-lreq-20240815/",
-        "status": "Draft Note",
-        "date": "2024-08-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-arab-lreq-20240802/",
-        "status": "Draft Note",
-        "date": "2024-08-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-arab-lreq-20240716/",
-        "status": "Draft Note",
-        "date": "2024-07-16"
-      }
-    ],
-    "abstract": "This document points to resources related to the layout and presentation of text in languages that use the Arabic script. The target audience is developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render text in the Arabic script."
-  },
-  {
     "url": "https://www.w3.org/TR/clreq-gap/",
     "title": "Chinese Layout Gap Analysis",
     "status": "Draft Note",
@@ -52510,31 +51965,6 @@
       }
     ],
     "abstract": "This document describes and prioritises gaps for the support of the Chinese script on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, such as HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders."
-  },
-  {
-    "url": "https://www.w3.org/TR/hani-lreq/",
-    "title": "Chinese Script Resources",
-    "status": "Draft Note",
-    "date": "2024-09-19",
-    "histUrl": "https://www.w3.org/standards/history/hani-lreq/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-hani-lreq-20240919/",
-        "status": "Draft Note",
-        "date": "2024-09-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-hani-lreq-20240808/",
-        "status": "Draft Note",
-        "date": "2024-08-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-hani-lreq-20240716/",
-        "status": "Draft Note",
-        "date": "2024-07-16"
-      }
-    ],
-    "abstract": "This document points to resources for the layout and presentation of text in languages that use the Chinese script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Chinese text."
   },
   {
     "url": "https://www.w3.org/TR/jpan-gap/",
@@ -52680,31 +52110,6 @@
       }
     ],
     "abstract": "This document describes and prioritises gaps for the support of the Mongolian script on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, such as HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders."
-  },
-  {
-    "url": "https://www.w3.org/TR/mong-lreq/",
-    "title": "Mongolian Script Resources",
-    "status": "Draft Note",
-    "date": "2024-09-19",
-    "histUrl": "https://www.w3.org/standards/history/mong-lreq/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-mong-lreq-20240919/",
-        "status": "Draft Note",
-        "date": "2024-09-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-mong-lreq-20240808/",
-        "status": "Draft Note",
-        "date": "2024-08-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-mong-lreq-20240723/",
-        "status": "Draft Note",
-        "date": "2024-07-23"
-      }
-    ],
-    "abstract": "This document points to resources for the layout and presentation of text in languages that use the Mongolian script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Mongolian text."
   },
   {
     "url": "https://www.w3.org/TR/adlm-gap/",
@@ -52942,61 +52347,6 @@
     "abstract": "This document describes and prioritises gaps for the support of the Bengali script on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, such as HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders."
   },
   {
-    "url": "https://www.w3.org/TR/beng-lreq/",
-    "title": "Bengali Script Resources",
-    "status": "Draft Note",
-    "date": "2024-09-20",
-    "histUrl": "https://www.w3.org/standards/history/beng-lreq/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-beng-lreq-20240920/",
-        "status": "Draft Note",
-        "date": "2024-09-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-beng-lreq-20240808/",
-        "status": "Draft Note",
-        "date": "2024-08-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-beng-lreq-20240802/",
-        "status": "Draft Note",
-        "date": "2024-08-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-beng-lreq-20240723/",
-        "status": "Draft Note",
-        "date": "2024-07-23"
-      }
-    ],
-    "abstract": "This document points to resources for the layout and presentation of text in languages that use the Bengali script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Bengali text."
-  },
-  {
-    "url": "https://www.w3.org/TR/cans-lreq/",
-    "title": "Canadian Aboriginal Syllabics Script Resources",
-    "status": "Draft Note",
-    "date": "2024-09-20",
-    "histUrl": "https://www.w3.org/standards/history/cans-lreq/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-cans-lreq-20240920/",
-        "status": "Draft Note",
-        "date": "2024-09-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-cans-lreq-20240808/",
-        "status": "Draft Note",
-        "date": "2024-08-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-cans-lreq-20240730/",
-        "status": "Draft Note",
-        "date": "2024-07-30"
-      }
-    ],
-    "abstract": "This document points to resources for the layout and presentation of text in languages that use the Canadian Aboriginal Syllabics (UCAS) script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Canadian Aboriginal Syllabics text."
-  },
-  {
     "url": "https://www.w3.org/TR/cans-iu-cr-gap/",
     "title": "Canadian Syllabics Gap Analysis",
     "status": "Draft Note",
@@ -53117,31 +52467,6 @@
     "abstract": "This document describes and prioritises gaps for the support of the Cherokee script on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, such as HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders."
   },
   {
-    "url": "https://www.w3.org/TR/cyrl-lreq/",
-    "title": "Cyrillic Script Resources",
-    "status": "Draft Note",
-    "date": "2024-09-20",
-    "histUrl": "https://www.w3.org/standards/history/cyrl-lreq/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-cyrl-lreq-20240920/",
-        "status": "Draft Note",
-        "date": "2024-09-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-cyrl-lreq-20240808/",
-        "status": "Draft Note",
-        "date": "2024-08-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-cyrl-lreq-20240723/",
-        "status": "Draft Note",
-        "date": "2024-07-23"
-      }
-    ],
-    "abstract": "This document points to resources for the layout and presentation of text in languages that use the Cyrillic script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Cyrillic text."
-  },
-  {
     "url": "https://www.w3.org/TR/deva-gap/",
     "title": "Devanagari Gap Analysis",
     "status": "Draft Note",
@@ -53220,31 +52545,6 @@
       }
     ],
     "abstract": "This document describes and prioritises gaps for the support of the Devanagari script on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, such as HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders."
-  },
-  {
-    "url": "https://www.w3.org/TR/deva-lreq/",
-    "title": "Devanagari Script Resources",
-    "status": "Draft Note",
-    "date": "2024-09-20",
-    "histUrl": "https://www.w3.org/standards/history/deva-lreq/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-deva-lreq-20240920/",
-        "status": "Draft Note",
-        "date": "2024-09-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-deva-lreq-20240808/",
-        "status": "Draft Note",
-        "date": "2024-08-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-deva-lreq-20240723/",
-        "status": "Draft Note",
-        "date": "2024-07-23"
-      }
-    ],
-    "abstract": "This document points to resources for the layout and presentation of text in languages that use the Devanagari script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Devanagari text."
   },
   {
     "url": "https://www.w3.org/TR/elreq-gap/",
@@ -53375,66 +52675,6 @@
       }
     ],
     "abstract": "This document describes and prioritises gaps for the support of the Georgian script on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, such as HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders."
-  },
-  {
-    "url": "https://www.w3.org/TR/geor-lreq/",
-    "title": "Georgian Script Resources",
-    "status": "Draft Note",
-    "date": "2024-09-20",
-    "histUrl": "https://www.w3.org/standards/history/geor-lreq/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-geor-lreq-20240920/",
-        "status": "Draft Note",
-        "date": "2024-09-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-geor-lreq-20240808/",
-        "status": "Draft Note",
-        "date": "2024-08-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-geor-lreq-20240723/",
-        "status": "Draft Note",
-        "date": "2024-07-23"
-      }
-    ],
-    "abstract": "This document points to resources for the layout and presentation of text in languages that use the Georgian script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Georgian text."
-  },
-  {
-    "url": "https://www.w3.org/TR/grek-lreq/",
-    "title": "Greek Script Resources",
-    "status": "Draft Note",
-    "date": "2024-09-20",
-    "histUrl": "https://www.w3.org/standards/history/grek-lreq/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-grek-lreq-20240920/",
-        "status": "Draft Note",
-        "date": "2024-09-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-grek-lreq-20240905/",
-        "status": "Draft Note",
-        "date": "2024-09-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-grek-lreq-20240815/",
-        "status": "Draft Note",
-        "date": "2024-08-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-grek-lreq-20240808/",
-        "status": "Draft Note",
-        "date": "2024-08-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-grek-lreq-20240730/",
-        "status": "Draft Note",
-        "date": "2024-07-30"
-      }
-    ],
-    "abstract": "This document points to resources for the layout and presentation of text in languages that use the Greek script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Greek text."
   },
   {
     "url": "https://www.w3.org/TR/hebr-gap/",
@@ -53660,61 +52900,6 @@
       }
     ],
     "abstract": "This document describes and prioritises gaps for the support of the N’Ko script on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, such as HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders."
-  },
-  {
-    "url": "https://www.w3.org/TR/nkoo-lreq/",
-    "title": "N’Ko Script Resources",
-    "status": "Draft Note",
-    "date": "2024-09-20",
-    "histUrl": "https://www.w3.org/standards/history/nkoo-lreq/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-nkoo-lreq-20240920/",
-        "status": "Draft Note",
-        "date": "2024-09-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-nkoo-lreq-20240815/",
-        "status": "Draft Note",
-        "date": "2024-08-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-nkoo-lreq-20240802/",
-        "status": "Draft Note",
-        "date": "2024-08-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-nkoo-lreq-20240709/",
-        "status": "Draft Note",
-        "date": "2024-07-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-nkoo-lreq-20240704/",
-        "status": "Draft Note",
-        "date": "2024-07-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-nkoo-lreq-20240701/",
-        "status": "Draft Note",
-        "date": "2024-07-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-nkoo-lreq-20240515/",
-        "status": "Draft Note",
-        "date": "2024-05-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-nkoo-lreq-20240510/",
-        "status": "Draft Note",
-        "date": "2024-05-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-nkoo-lreq-20230613/",
-        "status": "Draft Note",
-        "date": "2023-06-13"
-      }
-    ],
-    "abstract": "This document points to resources for the layout and presentation of text in languages that use the N’Ko script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render N’Ko text."
   },
   {
     "url": "https://www.w3.org/TR/osge-osa-gap/",
@@ -57112,186 +56297,6 @@
     "abstract": "This document defines a mechanism by which web developers can control the resources which a particular page can fetch or execute, as well as a number of security-relevant policy decisions."
   },
   {
-    "url": "https://www.w3.org/TR/core-aam-1.2/",
-    "title": "Core Accessibility API Mappings 1.2",
-    "status": "Candidate Standard",
-    "date": "2024-10-15",
-    "histUrl": "https://www.w3.org/standards/history/core-aam-1.2/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-core-aam-1.2-20241015/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-10-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-core-aam-1.2-20240813/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-08-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-core-aam-1.2-20240621/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-06-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-core-aam-1.2-20240620/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-06-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-core-aam-1.2-20231102/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-11-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-core-aam-1.2-20231031/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-10-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-core-aam-1.2-20231026/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-10-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-core-aam-1.2-20231012/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-10-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-core-aam-1.2-20230904/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-09-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-core-aam-1.2-20230902/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-09-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-core-aam-1.2-20230901/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-09-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-core-aam-1.2-20230825/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-08-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-core-aam-1.2-20230821/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-08-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-core-aam-1.2-20230817/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-08-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-core-aam-1.2-20230816/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-08-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-core-aam-1.2-20230705/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-07-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-core-aam-1.2-20230628/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-06-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-core-aam-1.2-20230626/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-06-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-core-aam-1.2-20230518/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-05-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/CR-core-aam-1.2-20221122/",
-        "status": "Candidate Recommendation Snapshot",
-        "date": "2022-11-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-core-aam-1.2-20221101/",
-        "status": "Working Draft",
-        "date": "2022-11-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-core-aam-1.2-20221013/",
-        "status": "Working Draft",
-        "date": "2022-10-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-core-aam-1.2-20221008/",
-        "status": "Working Draft",
-        "date": "2022-10-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-core-aam-1.2-20220930/",
-        "status": "Working Draft",
-        "date": "2022-09-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-core-aam-1.2-20220915/",
-        "status": "Working Draft",
-        "date": "2022-09-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-core-aam-1.2-20220830/",
-        "status": "Working Draft",
-        "date": "2022-08-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-core-aam-1.2-20220526/",
-        "status": "Working Draft",
-        "date": "2022-05-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-core-aam-1.2-20220524/",
-        "status": "Working Draft",
-        "date": "2022-05-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-core-aam-1.2-20220517/",
-        "status": "Working Draft",
-        "date": "2022-05-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-core-aam-1.2-20220215/",
-        "status": "Working Draft",
-        "date": "2022-02-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-core-aam-1.2-20220120/",
-        "status": "Working Draft",
-        "date": "2022-01-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-core-aam-1.2-20191218/",
-        "status": "Working Draft",
-        "date": "2019-12-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-core-aam-1.2-20181218/",
-        "status": "Working Draft",
-        "date": "2018-12-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-core-aam-1.2-20180719/",
-        "status": "First Public Working Draft",
-        "date": "2018-07-19"
-      }
-    ],
-    "abstract": "This document describes how user agents should expose semantics of web content languages to accessibility APIs. This helps users with disabilities to obtain and interact with information using assistive technologies. Documenting these mappings promotes interoperable exposure of roles, states, properties, and events implemented by accessibility APIs and helps to ensure that this information appears in a manner consistent with author intent."
-  },
-  {
     "url": "https://www.w3.org/TR/vc-di-bbs/",
     "title": "Data Integrity BBS Cryptosuites v1.0",
     "status": "Candidate Standard",
@@ -59420,46 +58425,6 @@
       }
     ],
     "abstract": "This document provides definitions for various terms related to W3C internationalization."
-  },
-  {
-    "url": "https://www.w3.org/TR/jpan-lreq/",
-    "title": "Japanese Script Resources",
-    "status": "Draft Note",
-    "date": "2024-10-17",
-    "histUrl": "https://www.w3.org/standards/history/jpan-lreq/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-jpan-lreq-20241017/",
-        "status": "Draft Note",
-        "date": "2024-10-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-jpan-lreq-20240919/",
-        "status": "Draft Note",
-        "date": "2024-09-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-jpan-lreq-20240905/",
-        "status": "Draft Note",
-        "date": "2024-09-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-jpan-lreq-20240815/",
-        "status": "Draft Note",
-        "date": "2024-08-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-jpan-lreq-20240808/",
-        "status": "Draft Note",
-        "date": "2024-08-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-jpan-lreq-20240730/",
-        "status": "Draft Note",
-        "date": "2024-07-30"
-      }
-    ],
-    "abstract": "This document points to resources for the layout and presentation of text in languages that use the Japanese script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Japanese text."
   },
   {
     "url": "https://www.w3.org/TR/string-meta/",
@@ -65440,146 +64405,6 @@
       }
     ],
     "abstract": "This document defines APIs for a database of records holding simple values and hierarchical objects. Each record consists of a key and some value. Moreover, the database maintains indexes over records it stores. An application developer directly uses an API to locate records either by their key or by using an index. A query language can be layered on this API. An indexed database can be implemented using a persistent B-tree data structure."
-  },
-  {
-    "url": "https://www.w3.org/TR/rdf12-concepts/",
-    "title": "RDF 1.2 Concepts and Abstract Syntax",
-    "status": "Draft Standard",
-    "date": "2024-11-07",
-    "histUrl": "https://www.w3.org/standards/history/rdf12-concepts/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-rdf12-concepts-20241107/",
-        "status": "Working Draft",
-        "date": "2024-11-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-rdf12-concepts-20241031/",
-        "status": "Working Draft",
-        "date": "2024-10-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-rdf12-concepts-20241029/",
-        "status": "Working Draft",
-        "date": "2024-10-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-rdf12-concepts-20241024/",
-        "status": "Working Draft",
-        "date": "2024-10-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-rdf12-concepts-20241023/",
-        "status": "Working Draft",
-        "date": "2024-10-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-rdf12-concepts-20241022/",
-        "status": "Working Draft",
-        "date": "2024-10-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-rdf12-concepts-20240822/",
-        "status": "Working Draft",
-        "date": "2024-08-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-rdf12-concepts-20240801/",
-        "status": "Working Draft",
-        "date": "2024-08-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-rdf12-concepts-20240704/",
-        "status": "Working Draft",
-        "date": "2024-07-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-rdf12-concepts-20240627/",
-        "status": "Working Draft",
-        "date": "2024-06-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-rdf12-concepts-20240502/",
-        "status": "Working Draft",
-        "date": "2024-05-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-rdf12-concepts-20240416/",
-        "status": "Working Draft",
-        "date": "2024-04-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-rdf12-concepts-20240307/",
-        "status": "Working Draft",
-        "date": "2024-03-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-rdf12-concepts-20240121/",
-        "status": "Working Draft",
-        "date": "2024-01-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-rdf12-concepts-20240112/",
-        "status": "Working Draft",
-        "date": "2024-01-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-concepts-20231013/",
-        "status": "Working Draft",
-        "date": "2023-10-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-concepts-20231012/",
-        "status": "Working Draft",
-        "date": "2023-10-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-concepts-20230922/",
-        "status": "Working Draft",
-        "date": "2023-09-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-concepts-20230916/",
-        "status": "Working Draft",
-        "date": "2023-09-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-concepts-20230831/",
-        "status": "Working Draft",
-        "date": "2023-08-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-concepts-20230817/",
-        "status": "Working Draft",
-        "date": "2023-08-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-concepts-20230727/",
-        "status": "Working Draft",
-        "date": "2023-07-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-concepts-20230629/",
-        "status": "Working Draft",
-        "date": "2023-06-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-concepts-20230615/",
-        "status": "Working Draft",
-        "date": "2023-06-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-concepts-20230612/",
-        "status": "Working Draft",
-        "date": "2023-06-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-concepts-20230516/",
-        "status": "First Public Working Draft",
-        "date": "2023-05-16"
-      }
-    ],
-    "abstract": "The Resource Description Framework (RDF) is a framework for representing information in the Web. This document defines an abstract syntax (a data model) which serves to link all RDF-based languages and specifications. The abstract syntax has two key data structures:"
   },
   {
     "url": "https://www.w3.org/TR/rdf12-n-quads/",
@@ -73417,166 +72242,6 @@
     "abstract": "This module defines how the View Transition API works with cross-document navigations."
   },
   {
-    "url": "https://www.w3.org/TR/dapt/",
-    "title": "Dubbing and Audio description Profiles of TTML2",
-    "status": "Draft Standard",
-    "date": "2024-11-13",
-    "histUrl": "https://www.w3.org/standards/history/dapt/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20241113/",
-        "status": "Working Draft",
-        "date": "2024-11-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20241017/",
-        "status": "Working Draft",
-        "date": "2024-10-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20241011/",
-        "status": "Working Draft",
-        "date": "2024-10-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20241010/",
-        "status": "Working Draft",
-        "date": "2024-10-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20241009/",
-        "status": "Working Draft",
-        "date": "2024-10-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20241008/",
-        "status": "Working Draft",
-        "date": "2024-10-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20240928/",
-        "status": "Working Draft",
-        "date": "2024-09-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20240916/",
-        "status": "Working Draft",
-        "date": "2024-09-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20240829/",
-        "status": "Working Draft",
-        "date": "2024-08-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20240412/",
-        "status": "Working Draft",
-        "date": "2024-04-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20240328/",
-        "status": "Working Draft",
-        "date": "2024-03-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20240301/",
-        "status": "Working Draft",
-        "date": "2024-03-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20240215/",
-        "status": "Working Draft",
-        "date": "2024-02-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20240213/",
-        "status": "Working Draft",
-        "date": "2024-02-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20240208/",
-        "status": "Working Draft",
-        "date": "2024-02-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20231221/",
-        "status": "Working Draft",
-        "date": "2023-12-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20231123/",
-        "status": "Working Draft",
-        "date": "2023-11-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20231102/",
-        "status": "Working Draft",
-        "date": "2023-11-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20231019/",
-        "status": "Working Draft",
-        "date": "2023-10-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20231013/",
-        "status": "Working Draft",
-        "date": "2023-10-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20231011/",
-        "status": "Working Draft",
-        "date": "2023-10-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20231006/",
-        "status": "Working Draft",
-        "date": "2023-10-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20230801/",
-        "status": "Working Draft",
-        "date": "2023-08-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20230727/",
-        "status": "Working Draft",
-        "date": "2023-07-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20230628/",
-        "status": "Working Draft",
-        "date": "2023-06-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20230619/",
-        "status": "Working Draft",
-        "date": "2023-06-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20230606/",
-        "status": "Working Draft",
-        "date": "2023-06-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20230505/",
-        "status": "Working Draft",
-        "date": "2023-05-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20230504/",
-        "status": "Working Draft",
-        "date": "2023-05-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20230425/",
-        "status": "First Public Working Draft",
-        "date": "2023-04-25"
-      }
-    ],
-    "abstract": "This specification defines DAPT, a TTML-based file format for the exchange of timed text content in dubbing and audio description workflows."
-  },
-  {
     "url": "https://www.w3.org/TR/largest-contentful-paint/",
     "title": "Largest Contentful Paint",
     "status": "Draft Standard",
@@ -74012,6 +72677,1016 @@
     "abstract": "This document describes SPARQL 1.2 Update, an update language for RDF graphs. It uses a syntax derived from the SPARQL Query Language for RDF. Update operations are performed on a collection of graphs in a Graph Store. Operations are provided to update, create, and remove RDF graphs in a Graph Store."
   },
   {
+    "url": "https://www.w3.org/TR/adlm-lreq/",
+    "title": "Adlam Script Resources",
+    "status": "Draft Note",
+    "date": "2024-11-14",
+    "histUrl": "https://www.w3.org/standards/history/adlm-lreq/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-adlm-lreq-20241114/",
+        "status": "Draft Note",
+        "date": "2024-11-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-adlm-lreq-20240802/",
+        "status": "Draft Note",
+        "date": "2024-08-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-adlm-lreq-20240709/",
+        "status": "Draft Note",
+        "date": "2024-07-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-adlm-lreq-20240704/",
+        "status": "Draft Note",
+        "date": "2024-07-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-adlm-lreq-20240701/",
+        "status": "Draft Note",
+        "date": "2024-07-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-adlm-lreq-20240530/",
+        "status": "Draft Note",
+        "date": "2024-05-30"
+      }
+    ],
+    "abstract": "This document points to resources for the layout and presentation of text in languages that use the Adlam script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Adlam text."
+  },
+  {
+    "url": "https://www.w3.org/TR/arab-lreq/",
+    "title": "Arabic Script Resources",
+    "status": "Draft Note",
+    "date": "2024-11-14",
+    "histUrl": "https://www.w3.org/standards/history/arab-lreq/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-arab-lreq-20241114/",
+        "status": "Draft Note",
+        "date": "2024-11-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-arab-lreq-20240919/",
+        "status": "Draft Note",
+        "date": "2024-09-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-arab-lreq-20240815/",
+        "status": "Draft Note",
+        "date": "2024-08-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-arab-lreq-20240802/",
+        "status": "Draft Note",
+        "date": "2024-08-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-arab-lreq-20240716/",
+        "status": "Draft Note",
+        "date": "2024-07-16"
+      }
+    ],
+    "abstract": "This document points to resources related to the layout and presentation of text in languages that use the Arabic script. The target audience is developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render text in the Arabic script."
+  },
+  {
+    "url": "https://www.w3.org/TR/beng-lreq/",
+    "title": "Bengali Script Resources",
+    "status": "Draft Note",
+    "date": "2024-11-14",
+    "histUrl": "https://www.w3.org/standards/history/beng-lreq/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-beng-lreq-20241114/",
+        "status": "Draft Note",
+        "date": "2024-11-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-beng-lreq-20240920/",
+        "status": "Draft Note",
+        "date": "2024-09-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-beng-lreq-20240808/",
+        "status": "Draft Note",
+        "date": "2024-08-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-beng-lreq-20240802/",
+        "status": "Draft Note",
+        "date": "2024-08-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-beng-lreq-20240723/",
+        "status": "Draft Note",
+        "date": "2024-07-23"
+      }
+    ],
+    "abstract": "This document points to resources for the layout and presentation of text in languages that use the Bengali script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Bengali text."
+  },
+  {
+    "url": "https://www.w3.org/TR/cans-lreq/",
+    "title": "Canadian Aboriginal Syllabics Script Resources",
+    "status": "Draft Note",
+    "date": "2024-11-14",
+    "histUrl": "https://www.w3.org/standards/history/cans-lreq/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-cans-lreq-20241114/",
+        "status": "Draft Note",
+        "date": "2024-11-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-cans-lreq-20240920/",
+        "status": "Draft Note",
+        "date": "2024-09-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-cans-lreq-20240808/",
+        "status": "Draft Note",
+        "date": "2024-08-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-cans-lreq-20240730/",
+        "status": "Draft Note",
+        "date": "2024-07-30"
+      }
+    ],
+    "abstract": "This document points to resources for the layout and presentation of text in languages that use the Canadian Aboriginal Syllabics (UCAS) script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Canadian Aboriginal Syllabics text."
+  },
+  {
+    "url": "https://www.w3.org/TR/cher-lreq/",
+    "title": "Cherokee Script Resources",
+    "status": "Draft Note",
+    "date": "2024-11-14",
+    "histUrl": "https://www.w3.org/standards/history/cher-lreq/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-cher-lreq-20241114/",
+        "status": "Draft Note",
+        "date": "2024-11-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-cher-lreq-20240808/",
+        "status": "Draft Note",
+        "date": "2024-08-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-cher-lreq-20240730/",
+        "status": "Draft Note",
+        "date": "2024-07-30"
+      }
+    ],
+    "abstract": "This document points to resources for the layout and presentation of text in languages that use the Cherokee script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Cherokee text."
+  },
+  {
+    "url": "https://www.w3.org/TR/hani-lreq/",
+    "title": "Chinese Script Resources",
+    "status": "Draft Note",
+    "date": "2024-11-14",
+    "histUrl": "https://www.w3.org/standards/history/hani-lreq/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-hani-lreq-20241114/",
+        "status": "Draft Note",
+        "date": "2024-11-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-hani-lreq-20240919/",
+        "status": "Draft Note",
+        "date": "2024-09-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-hani-lreq-20240808/",
+        "status": "Draft Note",
+        "date": "2024-08-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-hani-lreq-20240716/",
+        "status": "Draft Note",
+        "date": "2024-07-16"
+      }
+    ],
+    "abstract": "This document points to resources for the layout and presentation of text in languages that use the Chinese script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Chinese text."
+  },
+  {
+    "url": "https://www.w3.org/TR/core-aam-1.2/",
+    "title": "Core Accessibility API Mappings 1.2",
+    "status": "Candidate Standard",
+    "date": "2024-11-14",
+    "histUrl": "https://www.w3.org/standards/history/core-aam-1.2/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-core-aam-1.2-20241114/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-11-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-core-aam-1.2-20241015/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-10-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-core-aam-1.2-20240813/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-08-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-core-aam-1.2-20240621/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-06-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-core-aam-1.2-20240620/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-06-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-core-aam-1.2-20231102/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-11-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-core-aam-1.2-20231031/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-10-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-core-aam-1.2-20231026/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-10-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-core-aam-1.2-20231012/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-10-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-core-aam-1.2-20230904/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-09-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-core-aam-1.2-20230902/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-09-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-core-aam-1.2-20230901/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-09-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-core-aam-1.2-20230825/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-08-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-core-aam-1.2-20230821/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-08-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-core-aam-1.2-20230817/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-08-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-core-aam-1.2-20230816/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-08-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-core-aam-1.2-20230705/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-07-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-core-aam-1.2-20230628/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-06-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-core-aam-1.2-20230626/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-06-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-core-aam-1.2-20230518/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-05-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/CR-core-aam-1.2-20221122/",
+        "status": "Candidate Recommendation Snapshot",
+        "date": "2022-11-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-core-aam-1.2-20221101/",
+        "status": "Working Draft",
+        "date": "2022-11-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-core-aam-1.2-20221013/",
+        "status": "Working Draft",
+        "date": "2022-10-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-core-aam-1.2-20221008/",
+        "status": "Working Draft",
+        "date": "2022-10-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-core-aam-1.2-20220930/",
+        "status": "Working Draft",
+        "date": "2022-09-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-core-aam-1.2-20220915/",
+        "status": "Working Draft",
+        "date": "2022-09-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-core-aam-1.2-20220830/",
+        "status": "Working Draft",
+        "date": "2022-08-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-core-aam-1.2-20220526/",
+        "status": "Working Draft",
+        "date": "2022-05-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-core-aam-1.2-20220524/",
+        "status": "Working Draft",
+        "date": "2022-05-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-core-aam-1.2-20220517/",
+        "status": "Working Draft",
+        "date": "2022-05-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-core-aam-1.2-20220215/",
+        "status": "Working Draft",
+        "date": "2022-02-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-core-aam-1.2-20220120/",
+        "status": "Working Draft",
+        "date": "2022-01-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-core-aam-1.2-20191218/",
+        "status": "Working Draft",
+        "date": "2019-12-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-core-aam-1.2-20181218/",
+        "status": "Working Draft",
+        "date": "2018-12-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-core-aam-1.2-20180719/",
+        "status": "First Public Working Draft",
+        "date": "2018-07-19"
+      }
+    ],
+    "abstract": "This document describes how user agents should expose semantics of web content languages to accessibility APIs. This helps users with disabilities to obtain and interact with information using assistive technologies. Documenting these mappings promotes interoperable exposure of roles, states, properties, and events implemented by accessibility APIs and helps to ensure that this information appears in a manner consistent with author intent."
+  },
+  {
+    "url": "https://www.w3.org/TR/cyrl-lreq/",
+    "title": "Cyrillic Script Resources",
+    "status": "Draft Note",
+    "date": "2024-11-14",
+    "histUrl": "https://www.w3.org/standards/history/cyrl-lreq/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-cyrl-lreq-20241114/",
+        "status": "Draft Note",
+        "date": "2024-11-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-cyrl-lreq-20240920/",
+        "status": "Draft Note",
+        "date": "2024-09-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-cyrl-lreq-20240808/",
+        "status": "Draft Note",
+        "date": "2024-08-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-cyrl-lreq-20240723/",
+        "status": "Draft Note",
+        "date": "2024-07-23"
+      }
+    ],
+    "abstract": "This document points to resources for the layout and presentation of text in languages that use the Cyrillic script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Cyrillic text."
+  },
+  {
+    "url": "https://www.w3.org/TR/deva-lreq/",
+    "title": "Devanagari Script Resources",
+    "status": "Draft Note",
+    "date": "2024-11-14",
+    "histUrl": "https://www.w3.org/standards/history/deva-lreq/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-deva-lreq-20241114/",
+        "status": "Draft Note",
+        "date": "2024-11-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-deva-lreq-20240920/",
+        "status": "Draft Note",
+        "date": "2024-09-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-deva-lreq-20240808/",
+        "status": "Draft Note",
+        "date": "2024-08-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-deva-lreq-20240723/",
+        "status": "Draft Note",
+        "date": "2024-07-23"
+      }
+    ],
+    "abstract": "This document points to resources for the layout and presentation of text in languages that use the Devanagari script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Devanagari text."
+  },
+  {
+    "url": "https://www.w3.org/TR/dapt/",
+    "title": "Dubbing and Audio description Profiles of TTML2",
+    "status": "Draft Standard",
+    "date": "2024-11-14",
+    "histUrl": "https://www.w3.org/standards/history/dapt/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20241114/",
+        "status": "Working Draft",
+        "date": "2024-11-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20241113/",
+        "status": "Working Draft",
+        "date": "2024-11-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20241017/",
+        "status": "Working Draft",
+        "date": "2024-10-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20241011/",
+        "status": "Working Draft",
+        "date": "2024-10-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20241010/",
+        "status": "Working Draft",
+        "date": "2024-10-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20241009/",
+        "status": "Working Draft",
+        "date": "2024-10-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20241008/",
+        "status": "Working Draft",
+        "date": "2024-10-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20240928/",
+        "status": "Working Draft",
+        "date": "2024-09-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20240916/",
+        "status": "Working Draft",
+        "date": "2024-09-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20240829/",
+        "status": "Working Draft",
+        "date": "2024-08-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20240412/",
+        "status": "Working Draft",
+        "date": "2024-04-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20240328/",
+        "status": "Working Draft",
+        "date": "2024-03-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20240301/",
+        "status": "Working Draft",
+        "date": "2024-03-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20240215/",
+        "status": "Working Draft",
+        "date": "2024-02-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20240213/",
+        "status": "Working Draft",
+        "date": "2024-02-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20240208/",
+        "status": "Working Draft",
+        "date": "2024-02-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20231221/",
+        "status": "Working Draft",
+        "date": "2023-12-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20231123/",
+        "status": "Working Draft",
+        "date": "2023-11-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20231102/",
+        "status": "Working Draft",
+        "date": "2023-11-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20231019/",
+        "status": "Working Draft",
+        "date": "2023-10-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20231013/",
+        "status": "Working Draft",
+        "date": "2023-10-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20231011/",
+        "status": "Working Draft",
+        "date": "2023-10-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20231006/",
+        "status": "Working Draft",
+        "date": "2023-10-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20230801/",
+        "status": "Working Draft",
+        "date": "2023-08-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20230727/",
+        "status": "Working Draft",
+        "date": "2023-07-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20230628/",
+        "status": "Working Draft",
+        "date": "2023-06-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20230619/",
+        "status": "Working Draft",
+        "date": "2023-06-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20230606/",
+        "status": "Working Draft",
+        "date": "2023-06-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20230505/",
+        "status": "Working Draft",
+        "date": "2023-05-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20230504/",
+        "status": "Working Draft",
+        "date": "2023-05-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20230425/",
+        "status": "First Public Working Draft",
+        "date": "2023-04-25"
+      }
+    ],
+    "abstract": "This specification defines DAPT, a TTML-based file format for the exchange of timed text content in dubbing and audio description workflows."
+  },
+  {
+    "url": "https://www.w3.org/TR/ethi-lreq/",
+    "title": "Ethiopic Script Resources",
+    "status": "Draft Note",
+    "date": "2024-11-14",
+    "histUrl": "https://www.w3.org/standards/history/ethi-lreq/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-ethi-lreq-20241114/",
+        "status": "Draft Note",
+        "date": "2024-11-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-ethi-lreq-20240815/",
+        "status": "Draft Note",
+        "date": "2024-08-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-ethi-lreq-20240808/",
+        "status": "Draft Note",
+        "date": "2024-08-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-ethi-lreq-20240723/",
+        "status": "Draft Note",
+        "date": "2024-07-23"
+      }
+    ],
+    "abstract": "This document points to resources for the layout and presentation of text in languages that use the Ethiopic script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Ethiopic text."
+  },
+  {
+    "url": "https://www.w3.org/TR/geor-lreq/",
+    "title": "Georgian Script Resources",
+    "status": "Draft Note",
+    "date": "2024-11-14",
+    "histUrl": "https://www.w3.org/standards/history/geor-lreq/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-geor-lreq-20241114/",
+        "status": "Draft Note",
+        "date": "2024-11-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-geor-lreq-20240920/",
+        "status": "Draft Note",
+        "date": "2024-09-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-geor-lreq-20240808/",
+        "status": "Draft Note",
+        "date": "2024-08-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-geor-lreq-20240723/",
+        "status": "Draft Note",
+        "date": "2024-07-23"
+      }
+    ],
+    "abstract": "This document points to resources for the layout and presentation of text in languages that use the Georgian script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Georgian text."
+  },
+  {
+    "url": "https://www.w3.org/TR/grek-lreq/",
+    "title": "Greek Script Resources",
+    "status": "Draft Note",
+    "date": "2024-11-14",
+    "histUrl": "https://www.w3.org/standards/history/grek-lreq/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-grek-lreq-20241114/",
+        "status": "Draft Note",
+        "date": "2024-11-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-grek-lreq-20240920/",
+        "status": "Draft Note",
+        "date": "2024-09-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-grek-lreq-20240905/",
+        "status": "Draft Note",
+        "date": "2024-09-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-grek-lreq-20240815/",
+        "status": "Draft Note",
+        "date": "2024-08-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-grek-lreq-20240808/",
+        "status": "Draft Note",
+        "date": "2024-08-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-grek-lreq-20240730/",
+        "status": "Draft Note",
+        "date": "2024-07-30"
+      }
+    ],
+    "abstract": "This document points to resources for the layout and presentation of text in languages that use the Greek script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Greek text."
+  },
+  {
+    "url": "https://www.w3.org/TR/gujr-lreq/",
+    "title": "Gujarati Script Resources",
+    "status": "Draft Note",
+    "date": "2024-11-14",
+    "histUrl": "https://www.w3.org/standards/history/gujr-lreq/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-gujr-lreq-20241114/",
+        "status": "Draft Note",
+        "date": "2024-11-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-gujr-lreq-20240808/",
+        "status": "Draft Note",
+        "date": "2024-08-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-gujr-lreq-20240730/",
+        "status": "Draft Note",
+        "date": "2024-07-30"
+      }
+    ],
+    "abstract": "This document points to resources for the layout and presentation of text in languages that use the Gujarati script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Gujarati text."
+  },
+  {
+    "url": "https://www.w3.org/TR/guru-lreq/",
+    "title": "Gurmukhi Script Resources",
+    "status": "Draft Note",
+    "date": "2024-11-14",
+    "histUrl": "https://www.w3.org/standards/history/guru-lreq/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-guru-lreq-20241114/",
+        "status": "Draft Note",
+        "date": "2024-11-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-guru-lreq-20240808/",
+        "status": "Draft Note",
+        "date": "2024-08-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-guru-lreq-20240719/",
+        "status": "Draft Note",
+        "date": "2024-07-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-guru-lreq-20230214/",
+        "status": "Draft Note",
+        "date": "2023-02-14"
+      }
+    ],
+    "abstract": "This document points to resources for the layout and presentation of text in languages that use the Gurmukhi script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Gurmukhi text."
+  },
+  {
+    "url": "https://www.w3.org/TR/hebr-lreq/",
+    "title": "Hebrew Script Resources",
+    "status": "Draft Note",
+    "date": "2024-11-14",
+    "histUrl": "https://www.w3.org/standards/history/hebr-lreq/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-hebr-lreq-20241114/",
+        "status": "Draft Note",
+        "date": "2024-11-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-hebr-lreq-20240815/",
+        "status": "Draft Note",
+        "date": "2024-08-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-hebr-lreq-20240808/",
+        "status": "Draft Note",
+        "date": "2024-08-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-hebr-lreq-20240716/",
+        "status": "Draft Note",
+        "date": "2024-07-16"
+      }
+    ],
+    "abstract": "This document points to resources for the layout and presentation of text in languages that use the Hebrew script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Hebrew text."
+  },
+  {
+    "url": "https://www.w3.org/TR/jpan-lreq/",
+    "title": "Japanese Script Resources",
+    "status": "Draft Note",
+    "date": "2024-11-14",
+    "histUrl": "https://www.w3.org/standards/history/jpan-lreq/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-jpan-lreq-20241114/",
+        "status": "Draft Note",
+        "date": "2024-11-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-jpan-lreq-20241017/",
+        "status": "Draft Note",
+        "date": "2024-10-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-jpan-lreq-20240919/",
+        "status": "Draft Note",
+        "date": "2024-09-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-jpan-lreq-20240905/",
+        "status": "Draft Note",
+        "date": "2024-09-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-jpan-lreq-20240815/",
+        "status": "Draft Note",
+        "date": "2024-08-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-jpan-lreq-20240808/",
+        "status": "Draft Note",
+        "date": "2024-08-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-jpan-lreq-20240730/",
+        "status": "Draft Note",
+        "date": "2024-07-30"
+      }
+    ],
+    "abstract": "This document points to resources for the layout and presentation of text in languages that use the Japanese script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Japanese text."
+  },
+  {
+    "url": "https://www.w3.org/TR/java-lreq/",
+    "title": "Javanese Script Resources",
+    "status": "Draft Note",
+    "date": "2024-11-14",
+    "histUrl": "https://www.w3.org/standards/history/java-lreq/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-java-lreq-20241114/",
+        "status": "Draft Note",
+        "date": "2024-11-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-java-lreq-20240809/",
+        "status": "Draft Note",
+        "date": "2024-08-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-java-lreq-20240730/",
+        "status": "Draft Note",
+        "date": "2024-07-30"
+      }
+    ],
+    "abstract": "This document points to resources for the layout and presentation of text in languages that use the Javanese script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Javanese text."
+  },
+  {
+    "url": "https://www.w3.org/TR/khmr-lreq/",
+    "title": "Khmer Script Resources",
+    "status": "Draft Note",
+    "date": "2024-11-14",
+    "histUrl": "https://www.w3.org/standards/history/khmr-lreq/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-khmr-lreq-20241114/",
+        "status": "Draft Note",
+        "date": "2024-11-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-khmr-lreq-20240809/",
+        "status": "Draft Note",
+        "date": "2024-08-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-khmr-lreq-20240710/",
+        "status": "Draft Note",
+        "date": "2024-07-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-khmr-lreq-20240705/",
+        "status": "Draft Note",
+        "date": "2024-07-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-khmr-lreq-20240630/",
+        "status": "Draft Note",
+        "date": "2024-06-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-khmr-lreq-20240515/",
+        "status": "Draft Note",
+        "date": "2024-05-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-khmr-lreq-20240419/",
+        "status": "Draft Note",
+        "date": "2024-04-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-khmr-lreq-20240411/",
+        "status": "Draft Note",
+        "date": "2024-04-11"
+      }
+    ],
+    "abstract": "This document points to resources for the layout and presentation of text in languages that use the Khmer script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Khmer text."
+  },
+  {
+    "url": "https://www.w3.org/TR/kore-lreq/",
+    "title": "Korean Script Resources",
+    "status": "Draft Note",
+    "date": "2024-11-14",
+    "histUrl": "https://www.w3.org/standards/history/kore-lreq/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-kore-lreq-20241114/",
+        "status": "Draft Note",
+        "date": "2024-11-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-kore-lreq-20240808/",
+        "status": "Draft Note",
+        "date": "2024-08-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-kore-lreq-20240723/",
+        "status": "Draft Note",
+        "date": "2024-07-23"
+      }
+    ],
+    "abstract": "This document points to resources for the layout and presentation of text in languages that use the Korean script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Korean text."
+  },
+  {
+    "url": "https://www.w3.org/TR/laoo-lreq/",
+    "title": "Lao Script Resources",
+    "status": "Draft Note",
+    "date": "2024-11-14",
+    "histUrl": "https://www.w3.org/standards/history/laoo-lreq/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-laoo-lreq-20241114/",
+        "status": "Draft Note",
+        "date": "2024-11-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-laoo-lreq-20240809/",
+        "status": "Draft Note",
+        "date": "2024-08-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-laoo-lreq-20240710/",
+        "status": "Draft Note",
+        "date": "2024-07-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-laoo-lreq-20240705/",
+        "status": "Draft Note",
+        "date": "2024-07-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-laoo-lreq-20240630/",
+        "status": "Draft Note",
+        "date": "2024-06-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-laoo-lreq-20240515/",
+        "status": "Draft Note",
+        "date": "2024-05-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-laoo-lreq-20240430/",
+        "status": "Draft Note",
+        "date": "2024-04-30"
+      }
+    ],
+    "abstract": "This document points to resources for the layout and presentation of text in languages that use the Lao script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Lao text."
+  },
+  {
+    "url": "https://www.w3.org/TR/latn-lreq/",
+    "title": "Latin Script Resources",
+    "status": "Draft Note",
+    "date": "2024-11-14",
+    "histUrl": "https://www.w3.org/standards/history/latn-lreq/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-latn-lreq-20241114/",
+        "status": "Draft Note",
+        "date": "2024-11-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-latn-lreq-20240815/",
+        "status": "Draft Note",
+        "date": "2024-08-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-latn-lreq-20240808/",
+        "status": "Draft Note",
+        "date": "2024-08-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-latn-lreq-20240716/",
+        "status": "Draft Note",
+        "date": "2024-07-16"
+      }
+    ],
+    "abstract": "This document points to resources for the layout and presentation of text in languages that use the Latin script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Latin text."
+  },
+  {
     "url": "https://www.w3.org/TR/mathml4/",
     "title": "Mathematical Markup Language (MathML) Version 4.0",
     "status": "Draft Standard",
@@ -74050,5 +73725,480 @@
       }
     ],
     "abstract": "This specification defines the Mathematical Markup Language, or MathML. MathML is a markup language for describing mathematical notation and capturing both its structure and content. The goal of MathML is to enable mathematics to be served, received, and processed on the World Wide Web, just as [HTML] has enabled this functionality for text."
+  },
+  {
+    "url": "https://www.w3.org/TR/miniapp-manifest/",
+    "title": "MiniApp Manifest",
+    "status": "Draft Standard",
+    "date": "2024-11-14",
+    "histUrl": "https://www.w3.org/standards/history/miniapp-manifest/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-miniapp-manifest-20241114/",
+        "status": "Working Draft",
+        "date": "2024-11-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-miniapp-manifest-20230530/",
+        "status": "Working Draft",
+        "date": "2023-05-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-miniapp-manifest-20230228/",
+        "status": "Working Draft",
+        "date": "2023-02-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-miniapp-manifest-20230220/",
+        "status": "Working Draft",
+        "date": "2023-02-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-miniapp-manifest-20221125/",
+        "status": "Working Draft",
+        "date": "2022-11-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-miniapp-manifest-20221027/",
+        "status": "Working Draft",
+        "date": "2022-10-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-miniapp-manifest-20220701/",
+        "status": "Working Draft",
+        "date": "2022-07-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-miniapp-manifest-20220517/",
+        "status": "Working Draft",
+        "date": "2022-05-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-miniapp-manifest-20220428/",
+        "status": "Working Draft",
+        "date": "2022-04-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-miniapp-manifest-20220324/",
+        "status": "Working Draft",
+        "date": "2022-03-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-miniapp-manifest-20220128/",
+        "status": "Working Draft",
+        "date": "2022-01-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-miniapp-manifest-20220120/",
+        "status": "Working Draft",
+        "date": "2022-01-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-miniapp-manifest-20211221/",
+        "status": "Working Draft",
+        "date": "2021-12-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-miniapp-manifest-20211003/",
+        "status": "Working Draft",
+        "date": "2021-10-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-miniapp-manifest-20210925/",
+        "status": "Working Draft",
+        "date": "2021-09-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-miniapp-manifest-20210826/",
+        "status": "Working Draft",
+        "date": "2021-08-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-miniapp-manifest-20210628/",
+        "status": "Working Draft",
+        "date": "2021-06-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-miniapp-manifest-20210624/",
+        "status": "Working Draft",
+        "date": "2021-06-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-miniapp-manifest-20210606/",
+        "status": "Working Draft",
+        "date": "2021-06-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-miniapp-manifest-20210603/",
+        "status": "Working Draft",
+        "date": "2021-06-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-miniapp-manifest-20210511/",
+        "status": "First Public Working Draft",
+        "date": "2021-05-11"
+      }
+    ],
+    "abstract": "This specification is a registry of supplementary members for the Web Application Manifest and the Web App Manifest - Application Information specifications that provide additional metadata to an application manifest to describe MiniApps. This JSON-based manifest file enables developers to set up basic information of a MiniApp, like identification, human-readable description, versioning data, and styling information. The MiniApp manifest also configures the routing of the pages and widgets that are part of a MiniApp."
+  },
+  {
+    "url": "https://www.w3.org/TR/mong-lreq/",
+    "title": "Mongolian Script Resources",
+    "status": "Draft Note",
+    "date": "2024-11-14",
+    "histUrl": "https://www.w3.org/standards/history/mong-lreq/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-mong-lreq-20241114/",
+        "status": "Draft Note",
+        "date": "2024-11-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-mong-lreq-20240919/",
+        "status": "Draft Note",
+        "date": "2024-09-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-mong-lreq-20240808/",
+        "status": "Draft Note",
+        "date": "2024-08-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-mong-lreq-20240723/",
+        "status": "Draft Note",
+        "date": "2024-07-23"
+      }
+    ],
+    "abstract": "This document points to resources for the layout and presentation of text in languages that use the Mongolian script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Mongolian text."
+  },
+  {
+    "url": "https://www.w3.org/TR/nkoo-lreq/",
+    "title": "N’Ko Script Resources",
+    "status": "Draft Note",
+    "date": "2024-11-14",
+    "histUrl": "https://www.w3.org/standards/history/nkoo-lreq/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-nkoo-lreq-20241114/",
+        "status": "Draft Note",
+        "date": "2024-11-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-nkoo-lreq-20240920/",
+        "status": "Draft Note",
+        "date": "2024-09-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-nkoo-lreq-20240815/",
+        "status": "Draft Note",
+        "date": "2024-08-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-nkoo-lreq-20240802/",
+        "status": "Draft Note",
+        "date": "2024-08-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-nkoo-lreq-20240709/",
+        "status": "Draft Note",
+        "date": "2024-07-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-nkoo-lreq-20240704/",
+        "status": "Draft Note",
+        "date": "2024-07-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-nkoo-lreq-20240701/",
+        "status": "Draft Note",
+        "date": "2024-07-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-nkoo-lreq-20240515/",
+        "status": "Draft Note",
+        "date": "2024-05-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-nkoo-lreq-20240510/",
+        "status": "Draft Note",
+        "date": "2024-05-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-nkoo-lreq-20230613/",
+        "status": "Draft Note",
+        "date": "2023-06-13"
+      }
+    ],
+    "abstract": "This document points to resources for the layout and presentation of text in languages that use the N’Ko script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render N’Ko text."
+  },
+  {
+    "url": "https://www.w3.org/TR/osge-lreq/",
+    "title": "Osage Script Resources",
+    "status": "Draft Note",
+    "date": "2024-11-14",
+    "histUrl": "https://www.w3.org/standards/history/osge-lreq/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-osge-lreq-20241114/",
+        "status": "Draft Note",
+        "date": "2024-11-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-osge-lreq-20240808/",
+        "status": "Draft Note",
+        "date": "2024-08-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-osge-lreq-20240730/",
+        "status": "Draft Note",
+        "date": "2024-07-30"
+      }
+    ],
+    "abstract": "This document points to resources for the layout and presentation of text in languages that use the Osage script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Osage text."
+  },
+  {
+    "url": "https://www.w3.org/TR/rdf12-concepts/",
+    "title": "RDF 1.2 Concepts and Abstract Syntax",
+    "status": "Draft Standard",
+    "date": "2024-11-14",
+    "histUrl": "https://www.w3.org/standards/history/rdf12-concepts/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-rdf12-concepts-20241114/",
+        "status": "Working Draft",
+        "date": "2024-11-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-rdf12-concepts-20241107/",
+        "status": "Working Draft",
+        "date": "2024-11-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-rdf12-concepts-20241031/",
+        "status": "Working Draft",
+        "date": "2024-10-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-rdf12-concepts-20241029/",
+        "status": "Working Draft",
+        "date": "2024-10-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-rdf12-concepts-20241024/",
+        "status": "Working Draft",
+        "date": "2024-10-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-rdf12-concepts-20241023/",
+        "status": "Working Draft",
+        "date": "2024-10-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-rdf12-concepts-20241022/",
+        "status": "Working Draft",
+        "date": "2024-10-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-rdf12-concepts-20240822/",
+        "status": "Working Draft",
+        "date": "2024-08-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-rdf12-concepts-20240801/",
+        "status": "Working Draft",
+        "date": "2024-08-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-rdf12-concepts-20240704/",
+        "status": "Working Draft",
+        "date": "2024-07-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-rdf12-concepts-20240627/",
+        "status": "Working Draft",
+        "date": "2024-06-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-rdf12-concepts-20240502/",
+        "status": "Working Draft",
+        "date": "2024-05-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-rdf12-concepts-20240416/",
+        "status": "Working Draft",
+        "date": "2024-04-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-rdf12-concepts-20240307/",
+        "status": "Working Draft",
+        "date": "2024-03-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-rdf12-concepts-20240121/",
+        "status": "Working Draft",
+        "date": "2024-01-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-rdf12-concepts-20240112/",
+        "status": "Working Draft",
+        "date": "2024-01-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-concepts-20231013/",
+        "status": "Working Draft",
+        "date": "2023-10-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-concepts-20231012/",
+        "status": "Working Draft",
+        "date": "2023-10-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-concepts-20230922/",
+        "status": "Working Draft",
+        "date": "2023-09-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-concepts-20230916/",
+        "status": "Working Draft",
+        "date": "2023-09-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-concepts-20230831/",
+        "status": "Working Draft",
+        "date": "2023-08-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-concepts-20230817/",
+        "status": "Working Draft",
+        "date": "2023-08-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-concepts-20230727/",
+        "status": "Working Draft",
+        "date": "2023-07-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-concepts-20230629/",
+        "status": "Working Draft",
+        "date": "2023-06-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-concepts-20230615/",
+        "status": "Working Draft",
+        "date": "2023-06-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-concepts-20230612/",
+        "status": "Working Draft",
+        "date": "2023-06-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-concepts-20230516/",
+        "status": "First Public Working Draft",
+        "date": "2023-05-16"
+      }
+    ],
+    "abstract": "The Resource Description Framework (RDF) is a framework for representing information in the Web. This document defines an abstract syntax (a data model) which serves to link all RDF-based languages and specifications. The abstract syntax has two key data structures:"
+  },
+  {
+    "url": "https://www.w3.org/TR/taml-lreq/",
+    "title": "Tamil Script Resources",
+    "status": "Draft Note",
+    "date": "2024-11-14",
+    "histUrl": "https://www.w3.org/standards/history/taml-lreq/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-taml-lreq-20241114/",
+        "status": "Draft Note",
+        "date": "2024-11-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-taml-lreq-20240808/",
+        "status": "Draft Note",
+        "date": "2024-08-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-taml-lreq-20240730/",
+        "status": "Draft Note",
+        "date": "2024-07-30"
+      }
+    ],
+    "abstract": "This document points to resources for the layout and presentation of text in languages that use the Tamil script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Tamil text."
+  },
+  {
+    "url": "https://www.w3.org/TR/thai-lreq/",
+    "title": "Thai Script Resources",
+    "status": "Draft Note",
+    "date": "2024-11-14",
+    "histUrl": "https://www.w3.org/standards/history/thai-lreq/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-thai-lreq-20241114/",
+        "status": "Draft Note",
+        "date": "2024-11-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-thai-lreq-20240815/",
+        "status": "Draft Note",
+        "date": "2024-08-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-thai-lreq-20240809/",
+        "status": "Draft Note",
+        "date": "2024-08-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-thai-lreq-20240710/",
+        "status": "Draft Note",
+        "date": "2024-07-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-thai-lreq-20240705/",
+        "status": "Draft Note",
+        "date": "2024-07-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-thai-lreq-20240630/",
+        "status": "Draft Note",
+        "date": "2024-06-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-thai-lreq-20240515/",
+        "status": "Draft Note",
+        "date": "2024-05-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-thai-lreq-20240430/",
+        "status": "Draft Note",
+        "date": "2024-04-30"
+      }
+    ],
+    "abstract": "This document points to resources for the layout and presentation of text in languages that use the Thai script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Thai text."
+  },
+  {
+    "url": "https://www.w3.org/TR/tibt-lreq/",
+    "title": "Tibetan Script Resources",
+    "status": "Draft Note",
+    "date": "2024-11-14",
+    "histUrl": "https://www.w3.org/standards/history/tibt-lreq/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-tibt-lreq-20241114/",
+        "status": "Draft Note",
+        "date": "2024-11-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-tibt-lreq-20240809/",
+        "status": "Draft Note",
+        "date": "2024-08-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-tibt-lreq-20240730/",
+        "status": "Draft Note",
+        "date": "2024-07-30"
+      }
+    ],
+    "abstract": "This document describes or points to requirements for the layout and presentation of text in languages that use the Tibetan script. The target audience is developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Tibetan script text."
   }
 ]
