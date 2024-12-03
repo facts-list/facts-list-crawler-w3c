@@ -66937,21 +66937,6 @@
     "abstract": "An API that allows applications to lock down powerful APIs to only accept non-spoofable, typed values in place of strings to prevent vulnerabilities caused by using these APIs with attacker-controlled inputs."
   },
   {
-    "url": "https://www.w3.org/TR/webdriver-bidi/",
-    "title": "WebDriver BiDi",
-    "status": "Draft Standard",
-    "date": "2024-11-21",
-    "histUrl": "https://www.w3.org/standards/history/webdriver-bidi/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-webdriver-bidi-20241121/",
-        "status": "First Public Working Draft",
-        "date": "2024-11-21"
-      }
-    ],
-    "abstract": "This document defines the BiDirectional WebDriver Protocol, a mechanism for remote control of user agents."
-  },
-  {
     "url": "https://www.w3.org/TR/compute-pressure/",
     "title": "Compute Pressure Level 1",
     "status": "Draft Standard",
@@ -74635,5 +74620,25 @@
       }
     ],
     "abstract": "This document describes the integration of WebAssembly with the broader web platform."
+  },
+  {
+    "url": "https://www.w3.org/TR/webdriver-bidi/",
+    "title": "WebDriver BiDi",
+    "status": "Draft Standard",
+    "date": "2024-12-02",
+    "histUrl": "https://www.w3.org/standards/history/webdriver-bidi/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-webdriver-bidi-20241202/",
+        "status": "Working Draft",
+        "date": "2024-12-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-webdriver-bidi-20241121/",
+        "status": "First Public Working Draft",
+        "date": "2024-11-21"
+      }
+    ],
+    "abstract": "This document defines the BiDirectional WebDriver Protocol, a mechanism for remote control of user agents."
   }
 ]
