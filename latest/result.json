@@ -66937,136 +66937,6 @@
     "abstract": "This document describes how user agents should expose semantics of web content languages to accessibility APIs. This helps users with disabilities to obtain and interact with information using assistive technologies. Documenting these mappings promotes interoperable exposure of roles, states, properties, and events implemented by accessibility APIs and helps to ensure that this information appears in a manner consistent with author intent."
   },
   {
-    "url": "https://www.w3.org/TR/FileAPI/",
-    "title": "File API",
-    "status": "Draft Standard",
-    "date": "2024-11-22",
-    "histUrl": "https://www.w3.org/standards/history/FileAPI/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-FileAPI-20241122/",
-        "status": "Working Draft",
-        "date": "2024-11-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-FileAPI-20241024/",
-        "status": "Working Draft",
-        "date": "2024-10-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-FileAPI-20240524/",
-        "status": "Working Draft",
-        "date": "2024-05-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-FileAPI-20230206/",
-        "status": "Working Draft",
-        "date": "2023-02-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-FileAPI-20221130/",
-        "status": "Working Draft",
-        "date": "2022-11-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-FileAPI-20221114/",
-        "status": "Working Draft",
-        "date": "2022-11-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-FileAPI-20221020/",
-        "status": "Working Draft",
-        "date": "2022-10-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-FileAPI-20221010/",
-        "status": "Working Draft",
-        "date": "2022-10-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-FileAPI-20210604/",
-        "status": "Working Draft",
-        "date": "2021-06-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-FileAPI-20210427/",
-        "status": "Working Draft",
-        "date": "2021-04-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-FileAPI-20210422/",
-        "status": "Working Draft",
-        "date": "2021-04-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-FileAPI-20190911/",
-        "status": "Working Draft",
-        "date": "2019-09-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-FileAPI-20190531/",
-        "status": "Working Draft",
-        "date": "2019-05-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-FileAPI-20190530/",
-        "status": "Working Draft",
-        "date": "2019-05-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-FileAPI-20181106/",
-        "status": "Working Draft",
-        "date": "2018-11-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-FileAPI-20171026/",
-        "status": "Working Draft",
-        "date": "2017-10-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2015/WD-FileAPI-20150421/",
-        "status": "Working Draft",
-        "date": "2015-04-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2013/WD-FileAPI-20130912/",
-        "status": "Last Call Working Draft",
-        "date": "2013-09-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2012/WD-FileAPI-20121025/",
-        "status": "Working Draft",
-        "date": "2012-10-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2012/WD-FileAPI-20120712/",
-        "status": "Working Draft",
-        "date": "2012-07-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2011/WD-FileAPI-20111020/",
-        "status": "Working Draft",
-        "date": "2011-10-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2010/WD-FileAPI-20101026/",
-        "status": "Working Draft",
-        "date": "2010-10-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2009/WD-FileAPI-20091117/",
-        "status": "Working Draft",
-        "date": "2009-11-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2006/WD-file-upload-20061018/",
-        "status": "Working Draft",
-        "date": "2006-10-18"
-      }
-    ],
-    "abstract": "This specification provides an API for representing file objects in web applications, as well as programmatically selecting them and accessing their data. This includes:"
-  },
-  {
     "url": "https://www.w3.org/TR/webgpu/",
     "title": "WebGPU",
     "status": "Draft Standard",
@@ -73905,6 +73775,141 @@
       }
     ],
     "abstract": "This document defines the BiDirectional WebDriver Protocol, a mechanism for remote control of user agents."
+  },
+  {
+    "url": "https://www.w3.org/TR/FileAPI/",
+    "title": "File API",
+    "status": "Draft Standard",
+    "date": "2024-12-04",
+    "histUrl": "https://www.w3.org/standards/history/FileAPI/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-FileAPI-20241204/",
+        "status": "Working Draft",
+        "date": "2024-12-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-FileAPI-20241122/",
+        "status": "Working Draft",
+        "date": "2024-11-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-FileAPI-20241024/",
+        "status": "Working Draft",
+        "date": "2024-10-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-FileAPI-20240524/",
+        "status": "Working Draft",
+        "date": "2024-05-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-FileAPI-20230206/",
+        "status": "Working Draft",
+        "date": "2023-02-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-FileAPI-20221130/",
+        "status": "Working Draft",
+        "date": "2022-11-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-FileAPI-20221114/",
+        "status": "Working Draft",
+        "date": "2022-11-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-FileAPI-20221020/",
+        "status": "Working Draft",
+        "date": "2022-10-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-FileAPI-20221010/",
+        "status": "Working Draft",
+        "date": "2022-10-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-FileAPI-20210604/",
+        "status": "Working Draft",
+        "date": "2021-06-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-FileAPI-20210427/",
+        "status": "Working Draft",
+        "date": "2021-04-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-FileAPI-20210422/",
+        "status": "Working Draft",
+        "date": "2021-04-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-FileAPI-20190911/",
+        "status": "Working Draft",
+        "date": "2019-09-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-FileAPI-20190531/",
+        "status": "Working Draft",
+        "date": "2019-05-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-FileAPI-20190530/",
+        "status": "Working Draft",
+        "date": "2019-05-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-FileAPI-20181106/",
+        "status": "Working Draft",
+        "date": "2018-11-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-FileAPI-20171026/",
+        "status": "Working Draft",
+        "date": "2017-10-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2015/WD-FileAPI-20150421/",
+        "status": "Working Draft",
+        "date": "2015-04-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2013/WD-FileAPI-20130912/",
+        "status": "Last Call Working Draft",
+        "date": "2013-09-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2012/WD-FileAPI-20121025/",
+        "status": "Working Draft",
+        "date": "2012-10-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2012/WD-FileAPI-20120712/",
+        "status": "Working Draft",
+        "date": "2012-07-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2011/WD-FileAPI-20111020/",
+        "status": "Working Draft",
+        "date": "2011-10-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2010/WD-FileAPI-20101026/",
+        "status": "Working Draft",
+        "date": "2010-10-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2009/WD-FileAPI-20091117/",
+        "status": "Working Draft",
+        "date": "2009-11-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2006/WD-file-upload-20061018/",
+        "status": "Working Draft",
+        "date": "2006-10-18"
+      }
+    ],
+    "abstract": "This specification provides an API for representing file objects in web applications, as well as programmatically selecting them and accessing their data. This includes:"
   },
   {
     "url": "https://www.w3.org/TR/webnn/",
