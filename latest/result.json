@@ -31677,26 +31677,6 @@
     "abstract": "This specification defines the MiniApp lifecycle events and the process to manage MiniApp and each page's lifecycle. Implementing this specification enables the user agent to manage the lifecycle events of both the global application lifecycle and the page lifecycle."
   },
   {
-    "url": "https://www.w3.org/TR/RangeRequest/",
-    "title": "Range Request Incremental Font Transfer",
-    "status": "Draft Standard",
-    "date": "2023-05-30",
-    "histUrl": "https://www.w3.org/standards/history/RangeRequest/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2023/WD-RangeRequest-20230530/",
-        "status": "Working Draft",
-        "date": "2023-05-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-RangeRequest-20220125/",
-        "status": "First Public Working Draft",
-        "date": "2022-01-25"
-      }
-    ],
-    "abstract": "This specification defines the range request variant of incremental font transfer. Incremental transfer allows clients to load only the portions of the font they actually need which speeds up font loads and reduces data transfer needed to load the fonts. A font can be loaded over multiple requests where each request incrementally adds additional data."
-  },
-  {
     "url": "https://www.w3.org/TR/css-animations-2/",
     "title": "CSS Animations Level 2",
     "status": "Draft Standard",
@@ -71542,171 +71522,6 @@
     "abstract": "This document defines a signal, transmitted over HTTP and through the DOM, that conveys a person's request to websites and services to not sell or share their personal information with third parties. This standard is intended to work with existing and upcoming legal frameworks that render such requests enforceable."
   },
   {
-    "url": "https://www.w3.org/TR/openscreenprotocol/",
-    "title": "Open Screen Protocol",
-    "status": "Draft Standard",
-    "date": "2024-12-03",
-    "histUrl": "https://www.w3.org/standards/history/openscreenprotocol/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-openscreenprotocol-20241203/",
-        "status": "Working Draft",
-        "date": "2024-12-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-openscreenprotocol-20241129/",
-        "status": "Working Draft",
-        "date": "2024-11-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-openscreenprotocol-20241008/",
-        "status": "Working Draft",
-        "date": "2024-10-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-openscreenprotocol-20241007/",
-        "status": "Working Draft",
-        "date": "2024-10-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-openscreenprotocol-20240923/",
-        "status": "Working Draft",
-        "date": "2024-09-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-openscreenprotocol-20240920/",
-        "status": "Working Draft",
-        "date": "2024-09-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-openscreenprotocol-20240919/",
-        "status": "Working Draft",
-        "date": "2024-09-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-openscreenprotocol-20240914/",
-        "status": "Working Draft",
-        "date": "2024-09-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-openscreenprotocol-20240910/",
-        "status": "Working Draft",
-        "date": "2024-09-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-openscreenprotocol-20240801/",
-        "status": "Working Draft",
-        "date": "2024-08-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-openscreenprotocol-20240603/",
-        "status": "Working Draft",
-        "date": "2024-06-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-openscreenprotocol-20240531/",
-        "status": "Working Draft",
-        "date": "2024-05-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-openscreenprotocol-20240425/",
-        "status": "Working Draft",
-        "date": "2024-04-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-openscreenprotocol-20240228/",
-        "status": "Working Draft",
-        "date": "2024-02-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-openscreenprotocol-20240122/",
-        "status": "Working Draft",
-        "date": "2024-01-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-openscreenprotocol-20231016/",
-        "status": "Working Draft",
-        "date": "2023-10-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-openscreenprotocol-20231013/",
-        "status": "Working Draft",
-        "date": "2023-10-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-openscreenprotocol-20231012/",
-        "status": "Working Draft",
-        "date": "2023-10-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-openscreenprotocol-20231004/",
-        "status": "Working Draft",
-        "date": "2023-10-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-openscreenprotocol-20230911/",
-        "status": "Working Draft",
-        "date": "2023-09-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-openscreenprotocol-20230908/",
-        "status": "Working Draft",
-        "date": "2023-09-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-openscreenprotocol-20230305/",
-        "status": "Working Draft",
-        "date": "2023-03-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-openscreenprotocol-20221212/",
-        "status": "Working Draft",
-        "date": "2022-12-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-openscreenprotocol-20221114/",
-        "status": "Working Draft",
-        "date": "2022-11-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-openscreenprotocol-20221107/",
-        "status": "Working Draft",
-        "date": "2022-11-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-openscreenprotocol-20221018/",
-        "status": "Working Draft",
-        "date": "2022-10-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-openscreenprotocol-20220912/",
-        "status": "Working Draft",
-        "date": "2022-09-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-openscreenprotocol-20220909/",
-        "status": "Working Draft",
-        "date": "2022-09-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-openscreenprotocol-20220907/",
-        "status": "Working Draft",
-        "date": "2022-09-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-openscreenprotocol-20220422/",
-        "status": "Working Draft",
-        "date": "2022-04-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-openscreenprotocol-20210318/",
-        "status": "First Public Working Draft",
-        "date": "2021-03-18"
-      }
-    ],
-    "abstract": "The Open Screen Protocol is a suite of network protocols that allow user agents to implement the Presentation API and the Remote Playback API in an interoperable fashion."
-  },
-  {
     "url": "https://www.w3.org/TR/FileAPI/",
     "title": "File API",
     "status": "Draft Standard",
@@ -74132,126 +73947,6 @@
     "abstract": "This specification describes a privacy-preserving, space-efficient, and high-performance mechanism for publishing status information such as suspension or revocation of Verifiable Credentials through use of bitstrings."
   },
   {
-    "url": "https://www.w3.org/TR/controller-document/",
-    "title": "Controllable Identifier Document 1.0",
-    "status": "Draft Standard",
-    "date": "2024-12-08",
-    "histUrl": "https://www.w3.org/standards/history/controller-document/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-controller-document-20241208/",
-        "status": "Working Draft",
-        "date": "2024-12-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-controller-document-20241130/",
-        "status": "Working Draft",
-        "date": "2024-11-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-controller-document-20241028/",
-        "status": "Working Draft",
-        "date": "2024-10-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-controller-document-20241027/",
-        "status": "Working Draft",
-        "date": "2024-10-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-controller-document-20241020/",
-        "status": "Working Draft",
-        "date": "2024-10-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-controller-document-20241019/",
-        "status": "Working Draft",
-        "date": "2024-10-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-controller-document-20241015/",
-        "status": "Working Draft",
-        "date": "2024-10-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-controller-document-20241013/",
-        "status": "Working Draft",
-        "date": "2024-10-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-controller-document-20241012/",
-        "status": "Working Draft",
-        "date": "2024-10-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240927/",
-        "status": "Working Draft",
-        "date": "2024-09-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240908/",
-        "status": "Working Draft",
-        "date": "2024-09-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240906/",
-        "status": "Working Draft",
-        "date": "2024-09-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240902/",
-        "status": "Working Draft",
-        "date": "2024-09-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240831/",
-        "status": "Working Draft",
-        "date": "2024-08-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240829/",
-        "status": "Working Draft",
-        "date": "2024-08-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240817/",
-        "status": "Working Draft",
-        "date": "2024-08-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240803/",
-        "status": "Working Draft",
-        "date": "2024-08-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240727/",
-        "status": "Working Draft",
-        "date": "2024-07-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240630/",
-        "status": "Working Draft",
-        "date": "2024-06-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240617/",
-        "status": "Working Draft",
-        "date": "2024-06-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240611/",
-        "status": "Working Draft",
-        "date": "2024-06-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240523/",
-        "status": "First Public Working Draft",
-        "date": "2024-05-23"
-      }
-    ],
-    "abstract": "A controllable identifier document contains cryptographic material and lists service endpoints for the purposes of verifying cryptographic proofs from, and interacting with, the controller of an identifier."
-  },
-  {
     "url": "https://www.w3.org/TR/vc-di-ecdsa/",
     "title": "Data Integrity ECDSA Cryptosuites v1.0",
     "status": "Candidate Standard",
@@ -74735,5 +74430,160 @@
       }
     ],
     "abstract": "This specification describes Data Integrity cryptographic suites for use when creating or verifying a digital signature using the the Ed25519 instantiation of the Edwards-Curve Digital Signature Algorithm (EdDSA)."
+  },
+  {
+    "url": "https://www.w3.org/TR/controller-document/",
+    "title": "Controlled Identifier Document 1.0",
+    "status": "Draft Standard",
+    "date": "2024-12-09",
+    "histUrl": "https://www.w3.org/standards/history/controller-document/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-controller-document-20241209/",
+        "status": "Working Draft",
+        "date": "2024-12-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-controller-document-20241208/",
+        "status": "Working Draft",
+        "date": "2024-12-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-controller-document-20241130/",
+        "status": "Working Draft",
+        "date": "2024-11-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-controller-document-20241028/",
+        "status": "Working Draft",
+        "date": "2024-10-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-controller-document-20241027/",
+        "status": "Working Draft",
+        "date": "2024-10-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-controller-document-20241020/",
+        "status": "Working Draft",
+        "date": "2024-10-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-controller-document-20241019/",
+        "status": "Working Draft",
+        "date": "2024-10-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-controller-document-20241015/",
+        "status": "Working Draft",
+        "date": "2024-10-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-controller-document-20241013/",
+        "status": "Working Draft",
+        "date": "2024-10-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-controller-document-20241012/",
+        "status": "Working Draft",
+        "date": "2024-10-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240927/",
+        "status": "Working Draft",
+        "date": "2024-09-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240908/",
+        "status": "Working Draft",
+        "date": "2024-09-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240906/",
+        "status": "Working Draft",
+        "date": "2024-09-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240902/",
+        "status": "Working Draft",
+        "date": "2024-09-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240831/",
+        "status": "Working Draft",
+        "date": "2024-08-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240829/",
+        "status": "Working Draft",
+        "date": "2024-08-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240817/",
+        "status": "Working Draft",
+        "date": "2024-08-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240803/",
+        "status": "Working Draft",
+        "date": "2024-08-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240727/",
+        "status": "Working Draft",
+        "date": "2024-07-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240630/",
+        "status": "Working Draft",
+        "date": "2024-06-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240617/",
+        "status": "Working Draft",
+        "date": "2024-06-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240611/",
+        "status": "Working Draft",
+        "date": "2024-06-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-controller-document-20240523/",
+        "status": "First Public Working Draft",
+        "date": "2024-05-23"
+      }
+    ],
+    "abstract": "A controlled identifier document contains cryptographic material and lists service endpoints for the purposes of verifying cryptographic proofs from, and interacting with, the controller of an identifier."
+  },
+  {
+    "url": "https://www.w3.org/TR/openscreen-application/",
+    "title": "Open Screen Application Protocol",
+    "status": "Draft Standard",
+    "date": "2024-12-10",
+    "histUrl": "https://www.w3.org/standards/history/openscreen-application/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-openscreen-application-20241210/",
+        "status": "First Public Working Draft",
+        "date": "2024-12-10"
+      }
+    ],
+    "abstract": "The Open Screen Application Protocol allows user agents to implement the Presentation API and the Remote Playback API in an interoperable fashion."
+  },
+  {
+    "url": "https://www.w3.org/TR/openscreen-network/",
+    "title": "Open Screen Network Protocol",
+    "status": "Draft Standard",
+    "date": "2024-12-10",
+    "histUrl": "https://www.w3.org/standards/history/openscreen-network/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-openscreen-network-20241210/",
+        "status": "First Public Working Draft",
+        "date": "2024-12-10"
+      }
+    ],
+    "abstract": "The Open Screen Network Protocol is a network protocol that allows two Open Screen agents to establish a secure network transport in an interoperable fashion."
   }
 ]
