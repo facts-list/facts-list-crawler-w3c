@@ -49477,161 +49477,6 @@
     "abstract": "The WebXR DOM Overlays module expands the WebXR Device API with a mechanism for showing interactive 2D web content during an immersive WebXR session. When the feature is enabled, the user agent will display the content of a single DOM element as a transparent-background 2D rectangle."
   },
   {
-    "url": "https://www.w3.org/TR/permissions-policy-1/",
-    "title": "Permissions Policy",
-    "status": "Draft Standard",
-    "date": "2024-09-25",
-    "histUrl": "https://www.w3.org/standards/history/permissions-policy-1/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-permissions-policy-1-20240925/",
-        "status": "Working Draft",
-        "date": "2024-09-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-permissions-policy-1-20240922/",
-        "status": "Working Draft",
-        "date": "2024-09-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-permissions-policy-1-20240921/",
-        "status": "Working Draft",
-        "date": "2024-09-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-permissions-policy-1-20240724/",
-        "status": "Working Draft",
-        "date": "2024-07-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-permissions-policy-1-20240723/",
-        "status": "Working Draft",
-        "date": "2024-07-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-permissions-policy-1-20240628/",
-        "status": "Working Draft",
-        "date": "2024-06-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-permissions-policy-1-20240627/",
-        "status": "Working Draft",
-        "date": "2024-06-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-permissions-policy-1-20240626/",
-        "status": "Working Draft",
-        "date": "2024-06-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-permissions-policy-1-20240619/",
-        "status": "Working Draft",
-        "date": "2024-06-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20231218/",
-        "status": "Working Draft",
-        "date": "2023-12-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20231017/",
-        "status": "Working Draft",
-        "date": "2023-10-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20231016/",
-        "status": "Working Draft",
-        "date": "2023-10-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20231013/",
-        "status": "Working Draft",
-        "date": "2023-10-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230912/",
-        "status": "Working Draft",
-        "date": "2023-09-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230911/",
-        "status": "Working Draft",
-        "date": "2023-09-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230717/",
-        "status": "Working Draft",
-        "date": "2023-07-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230705/",
-        "status": "Working Draft",
-        "date": "2023-07-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230630/",
-        "status": "Working Draft",
-        "date": "2023-06-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230607/",
-        "status": "Working Draft",
-        "date": "2023-06-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230322/",
-        "status": "Working Draft",
-        "date": "2023-03-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230222/",
-        "status": "Working Draft",
-        "date": "2023-02-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230217/",
-        "status": "Working Draft",
-        "date": "2023-02-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230123/",
-        "status": "Working Draft",
-        "date": "2023-01-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230111/",
-        "status": "Working Draft",
-        "date": "2023-01-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230110/",
-        "status": "Working Draft",
-        "date": "2023-01-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230109/",
-        "status": "Working Draft",
-        "date": "2023-01-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-permissions-policy-1-20221207/",
-        "status": "Working Draft",
-        "date": "2022-12-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-permissions-policy-1-20200716/",
-        "status": "Working Draft",
-        "date": "2020-07-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-feature-policy-1-20190416/",
-        "status": "First Public Working Draft",
-        "date": "2019-04-16"
-      }
-    ],
-    "abstract": "This specification defines a mechanism that allows developers to selectively enable and disable use of various browser features and APIs."
-  },
-  {
     "url": "https://www.w3.org/TR/css-text-3/",
     "title": "CSS Text Module Level 3",
     "status": "Candidate Standard",
@@ -75220,6 +75065,166 @@
       }
     ],
     "abstract": "A controlled identifier document contains cryptographic material and lists service endpoints for the purposes of verifying cryptographic proofs from, and interacting with, the controller of an identifier."
+  },
+  {
+    "url": "https://www.w3.org/TR/permissions-policy-1/",
+    "title": "Permissions Policy",
+    "status": "Draft Standard",
+    "date": "2025-01-13",
+    "histUrl": "https://www.w3.org/standards/history/permissions-policy-1/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/WD-permissions-policy-1-20250113/",
+        "status": "Working Draft",
+        "date": "2025-01-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-permissions-policy-1-20240925/",
+        "status": "Working Draft",
+        "date": "2024-09-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-permissions-policy-1-20240922/",
+        "status": "Working Draft",
+        "date": "2024-09-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-permissions-policy-1-20240921/",
+        "status": "Working Draft",
+        "date": "2024-09-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-permissions-policy-1-20240724/",
+        "status": "Working Draft",
+        "date": "2024-07-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-permissions-policy-1-20240723/",
+        "status": "Working Draft",
+        "date": "2024-07-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-permissions-policy-1-20240628/",
+        "status": "Working Draft",
+        "date": "2024-06-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-permissions-policy-1-20240627/",
+        "status": "Working Draft",
+        "date": "2024-06-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-permissions-policy-1-20240626/",
+        "status": "Working Draft",
+        "date": "2024-06-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-permissions-policy-1-20240619/",
+        "status": "Working Draft",
+        "date": "2024-06-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20231218/",
+        "status": "Working Draft",
+        "date": "2023-12-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20231017/",
+        "status": "Working Draft",
+        "date": "2023-10-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20231016/",
+        "status": "Working Draft",
+        "date": "2023-10-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20231013/",
+        "status": "Working Draft",
+        "date": "2023-10-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230912/",
+        "status": "Working Draft",
+        "date": "2023-09-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230911/",
+        "status": "Working Draft",
+        "date": "2023-09-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230717/",
+        "status": "Working Draft",
+        "date": "2023-07-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230705/",
+        "status": "Working Draft",
+        "date": "2023-07-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230630/",
+        "status": "Working Draft",
+        "date": "2023-06-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230607/",
+        "status": "Working Draft",
+        "date": "2023-06-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230322/",
+        "status": "Working Draft",
+        "date": "2023-03-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230222/",
+        "status": "Working Draft",
+        "date": "2023-02-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230217/",
+        "status": "Working Draft",
+        "date": "2023-02-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230123/",
+        "status": "Working Draft",
+        "date": "2023-01-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230111/",
+        "status": "Working Draft",
+        "date": "2023-01-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230110/",
+        "status": "Working Draft",
+        "date": "2023-01-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230109/",
+        "status": "Working Draft",
+        "date": "2023-01-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-permissions-policy-1-20221207/",
+        "status": "Working Draft",
+        "date": "2022-12-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-permissions-policy-1-20200716/",
+        "status": "Working Draft",
+        "date": "2020-07-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-feature-policy-1-20190416/",
+        "status": "First Public Working Draft",
+        "date": "2019-04-16"
+      }
+    ],
+    "abstract": "This specification defines a mechanism that allows developers to selectively enable and disable use of various browser features and APIs."
   },
   {
     "url": "https://www.w3.org/TR/webdriver-bidi/",
