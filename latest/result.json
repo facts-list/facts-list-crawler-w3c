@@ -72992,71 +72992,6 @@
     "abstract": "This document describes string searching operations on the Web in order to allow greater interoperability. String searching refers to natural language string matching such as the \"find\" command in a Web browser. This document builds upon the concepts found in Character Model for the World Wide Web 1.0: Fundamentals [CHARMOD] and Character Model for the World Wide Web 1.0: String Matching [CHARMOD-NORM] to provide authors of specifications, software developers, and content developers the information they need to describe and implement search features suitable for global audiences."
   },
   {
-    "url": "https://www.w3.org/TR/webmidi/",
-    "title": "Web MIDI API",
-    "status": "Draft Standard",
-    "date": "2025-01-07",
-    "histUrl": "https://www.w3.org/standards/history/webmidi/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webmidi-20250107/",
-        "status": "Working Draft",
-        "date": "2025-01-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-webmidi-20241127/",
-        "status": "Working Draft",
-        "date": "2024-11-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-webmidi-20241116/",
-        "status": "Working Draft",
-        "date": "2024-11-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-webmidi-20241011/",
-        "status": "Working Draft",
-        "date": "2024-10-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-webmidi-20240905/",
-        "status": "Working Draft",
-        "date": "2024-09-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-webmidi-20240712/",
-        "status": "Working Draft",
-        "date": "2024-07-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-webmidi-20240706/",
-        "status": "Working Draft",
-        "date": "2024-07-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2015/WD-webmidi-20150317/",
-        "status": "Working Draft",
-        "date": "2015-03-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2013/WD-webmidi-20131126/",
-        "status": "Working Draft",
-        "date": "2013-11-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2012/WD-webmidi-20121213/",
-        "status": "Working Draft",
-        "date": "2012-12-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2012/WD-webmidi-20121025/",
-        "status": "Working Draft",
-        "date": "2012-10-25"
-      }
-    ],
-    "abstract": "Some user agents have music devices, such as synthesizers, keyboard and other controllers, and drum machines connected to their host computer or device. The widely adopted Musical Instrument Digital Interface (MIDI) protocol enables electronic musical instruments, controllers and computers to communicate and synchronize with each other. MIDI does not transmit audio signals: instead, it sends event messages about musical notes, controller signals for parameters such as volume, vibrato and panning, cues and clock signals to set the tempo, and system-specific MIDI communications (e.g. to remotely store synthesizer-specific patch data). This same protocol has become a standard for non-musical uses, such as show control, lighting and special effects control."
-  },
-  {
     "url": "https://www.w3.org/TR/clreq-gap/",
     "title": "Chinese Layout Gap Analysis",
     "status": "Draft Note",
@@ -75290,5 +75225,75 @@
       }
     ],
     "abstract": "This document defines the BiDirectional WebDriver Protocol, a mechanism for remote control of user agents."
+  },
+  {
+    "url": "https://www.w3.org/TR/webmidi/",
+    "title": "Web MIDI API",
+    "status": "Draft Standard",
+    "date": "2025-01-14",
+    "histUrl": "https://www.w3.org/standards/history/webmidi/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webmidi-20250114/",
+        "status": "Working Draft",
+        "date": "2025-01-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webmidi-20250107/",
+        "status": "Working Draft",
+        "date": "2025-01-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-webmidi-20241127/",
+        "status": "Working Draft",
+        "date": "2024-11-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-webmidi-20241116/",
+        "status": "Working Draft",
+        "date": "2024-11-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-webmidi-20241011/",
+        "status": "Working Draft",
+        "date": "2024-10-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-webmidi-20240905/",
+        "status": "Working Draft",
+        "date": "2024-09-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-webmidi-20240712/",
+        "status": "Working Draft",
+        "date": "2024-07-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-webmidi-20240706/",
+        "status": "Working Draft",
+        "date": "2024-07-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2015/WD-webmidi-20150317/",
+        "status": "Working Draft",
+        "date": "2015-03-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2013/WD-webmidi-20131126/",
+        "status": "Working Draft",
+        "date": "2013-11-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2012/WD-webmidi-20121213/",
+        "status": "Working Draft",
+        "date": "2012-12-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2012/WD-webmidi-20121025/",
+        "status": "Working Draft",
+        "date": "2012-10-25"
+      }
+    ],
+    "abstract": "Some user agents have music devices, such as synthesizers, keyboard and other controllers, and drum machines connected to their host computer or device. The widely adopted Musical Instrument Digital Interface (MIDI) protocol enables electronic musical instruments, controllers and computers to communicate and synchronize with each other. MIDI does not transmit audio signals: instead, it sends event messages about musical notes, controller signals for parameters such as volume, vibrato and panning, cues and clock signals to set the tempo, and system-specific MIDI communications (e.g. to remotely store synthesizer-specific patch data). This same protocol has become a standard for non-musical uses, such as show control, lighting and special effects control."
   }
 ]
