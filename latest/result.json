@@ -24189,14 +24189,14 @@
     "status": "Draft Standard",
     "date": "2019-09-05",
     "histUrl": "https://www.w3.org/standards/history/pronunciation-user-scenarios/",
+    "abstract": "The objective of the Pronunciation Task Force is to develop normative specifications and best practices guidance collaborating with other W3C groups as appropriate, to provide for proper pronunciation in HTML content when using text to speech (TTS) synthesis. This document provides various user scenarios highlighting the need for standardization of pronunciation markup, to ensure that consistent and accurate representation of the content. The requirements that come from the user scenarios provide the basis for the technical requirements/specifications.",
     "history": [
       {
         "url": "https://www.w3.org/TR/2019/WD-pronunciation-user-scenarios-20190905/",
         "status": "First Public Working Draft",
         "date": "2019-09-05"
       }
-    ],
-    "abstract": "The objective of the Pronunciation Task Force is to develop normative specifications and best practices guidance collaborating with other W3C groups as appropriate, to provide for proper pronunciation in HTML content when using text to speech (TTS) synthesis. This document provides various user scenarios highlighting the need for standardization of pronunciation markup, to ensure that consistent and accurate representation of the content. The requirements that come from the user scenarios provide the basis for the technical requirements/specifications."
+    ]
   },
   {
     "url": "https://www.w3.org/TR/vc-imp-guide/",
@@ -59472,56 +59472,6 @@
     "abstract": "This document defines a textual syntax for RDF called TriG that allows an RDF dataset to be completely written in a compact and natural text form, with abbreviations for common usage patterns and datatypes. TriG is an extension of the Turtle [RDF12-TURTLE] format."
   },
   {
-    "url": "https://www.w3.org/TR/rdf12-xml/",
-    "title": "RDF 1.2 XML Syntax",
-    "status": "Draft Standard",
-    "date": "2024-12-19",
-    "histUrl": "https://www.w3.org/standards/history/rdf12-xml/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-rdf12-xml-20241219/",
-        "status": "Working Draft",
-        "date": "2024-12-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-rdf12-xml-20240418/",
-        "status": "Working Draft",
-        "date": "2024-04-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-xml-20230921/",
-        "status": "Working Draft",
-        "date": "2023-09-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-xml-20230831/",
-        "status": "Working Draft",
-        "date": "2023-08-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-xml-20230810/",
-        "status": "Working Draft",
-        "date": "2023-08-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-xml-20230807/",
-        "status": "Working Draft",
-        "date": "2023-08-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-xml-20230615/",
-        "status": "Working Draft",
-        "date": "2023-06-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-xml-20230516/",
-        "status": "First Public Working Draft",
-        "date": "2023-05-16"
-      }
-    ],
-    "abstract": "This document defines an XML syntax for RDF called RDF/XML in terms of Namespaces in XML, the XML Information Set and XML Base."
-  },
-  {
     "url": "https://www.w3.org/TR/clreq/",
     "title": "Requirements for Chinese Text Layout - 中文排版需求",
     "status": "Draft Note",
@@ -75565,5 +75515,60 @@
       }
     ],
     "abstract": "WebGPU exposes an API for performing operations, such as rendering and computation, on a Graphics Processing Unit."
+  },
+  {
+    "url": "https://www.w3.org/TR/rdf12-xml/",
+    "title": "RDF 1.2 XML Syntax",
+    "status": "Draft Standard",
+    "date": "2025-02-01",
+    "histUrl": "https://www.w3.org/standards/history/rdf12-xml/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/WD-rdf12-xml-20250201/",
+        "status": "Working Draft",
+        "date": "2025-02-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-rdf12-xml-20241219/",
+        "status": "Working Draft",
+        "date": "2024-12-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-rdf12-xml-20240418/",
+        "status": "Working Draft",
+        "date": "2024-04-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-xml-20230921/",
+        "status": "Working Draft",
+        "date": "2023-09-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-xml-20230831/",
+        "status": "Working Draft",
+        "date": "2023-08-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-xml-20230810/",
+        "status": "Working Draft",
+        "date": "2023-08-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-xml-20230807/",
+        "status": "Working Draft",
+        "date": "2023-08-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-xml-20230615/",
+        "status": "Working Draft",
+        "date": "2023-06-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-xml-20230516/",
+        "status": "First Public Working Draft",
+        "date": "2023-05-16"
+      }
+    ],
+    "abstract": "This document defines an XML syntax for RDF called RDF/XML in terms of Namespaces in XML, the XML Information Set and XML Base."
   }
 ]
