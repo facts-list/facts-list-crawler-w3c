@@ -32232,96 +32232,6 @@
     "abstract": "The Web of Things is made of entities (Things) that can describe their capabilities in a machine-interpretable Thing Description (TD) and expose these capabilities through the WoT Interface, that is, network interactions modeled as Properties (for reading and writing values), Actions (to execute remote procedures with or without return values) and Events (for signaling notifications)."
   },
   {
-    "url": "https://www.w3.org/TR/network-error-logging/",
-    "title": "Network Error Logging",
-    "status": "Draft Standard",
-    "date": "2023-10-05",
-    "histUrl": "https://www.w3.org/standards/history/network-error-logging/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2023/WD-network-error-logging-20231005/",
-        "status": "Working Draft",
-        "date": "2023-10-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-network-error-logging-20231003/",
-        "status": "Working Draft",
-        "date": "2023-10-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-network-error-logging-1-20230929/",
-        "status": "Working Draft",
-        "date": "2023-09-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-network-error-logging-1-20230927/",
-        "status": "Working Draft",
-        "date": "2023-09-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-network-error-logging-1-20180925/",
-        "status": "Working Draft",
-        "date": "2018-09-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2016/NOTE-network-error-logging-20160720/",
-        "status": "Note",
-        "date": "2016-07-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2016/NOTE-network-error-logging-20160524/",
-        "status": "Retired",
-        "date": "2016-05-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2016/WD-network-error-logging-20160225/",
-        "status": "Working Draft",
-        "date": "2016-02-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2016/WD-network-error-logging-20160204/",
-        "status": "Working Draft",
-        "date": "2016-02-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2015/WD-network-error-logging-20151027/",
-        "status": "Working Draft",
-        "date": "2015-10-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2015/WD-network-error-logging-20150929/",
-        "status": "Working Draft",
-        "date": "2015-09-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2015/WD-network-error-logging-20150916/",
-        "status": "Working Draft",
-        "date": "2015-09-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2015/WD-network-error-logging-20150423/",
-        "status": "Working Draft",
-        "date": "2015-04-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2015/WD-network-error-logging-20150422/",
-        "status": "Working Draft",
-        "date": "2015-04-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2015/WD-network-error-logging-20150305/",
-        "status": "Working Draft",
-        "date": "2015-03-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2014/WD-navigation-error-logging-20140211/",
-        "status": "First Public Working Draft",
-        "date": "2014-02-11"
-      }
-    ],
-    "abstract": "This document defines a mechanism that enables developers to declare a network error reporting policy for a web application. A user agent can use this policy to report encountered network errors that prevented it from successfully fetching requested resources."
-  },
-  {
     "url": "https://www.w3.org/TR/intersection-observer/",
     "title": "Intersection Observer",
     "status": "Draft Standard",
@@ -75240,6 +75150,101 @@
       }
     ],
     "abstract": "This specification describes Data Integrity cryptographic suites for use when creating or verifying a digital signature using the the Ed25519 instantiation of the Edwards-Curve Digital Signature Algorithm (EdDSA)."
+  },
+  {
+    "url": "https://www.w3.org/TR/network-error-logging/",
+    "title": "Network Error Logging",
+    "status": "Draft Standard",
+    "date": "2025-02-03",
+    "histUrl": "https://www.w3.org/standards/history/network-error-logging/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/WD-network-error-logging-20250203/",
+        "status": "Working Draft",
+        "date": "2025-02-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-network-error-logging-20231005/",
+        "status": "Working Draft",
+        "date": "2023-10-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-network-error-logging-20231003/",
+        "status": "Working Draft",
+        "date": "2023-10-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-network-error-logging-1-20230929/",
+        "status": "Working Draft",
+        "date": "2023-09-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-network-error-logging-1-20230927/",
+        "status": "Working Draft",
+        "date": "2023-09-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-network-error-logging-1-20180925/",
+        "status": "Working Draft",
+        "date": "2018-09-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/NOTE-network-error-logging-20160720/",
+        "status": "Note",
+        "date": "2016-07-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/NOTE-network-error-logging-20160524/",
+        "status": "Retired",
+        "date": "2016-05-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/WD-network-error-logging-20160225/",
+        "status": "Working Draft",
+        "date": "2016-02-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/WD-network-error-logging-20160204/",
+        "status": "Working Draft",
+        "date": "2016-02-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2015/WD-network-error-logging-20151027/",
+        "status": "Working Draft",
+        "date": "2015-10-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2015/WD-network-error-logging-20150929/",
+        "status": "Working Draft",
+        "date": "2015-09-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2015/WD-network-error-logging-20150916/",
+        "status": "Working Draft",
+        "date": "2015-09-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2015/WD-network-error-logging-20150423/",
+        "status": "Working Draft",
+        "date": "2015-04-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2015/WD-network-error-logging-20150422/",
+        "status": "Working Draft",
+        "date": "2015-04-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2015/WD-network-error-logging-20150305/",
+        "status": "Working Draft",
+        "date": "2015-03-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2014/WD-navigation-error-logging-20140211/",
+        "status": "First Public Working Draft",
+        "date": "2014-02-11"
+      }
+    ],
+    "abstract": "This document defines a mechanism that enables developers to declare a network error reporting policy for a web application. A user agent can use this policy to report encountered network errors that prevented it from successfully fetching requested resources."
   },
   {
     "url": "https://www.w3.org/TR/vc-data-integrity/",
