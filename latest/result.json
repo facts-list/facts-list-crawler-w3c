@@ -71,7 +71,8 @@
         "status": "Note",
         "date": "1998-01-28"
       }
-    ]
+    ],
+    "abstract": "This note describes features needed for voice browsers. These are browsers that exploit voice input and output, using speech synthesis and prerecorded sound for output (together with small displays when available), and a combination of keyboard and speech recognition for input."
   },
   {
     "url": "https://www.w3.org/TR/NOTE-xlink-principles",
@@ -85,7 +86,8 @@
         "status": "Note",
         "date": "1998-03-03"
       }
-    ]
+    ],
+    "abstract": "This document explicates the design principles behind the XLink language and its related XPointer language."
   },
   {
     "url": "https://www.w3.org/TR/NOTE-xh",
@@ -219,7 +221,8 @@
         "status": "Note",
         "date": "1999-02-24"
       }
-    ]
+    ],
+    "abstract": "This document specifies requirements for the XLink specification. Xlink defines XML-conforming syntax for expressing links among XML documents and other Internet resources, and defines some of the behavior of applications that support it."
   },
   {
     "url": "https://www.w3.org/TR/NOTE-xptr-req",
@@ -983,7 +986,8 @@
         "status": "Note",
         "date": "2001-12-20"
       }
-    ]
+    ],
+    "abstract": "This document describes how existing vocabularies for different classes of devices and user agents can be used in CC/PP components, and how to create schemas that encapsulate existing vocabularies. It discusses the results of the coordination with the IETF CONNEG Working Group, as well as the WAP Forum UAPROF Working Group and several other groups, which have related activities. It contains a number of schemas and software examples which has been contributed voluntarily by individuals."
   },
   {
     "url": "https://www.w3.org/TR/XHTMLplusSMIL/",
@@ -1167,7 +1171,8 @@
         "status": "Working Draft",
         "date": "2002-04-25"
       }
-    ]
+    ],
+    "abstract": "XML Signature [XML-DSig] recommends a standard means for specifying information content to be digitally signed and for representing the resulting digital signatures in XML. Some applications require the ability to specify a subset of a given XML document as the information content to be signed. The XML Signature specification meets this requirement with the XPath transform. However, this transform can be difficult to implement efficiently with existing technologies. This specification defines a new XML Signature transform to facilitate the development of efficient document subsetting implementations that interoperate under similar performance profiles."
   },
   {
     "url": "https://www.w3.org/TR/mmi-use-cases/",
@@ -1401,7 +1406,8 @@
         "status": "Note",
         "date": "2003-01-13"
       }
-    ]
+    ],
+    "abstract": "This document describes requirements for the Extensible MultiModal Annotation language (EMMA) specification under development in the W3C Multimodal Interaction Activity. EMMA is intended as a data format for the interface between input processors and interaction management systems. It will define the means for recognizers to annotate application specific data with information such as confidence scores, time stamps, input mode (e.g. key strokes, speech or pen), alternative recognition hypotheses, and partial recognition results, etc. EMMA is a target data format for the semantic interpretation specification being developed in the Voice Browser Activity, and which describes annotations to speech grammars for extracting application specific data as a result of speech recognition. EMMA supercedes earlier work on the natural language semantics markup language in the Voice Browser Activity."
   },
   {
     "url": "https://www.w3.org/TR/SVGMobile/",
@@ -2315,7 +2321,8 @@
         "status": "Working Draft",
         "date": "2002-07-29"
       }
-    ]
+    ],
+    "abstract": "The OWL Web Ontology Language is designed for use by applications that need to process the content of information instead of just presenting information to humans. OWL facilitates greater machine interpretability of Web content than that supported by XML, RDF, and RDF Schema (RDF-S) by providing additional vocabulary along with a formal semantics. OWL has three increasingly-expressive sublanguages: OWL Lite, OWL DL, and OWL Full."
   },
   {
     "url": "https://www.w3.org/TR/owl-ref/",
@@ -2359,7 +2366,8 @@
         "status": "Working Draft",
         "date": "2002-07-29"
       }
-    ]
+    ],
+    "abstract": "The Web Ontology Language OWL is a semantic markup language for publishing and sharing ontologies on the World Wide Web. OWL is developed as a vocabulary extension of RDF (the Resource Description Framework) and is derived from the DAML+OIL Web Ontology Language. This document contains a structured informal description of the full set of OWL language constructs and is meant to serve as a reference for OWL users who want to construct OWL ontologies."
   },
   {
     "url": "https://www.w3.org/TR/owl-semantics/",
@@ -2773,7 +2781,8 @@
         "status": "Working Draft",
         "date": "2002-07-30"
       }
-    ]
+    ],
+    "abstract": "This document describes the Web Service Architecture use cases and Usage Scenarios."
   },
   {
     "url": "https://www.w3.org/TR/ws-gloss/",
@@ -2847,7 +2856,8 @@
         "status": "Candidate Recommendation Snapshot",
         "date": "2002-06-26"
       }
-    ]
+    ],
+    "abstract": "This document defines syntax for representing grammars for use in speech recognition so that developers can specify the words and patterns of words to be listened for by a speech recognizer. The syntax of the grammar format is presented in two forms, an Augmented BNF Form and an XML Form. The specification makes the two representations mappable to allow automatic transformations between the two forms."
   },
   {
     "url": "https://www.w3.org/TR/voicexml20/",
@@ -2886,7 +2896,8 @@
         "status": "Working Draft",
         "date": "2001-10-23"
       }
-    ]
+    ],
+    "abstract": "This document specifies VoiceXML, the Voice Extensible Markup Language. VoiceXML is designed for creating audio dialogs that feature synthesized speech, digitized audio, recognition of spoken and DTMF key input, recording of spoken input, telephony, and mixed initiative conversations. Its major goal is to bring the advantages of Web-based development and content delivery to interactive voice response applications."
   },
   {
     "url": "https://www.w3.org/TR/proc-model-req/",
@@ -3055,7 +3066,8 @@
         "status": "Working Draft",
         "date": "2002-12-20"
       }
-    ]
+    ],
+    "abstract": "This document describes internationalization usage patterns and scenarios for Web services. It also provides guidance for implementers of Web service technologies, suggesting methods for dealing with general international interoperability issues in services and service descriptions. One goal of this document is to provide a template for Web service designers to implement international capabilities in their services."
   },
   {
     "url": "https://www.w3.org/TR/xforms-11-req/",
@@ -3169,7 +3181,8 @@
         "status": "Working Draft",
         "date": "2000-02-25"
       }
-    ]
+    ],
+    "abstract": "XML Schema Part 0: Primer is a non-normative document intended to provide an easily readable description of the XML Schema facilities, and is oriented towards quickly understanding how to create schemas using the XML Schema language. XML Schema Part 1: Structures and XML Schema Part 2: Datatypes provide the complete normative description of the XML Schema language. This primer describes the language features through numerous examples which are complemented by extensive references to the normative texts."
   },
   {
     "url": "https://www.w3.org/TR/xmlschema-1/",
@@ -3773,7 +3786,8 @@
         "status": "Note",
         "date": "2005-05-26"
       }
-    ]
+    ],
+    "abstract": "The say-as element in SSML 1.0 is considered one of the most useful elements of the language. However, SSML 1.0 does not define the values of the attributes of this element. This Note provides definitions for these attributes that cover many of the most common use cases for the say-as element."
   },
   {
     "url": "https://www.w3.org/TR/xkms2/",
@@ -4177,7 +4191,8 @@
         "status": "Working Draft",
         "date": "2005-09-01"
       }
-    ]
+    ],
+    "abstract": "Web access from mobile devices suffers from problems that make the Web unattractive for most mobile users. W3C's Mobile Web Initiative (MWI ) proposes to address these issues through a concerted effort of key players in the mobile value chain, including authoring tool vendors, content providers, handset manufacturers, browser vendors and mobile operators."
   },
   {
     "url": "https://www.w3.org/TR/arabic-math/",
@@ -4191,7 +4206,8 @@
         "status": "Note",
         "date": "2006-01-31"
       }
-    ]
+    ],
+    "abstract": "This Note analyzes potential problems with the use of MathML for the presentation of mathematics in the notations customarily used with Arabic, and related languages. The goal is to clarify avoidable implementation details that hinder such presentation, as well as to uncover genuine limitations in the specification. These limitations in the MathML specification may require extensions in future versions of the specification."
   },
   {
     "url": "https://www.w3.org/TR/rex-reqs/",
@@ -4260,7 +4276,8 @@
         "status": "Working Draft",
         "date": "2005-04-27"
       }
-    ]
+    ],
+    "abstract": "The RDF and OWL Recommendations use the simple types from XML Schema. This document addresses three questions left unanswered by these Recommendations: Which URIref should be used to refer to a user defined datatype? Which values of which XML Schema simple types are the same? How to use the problematic xsd:duration in RDF and OWL? In addition, we further describe how to integrate OWL DL with user defined datatypes (in appendix B)."
   },
   {
     "url": "https://www.w3.org/TR/di-dco/",
@@ -4449,7 +4466,8 @@
         "status": "Working Draft",
         "date": "2004-12-08"
       }
-    ]
+    ],
+    "abstract": "Web Services Addressing provides transport-neutral mechanisms to address Web services and messages. Web Services Addressing 1.0 - Core (this document) defines a set of abstract properties and an XML Infoset [XML Information Set] representation thereof to reference Web services and to facilitate end-to-end addressing of endpoints in messages. This specification enables messaging systems to support message transmission through networks that include processing nodes such as endpoint managers, firewalls, and gateways in a transport-neutral manner."
   },
   {
     "url": "https://www.w3.org/TR/ws-addr-soap/",
@@ -4723,7 +4741,8 @@
         "status": "Working Draft",
         "date": "2003-12-17"
       }
-    ]
+    ],
+    "abstract": "This specification defines the features and syntax for the Extensible Stylesheet Language (XSL), a language for expressing stylesheets. It consists of two parts:"
   },
   {
     "url": "https://www.w3.org/TR/C14N-issues/",
@@ -5087,7 +5106,8 @@
         "status": "Working Draft",
         "date": "2001-07-09"
       }
-    ]
+    ],
+    "abstract": "SOAP Version 1.2 is a lightweight protocol intended for exchanging structured information in a decentralized, distributed environment. \"Part 1: Messaging Framework\" defines, using XML technologies, an extensible messaging framework containing a message construct that can be exchanged over a variety of underlying protocols."
   },
   {
     "url": "https://www.w3.org/TR/soap12-part2/",
@@ -5141,7 +5161,8 @@
         "status": "Working Draft",
         "date": "2001-07-09"
       }
-    ]
+    ],
+    "abstract": "SOAP Version 1.2 is a lightweight protocol intended for exchanging structured information in a decentralized, distributed environment. SOAP Version 1.2 Part 2: Adjuncts defines a set of adjuncts that may be used with SOAP Version 1.2 Part 1: Messaging Framework. This specification depends on SOAP Version 1.2 Part 1: Messaging Framework [SOAP Part 1]."
   },
   {
     "url": "https://www.w3.org/TR/soap12-testcollection/",
@@ -5175,7 +5196,8 @@
         "status": "Last Call Working Draft",
         "date": "2002-06-26"
       }
-    ]
+    ],
+    "abstract": "This document draws on assertions found in the SOAP Version 1.2 specifications [SOAP Part 1], [SOAP Part 2], and provides a set of tests in order to show whether the assertions are implemented in a SOAP processor."
   },
   {
     "url": "https://www.w3.org/TR/SVGFilterPrimer12/",
@@ -5204,7 +5226,8 @@
         "status": "Working Draft",
         "date": "2007-05-01"
       }
-    ]
+    ],
+    "abstract": "SVG is language for describing vector graphics, however it's typically rendered on raster displays. SVG filter effects is a way of processing the generated raster image before it's displayed."
   },
   {
     "url": "https://www.w3.org/TR/ssml11reqs/",
@@ -5543,7 +5566,8 @@
         "status": "Working Draft",
         "date": "2005-05-10"
       }
-    ]
+    ],
+    "abstract": "WSDL SOAP 1.1 Binding describes the concrete details for using WSDL 2.0 in conjunction with SOAP 1.1 [SOAP11] protocol."
   },
   {
     "url": "https://www.w3.org/TR/wsdl20-additional-meps/",
@@ -5567,7 +5591,8 @@
         "status": "Working Draft",
         "date": "2007-03-26"
       }
-    ]
+    ],
+    "abstract": "This specification defines additional message exchange patterns (MEPs) to be used in WSDL 2.0 and are provided as examples of the extensibility of WSDL 2.0."
   },
   {
     "url": "https://www.w3.org/TR/wsdl20-rdf/",
@@ -5646,7 +5671,8 @@
         "status": "Working Draft",
         "date": "2006-12-19"
       }
-    ]
+    ],
+    "abstract": "SOAP Version 1.2 Part 2 provides a request-response MEP and a response-only MEP. This, the SOAP 1.2 Part 3, provides a one-way MEP."
   },
   {
     "url": "https://www.w3.org/TR/xbl-primer/",
@@ -5680,7 +5706,8 @@
         "status": "Working Draft",
         "date": "2006-09-28"
       }
-    ]
+    ],
+    "abstract": "This document is a guide to versioning XML languages using new XML Schema 1.1 mechanisms. It shows many of the new Schema 1.1 mechanisms, provides context above the schema 1.1 WD, and solicits reader input."
   },
   {
     "url": "https://www.w3.org/TR/wsdl11elementidentifiers/",
@@ -5704,7 +5731,8 @@
         "status": "Working Draft",
         "date": "2007-01-31"
       }
-    ]
+    ],
+    "abstract": "WSDL 1.1 Element Identifiers defines a syntax to identify individual elements in a WSDL 1.1 document."
   },
   {
     "url": "https://www.w3.org/TR/exi-measurements/",
@@ -5763,7 +5791,8 @@
         "status": "Working Draft",
         "date": "2006-06-30"
       }
-    ]
+    ],
+    "abstract": "This document defines a set of extension attributes for the Web Services Description Language and XML Schema definition language that allows description of additional semantics of WSDL components. The specification defines how semantic annotation is accomplished using references to semantic models, e.g. ontologies. Semantic Annotations for WSDL and XML Schema (SAWSDL) does not specify a language for representing the semantic models. Instead it provides mechanisms by which concepts from the semantic models, typically defined outside the WSDL document, can be referenced from within WSDL and XML Schema components using annotations."
   },
   {
     "url": "https://www.w3.org/TR/sawsdl-guide/",
@@ -5787,7 +5816,8 @@
         "status": "Working Draft",
         "date": "2006-09-28"
       }
-    ]
+    ],
+    "abstract": "Web services provide a standards-based foundation for exchanging information between distributed software systems. The W3C Recommendation Web Services Description Language (WSDL) specifies a standard way to describe the interfaces of a Web Service at a syntactic level and how to invoke it. While the syntactic descriptions provide information about the structure of input and output messages of an interface and about how to invoke the service, semantics are needed to describe what a Web service actual does. These semantics, when expressed in formal languages, disambiguate the description of Web services interfaces, paving the way for automatic discovery, composition and integration of software components. WSDL does not explicitly provide mechanisms to specify the semantics of a Web service. Semantic Annotations for WSDL and XML Schema (SAWSDL) defines mechanisms by which semantic annotations can be added to WSDL components. This usage guide is an accompanying document to SAWSDL specification. It presents examples illustrating how to associate semantic annotations with a Web service. These annotations could be used for classifying, discovering, matching, composing, and invoking Web services."
   },
   {
     "url": "https://www.w3.org/TR/ws-addr-metadata/",
@@ -5996,7 +6026,8 @@
         "status": "Note",
         "date": "2004-04-13"
       }
-    ]
+    ],
+    "abstract": "GRDDL is a mechanism for Gleaning Resource Descriptions from Dialects of Languages. This GRDDL specification introduces markup based on existing standards for declaring that an XML document includes data compatible with the Resource Description Framework (RDF) and for linking to algorithms (typically represented in XSLT), for extracting this data from the document."
   },
   {
     "url": "https://www.w3.org/TR/grddl-tests/",
@@ -6430,7 +6461,8 @@
         "status": "Working Draft",
         "date": "2006-05-18"
       }
-    ]
+    ],
+    "abstract": "This document provides a set of guidelines for developing XML documents and schemas that are internationalized properly. Following the best practices describes here allow both the developer of XML applications, as well as the author of XML content to create material in different languages."
   },
   {
     "url": "https://www.w3.org/TR/wsc-usecases/",
@@ -6709,7 +6741,8 @@
         "status": "Working Draft",
         "date": "2008-08-08"
       }
-    ]
+    ],
+    "abstract": "The W3C Voice Browser working group aims to develop specifications to enable access to the Web using spoken interaction. This document is part of a set of requirement studies for voice browsers, and provides details of the requirements for marking up spoken dialogs."
   },
   {
     "url": "https://www.w3.org/TR/swbp-vocab-pub/",
@@ -7593,7 +7626,8 @@
         "status": "Working Draft",
         "date": "2009-04-30"
       }
-    ]
+    ],
+    "abstract": "The SVG Parameters specification is an SVG 2.0 Module to provide a declarative way to incorporate parameter values into SVG content. Often, users may wish to create a single resource, and reuse it several times with specified variations, and this specification provides a means to do so without the use of script."
   },
   {
     "url": "https://www.w3.org/TR/SVGParam/",
@@ -8077,7 +8111,8 @@
         "status": "Working Draft",
         "date": "2009-10-01"
       }
-    ]
+    ],
+    "abstract": "This Working Draft defines features of the Scalable Vector Graphics (SVG) Language that are specifically for color-managed environments."
   },
   {
     "url": "https://www.w3.org/TR/dap-api-reqs/",
@@ -8091,7 +8126,8 @@
         "status": "Note",
         "date": "2009-10-15"
       }
-    ]
+    ],
+    "abstract": "These are the requirements intended to be met in the development of client-side APIs that enable the creation of Web Applications and Web Widgets that interact with devices services such as Calendar, Contacts, Camera, etc."
   },
   {
     "url": "https://www.w3.org/TR/hcls-swan/",
@@ -8190,7 +8226,8 @@
         "status": "Working Draft",
         "date": "2004-11-15"
       }
-    ]
+    ],
+    "abstract": "XForms is an XML application that represents the next generation of forms for the Web. XForms is not a free-standing document type, but is intended to be integrated into other markup languages, such as XHTML, ODF or SVG. An XForms-based web form gathers and processes XML data using an architecture that separates presentation, purpose and content. The underlying data of a form is organized into instances of data schema (though formal schema definitions are not required). An XForm allows processing of data to occur using three mechanisms:"
   },
   {
     "url": "https://www.w3.org/TR/sml-xlink-ref-scheme/",
@@ -8324,7 +8361,8 @@
         "status": "Working Draft",
         "date": "1997-05-16"
       }
-    ]
+    ],
+    "abstract": "signer believes statement about information resource"
   },
   {
     "url": "https://www.w3.org/TR/REC-PICSRules/",
@@ -8368,7 +8406,8 @@
         "status": "Note",
         "date": "2009-11-17"
       }
-    ]
+    ],
+    "abstract": "This document is the heart of the MW4D IG work. Its purpose is to understand the current challenges of deploying development-oriented services on mobile phones, evaluate existing technologies, and identify the most promising directions to lower the barriers of developing, deploying and accessing services on mobile phones and thereby creating an enabling environment for more social-oriented services to appear. This document is divided into two major parts. The first part presents the major challenges today for both developing and accessing mobile services, potential ways to bridge them with existing tools, technologies and infrastructure, and potential research directions to follow to provide a more comprehensive resolution or solution. The second part focuses on presenting the major technologies and the major options existing today to deploy content and applications on mobile phones. For each of these technologies, the document presents a short analysis of the technology's potential and the requirements in terms of infrastructure, devices, targeted end-users, and costs associated with implementation and delivery."
   },
   {
     "url": "https://www.w3.org/TR/xml-names/",
@@ -8512,7 +8551,8 @@
         "status": "Working Draft",
         "date": "2003-01-09"
       }
-    ]
+    ],
+    "abstract": "XML Schema: Component Designators defines a scheme for identifying XML Schema components as specified by XML Schema Part 1: Structures and XML Schema Part 2: Datatypes."
   },
   {
     "url": "https://www.w3.org/TR/media-annot-reqs/",
@@ -8671,7 +8711,8 @@
         "status": "Working Draft",
         "date": "2005-04-28"
       }
-    ]
+    ],
+    "abstract": "This specification defines the XML Linking Language (XLink) Version 1.1, which allows elements to be inserted into XML documents in order to create and describe links between resources. It uses XML syntax to create structures that can describe links similar to the simple unidirectional hyperlinks of today's HTML, as well as more sophisticated links."
   },
   {
     "url": "https://www.w3.org/TR/xproc/",
@@ -8790,7 +8831,8 @@
         "status": "Note",
         "date": "2010-06-29"
       }
-    ]
+    ],
+    "abstract": "This document provides definitions, use cases, and requirements for making device APIs more privacy-friendly."
   },
   {
     "url": "https://www.w3.org/TR/wsc-ui/",
@@ -9079,7 +9121,8 @@
         "status": "Working Draft",
         "date": "2001-06-07"
       }
-    ]
+    ],
+    "abstract": "This document defines an XML Syntax for [XQuery 3.1: An XML Query Language] ."
   },
   {
     "url": "https://www.w3.org/TR/xpath-datamodel/",
@@ -9098,7 +9141,8 @@
         "status": "Proposed Edited Recommendation",
         "date": "2009-04-21"
       }
-    ]
+    ],
+    "abstract": "This document defines the XQuery and XPath Data Model 3.1, which is the data model of [XML Path Language (XPath) 3.1], [XSL Transformations (XSLT) Version 3.0], and [XQuery 3.1: An XML Query Language] , and any other specifications that reference it. This document is the result of joint work by the [XSLT Working Group] and the [XML Query Working Group]."
   },
   {
     "url": "https://www.w3.org/TR/xquery-semantics/",
@@ -9117,7 +9161,8 @@
         "status": "Proposed Edited Recommendation",
         "date": "2009-04-21"
       }
-    ]
+    ],
+    "abstract": "This document defines formally the semantics of XQuery 1.0 [XQuery 1.0: An XML Query Language (Second Edition)] and XPath 2.0 [XML Path Language (XPath) 2.0 (Second Edition)]."
   },
   {
     "url": "https://www.w3.org/TR/xpath-functions/",
@@ -9301,7 +9346,8 @@
         "status": "Working Draft",
         "date": "2008-12-19"
       }
-    ]
+    ],
+    "abstract": "This document specifies VoiceXML 3.0, a modular XML language for creating interactive media dialogs that feature synthesized speech, recognition of spoken and DTMF key input, telephony, mixed initiative conversations, and recording and presentation of a variety of media formats including digitized audio, and digitized video."
   },
   {
     "url": "https://www.w3.org/TR/xproc-template/",
@@ -9485,7 +9531,8 @@
         "status": "Working Draft",
         "date": "2006-01-27"
       }
-    ]
+    ],
+    "abstract": "This document specifies usage scenarios for the XQuery Update Facility."
   },
   {
     "url": "https://www.w3.org/TR/mmi-mcbp/",
@@ -9609,7 +9656,8 @@
         "status": "Working Draft",
         "date": "2004-07-09"
       }
-    ]
+    ],
+    "abstract": "This document defines the syntax and formal semantics of XQuery and XPath Full Text 1.0, which is a language that extends XQuery 1.0 [XQuery 1.0: An XML Query Language (Second Edition)] and XPath 2.0 [XML Path Language (XPath) 2.0 (Second Edition)] with full-text search capabilities."
   },
   {
     "url": "https://www.w3.org/TR/xquery-update-10/",
@@ -9848,7 +9896,8 @@
         "status": "Working Draft",
         "date": "1997-11-04"
       }
-    ]
+    ],
+    "abstract": "This specification defines Cascading Style Sheets, level 2 revision 1 (CSS 2.1). CSS 2.1 is a style sheet language that allows authors and users to attach style (e.g., fonts and spacing) to structured documents (e.g., HTML documents and XML applications). By separating the presentation style of documents from the content of documents, CSS 2.1 simplifies Web authoring and site maintenance."
   },
   {
     "url": "https://www.w3.org/TR/xsd-precisionDecimal/",
@@ -9877,7 +9926,8 @@
         "status": "Note",
         "date": "2011-06-09"
       }
-    ]
+    ],
+    "abstract": "This document lists the names of character categories and character blocks defined by Unicode and used in the regular expression language defined by XSD 1.0 and XSD 1.1."
   },
   {
     "url": "https://www.w3.org/TR/ccxml/",
@@ -9941,7 +9991,8 @@
         "status": "Working Draft",
         "date": "2002-02-21"
       }
-    ]
+    ],
+    "abstract": "This document describes CCXML, or the Call Control eXtensible Markup Language. CCXML is designed to provide telephony call control support for dialog systems, such as VoiceXML [VOICEXML]. While CCXML can be used with any dialog systems capable of handling media, CCXML has been designed to complement and integrate with a VoiceXML interpreter. Because of this there are many references to VoiceXML's capabilities and limitations. There are also details on how VoiceXML and CCXML can be integrated. However, it should be noted that the two languages are separate and are not required in an implementation of either language. For example, CCXML could be integrated with a more traditional Interactive Voice Response (IVR) system or a 3GPP Media Resource Function (MRF), and VoiceXML or other dialog systems could be integrated with other call control systems."
   },
   {
     "url": "https://www.w3.org/TR/SVG11/",
@@ -10050,7 +10101,8 @@
         "status": "Working Draft",
         "date": "2003-08-06"
       }
-    ]
+    ],
+    "abstract": "This document describes the syntax and semantics for the Ink Markup Language. The Ink Markup Language serves as the data format for representing ink entered with an electronic pen or stylus. The markup allows for the input and processing of handwriting, gestures, sketches, music and other notational languages in applications. It provides a common format for the exchange of ink data between components such as handwriting and gesture recognizers, signature verifiers, and other ink-aware modules. It may be used in the W3C Multimodal Interaction Framework as proposed by the W3C Multimodal Interaction Activity."
   },
   {
     "url": "https://www.w3.org/TR/widgets-reqs/",
@@ -10124,7 +10176,8 @@
         "status": "Note",
         "date": "2011-10-20"
       }
-    ]
+    ],
+    "abstract": "The Ontology of Rhetorical Blocks is a formalization capturing the coarse-grained rhetorical structure of scientific publications. This note is designed to provide a general overview of the motivation and use-cases supporting ORB, in addition to the actual conceptual elements, as well as, practical examples of how to use it in conjunction with different representation languages."
   },
   {
     "url": "https://www.w3.org/TR/media-frags-recipes/",
@@ -10138,7 +10191,8 @@
         "status": "Working Draft",
         "date": "2011-12-01"
       }
-    ]
+    ],
+    "abstract": "This document complements the Media Fragments 1.0 specification. It described various recipes for processing media fragments URI when used over the HTTP protocol."
   },
   {
     "url": "https://www.w3.org/TR/hnreq/",
@@ -10207,7 +10261,8 @@
         "status": "Working Draft",
         "date": "2009-03-17"
       }
-    ]
+    ],
+    "abstract": "This specification describes a general SOAP-based protocol for enumerating a sequence of XML elements from a SOAP enabled information source."
   },
   {
     "url": "https://www.w3.org/TR/ws-event-descriptions/",
@@ -10676,7 +10731,8 @@
         "status": "Working Draft",
         "date": "2008-07-23"
       }
-    ]
+    ],
+    "abstract": "This document specifies how SOAP binds to a messaging system that supports the Java Message Service (JMS) [Java Message Service]. Binding is specified for both SOAP 1.1 [SOAP 1.1] and SOAP 1.2 [SOAP 1.2 Messaging Framework] using the SOAP 1.2 Protocol Binding Framework. This specification also describes how to use WSDL documents to indicate and control the use of this binding."
   },
   {
     "url": "https://www.w3.org/TR/capture-scenarios/",
@@ -10825,7 +10881,8 @@
         "status": "Working Draft",
         "date": "2004-07-16"
       }
-    ]
+    ],
+    "abstract": "This document specifies the XML Schema Definition Language, which offers facilities for describing the structure and constraining the contents of XML documents, including those which exploit the XML Namespace facility. The schema language, which is itself represented in an XML vocabulary and uses namespaces, substantially reconstructs and considerably extends the capabilities found in XML document type definitions (DTDs). This specification depends on XML Schema Definition Language 1.1 Part 2: Datatypes."
   },
   {
     "url": "https://www.w3.org/TR/xmlschema11-2/",
@@ -10889,7 +10946,8 @@
         "status": "Working Draft",
         "date": "2004-07-16"
       }
-    ]
+    ],
+    "abstract": "XML Schema: Datatypes is part 2 of the specification of the XML Schema language. It defines facilities for defining datatypes to be used in XML Schemas as well as other XML specifications. The datatype language, which is itself represented in XML, provides a superset of the capabilities found in XML document type definitions (DTDs) for specifying datatypes on elements and attributes."
   },
   {
     "url": "https://www.w3.org/TR/app-privacy-bp/",
@@ -10938,7 +10996,8 @@
         "status": "Working Draft",
         "date": "2012-08-07"
       }
-    ]
+    ],
+    "abstract": "This section describes the status of this document at the time of its publication. Other documents may supersede this document. A list of current W3C publications and the latest revision of this technical report can be found in the W3C technical reports index at http://www.w3.org/TR/."
   },
   {
     "url": "https://www.w3.org/TR/xforms-xpath/",
@@ -10967,7 +11026,8 @@
         "status": "Note",
         "date": "2012-08-14"
       }
-    ]
+    ],
+    "abstract": "This document defines the R2RML and Direct Mapping Test Cases deliverable for the RDB2RDF Working Group as defined in the Working Group's Charter."
   },
   {
     "url": "https://www.w3.org/TR/rdb2rdf-implementations/",
@@ -11241,7 +11301,8 @@
         "status": "Working Draft",
         "date": "2005-04-22"
       }
-    ]
+    ],
+    "abstract": "This document describes a loosely coupled architecture for multimodal user interfaces, which allows for co-resident and distributed implementations, and focuses on the role of markup and scripting, and the use of well defined interfaces between its constituents."
   },
   {
     "url": "https://www.w3.org/TR/xmlenc-core1-interop/",
@@ -11560,7 +11621,8 @@
         "status": "Working Draft",
         "date": "2008-01-08"
       }
-    ]
+    ],
+    "abstract": "This section describes the status of this document at the time of its publication. Other documents may supersede this document. A list of current W3C publications and the latest revision of this technical report can be found in the W3C technical reports index at http://www.w3.org/TR/."
   },
   {
     "url": "https://www.w3.org/TR/owl2-new-features/",
@@ -11799,7 +11861,8 @@
         "status": "Working Draft",
         "date": "2008-10-08"
       }
-    ]
+    ],
+    "abstract": "This section describes the status of this document at the time of its publication. Other documents may supersede this document. A list of current W3C publications and the latest revision of this technical report can be found in the W3C technical reports index at http://www.w3.org/TR/."
   },
   {
     "url": "https://www.w3.org/TR/owl2-syntax/",
@@ -11858,7 +11921,8 @@
         "status": "Working Draft",
         "date": "2008-01-08"
       }
-    ]
+    ],
+    "abstract": "This section describes the status of this document at the time of its publication. Other documents may supersede this document. A list of current W3C publications and the latest revision of this technical report can be found in the W3C technical reports index at http://www.w3.org/TR/."
   },
   {
     "url": "https://www.w3.org/TR/owl2-xml-serialization/",
@@ -12297,7 +12361,8 @@
         "status": "Working Draft",
         "date": "2008-07-30"
       }
-    ]
+    ],
+    "abstract": "This section describes the status of this document at the time of its publication. Other documents may supersede this document. A list of current W3C publications and the latest revision of this technical report can be found in the W3C technical reports index at http://www.w3.org/TR/."
   },
   {
     "url": "https://www.w3.org/TR/rif-fld/",
@@ -13521,7 +13586,8 @@
         "status": "Working Draft",
         "date": "2009-07-30"
       }
-    ]
+    ],
+    "abstract": "Generic hybrid ciphers allow for a consistent treatment of asymmetric ciphers when encrypting data and consist of a key encapsulation algorithm with associated parameters and a data encapsulation algorithm with associated parameters. Further, the key encapsulation algorithms introduced in this specification have attractive security properties."
   },
   {
     "url": "https://www.w3.org/TR/xmlsec-rngschema/",
@@ -13870,7 +13936,8 @@
         "status": "Working Draft",
         "date": "2012-05-03"
       }
-    ]
+    ],
+    "abstract": "Provenance is information about entities, activities, and people involved in producing a piece of data or thing, which can be used to form assessments about its quality, reliability or trustworthiness. PROV-DM is the conceptual data model that forms a basis for the W3C provenance (PROV) family of specifications."
   },
   {
     "url": "https://www.w3.org/TR/prov-dc/",
@@ -14079,7 +14146,8 @@
         "status": "Working Draft",
         "date": "2011-10-18"
       }
-    ]
+    ],
+    "abstract": "Provenance is information about entities, activities, and people involved in producing a piece of data or thing, which can be used to form assessments about its quality, reliability or trustworthiness. PROV-DM is the conceptual data model that forms a basis for the W3C provenance (PROV) family of specifications. PROV-DM distinguishes core structures, forming the essence of provenance information, from extended structures catering for more specific uses of provenance. PROV-DM is organized in six components, respectively dealing with: (1) entities and activities, and the time at which they were created, used, or ended; (2) derivations of entities from entities; (3) agents bearing responsibility for entities that were generated and activities that happened; (4) a notion of bundle, a mechanism to support provenance of provenance; (5) properties to link entities that refer to the same thing; and, (6) collections forming a logical structure for its members."
   },
   {
     "url": "https://www.w3.org/TR/prov-n/",
@@ -14203,7 +14271,8 @@
         "status": "Working Draft",
         "date": "2012-12-11"
       }
-    ]
+    ],
+    "abstract": "Provenance is information about entities, activities, and people involved in producing a piece of data or thing, which can be used to form assessments about its quality, reliability or trustworthiness. PROV-DM is the conceptual data model that forms a basis for the W3C provenance (PROV) family of specifications. It defines a concepts for expressing provenance information enabling interchange. This document introduces an XML schema for the PROV data model (PROV-DM), allowing instances of the PROV data model to be serialized in XML."
   },
   {
     "url": "https://www.w3.org/TR/publishing-linking/",
@@ -14411,7 +14480,8 @@
         "status": "Working Draft",
         "date": "2012-01-05"
       }
-    ]
+    ],
+    "abstract": "This document outlines test cases for Canonical XML 2.0 [XML-C14N20]."
   },
   {
     "url": "https://www.w3.org/TR/emma11/",
@@ -14560,7 +14630,8 @@
         "status": "Working Draft",
         "date": "2012-07-10"
       }
-    ]
+    ],
+    "abstract": "This document aims to support discussion about what is needed in the HTML5 specification, and possibly other markup vocabularies, to adequately support ruby markup. It looks at a number of use cases involving ruby, and how well the following approaches support those use cases: the HTML5 model described in the Candidate Recommendation as of 17 December 2012, the XHTML Ruby Annotation model, and the Ruby Extension Specification proposed in February 2013."
   },
   {
     "url": "https://www.w3.org/TR/touch-events/",
@@ -14664,7 +14735,8 @@
         "status": "Working Draft",
         "date": "2012-06-26"
       }
-    ]
+    ],
+    "abstract": "The technology described in this document “Internationalization Tag Set (ITS) 2.0“ enhances the foundation to integrate automated processing of human language into core Web technologies. ITS 2.0 bears many commonalities with its predecessor, ITS 1.0 but provides additional concepts that are designed to foster the automated creation and processing of multilingual Web content. ITS 2.0 focuses on HTML, XML-based formats in general, and can leverage processing based on the XML Localization Interchange File Format (XLIFF), as well as the Natural Language Processing Interchange Format (NIF)."
   },
   {
     "url": "https://www.w3.org/TR/xproc-v2-req/",
@@ -14813,7 +14885,8 @@
         "status": "Note",
         "date": "2014-01-07"
       }
-    ]
+    ],
+    "abstract": "This is an introduction to Model-Based User Interfaces covering the benefits and shortcomings of the model-based approach, a collection of use cases, and terminology."
   },
   {
     "url": "https://www.w3.org/TR/mbui-glossary/",
@@ -14827,7 +14900,8 @@
         "status": "Note",
         "date": "2014-01-07"
       }
-    ]
+    ],
+    "abstract": "This document is a glossary of terms recurrent in the Model-based User Interface domain (MBUI). It is intended to capture a common, coherent terminology for specifications of the MBUI Working Group and to provide a concise reference of domain terms for interested audience. The document arose from a thorough review and discussion of the glossaries published by the CAMELEON and AMODEUS research projects."
   },
   {
     "url": "https://www.w3.org/TR/ld-bp/",
@@ -15481,7 +15555,8 @@
         "status": "Working Draft",
         "date": "2013-01-31"
       }
-    ]
+    ],
+    "abstract": "To foster the development of the Linked Data Platform specification, this document includes a set of user stories, use cases, scenarios and requirements that motivate a simple read-write Linked Data architecture, based on HTTP access to web resources that describe their state using RDF. The starting point for the development of these use cases is a collection of user stories that provide realistic examples describing how people may use read-write Linked Data. The use cases themselves are captured in a narrative style that describes a behavior, or set of behaviors based on, and using scenarios from, these user stories. The aim throughout has been to avoid details of protocol (specifically the HTTP protocol), and use of any specific vocabulary that might be introduced by the LDP specification."
   },
   {
     "url": "https://www.w3.org/TR/mediaont-api-1.0/",
@@ -15530,7 +15605,8 @@
         "status": "Working Draft",
         "date": "2009-10-20"
       }
-    ]
+    ],
+    "abstract": "This specification defines an API to access metadata information related to media resources on the Web. The overall purpose is to provide developers with a convenient access to metadata information stored in different metadata formats. The API provides means to access the set of metadata properties defined in the Ontology for Media Resources 1.0 specification. These properties are used as a pivot vocabulary in this API. The core of this specification is the definition of API interfaces for retrieving metadata information in synchronous and asynchronous modes. It also defines interfaces for structured return types along with the specification of the behavior of an API implementation."
   },
   {
     "url": "https://www.w3.org/TR/html-templates/",
@@ -17009,7 +17085,8 @@
         "status": "First Public Working Draft",
         "date": "2014-06-05"
       }
-    ]
+    ],
+    "abstract": "This document lists use cases, compiled by the Data on the Web Best Practices Working Group, that represent scenarios of how data is commonly published on the Web and how it is used. This document also provides a set of requirements derived from these use cases that will be used to guide the development of the set of Data on the Web Best Practices and the development of two new vocabularies: Quality and Granularity Description Vocabulary and Data Usage Description Vocabulary."
   },
   {
     "url": "https://www.w3.org/TR/html-longdesc/",
@@ -17048,7 +17125,8 @@
         "status": "Working Draft",
         "date": "2013-03-12"
       }
-    ]
+    ],
+    "abstract": "This specification defines a longdesc attribute (based on the longdesc attribute of HTML 4) to link descriptions to images in HTML5 content."
   },
   {
     "url": "https://www.w3.org/TR/ldp/",
@@ -17197,7 +17275,8 @@
         "status": "Working Draft",
         "date": "2009-10-15"
       }
-    ]
+    ],
+    "abstract": "This specification defines rules and guidelines for adapting the RDFa Core 1.1 and RDFa Lite 1.1 specifications for use in HTML5 and XHTML5. The rules defined in this specification not only apply to HTML5 documents in non-XML and XML mode, but also to HTML4 and XHTML documents interpreted through the HTML5 parsing rules."
   },
   {
     "url": "https://www.w3.org/TR/rdfa-primer/",
@@ -17271,7 +17350,8 @@
         "status": "Working Draft",
         "date": "2006-03-10"
       }
-    ]
+    ],
+    "abstract": "The last couple of years have witnessed a fascinating evolution: while the Web was initially built predominantly for human consumption, web content is increasingly consumed by machines which expect some amount of structured data. Sites have started to identify a page's title, content type, and preview image to provide appropriate information in a user's newsfeed when she clicks the \"Like\" button. Search engines have started to provide richer search results by extracting fine-grained structured details from the Web pages they crawl. In turn, web publishers are producing increasing amounts of structured data within their Web content to improve their standing with search engines."
   },
   {
     "url": "https://www.w3.org/TR/rdfa-core/",
@@ -17665,7 +17745,8 @@
         "status": "Working Draft",
         "date": "2012-10-25"
       }
-    ]
+    ],
+    "abstract": "This document describes a HTTP-based protocol for clients and servers to be able to efficiently retrieve large Linked Data Platform Resource representations by splitting up the responses into separate URL-addressable page resources."
   },
   {
     "url": "https://www.w3.org/TR/svg-paths/",
@@ -17699,7 +17780,8 @@
         "status": "Working Draft",
         "date": "2010-03-04"
       }
-    ]
+    ],
+    "abstract": "Authoring a web app that needs to support both right-to-left and left-to-right interfaces, or to take as input and display both left-to-right and right-to-left data, usually presents a number of challenges that make it an especially laborious and bug-prone task. Some of these are due to browser bugs, but some can be traced to a lapse in the specification of the bidirectional aspects of a given HTML or CSS feature. And some of these challenges can be greatly simplified by adding a few strategically placed new HTML and CSS features."
   },
   {
     "url": "https://www.w3.org/TR/xmldsig-core2/",
@@ -17743,7 +17825,8 @@
         "status": "Working Draft",
         "date": "2009-10-22"
       }
-    ]
+    ],
+    "abstract": "This informative W3C Working Group Note describes XML digital signature processing rules and syntax. XML Signatures provide integrity, message authentication, and/or signer authentication services for data of any type, whether located within the XML that includes the signature or elsewhere."
   },
   {
     "url": "https://www.w3.org/TR/ldpatch/",
@@ -17807,7 +17890,8 @@
         "status": "Note",
         "date": "2015-08-06"
       }
-    ]
+    ],
+    "abstract": "This document describes the XPath Data Model for SCXML [SCXML]. This data model allows SCXML state charts to use XML as their data representation, and to manipulate it with XPath. For more details on data models, see the SCXML specification."
   },
   {
     "url": "https://www.w3.org/TR/dpub-css-priorities/",
@@ -18156,7 +18240,8 @@
         "status": "First Public Working Draft",
         "date": "2015-10-15"
       }
-    ]
+    ],
+    "abstract": "Conformance requirements are expressed with a combination of descriptive assertions and RFC 2119 terminology. The key words \"MUST\", \"MUST NOT\", \"REQUIRED\", \"SHALL\", \"SHALL NOT\", \"SHOULD\", \"SHOULD NOT\", \"RECOMMENDED\", \"MAY\", and \"OPTIONAL\" in the normative parts of this document are to be interpreted as described in RFC 2119. However, for readability, these words do not appear in all uppercase letters in this specification."
   },
   {
     "url": "https://www.w3.org/TR/xpath-full-text-30/",
@@ -18865,7 +18950,8 @@
         "status": "Working Draft",
         "date": "2012-10-09"
       }
-    ]
+    ],
+    "abstract": "This document specifies a processing model and syntax for general purpose inclusion. Inclusion is accomplished by merging a number of XML information sets into a single composite infoset. Specification of the XML documents (infosets) to be merged and control over the merging process is expressed in XML-friendly syntax (elements, attributes, URI references)."
   },
   {
     "url": "https://www.w3.org/TR/xproc20/",
@@ -18884,7 +18970,8 @@
         "status": "First Public Working Draft",
         "date": "2014-12-18"
       }
-    ]
+    ],
+    "abstract": "This specification describes the syntax and semantics of XProc 2.0: An XML Pipeline Language, a language for describing operations to be performed on documents."
   },
   {
     "url": "https://www.w3.org/TR/xproc20-steps/",
@@ -19153,7 +19240,8 @@
         "status": "Working Draft",
         "date": "2012-05-29"
       }
-    ]
+    ],
+    "abstract": "This specification defines an API that provides scripted access to raw mouse movement data while locking the target of mouse events to a single element and removing the cursor from view. This is an essential input mode for certain classes of applications, especially first person perspective 3D applications and 3D modeling software."
   },
   {
     "url": "https://www.w3.org/TR/media-source-1/",
@@ -19217,7 +19305,8 @@
         "status": "Working Draft",
         "date": "2013-01-29"
       }
-    ]
+    ],
+    "abstract": "This specification extends HTMLMediaElement [HTML51] to allow JavaScript to generate media streams for playback. Allowing JavaScript to generate streams facilitates a variety of use cases like adaptive streaming and time shifting live streams."
   },
   {
     "url": "https://www.w3.org/TR/xquery-31-requirements/",
@@ -19241,7 +19330,8 @@
         "status": "First Public Working Draft",
         "date": "2014-04-24"
       }
-    ]
+    ],
+    "abstract": "This document specifies goals and requirements for XQuery 3.1."
   },
   {
     "url": "https://www.w3.org/TR/CSP2/",
@@ -19620,7 +19710,8 @@
         "status": "First Public Working Draft",
         "date": "2015-02-24"
       }
-    ]
+    ],
+    "abstract": "This document provides Best Practices related to the publication and usage of data on the Web designed to help support a self-sustaining ecosystem. Data should be discoverable and understandable by humans and machines. Where data is used in some way, whether by the originator of the data or by an external party, such usage should also be discoverable and the efforts of the data publisher recognized. In short, following these Best Practices will facilitate interaction between publishers and consumers."
   },
   {
     "url": "https://www.w3.org/TR/EARL10-Guide/",
@@ -19889,7 +19980,8 @@
         "status": "Note",
         "date": "2017-02-23"
       }
-    ]
+    ],
+    "abstract": "Selecting part of a resource on the Web is an ubiquitous action. Over the years several selection techniques have been developed, usually in conjunction with the media type of the resource. Many of these approaches are also expressed in terms of a fragment identifiers [url], but that is not always the case."
   },
   {
     "url": "https://www.w3.org/TR/annotation-model/",
@@ -20368,7 +20460,8 @@
         "status": "First Public Working Draft",
         "date": "2016-07-26"
       }
-    ]
+    ],
+    "abstract": "Linked Data Notifications is a protocol that describes how servers (receivers) can have messages pushed to them by applications (senders), as well as how other applications (consumers) may retrieve those messages. Any resource can advertise a receiving endpoint (Inbox) for the messages. Messages are expressed in RDF, and can contain any data."
   },
   {
     "url": "https://www.w3.org/TR/pwp/",
@@ -20622,7 +20715,8 @@
         "status": "Note",
         "date": "2017-06-08"
       }
-    ]
+    ],
+    "abstract": "This document describes advanced features of the Shapes Constraint Language (SHACL) [shacl] including features to define custom targets, annotation properties, user-defined functions, node expressions and rules. While many of these features rely on SPARQL, they also define extension points that can be used by other implementation languages."
   },
   {
     "url": "https://www.w3.org/TR/shacl-js/",
@@ -20686,7 +20780,8 @@
         "status": "Working Draft",
         "date": "2010-05-11"
       }
-    ]
+    ],
+    "abstract": "This specification defines the syntax and semantics of XSLT 3.0, a language designed primarily for transforming XML documents into other XML documents."
   },
   {
     "url": "https://www.w3.org/TR/xquery-sx-10-requirements/",
@@ -21345,7 +21440,8 @@
         "status": "First Public Working Draft",
         "date": "2013-09-26"
       }
-    ]
+    ],
+    "abstract": "Accessibility of web content requires semantic information about widgets, structures, and behaviors, in order to allow assistive technologies to convey appropriate information to persons with disabilities. This specification provides an ontology of roles, states, and properties that define accessible user interface elements and can be used to improve the accessibility and interoperability of web content and applications. These semantics are designed to allow an author to properly convey user interface behaviors and structural information to assistive technologies in document-level markup. This version adds features new since WAI-ARIA 1.0 [wai-aria-1.0] to improve interoperability with assistive technologies to form a more consistent accessibility model for [html5] and [SVG2]. This specification complements both [html5] and [SVG2]."
   },
   {
     "url": "https://www.w3.org/TR/core-aam-1.1/",
@@ -23304,7 +23400,8 @@
         "status": "First Public Working Draft",
         "date": "2015-02-12"
       }
-    ]
+    ],
+    "abstract": "This document specifies the Timed Text Markup Language (TTML), Version 2, also known as TTML2, in terms of a vocabulary and semantics thereof."
   },
   {
     "url": "https://www.w3.org/TR/ttml-imsc1.1/",
@@ -23478,7 +23575,8 @@
         "status": "Working Draft",
         "date": "2012-02-28"
       }
-    ]
+    ],
+    "abstract": "This module describes the fragmentation model that partitions a flow into pages, columns, or regions. It builds on the Page model module and introduces and defines the fragmentation model. It adds functionality for pagination, breaking variable fragment size and orientation, widows and orphans."
   },
   {
     "url": "https://www.w3.org/TR/geometry-1/",
@@ -23587,7 +23685,8 @@
         "status": "First Public Working Draft",
         "date": "2014-12-11"
       }
-    ]
+    ],
+    "abstract": "This document describes how user agents determine the names and descriptions of accessible objects from web content languages. This information is in turn exposed through accessibility APIs so that assistive technologies can identify these objects and present their names or descriptions to users. Documenting the algorithm through which names and descriptions are to be determined promotes interoperable exposure of these properties among different accessibility APIs and helps to ensure that this information appears in a manner consistent with author intent."
   },
   {
     "url": "https://www.w3.org/TR/css-break-4/",
@@ -23986,7 +24085,8 @@
         "status": "First Public Working Draft",
         "date": "2019-06-25"
       }
-    ]
+    ],
+    "abstract": "The Animation Worklet API provides a method to create scripted animations that control a set of animation effects. The API is designed to make it possible for user agents to run such animations in their own dedicated thread to provide a degree of performance isolation from main thread."
   },
   {
     "url": "https://www.w3.org/TR/timing-entrytypes-registry/",
@@ -24080,7 +24180,8 @@
         "status": "Working Draft",
         "date": "2003-05-14"
       }
-    ]
+    ],
+    "abstract": "This CSS3 Module describes how to insert content in a document."
   },
   {
     "url": "https://www.w3.org/TR/pronunciation-user-scenarios/",
@@ -24219,7 +24320,8 @@
         "status": "Note",
         "date": "2019-03-14"
       }
-    ]
+    ],
+    "abstract": "This document provides a registry of identified formats of trace context [TRACE-CONTEXT] serialization and deserialization for protocols."
   },
   {
     "url": "https://www.w3.org/TR/hr-time-2/",
@@ -24593,7 +24695,8 @@
         "status": "Working Draft",
         "date": "2010-12-02"
       }
-    ]
+    ],
+    "abstract": "CSS Writing Modes Level 3 defines CSS support for various writing modes and their combinations, including left-to-right and right-to-left text ordering as well as horizontal and vertical orientations."
   },
   {
     "url": "https://www.w3.org/TR/dx-prof/",
@@ -24617,7 +24720,8 @@
         "status": "First Public Working Draft",
         "date": "2018-12-18"
       }
-    ]
+    ],
+    "abstract": "The Profiles Vocabulary is an RDF vocabulary created to allow the machine-readable description of profiles of specifications for information resources. It can be used to describe profile hierarchies wherein profiles of specifications may themselves have profiles indicated. It can also link multiple profile resources that make up a profile - guidelines, validation tools, schemas, term lists and so on - to it and allows for those profile resources to be described with formats, roles, and digital artifacts."
   },
   {
     "url": "https://www.w3.org/TR/vocab-ssn-ext/",
@@ -24876,7 +24980,8 @@
         "status": "Working Draft",
         "date": "2013-05-14"
       }
-    ]
+    ],
+    "abstract": "This document describes requirements for general Korean language/Hangul text layout and typography realized with technologies like CSS, SVG and XSL-FO. The document is mainly based on a project to develop the international standard for Korean text layout."
   },
   {
     "url": "https://www.w3.org/TR/ilreq/",
@@ -25290,7 +25395,8 @@
         "status": "First Public Working Draft",
         "date": "2019-11-28"
       }
-    ]
+    ],
+    "abstract": "This specification defines two profiles of [ttml2]: a text-only profile and an image-only profile. These profiles are intended to be used across subtitle and caption delivery applications worldwide, thereby simplifying interoperability, consistent rendering and conversion to other subtitling and captioning formats."
   },
   {
     "url": "https://www.w3.org/TR/jlreq/",
@@ -25993,7 +26099,8 @@
         "status": "First Public Working Draft",
         "date": "2021-03-16"
       }
-    ]
+    ],
+    "abstract": "Post-Spectre, we need to adopt some new strategies for safe and secure web development. This document outlines a threat model we can share, and a set of mitigation recommendations."
   },
   {
     "url": "https://www.w3.org/TR/did-use-cases/",
@@ -26137,7 +26244,8 @@
         "status": "First Public Working Draft",
         "date": "2018-07-03"
       }
-    ]
+    ],
+    "abstract": "This API defines a control surface for manipulating the network control bits (DSCP bits) of outgoing WebRTC packets, and the queueing priority of outgoing WebRTC packets under congestion."
   },
   {
     "url": "https://www.w3.org/TR/xslt20/",
@@ -26316,7 +26424,8 @@
         "status": "First Public Working Draft",
         "date": "2018-12-11"
       }
-    ]
+    ],
+    "abstract": "This document is for people who make web content (web pages) and web applications. It gives advice on how to make content usable for people with cognitive and learning disabilities. This includes, but is not limited to: cognitive disabilities, learning disabilities (LD), neurodiversity, intellectual disabilities, and specific learning disabilities."
   },
   {
     "url": "https://www.w3.org/TR/css-sizing-4/",
@@ -26455,7 +26564,8 @@
         "status": "Note",
         "date": "2021-06-08"
       }
-    ]
+    ],
+    "abstract": "Cookbook formulae for audio equalization biquad filter coefficients. Describes the most common analog biquad filter types and how to convert them to the digital filter equivalents. Adapted from Audio-EQ-Cookbook.txt, by Robert Bristow-Johnson, with permission."
   },
   {
     "url": "https://www.w3.org/TR/webaudio-1.0/",
@@ -26524,7 +26634,8 @@
         "status": "Working Draft",
         "date": "2011-12-15"
       }
-    ]
+    ],
+    "abstract": "This specification describes a high-level Web API for processing and synthesizing audio in web applications. The primary paradigm is of an audio routing graph, where a number of AudioNode objects are connected together to define the overall audio rendering. The actual processing will primarily take place in the underlying implementation (typically optimized Assembly / C / C++ code), but direct script processing and synthesis is also supported."
   },
   {
     "url": "https://www.w3.org/TR/did-cbor-representation/",
@@ -26997,7 +27108,8 @@
         "status": "First Public Working Draft",
         "date": "2018-11-06"
       }
-    ]
+    ],
+    "abstract": "This specification defines standard HTTP headers and a value format to propagate context information that enables distributed tracing scenarios. The specification standardizes how context information is sent and modified between services. Context information uniquely identifies individual requests in a distributed system and also defines a means to add and propagate provider-specific context information."
   },
   {
     "url": "https://www.w3.org/TR/css-scrollbars-1/",
@@ -27286,7 +27398,8 @@
         "status": "Working Draft",
         "date": "2003-08-13"
       }
-    ]
+    ],
+    "abstract": "This module describes, in general terms, the basic structure and syntax of CSS stylesheets. It defines, in detail, the syntax and parsing of CSS - how to turn a stream of bytes into a meaningful stylesheet."
   },
   {
     "url": "https://www.w3.org/TR/mediaqueries-4/",
@@ -27925,7 +28038,8 @@
         "status": "First Public Working Draft",
         "date": "2020-01-30"
       }
-    ]
+    ],
+    "abstract": "Requirements for WAI-Adapt specification"
   },
   {
     "url": "https://www.w3.org/TR/adapt-help/",
@@ -28644,7 +28758,8 @@
         "status": "Note",
         "date": "2022-07-21"
       }
-    ]
+    ],
+    "abstract": "This normative text registers three media types for MathML, application/mathml+xml, application/mathml-presentation+xml and application/mathml-content+xml, in conformance with [RFC4288] and [W3CRegMedia]. The media-types have been approved by IESG for registration with IANA as announced by IETF and are visible on the list of application media-types [MediaTypesList]."
   },
   {
     "url": "https://www.w3.org/TR/remote-meetings/",
@@ -28668,7 +28783,8 @@
         "status": "First Public Working Draft",
         "date": "2021-10-14"
       }
-    ]
+    ],
+    "abstract": "This document summarizes considerations of accessibility that arise in the conduct of remote and hybrid meetings. Such meetings are mediated, for some or all participants, by real-time communication software typically built upon Web technologies. Issues of software selection, and the roles of meeting hosts and participants in providing access are explained. Relevant W3C documents are referred to, where applicable, as sources of more detailed and in some instances normative guidance."
   },
   {
     "url": "https://www.w3.org/TR/device-memory-1/",
@@ -28817,7 +28933,8 @@
         "status": "First Public Working Draft",
         "date": "2013-10-29"
       }
-    ]
+    ],
+    "abstract": "This specification defines an interface that web developers can use to schedule asynchronous and non-blocking delivery of data that minimizes resource contention with other time-critical operations, while ensuring that such requests are still processed and delivered to destination."
   },
   {
     "url": "https://www.w3.org/TR/css-contain-3/",
@@ -29041,7 +29158,8 @@
         "status": "First Public Working Draft",
         "date": "2019-12-17"
       }
-    ]
+    ],
+    "abstract": "This specification defines an API for sharing text, links and other content to an arbitrary destination of the user's choice."
   },
   {
     "url": "https://www.w3.org/TR/naur/",
@@ -29875,7 +29993,8 @@
         "status": "Working Draft",
         "date": "2006-09-27"
       }
-    ]
+    ],
+    "abstract": "OWL-Time is an OWL-2 DL ontology of temporal concepts, for describing the temporal properties of resources in the world or described in Web pages. The ontology provides a vocabulary for expressing facts about topological (ordering) relations among instants and intervals, together with information about durations, and about temporal position including date-time information. Time positions and durations may be expressed using either the conventional (Gregorian) calendar and clock, or using another temporal reference system such as Unix-time, geologic time, or different calendars."
   },
   {
     "url": "https://www.w3.org/TR/css-2022/",
@@ -29924,7 +30043,8 @@
         "status": "Draft Registry",
         "date": "2022-12-13"
       }
-    ]
+    ],
+    "abstract": "This is a W3C registry of symbols used in augmentative and alternative communication (AAC). It is co-published with Blissymbolics Communication International and contains their full set of authorized symbols. With over 5000 symbols, this set can function as a basis for semantic mappings between different AAC symbol sets in use around the world, using the entries in this registry to identify common meanings. This functionality is necessary for interoperable implementation of the WAI-Adapt: Symbols Module (draft symbols module, currently part of the WAI-ADAPT: Content Module [adapt-content]). This registry is available for other use cases as well."
   },
   {
     "url": "https://www.w3.org/TR/css-pseudo-4/",
@@ -30018,7 +30138,8 @@
         "status": "Working Draft",
         "date": "2001-02-16"
       }
-    ]
+    ],
+    "abstract": "“Ruby”, a form of interlinear annotation, are short runs of text alongside the base text. They are typically used in East Asian documents to indicate pronunciation or to provide a short annotation. This module describes the rendering model and formatting controls related to displaying ruby annotations in CSS."
   },
   {
     "url": "https://www.w3.org/TR/adapt/",
@@ -30392,7 +30513,8 @@
         "status": "First Public Working Draft",
         "date": "2021-08-31"
       }
-    ]
+    ],
+    "abstract": "This module introduces the ability to nest one style rule inside another, with the selector of the child rule relative to the selector of the parent rule. This increases the modularity and maintainability of CSS stylesheets."
   },
   {
     "url": "https://www.w3.org/TR/css-speech-1/",
@@ -30576,7 +30698,8 @@
         "status": "First Public Working Draft",
         "date": "2023-02-21"
       }
-    ]
+    ],
+    "abstract": "This specification defines a model for synchronization and timing of changes to the presentation of a Web page. This specification also defines an application programming interface for interacting with this model and it is expected that further specifications will define declarative means for exposing these features."
   },
   {
     "url": "https://www.w3.org/TR/mixed-content/",
@@ -30770,7 +30893,8 @@
         "status": "First Public Working Draft",
         "date": "2017-06-13"
       }
-    ]
+    ],
+    "abstract": "This module contains the features of CSS relating to scrollable overflow handling in visual media. It builds on the CSS Overflow Module Level 3, defining line-clamp, its longhands, and its legacy pre-standard syntax; adding a block-ellipsis property; and expanding overflow-clip-margin with longhands. An appendix also contains a more experimental exploration of redirecting overflow by fragmentation."
   },
   {
     "url": "https://www.w3.org/TR/css-overflow-3/",
@@ -31284,7 +31408,8 @@
         "status": "Working Draft",
         "date": "2006-11-15"
       }
-    ]
+    ],
+    "abstract": "This document describes APIs for accessing data on the system clipboard. It provides operations for overriding the default clipboard actions (cut, copy and paste), and for directly accessing the clipboard contents."
   },
   {
     "url": "https://www.w3.org/TR/miniapp-lifecycle/",
@@ -31453,7 +31578,8 @@
         "status": "First Public Working Draft",
         "date": "2013-06-25"
       }
-    ]
+    ],
+    "abstract": "This specification defines a model for synchronization and timing of changes to the presentation of a Web page. This specification also defines an application programming interface for interacting with this model and it is expected that further specifications will define declarative means for exposing these features."
   },
   {
     "url": "https://www.w3.org/TR/wai-aria-1.2/",
@@ -31687,7 +31813,8 @@
         "status": "Note",
         "date": "2020-07-30"
       }
-    ]
+    ],
+    "abstract": "This document is a registry of supplementary members for the Web Application Manifest specification that provide additional metadata to an application manifest. This metadata can be used in a digital storefront or other surfaces where this web application may be marketed or distributed, or to enhance an installation dialog when installing a web application."
   },
   {
     "url": "https://www.w3.org/TR/audio-output/",
@@ -31906,7 +32033,8 @@
         "status": "First Public Working Draft",
         "date": "2016-01-19"
       }
-    ]
+    ],
+    "abstract": "This document advises on best practices related to the publication of spatial data on the Web; the use of Web technologies as they may be applied to location. The best practices presented here are intended for practitioners, including Web developers and geospatial experts, and are compiled based on evidence of real-world application. These best practices suggest a significant change of emphasis from traditional Spatial Data Infrastructures by adopting an approach based on general Web standards. As location is often the common factor across multiple datasets, spatial data is an especially useful addition to the Web of data."
   },
   {
     "url": "https://www.w3.org/TR/webvmt/",
@@ -31920,7 +32048,8 @@
         "status": "Note",
         "date": "2023-09-19"
       }
-    ]
+    ],
+    "abstract": "This specification defines WebVMT, the Web Video Map Tracks format, which is an enabling technology whose main use is for marking up external metadata track resources in connection with the HTML <track> element. WebVMT files provide map presentation, annotation and interpolation synchronized to web media content, and more generally any form of data that is time-aligned with audio or video content, including those from location-aware devices such as dashcams, drones and smartphones."
   },
   {
     "url": "https://www.w3.org/TR/UNDERSTANDING-WCAG20/",
@@ -32469,7 +32598,8 @@
         "status": "First Public Working Draft",
         "date": "2013-07-09"
       }
-    ]
+    ],
+    "abstract": "This document specifies methods and camera settings to produce photographic image capture. The source of images is, or can be referenced via a MediaStreamTrack."
   },
   {
     "url": "https://www.w3.org/TR/fetch-metadata/",
@@ -32778,7 +32908,8 @@
         "status": "First Public Working Draft",
         "date": "2020-11-24"
       }
-    ]
+    ],
+    "abstract": "The W3C Web of Things (WoT) is intended to enable interoperability across IoT platforms and application domains. One key mechanism for accomplishing this goal is the definition and use of metadata describing the interactions an IoT device or service makes available over the network at a suitable level of abstraction. The WoT Thing Description specification satisfies this objective."
   },
   {
     "url": "https://www.w3.org/TR/wot-thing-description11/",
@@ -32822,7 +32953,8 @@
         "status": "First Public Working Draft",
         "date": "2020-11-24"
       }
-    ]
+    ],
+    "abstract": "This document describes a formal information model and a common representation for a Web of Things (WoT) Thing Description 1.1. A Thing Description describes the metadata and interfaces of Things, where a Thing is an abstraction of a physical or virtual entity that provides interactions to and participates in the Web of Things. Thing Descriptions provide a set of interactions based on a small vocabulary that makes it possible both to integrate diverse devices and to allow diverse applications to interoperate. Thing Descriptions, by default, are encoded in a JSON format that also allows JSON-LD processing. The latter provides a powerful foundation to represent knowledge about Things in a machine-understandable way. A Thing Description instance can be hosted by the Thing itself or hosted externally when a Thing has resource restrictions (e.g., limited memory space) or when a Web of Things-compatible legacy device is retrofitted with a Thing Description. Furthermore, this document introduces the Thing Model, which allows authors to describe only the model or class of an Internet of Things (IoT) entity. Thing Models can be seen as a template for Thing Description instances, but with reduced constraints such as no or few requirements for specific communication metadata."
   },
   {
     "url": "https://www.w3.org/TR/localizable-manifests/",
@@ -34056,7 +34188,8 @@
         "status": "First Public Working Draft",
         "date": "2017-07-11"
       }
-    ]
+    ],
+    "abstract": "This specification defines modifications to the existing CSS Fonts 3 specification along with additional features."
   },
   {
     "url": "https://www.w3.org/TR/css-fonts-5/",
@@ -34085,7 +34218,8 @@
         "status": "First Public Working Draft",
         "date": "2021-06-29"
       }
-    ]
+    ],
+    "abstract": "This specification defines modifications to the existing CSS Fonts 4 specification along with additional features."
   },
   {
     "url": "https://www.w3.org/TR/css-color-4/",
@@ -35299,7 +35433,8 @@
         "status": "First Public Working Draft",
         "date": "2019-10-10"
       }
-    ]
+    ],
+    "abstract": "This specification module describes support for accessing button, trigger, thumbstick, and touchpad data associated with virtual reality (VR) and augmented reality (AR) devices on the Web."
   },
   {
     "url": "https://www.w3.org/TR/css-box-3/",
@@ -36033,7 +36168,8 @@
         "status": "Working Draft",
         "date": "1999-06-23"
       }
-    ]
+    ],
+    "abstract": "This specification describes multi-column layouts in CSS, a style sheet language for the web. Using functionality described in the specification, content can be flowed into multiple columns with a gap and a rule between them."
   },
   {
     "url": "https://www.w3.org/TR/mediaqueries-3/",
@@ -36547,7 +36683,8 @@
         "status": "Note",
         "date": "2024-05-30"
       }
-    ]
+    ],
+    "abstract": "This document, EPUB Fixed Layout Accessibility, outlines the goals for EPUB accessible fixed layout ebooks while acknowledging the challenges unique to the fixed layout format."
   },
   {
     "url": "https://www.w3.org/TR/baggage/",
@@ -37016,7 +37153,8 @@
         "status": "First Public Working Draft",
         "date": "2018-08-21"
       }
-    ]
+    ],
+    "abstract": "This specification defines the GeolocationSensor interface for obtaining the geolocation of the hosting device."
   },
   {
     "url": "https://www.w3.org/TR/pointerlock-2/",
@@ -37130,7 +37268,8 @@
         "status": "Draft Note",
         "date": "2022-09-06"
       }
-    ]
+    ],
+    "abstract": "Digital accessibility is a human right. Yet 1.3 billion people in the world living with disability experience accessibility barriers everyday. The cost of excluding people with disabilities is high. Not only from a civil rights standpoint but also from a business perspective. People with disabilities represent the largest minority worldwide with a discretionary income in the billions. Companies risk losing customers, revenue and top talent while also facing legal risk, as digital accessibility is required by law in many countries."
   },
   {
     "url": "https://www.w3.org/TR/dpub-aam-1.1/",
@@ -37224,7 +37363,8 @@
         "status": "First Public Working Draft",
         "date": "2021-11-30"
       }
-    ]
+    ],
+    "abstract": "The Digital Publishing Accessibility API Mappings (DPub-AAM) defines how user agents map the Digital Publishing WAI-ARIA Module [dpub-aria-1.1] markup to platform accessibility APIs. It is intended for user agent developers responsible for accessibility in their user agent so that they can support the accessibility content produced for digital publishing."
   },
   {
     "url": "https://www.w3.org/TR/css-contain-1/",
@@ -37288,7 +37428,8 @@
         "status": "First Public Working Draft",
         "date": "2017-02-21"
       }
-    ]
+    ],
+    "abstract": "This CSS module describes the contain property, which indicates that the element’s subtree is independent of the rest of the page. This enables heavy optimizations by user agents when used well."
   },
   {
     "url": "https://www.w3.org/TR/miniapp-addressing/",
@@ -37497,7 +37638,8 @@
         "status": "First Public Working Draft",
         "date": "2021-09-30"
       }
-    ]
+    ],
+    "abstract": "This specification extends HTMLMediaElement [HTML] to allow JavaScript to generate media streams for playback. Allowing JavaScript to generate streams facilitates a variety of use cases like adaptive streaming and time shifting live streams."
   },
   {
     "url": "https://www.w3.org/TR/contact-picker/",
@@ -37561,7 +37703,8 @@
         "status": "First Public Working Draft",
         "date": "2022-12-20"
       }
-    ]
+    ],
+    "abstract": "An API to give one-off access to a user’s contact information with full control over the shared data."
   },
   {
     "url": "https://www.w3.org/TR/IFT/",
@@ -37590,7 +37733,8 @@
         "status": "First Public Working Draft",
         "date": "2021-09-07"
       }
-    ]
+    ],
+    "abstract": "This specification defines a method to incrementally transfer fonts from server to client. Incremental transfer allows clients to load only the portions of the font they actually need which speeds up font loads and reduces data transfer needed to load the fonts. A font can be loaded over multiple requests where each request incrementally adds additional data."
   },
   {
     "url": "https://www.w3.org/TR/mlreq/",
@@ -38029,7 +38173,8 @@
         "status": "Note",
         "date": "2016-05-10"
       }
-    ]
+    ],
+    "abstract": "This specification defines the \"cenc\" initialization data format for use with the Encrypted Media Extensions [ENCRYPTED-MEDIA]. This format is commonly used with the ISO Common Encryption ('cenc') Protection Scheme for ISO Base Media File Format Stream Format [EME-STREAM-REGISTRY]."
   },
   {
     "url": "https://www.w3.org/TR/eme-initdata-webm/",
@@ -38148,7 +38293,8 @@
         "status": "Note",
         "date": "2016-05-10"
       }
-    ]
+    ],
+    "abstract": "This specification defines the stream formats for use with the Encrypted Media Extensions [ENCRYPTED-MEDIA]."
   },
   {
     "url": "https://www.w3.org/TR/eme-stream-mp4/",
@@ -38247,7 +38393,8 @@
         "status": "Draft Note",
         "date": "2024-07-23"
       }
-    ]
+    ],
+    "abstract": "This document describes and prioritises gaps for the support of the Cyrillic script on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, such as HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders."
   },
   {
     "url": "https://www.w3.org/TR/mse-byte-stream-format-isobmff/",
@@ -38751,7 +38898,8 @@
         "status": "First Public Working Draft",
         "date": "2016-04-07"
       }
-    ]
+    ],
+    "abstract": "This document defines a generic reporting framework which allows web developers to associate a set of named reporting endpoints with an origin. Various platform features can use these endpoints to deliver feature-specific reports in a consistent manner."
   },
   {
     "url": "https://www.w3.org/TR/css-conditional-3/",
@@ -39580,7 +39728,8 @@
         "status": "Working Draft",
         "date": "2012-10-18"
       }
-    ]
+    ],
+    "abstract": "The Push API enables sending of a push message to a web application via a push service. An application server can send a push message at any time, even when a web application or user agent is inactive. The push service ensures reliable and efficient delivery to the user agent. Push messages are delivered to a Service Worker that runs in the origin of the web application, which can use the information in the message to update local state or display a notification to the user."
   },
   {
     "url": "https://www.w3.org/TR/css-cascade-6/",
@@ -39604,7 +39753,8 @@
         "status": "First Public Working Draft",
         "date": "2021-12-21"
       }
-    ]
+    ],
+    "abstract": "This CSS module describes how to collate style rules and assign values to all properties on all elements. By way of cascading and inheritance, values are propagated for all properties on all elements."
   },
   {
     "url": "https://www.w3.org/TR/epub-a11y-exemption/",
@@ -48233,7 +48383,8 @@
         "status": "First Public Working Draft",
         "date": "2021-08-31"
       }
-    ]
+    ],
+    "abstract": "Depth Sensing API is a module extending the capabilities of WebXR Device API. It enables apps to obtain depth information computed by supported XR devices in order to provide more immersive experiences. The example use cases of depth sensing API include (but are not limited to) simulating physical interactions of virtual objects with the real world, occlusion, and non-visual applications that can make use of increased awareness of users' environment."
   },
   {
     "url": "https://www.w3.org/TR/webxr-dom-overlays-1/",
@@ -48762,7 +48913,8 @@
         "status": "First Public Working Draft",
         "date": "2016-09-13"
       }
-    ]
+    ],
+    "abstract": "This specification defines a concrete sensor interface to monitor the rate of rotation around the device’s local three primary axes."
   },
   {
     "url": "https://www.w3.org/TR/magnetometer/",
@@ -50601,7 +50753,8 @@
         "status": "First Public Working Draft",
         "date": "2019-04-16"
       }
-    ]
+    ],
+    "abstract": "This document describes the best practices for identifying the language and direction for strings used on the Web."
   },
   {
     "url": "https://www.w3.org/TR/input-events-2/",
@@ -52225,7 +52378,8 @@
         "status": "First Public Working Draft",
         "date": "2016-11-03"
       }
-    ]
+    ],
+    "abstract": "This specification defines an interface for web applications to access the complete timing information for resources in a document."
   },
   {
     "url": "https://www.w3.org/TR/css-conditional-5/",
@@ -54179,7 +54333,8 @@
         "status": "Draft Note",
         "date": "2024-07-23"
       }
-    ]
+    ],
+    "abstract": "This document points to resources for the layout and presentation of text in languages that use the Bengali script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Bengali text."
   },
   {
     "url": "https://www.w3.org/TR/cans-lreq/",
@@ -54393,7 +54548,8 @@
         "status": "Draft Note",
         "date": "2024-07-30"
       }
-    ]
+    ],
+    "abstract": "This document points to resources for the layout and presentation of text in languages that use the Greek script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Greek text."
   },
   {
     "url": "https://www.w3.org/TR/gujr-lreq/",
@@ -54877,7 +55033,8 @@
         "status": "Draft Note",
         "date": "2023-08-15"
       }
-    ]
+    ],
+    "abstract": "This document, “Guidance on Applying WCAG 2 to Non-Web Information and Communications Technologies (WCAG2ICT)” describes how the Web Content Accessibility Guidelines (WCAG) versions 2.0 [WCAG20], 2.1 [WCAG21], and 2.2 [WCAG22] principles, guidelines, and success criteria can be applied to non-web Information and Communications Technologies (ICT), specifically to non-web documents and software. It provides informative guidance (guidance that is not normative and does not set requirements)."
   },
   {
     "url": "https://www.w3.org/TR/jpan-lreq/",
@@ -55211,7 +55368,8 @@
         "status": "First Public Working Draft",
         "date": "2021-08-31"
       }
-    ]
+    ],
+    "abstract": "Secure Payment Confirmation (SPC) is a Web API to support streamlined authentication during a payment transaction. It is designed to scale authentication across merchants, to be used within a wide range of authentication protocols, and to produce cryptographic evidence that the user has confirmed transaction details."
   },
   {
     "url": "https://www.w3.org/TR/did-extensions-properties/",
@@ -55760,7 +55918,8 @@
         "status": "First Public Working Draft",
         "date": "2020-12-17"
       }
-    ]
+    ],
+    "abstract": "This document specifies an API that allows web applications to request and be notified of changes of the posture of a device."
   },
   {
     "url": "https://www.w3.org/TR/uievents-code/",
@@ -55939,7 +56098,8 @@
         "status": "First Public Working Draft",
         "date": "2020-06-16"
       }
-    ]
+    ],
+    "abstract": "This document describes and prioritises gaps for the support of Japanese on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, such as HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders."
   },
   {
     "url": "https://www.w3.org/TR/vibration/",
@@ -56768,7 +56928,8 @@
         "status": "First Public Working Draft",
         "date": "2022-12-20"
       }
-    ]
+    ],
+    "abstract": "The Compute Pressure API provides a way for websites to react to changes in the CPU pressure of the target device, such that websites can trade off resources for an improved user experience."
   },
   {
     "url": "https://www.w3.org/TR/ethical-web-principles/",
@@ -57202,7 +57363,8 @@
         "status": "First Public Working Draft",
         "date": "2024-12-17"
       }
-    ]
+    ],
+    "abstract": "This module defines additions to CSS Color 4 to enable High Dynamic Range (HDR)."
   },
   {
     "url": "https://www.w3.org/TR/css-overflow-5/",
@@ -57316,7 +57478,8 @@
         "status": "First Public Working Draft",
         "date": "2015-09-17"
       }
-    ]
+    ],
+    "abstract": "This document defines an API that web page authors can use to cooperatively schedule background tasks such that they do not introduce delays to other high priority tasks that share the same event loop, such as input processing, animations and frame compositing. The user agent is in a better position to determine when background tasks can be run without introducing user-perceptible delays or jank in animations and input response, based on its knowledge of currently scheduled tasks, vsync deadlines, user-interaction and so on. Using this API should therefore result in more appropriate scheduling of background tasks during times when the browser would otherwise be idle."
   },
   {
     "url": "https://www.w3.org/TR/css-inline-3/",
@@ -57560,7 +57723,8 @@
         "status": "First Public Working Draft",
         "date": "2021-08-26"
       }
-    ]
+    ],
+    "abstract": "Enabling users of assistive technologies to find their way through web content requires embedding semantic metadata about web document structural divisions. This is particularly important for structural divisions of long-form documents and goes along with embedding semantic metadata about web-application widgets and behaviors for assistive technologies. This specification defines a set of WAI-ARIA roles specific to helping users of assistive technologies navigate through such long-form documents."
   },
   {
     "url": "https://www.w3.org/TR/pointerevents3/",
@@ -62154,7 +62318,8 @@
         "status": "First Public Working Draft",
         "date": "2022-09-27"
       }
-    ]
+    ],
+    "abstract": "An API that allows applications to lock down powerful APIs to only accept non-spoofable, typed values in place of strings to prevent vulnerabilities caused by using these APIs with attacker-controlled inputs."
   },
   {
     "url": "https://www.w3.org/TR/permissions-policy-1/",
@@ -63143,7 +63308,8 @@
         "status": "First Public Working Draft",
         "date": "2015-04-07"
       }
-    ]
+    ],
+    "abstract": "HTML Accessibility API Mappings (HTML-AAM) defines how user agents map HTML [HTML] elements and attributes to platform accessibility application programming interfaces (APIs). It leverages and extends the Core Accessibility API Mappings 1.2 and the Accessible Name and Description Computation 1.2 for use with the HTML host language. Documenting these mappings promotes interoperable exposure of roles, states, properties, and events implemented by accessibility APIs and helps to ensure that this information appears in a manner consistent with author intent."
   },
   {
     "url": "https://www.w3.org/TR/mong-lreq/",
@@ -64057,7 +64223,8 @@
         "status": "First Public Working Draft",
         "date": "2022-10-25"
       }
-    ]
+    ],
+    "abstract": "This document describes PNG (Portable Network Graphics), an extensible file format for the lossless, portable, well-compressed storage of static and animated raster images. PNG provides a patent-free replacement for GIF and can also replace many common uses of TIFF. Indexed-color, greyscale, and truecolor images are supported, plus an optional alpha channel. Sample depths range from 1 to 16 bits."
   },
   {
     "url": "https://www.w3.org/TR/webmidi/",
@@ -64168,291 +64335,6 @@
       }
     ],
     "abstract": "Decentralized identifiers (DIDs) are a new type of identifier for verifiable, \"self-sovereign\" digital identity. DIDs are fully under the control of the DID controller, independent from any centralized registry, identity provider, or certificate authority. DIDs resolve to DID Documents — simple documents that describe how to use that specific DID."
-  },
-  {
-    "url": "https://www.w3.org/TR/CSP3/",
-    "title": "Content Security Policy Level 3",
-    "status": "Draft Standard",
-    "date": "2025-01-23",
-    "histUrl": "https://www.w3.org/standards/history/CSP3/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/WD-CSP3-20250123/",
-        "status": "Working Draft",
-        "date": "2025-01-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-CSP3-20241217/",
-        "status": "Working Draft",
-        "date": "2024-12-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-CSP3-20241206/",
-        "status": "Working Draft",
-        "date": "2024-12-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-CSP3-20241122/",
-        "status": "Working Draft",
-        "date": "2024-11-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-CSP3-20241014/",
-        "status": "Working Draft",
-        "date": "2024-10-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-CSP3-20240909/",
-        "status": "Working Draft",
-        "date": "2024-09-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-CSP3-20240618/",
-        "status": "Working Draft",
-        "date": "2024-06-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-CSP3-20240613/",
-        "status": "Working Draft",
-        "date": "2024-06-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-CSP3-20240424/",
-        "status": "Working Draft",
-        "date": "2024-04-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-CSP3-20240412/",
-        "status": "Working Draft",
-        "date": "2024-04-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-CSP3-20240221/",
-        "status": "Working Draft",
-        "date": "2024-02-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-CSP3-20240123/",
-        "status": "Working Draft",
-        "date": "2024-01-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-CSP3-20240115/",
-        "status": "Working Draft",
-        "date": "2024-01-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-CSP3-20231206/",
-        "status": "Working Draft",
-        "date": "2023-12-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-CSP3-20231030/",
-        "status": "Working Draft",
-        "date": "2023-10-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-CSP3-20230920/",
-        "status": "Working Draft",
-        "date": "2023-09-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-CSP3-20230904/",
-        "status": "Working Draft",
-        "date": "2023-09-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-CSP3-20230731/",
-        "status": "Working Draft",
-        "date": "2023-07-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-CSP3-20230727/",
-        "status": "Working Draft",
-        "date": "2023-07-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-CSP3-20230726/",
-        "status": "Working Draft",
-        "date": "2023-07-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-CSP3-20230628/",
-        "status": "Working Draft",
-        "date": "2023-06-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-CSP3-20230615/",
-        "status": "Working Draft",
-        "date": "2023-06-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-CSP3-20230503/",
-        "status": "Working Draft",
-        "date": "2023-05-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-CSP3-20230428/",
-        "status": "Working Draft",
-        "date": "2023-04-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-CSP3-20230411/",
-        "status": "Working Draft",
-        "date": "2023-04-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-CSP3-20230406/",
-        "status": "Working Draft",
-        "date": "2023-04-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-CSP3-20230220/",
-        "status": "Working Draft",
-        "date": "2023-02-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-CSP3-20230113/",
-        "status": "Working Draft",
-        "date": "2023-01-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-CSP3-20230110/",
-        "status": "Working Draft",
-        "date": "2023-01-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-CSP3-20221201/",
-        "status": "Working Draft",
-        "date": "2022-12-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-CSP3-20221014/",
-        "status": "Working Draft",
-        "date": "2022-10-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-CSP3-20221013/",
-        "status": "Working Draft",
-        "date": "2022-10-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-CSP3-20221005/",
-        "status": "Working Draft",
-        "date": "2022-10-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-CSP3-20221004/",
-        "status": "Working Draft",
-        "date": "2022-10-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-CSP3-20220916/",
-        "status": "Working Draft",
-        "date": "2022-09-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-CSP3-20210629/",
-        "status": "Working Draft",
-        "date": "2021-06-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-CSP3-20210628/",
-        "status": "Working Draft",
-        "date": "2021-06-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-CSP3-20210616/",
-        "status": "Working Draft",
-        "date": "2021-06-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-CSP3-20210604/",
-        "status": "Working Draft",
-        "date": "2021-06-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-CSP3-20210512/",
-        "status": "Working Draft",
-        "date": "2021-05-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-CSP3-20210510/",
-        "status": "Working Draft",
-        "date": "2021-05-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-CSP3-20210505/",
-        "status": "Working Draft",
-        "date": "2021-05-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-CSP3-20210416/",
-        "status": "Working Draft",
-        "date": "2021-04-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-CSP3-20210324/",
-        "status": "Working Draft",
-        "date": "2021-03-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-CSP3-20210319/",
-        "status": "Working Draft",
-        "date": "2021-03-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-CSP3-20210313/",
-        "status": "Working Draft",
-        "date": "2021-03-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-CSP3-20210310/",
-        "status": "Working Draft",
-        "date": "2021-03-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-CSP3-20181015/",
-        "status": "Working Draft",
-        "date": "2018-10-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2016/WD-CSP3-20160913/",
-        "status": "Working Draft",
-        "date": "2016-09-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2016/WD-CSP3-20160901/",
-        "status": "Working Draft",
-        "date": "2016-09-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2016/WD-CSP3-20160818/",
-        "status": "Working Draft",
-        "date": "2016-08-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2016/WD-CSP3-20160801/",
-        "status": "Working Draft",
-        "date": "2016-08-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2016/WD-CSP3-20160621/",
-        "status": "Working Draft",
-        "date": "2016-06-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2016/WD-CSP3-20160425/",
-        "status": "Working Draft",
-        "date": "2016-04-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2016/WD-CSP3-20160126/",
-        "status": "First Public Working Draft",
-        "date": "2016-01-26"
-      }
-    ],
-    "abstract": "This document defines a mechanism by which web developers can control the resources which a particular page can fetch or execute, as well as a number of security-relevant policy decisions."
   },
   {
     "url": "https://www.w3.org/TR/epub-overview-33/",
@@ -65896,7 +65778,8 @@
         "status": "First Public Working Draft",
         "date": "2015-02-10"
       }
-    ]
+    ],
+    "abstract": "This document defines how a user's display, or parts thereof, can be used as the source of a media stream using getDisplayMedia, an extension to the Media Capture API [GETUSERMEDIA]."
   },
   {
     "url": "https://www.w3.org/TR/WGSL/",
@@ -70195,7 +70078,8 @@
         "status": "First Public Working Draft",
         "date": "2021-04-08"
       }
-    ]
+    ],
+    "abstract": "This specification defines interfaces to codecs for encoding and decoding of audio, video, and images."
   },
   {
     "url": "https://www.w3.org/TR/vc-di-bbs/",
@@ -71569,7 +71453,8 @@
         "status": "First Public Working Draft",
         "date": "2021-06-22"
       }
-    ]
+    ],
+    "abstract": "This document describes a dedicated low-level API for neural network inference hardware acceleration."
   },
   {
     "url": "https://www.w3.org/TR/webdriver2/",
@@ -71958,7 +71843,8 @@
         "status": "First Public Working Draft",
         "date": "2024-11-21"
       }
-    ]
+    ],
+    "abstract": "This document defines the BiDirectional WebDriver Protocol, a mechanism for remote control of user agents."
   },
   {
     "url": "https://www.w3.org/TR/webgpu/",
@@ -74716,101 +74602,6 @@
     "abstract": "This specification describes Data Integrity cryptographic suites for use when creating or verifying a digital signature using the the Ed25519 instantiation of the Edwards-Curve Digital Signature Algorithm (EdDSA)."
   },
   {
-    "url": "https://www.w3.org/TR/network-error-logging/",
-    "title": "Network Error Logging",
-    "status": "Draft Standard",
-    "date": "2025-02-03",
-    "histUrl": "https://www.w3.org/standards/history/network-error-logging/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/WD-network-error-logging-20250203/",
-        "status": "Working Draft",
-        "date": "2025-02-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-network-error-logging-20231005/",
-        "status": "Working Draft",
-        "date": "2023-10-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-network-error-logging-20231003/",
-        "status": "Working Draft",
-        "date": "2023-10-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-network-error-logging-1-20230929/",
-        "status": "Working Draft",
-        "date": "2023-09-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-network-error-logging-1-20230927/",
-        "status": "Working Draft",
-        "date": "2023-09-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-network-error-logging-1-20180925/",
-        "status": "Working Draft",
-        "date": "2018-09-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2016/NOTE-network-error-logging-20160720/",
-        "status": "Note",
-        "date": "2016-07-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2016/NOTE-network-error-logging-20160524/",
-        "status": "Retired",
-        "date": "2016-05-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2016/WD-network-error-logging-20160225/",
-        "status": "Working Draft",
-        "date": "2016-02-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2016/WD-network-error-logging-20160204/",
-        "status": "Working Draft",
-        "date": "2016-02-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2015/WD-network-error-logging-20151027/",
-        "status": "Working Draft",
-        "date": "2015-10-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2015/WD-network-error-logging-20150929/",
-        "status": "Working Draft",
-        "date": "2015-09-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2015/WD-network-error-logging-20150916/",
-        "status": "Working Draft",
-        "date": "2015-09-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2015/WD-network-error-logging-20150423/",
-        "status": "Working Draft",
-        "date": "2015-04-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2015/WD-network-error-logging-20150422/",
-        "status": "Working Draft",
-        "date": "2015-04-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2015/WD-network-error-logging-20150305/",
-        "status": "Working Draft",
-        "date": "2015-03-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2014/WD-navigation-error-logging-20140211/",
-        "status": "First Public Working Draft",
-        "date": "2014-02-11"
-      }
-    ],
-    "abstract": "This document defines a mechanism that enables developers to declare a network error reporting policy for a web application. A user agent can use this policy to report encountered network errors that prevented it from successfully fetching requested resources."
-  },
-  {
     "url": "https://www.w3.org/TR/vc-data-integrity/",
     "title": "Verifiable Credential Data Integrity 1.0",
     "status": "Candidate Standard",
@@ -75439,5 +75230,395 @@
       }
     ],
     "abstract": "Among other things, the [VC-DATA-MODEL-2.0] specifies the models used for Verifiable Credentials, Verifiable Presentations, and explains the relationships between three parties: issuers, holders, and verifiers. Verifiability, extensibility, and semantic interoperability are critical pieces of functionality referenced throughout the [VC-DATA-MODEL-2.0]. This specification provides a mechanism to make use of a Credential Schema in Verifiable Credential, leveraging the existing Data Schemas concept."
+  },
+  {
+    "url": "https://www.w3.org/TR/network-error-logging/",
+    "title": "Network Error Logging",
+    "status": "Draft Standard",
+    "date": "2025-02-05",
+    "histUrl": "https://www.w3.org/standards/history/network-error-logging/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/WD-network-error-logging-20250205/",
+        "status": "Working Draft",
+        "date": "2025-02-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-network-error-logging-20250203/",
+        "status": "Working Draft",
+        "date": "2025-02-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-network-error-logging-20231005/",
+        "status": "Working Draft",
+        "date": "2023-10-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-network-error-logging-20231003/",
+        "status": "Working Draft",
+        "date": "2023-10-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-network-error-logging-1-20230929/",
+        "status": "Working Draft",
+        "date": "2023-09-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-network-error-logging-1-20230927/",
+        "status": "Working Draft",
+        "date": "2023-09-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-network-error-logging-1-20180925/",
+        "status": "Working Draft",
+        "date": "2018-09-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/NOTE-network-error-logging-20160720/",
+        "status": "Note",
+        "date": "2016-07-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/NOTE-network-error-logging-20160524/",
+        "status": "Retired",
+        "date": "2016-05-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/WD-network-error-logging-20160225/",
+        "status": "Working Draft",
+        "date": "2016-02-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/WD-network-error-logging-20160204/",
+        "status": "Working Draft",
+        "date": "2016-02-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2015/WD-network-error-logging-20151027/",
+        "status": "Working Draft",
+        "date": "2015-10-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2015/WD-network-error-logging-20150929/",
+        "status": "Working Draft",
+        "date": "2015-09-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2015/WD-network-error-logging-20150916/",
+        "status": "Working Draft",
+        "date": "2015-09-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2015/WD-network-error-logging-20150423/",
+        "status": "Working Draft",
+        "date": "2015-04-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2015/WD-network-error-logging-20150422/",
+        "status": "Working Draft",
+        "date": "2015-04-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2015/WD-network-error-logging-20150305/",
+        "status": "Working Draft",
+        "date": "2015-03-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2014/WD-navigation-error-logging-20140211/",
+        "status": "First Public Working Draft",
+        "date": "2014-02-11"
+      }
+    ],
+    "abstract": "This document defines a mechanism that enables developers to declare a network error reporting policy for a web application. A user agent can use this policy to report encountered network errors that prevented it from successfully fetching requested resources."
+  },
+  {
+    "url": "https://www.w3.org/TR/CSP3/",
+    "title": "Content Security Policy Level 3",
+    "status": "Draft Standard",
+    "date": "2025-02-06",
+    "histUrl": "https://www.w3.org/standards/history/CSP3/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/WD-CSP3-20250206/",
+        "status": "Working Draft",
+        "date": "2025-02-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-CSP3-20250123/",
+        "status": "Working Draft",
+        "date": "2025-01-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-CSP3-20241217/",
+        "status": "Working Draft",
+        "date": "2024-12-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-CSP3-20241206/",
+        "status": "Working Draft",
+        "date": "2024-12-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-CSP3-20241122/",
+        "status": "Working Draft",
+        "date": "2024-11-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-CSP3-20241014/",
+        "status": "Working Draft",
+        "date": "2024-10-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-CSP3-20240909/",
+        "status": "Working Draft",
+        "date": "2024-09-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-CSP3-20240618/",
+        "status": "Working Draft",
+        "date": "2024-06-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-CSP3-20240613/",
+        "status": "Working Draft",
+        "date": "2024-06-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-CSP3-20240424/",
+        "status": "Working Draft",
+        "date": "2024-04-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-CSP3-20240412/",
+        "status": "Working Draft",
+        "date": "2024-04-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-CSP3-20240221/",
+        "status": "Working Draft",
+        "date": "2024-02-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-CSP3-20240123/",
+        "status": "Working Draft",
+        "date": "2024-01-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-CSP3-20240115/",
+        "status": "Working Draft",
+        "date": "2024-01-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-CSP3-20231206/",
+        "status": "Working Draft",
+        "date": "2023-12-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-CSP3-20231030/",
+        "status": "Working Draft",
+        "date": "2023-10-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-CSP3-20230920/",
+        "status": "Working Draft",
+        "date": "2023-09-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-CSP3-20230904/",
+        "status": "Working Draft",
+        "date": "2023-09-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-CSP3-20230731/",
+        "status": "Working Draft",
+        "date": "2023-07-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-CSP3-20230727/",
+        "status": "Working Draft",
+        "date": "2023-07-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-CSP3-20230726/",
+        "status": "Working Draft",
+        "date": "2023-07-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-CSP3-20230628/",
+        "status": "Working Draft",
+        "date": "2023-06-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-CSP3-20230615/",
+        "status": "Working Draft",
+        "date": "2023-06-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-CSP3-20230503/",
+        "status": "Working Draft",
+        "date": "2023-05-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-CSP3-20230428/",
+        "status": "Working Draft",
+        "date": "2023-04-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-CSP3-20230411/",
+        "status": "Working Draft",
+        "date": "2023-04-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-CSP3-20230406/",
+        "status": "Working Draft",
+        "date": "2023-04-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-CSP3-20230220/",
+        "status": "Working Draft",
+        "date": "2023-02-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-CSP3-20230113/",
+        "status": "Working Draft",
+        "date": "2023-01-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-CSP3-20230110/",
+        "status": "Working Draft",
+        "date": "2023-01-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-CSP3-20221201/",
+        "status": "Working Draft",
+        "date": "2022-12-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-CSP3-20221014/",
+        "status": "Working Draft",
+        "date": "2022-10-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-CSP3-20221013/",
+        "status": "Working Draft",
+        "date": "2022-10-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-CSP3-20221005/",
+        "status": "Working Draft",
+        "date": "2022-10-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-CSP3-20221004/",
+        "status": "Working Draft",
+        "date": "2022-10-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-CSP3-20220916/",
+        "status": "Working Draft",
+        "date": "2022-09-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-CSP3-20210629/",
+        "status": "Working Draft",
+        "date": "2021-06-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-CSP3-20210628/",
+        "status": "Working Draft",
+        "date": "2021-06-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-CSP3-20210616/",
+        "status": "Working Draft",
+        "date": "2021-06-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-CSP3-20210604/",
+        "status": "Working Draft",
+        "date": "2021-06-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-CSP3-20210512/",
+        "status": "Working Draft",
+        "date": "2021-05-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-CSP3-20210510/",
+        "status": "Working Draft",
+        "date": "2021-05-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-CSP3-20210505/",
+        "status": "Working Draft",
+        "date": "2021-05-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-CSP3-20210416/",
+        "status": "Working Draft",
+        "date": "2021-04-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-CSP3-20210324/",
+        "status": "Working Draft",
+        "date": "2021-03-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-CSP3-20210319/",
+        "status": "Working Draft",
+        "date": "2021-03-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-CSP3-20210313/",
+        "status": "Working Draft",
+        "date": "2021-03-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-CSP3-20210310/",
+        "status": "Working Draft",
+        "date": "2021-03-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-CSP3-20181015/",
+        "status": "Working Draft",
+        "date": "2018-10-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/WD-CSP3-20160913/",
+        "status": "Working Draft",
+        "date": "2016-09-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/WD-CSP3-20160901/",
+        "status": "Working Draft",
+        "date": "2016-09-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/WD-CSP3-20160818/",
+        "status": "Working Draft",
+        "date": "2016-08-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/WD-CSP3-20160801/",
+        "status": "Working Draft",
+        "date": "2016-08-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/WD-CSP3-20160621/",
+        "status": "Working Draft",
+        "date": "2016-06-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/WD-CSP3-20160425/",
+        "status": "Working Draft",
+        "date": "2016-04-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/WD-CSP3-20160126/",
+        "status": "First Public Working Draft",
+        "date": "2016-01-26"
+      }
+    ],
+    "abstract": "This document defines a mechanism by which web developers can control the resources which a particular page can fetch or execute, as well as a number of security-relevant policy decisions."
   }
 ]
