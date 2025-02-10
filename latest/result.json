@@ -60647,61 +60647,6 @@
     "abstract": "The Resource Description Framework (RDF) is a general-purpose language for representing information in the Web."
   },
   {
-    "url": "https://www.w3.org/TR/vc-overview/",
-    "title": "Verifiable Credentials Overview",
-    "status": "Note",
-    "date": "2025-01-09",
-    "histUrl": "https://www.w3.org/standards/history/vc-overview/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/NOTE-vc-overview-20250109/",
-        "status": "Note",
-        "date": "2025-01-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/NOTE-vc-overview-20250103/",
-        "status": "Note",
-        "date": "2025-01-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/NOTE-vc-overview-20241220/",
-        "status": "Note",
-        "date": "2024-12-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/NOTE-vc-overview-20241108/",
-        "status": "Note",
-        "date": "2024-11-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/NOTE-vc-overview-20241022/",
-        "status": "Note",
-        "date": "2024-10-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/NOTE-vc-overview-20241014/",
-        "status": "Note",
-        "date": "2024-10-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/NOTE-vc-overview-20240919/",
-        "status": "Note",
-        "date": "2024-09-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/NOTE-vc-overview-20240706/",
-        "status": "Note",
-        "date": "2024-07-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/NOTE-vc-overview-20240613/",
-        "status": "Note",
-        "date": "2024-06-13"
-      }
-    ],
-    "abstract": "Credentials are a part of our daily lives; driver's licenses are used to assert that we are capable of operating a motor vehicle, university degrees can be used to assert our level of education, and government-issued passports enable us to travel between countries. The family of W3C Recommendations for Verifiable Credentials, described in this overview document, provides a mechanism to express these sorts of credentials on the Web in a way that is cryptographically secure, privacy respecting, and machine-verifiable."
-  },
-  {
     "url": "https://www.w3.org/TR/IndexedDB-3/",
     "title": "Indexed Database API 3.0",
     "status": "Draft Standard",
@@ -75690,5 +75635,60 @@
       }
     ],
     "abstract": "Shading language for WebGPU."
+  },
+  {
+    "url": "https://www.w3.org/TR/vc-overview/",
+    "title": "Verifiable Credentials Overview",
+    "status": "Note",
+    "date": "2025-02-10",
+    "histUrl": "https://www.w3.org/standards/history/vc-overview/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/NOTE-vc-overview-20250109/",
+        "status": "Note",
+        "date": "2025-01-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/NOTE-vc-overview-20250103/",
+        "status": "Note",
+        "date": "2025-01-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/NOTE-vc-overview-20241220/",
+        "status": "Note",
+        "date": "2024-12-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/NOTE-vc-overview-20241108/",
+        "status": "Note",
+        "date": "2024-11-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/NOTE-vc-overview-20241022/",
+        "status": "Note",
+        "date": "2024-10-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/NOTE-vc-overview-20241014/",
+        "status": "Note",
+        "date": "2024-10-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/NOTE-vc-overview-20240919/",
+        "status": "Note",
+        "date": "2024-09-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/NOTE-vc-overview-20240706/",
+        "status": "Note",
+        "date": "2024-07-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/NOTE-vc-overview-20240613/",
+        "status": "Note",
+        "date": "2024-06-13"
+      }
+    ],
+    "abstract": "Credentials are a part of our daily lives; driver's licenses are used to assert that we are capable of operating a motor vehicle, university degrees can be used to assert our level of education, and government-issued passports enable us to travel between countries. The family of W3C Recommendations for Verifiable Credentials, described in this overview document, provides a mechanism to express these sorts of credentials on the Web in a way that is cryptographically secure, privacy respecting, and machine-verifiable."
   }
 ]
