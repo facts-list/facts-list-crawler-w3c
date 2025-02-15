@@ -33037,26 +33037,6 @@
     "abstract": "This document describes a formal information model and a common representation for a Web of Things (WoT) Thing Description 1.1. A Thing Description describes the metadata and interfaces of Things, where a Thing is an abstraction of a physical or virtual entity that provides interactions to and participates in the Web of Things. Thing Descriptions provide a set of interactions based on a small vocabulary that makes it possible both to integrate diverse devices and to allow diverse applications to interoperate. Thing Descriptions, by default, are encoded in a JSON format that also allows JSON-LD processing. The latter provides a powerful foundation to represent knowledge about Things in a machine-understandable way. A Thing Description instance can be hosted by the Thing itself or hosted externally when a Thing has resource restrictions (e.g., limited memory space) or when a Web of Things-compatible legacy device is retrofitted with a Thing Description. Furthermore, this document introduces the Thing Model, which allows authors to describe only the model or class of an Internet of Things (IoT) entity. Thing Models can be seen as a template for Thing Description instances, but with reduced constraints such as no or few requirements for specific communication metadata."
   },
   {
-    "url": "https://www.w3.org/TR/localizable-manifests/",
-    "title": "Developing Localizable Manifests",
-    "status": "Draft Note",
-    "date": "2023-12-06",
-    "histUrl": "https://www.w3.org/standards/history/localizable-manifests/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-localizable-manifests-20231206/",
-        "status": "Draft Note",
-        "date": "2023-12-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-localizable-manifests-20210824/",
-        "status": "First Public Working Draft",
-        "date": "2021-08-24"
-      }
-    ],
-    "abstract": "This document provides definitions and best practices related to the specification of manifest files and similar document formats on the Web."
-  },
-  {
     "url": "https://www.w3.org/TR/css-2023/",
     "title": "CSS Snapshot 2023",
     "status": "Note",
@@ -37150,66 +37130,6 @@
       }
     ],
     "abstract": "This document describes and prioritises gaps for the support of the Tamil script on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, such as HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders."
-  },
-  {
-    "url": "https://www.w3.org/TR/gujr-gap/",
-    "title": "Gujarati Gap Analysis",
-    "status": "Draft Note",
-    "date": "2024-07-10",
-    "histUrl": "https://www.w3.org/standards/history/gujr-gap/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-gujr-gap-20240710/",
-        "status": "Draft Note",
-        "date": "2024-07-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-gujr-gap-20240704/",
-        "status": "Draft Note",
-        "date": "2024-07-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-gujr-gap-20240702/",
-        "status": "Draft Note",
-        "date": "2024-07-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-gujr-gap-20231004/",
-        "status": "Draft Note",
-        "date": "2023-10-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-gujr-gap-20230614/",
-        "status": "Draft Note",
-        "date": "2023-06-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-gujr-gap-20220119/",
-        "status": "Draft Note",
-        "date": "2022-01-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-gujr-gap-20210525/",
-        "status": "Working Draft",
-        "date": "2021-05-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-gujr-gap-20210217/",
-        "status": "Working Draft",
-        "date": "2021-02-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-gujr-gap-20210127/",
-        "status": "Working Draft",
-        "date": "2021-01-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-gujr-gap-20200616/",
-        "status": "First Public Working Draft",
-        "date": "2020-06-16"
-      }
-    ],
-    "abstract": "This document describes and prioritises gaps for the support of the Gujarati script on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, such as HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders."
   },
   {
     "url": "https://www.w3.org/TR/guru-gap/",
@@ -59857,46 +59777,6 @@
     "abstract": "This document defines a mechanism by which web developers can control the resources which a particular page can fetch or execute, as well as a number of security-relevant policy decisions."
   },
   {
-    "url": "https://www.w3.org/TR/did-resolution/",
-    "title": "Decentralized Identifier Resolution (DID Resolution) v0.3",
-    "status": "Draft Standard",
-    "date": "2025-02-06",
-    "histUrl": "https://www.w3.org/standards/history/did-resolution/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20250206/",
-        "status": "Working Draft",
-        "date": "2025-02-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20250122/",
-        "status": "Working Draft",
-        "date": "2025-01-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20250115/",
-        "status": "Working Draft",
-        "date": "2025-01-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-did-resolution-20241212/",
-        "status": "Working Draft",
-        "date": "2024-12-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-did-resolution-20241203/",
-        "status": "Working Draft",
-        "date": "2024-12-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-did-resolution-20241128/",
-        "status": "First Public Working Draft",
-        "date": "2024-11-28"
-      }
-    ],
-    "abstract": "Decentralized identifiers (DIDs) are a new type of identifier for verifiable, \"self-sovereign\" digital identity. DIDs are fully under the control of the DID controller, independent from any centralized registry, identity provider, or certificate authority. DIDs resolve to DID Documents — simple documents that describe how to use that specific DID."
-  },
-  {
     "url": "https://www.w3.org/TR/rdf12-semantics/",
     "title": "RDF 1.2 Semantics",
     "status": "Draft Standard",
@@ -60042,96 +59922,6 @@
     "abstract": "This document describes SPARQL 1.2 Update, an update language for RDF graphs. It uses a syntax derived from the SPARQL Query Language for RDF. Update operations are performed on a collection of graphs in a Graph Store. Operations are provided to update, create, and remove RDF graphs in a Graph Store."
   },
   {
-    "url": "https://www.w3.org/TR/beng-gap/",
-    "title": "Bengali Gap Analysis",
-    "status": "Draft Note",
-    "date": "2025-02-07",
-    "histUrl": "https://www.w3.org/standards/history/beng-gap/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/DNOTE-beng-gap-20250207/",
-        "status": "Draft Note",
-        "date": "2025-02-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-beng-gap-20240920/",
-        "status": "Draft Note",
-        "date": "2024-09-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-beng-gap-20240710/",
-        "status": "Draft Note",
-        "date": "2024-07-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-beng-gap-20240704/",
-        "status": "Draft Note",
-        "date": "2024-07-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-beng-gap-20240701/",
-        "status": "Draft Note",
-        "date": "2024-07-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-beng-gap-20231004/",
-        "status": "Draft Note",
-        "date": "2023-10-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-beng-gap-20230830/",
-        "status": "Draft Note",
-        "date": "2023-08-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-beng-gap-20230614/",
-        "status": "Draft Note",
-        "date": "2023-06-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/DNOTE-beng-gap-20211215/",
-        "status": "Draft Note",
-        "date": "2021-12-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-beng-gap-20210525/",
-        "status": "Working Draft",
-        "date": "2021-05-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-beng-gap-20210331/",
-        "status": "Working Draft",
-        "date": "2021-03-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-beng-gap-20210330/",
-        "status": "Working Draft",
-        "date": "2021-03-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-beng-gap-20210217/",
-        "status": "Working Draft",
-        "date": "2021-02-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-beng-gap-20210210/",
-        "status": "Working Draft",
-        "date": "2021-02-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-beng-gap-20210126/",
-        "status": "Working Draft",
-        "date": "2021-01-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-beng-gap-20200616/",
-        "status": "First Public Working Draft",
-        "date": "2020-06-16"
-      }
-    ],
-    "abstract": "This document describes and prioritises gaps for the support of the Bengali script on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, such as HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders."
-  },
-  {
     "url": "https://www.w3.org/TR/css-grid-3/",
     "title": "CSS Grid Layout Module Level 3",
     "status": "Draft Standard",
@@ -60155,91 +59945,6 @@
       }
     ],
     "abstract": "This module introduces masonry layout as an additional layout mode for CSS Grid containers."
-  },
-  {
-    "url": "https://www.w3.org/TR/deva-gap/",
-    "title": "Devanagari Gap Analysis",
-    "status": "Draft Note",
-    "date": "2025-02-07",
-    "histUrl": "https://www.w3.org/standards/history/deva-gap/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/DNOTE-deva-gap-20250207/",
-        "status": "Draft Note",
-        "date": "2025-02-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-deva-gap-20240920/",
-        "status": "Draft Note",
-        "date": "2024-09-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-deva-gap-20240710/",
-        "status": "Draft Note",
-        "date": "2024-07-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-deva-gap-20240704/",
-        "status": "Draft Note",
-        "date": "2024-07-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-deva-gap-20240701/",
-        "status": "Draft Note",
-        "date": "2024-07-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-deva-gap-20231004/",
-        "status": "Draft Note",
-        "date": "2023-10-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-deva-gap-20230830/",
-        "status": "Draft Note",
-        "date": "2023-08-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-deva-gap-20230614/",
-        "status": "Draft Note",
-        "date": "2023-06-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-deva-gap-20220119/",
-        "status": "Draft Note",
-        "date": "2022-01-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-deva-gap-20210525/",
-        "status": "Working Draft",
-        "date": "2021-05-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-deva-gap-20210331/",
-        "status": "Working Draft",
-        "date": "2021-03-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-deva-gap-20210330/",
-        "status": "Working Draft",
-        "date": "2021-03-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-deva-gap-20210217/",
-        "status": "Working Draft",
-        "date": "2021-02-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-deva-gap-20210126/",
-        "status": "Working Draft",
-        "date": "2021-01-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-deva-gap-20200616/",
-        "status": "First Public Working Draft",
-        "date": "2020-06-16"
-      }
-    ],
-    "abstract": "This document describes and prioritises gaps for the support of the Devanagari script on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, such as HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders."
   },
   {
     "url": "https://www.w3.org/TR/appmanifest/",
@@ -64060,366 +63765,6 @@
       }
     ],
     "abstract": "RDF is a directed, labeled graph data model for representing information in the Web. This specification defines the syntax and semantics of the SPARQL Query Language for RDF. SPARQL can be used to express queries across diverse data sources, whether the data is stored natively as RDF or viewed as RDF via middleware. SPARQL contains capabilities for querying required and optional graph patterns along with their conjunctions and disjunctions. SPARQL also supports aggregation, subqueries, negation, creating values by expressions, extensible value testing, and constraining queries by source RDF graph. The results of SPARQL queries can be result sets or RDF graphs."
-  },
-  {
-    "url": "https://www.w3.org/TR/vc-data-integrity/",
-    "title": "Verifiable Credential Data Integrity 1.0",
-    "status": "Candidate Standard",
-    "date": "2025-02-10",
-    "histUrl": "https://www.w3.org/standards/history/vc-data-integrity/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/CRD-vc-data-integrity-20250210/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2025-02-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/CRD-vc-data-integrity-20250203/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2025-02-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/CRD-vc-data-integrity-20250202/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2025-02-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/CRD-vc-data-integrity-20250126/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2025-01-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/CRD-vc-data-integrity-20250118/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2025-01-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/CRD-vc-data-integrity-20250106/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2025-01-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CR-vc-data-integrity-20241219/",
-        "status": "Candidate Recommendation Snapshot",
-        "date": "2024-12-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20241214/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-12-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20241213/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-12-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20241117/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-11-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20241019/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-10-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20241015/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-10-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20241014/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-10-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20241002/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-10-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20240930/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-09-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20240919/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-09-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20240916/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-09-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20240803/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-08-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20240730/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-07-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20240729/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-07-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20240727/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-07-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20240725/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-07-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20240721/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-07-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20240709/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-07-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20240620/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-06-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20240614/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-06-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20240609/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-06-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20240605/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-06-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20240428/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-04-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20240315/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-03-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20240303/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-03-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20240225/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-02-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20240224/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-02-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-vc-data-integrity-20231210/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-12-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CR-vc-data-integrity-20231121/",
-        "status": "Candidate Recommendation Snapshot",
-        "date": "2023-11-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20231021/",
-        "status": "Working Draft",
-        "date": "2023-10-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20231017/",
-        "status": "Working Draft",
-        "date": "2023-10-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20231013/",
-        "status": "Working Draft",
-        "date": "2023-10-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20231012/",
-        "status": "Working Draft",
-        "date": "2023-10-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230925/",
-        "status": "Working Draft",
-        "date": "2023-09-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230918/",
-        "status": "Working Draft",
-        "date": "2023-09-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230902/",
-        "status": "Working Draft",
-        "date": "2023-09-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230831/",
-        "status": "Working Draft",
-        "date": "2023-08-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230826/",
-        "status": "Working Draft",
-        "date": "2023-08-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230824/",
-        "status": "Working Draft",
-        "date": "2023-08-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230819/",
-        "status": "Working Draft",
-        "date": "2023-08-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230818/",
-        "status": "Working Draft",
-        "date": "2023-08-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230812/",
-        "status": "Working Draft",
-        "date": "2023-08-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230810/",
-        "status": "Working Draft",
-        "date": "2023-08-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230806/",
-        "status": "Working Draft",
-        "date": "2023-08-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230805/",
-        "status": "Working Draft",
-        "date": "2023-08-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230731/",
-        "status": "Working Draft",
-        "date": "2023-07-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230713/",
-        "status": "Working Draft",
-        "date": "2023-07-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230709/",
-        "status": "Working Draft",
-        "date": "2023-07-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230705/",
-        "status": "Working Draft",
-        "date": "2023-07-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230704/",
-        "status": "Working Draft",
-        "date": "2023-07-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230630/",
-        "status": "Working Draft",
-        "date": "2023-06-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230528/",
-        "status": "Working Draft",
-        "date": "2023-05-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230515/",
-        "status": "Working Draft",
-        "date": "2023-05-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230428/",
-        "status": "Working Draft",
-        "date": "2023-04-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230420/",
-        "status": "Working Draft",
-        "date": "2023-04-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230408/",
-        "status": "Working Draft",
-        "date": "2023-04-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230317/",
-        "status": "Working Draft",
-        "date": "2023-03-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230305/",
-        "status": "Working Draft",
-        "date": "2023-03-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230304/",
-        "status": "Working Draft",
-        "date": "2023-03-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230226/",
-        "status": "Working Draft",
-        "date": "2023-02-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230225/",
-        "status": "Working Draft",
-        "date": "2023-02-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230211/",
-        "status": "Working Draft",
-        "date": "2023-02-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230128/",
-        "status": "Working Draft",
-        "date": "2023-01-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-vc-data-integrity-20221110/",
-        "status": "First Public Working Draft",
-        "date": "2022-11-10"
-      }
-    ],
-    "abstract": "This specification describes mechanisms for ensuring the authenticity and integrity of verifiable credentials and similar types of constrained digital documents using cryptography, especially through the use of digital signatures and related mathematical proofs."
   },
   {
     "url": "https://www.w3.org/TR/webdriver2/",
@@ -74677,12 +74022,1317 @@
     "abstract": "This specification defines an interface to help web developers measure the performance of their applications by giving them access to high precision timestamps."
   },
   {
+    "url": "https://www.w3.org/TR/webrtc-encoded-transform/",
+    "title": "WebRTC Encoded Transform",
+    "status": "Draft Standard",
+    "date": "2025-02-13",
+    "histUrl": "https://www.w3.org/standards/history/webrtc-encoded-transform/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webrtc-encoded-transform-20250213/",
+        "status": "Working Draft",
+        "date": "2025-02-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-webrtc-encoded-transform-20240419/",
+        "status": "Working Draft",
+        "date": "2024-04-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-webrtc-encoded-transform-20231212/",
+        "status": "Working Draft",
+        "date": "2023-12-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-webrtc-encoded-transform-20231207/",
+        "status": "Working Draft",
+        "date": "2023-12-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-webrtc-encoded-transform-20231012/",
+        "status": "Working Draft",
+        "date": "2023-10-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-webrtc-encoded-transform-20231009/",
+        "status": "Working Draft",
+        "date": "2023-10-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-webrtc-encoded-transform-20231004/",
+        "status": "Working Draft",
+        "date": "2023-10-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-webrtc-encoded-transform-20230922/",
+        "status": "Working Draft",
+        "date": "2023-09-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-webrtc-encoded-transform-20230727/",
+        "status": "Working Draft",
+        "date": "2023-07-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-webrtc-encoded-transform-20230713/",
+        "status": "Working Draft",
+        "date": "2023-07-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-webrtc-encoded-transform-20230629/",
+        "status": "Working Draft",
+        "date": "2023-06-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-webrtc-encoded-transform-20230602/",
+        "status": "Working Draft",
+        "date": "2023-06-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-webrtc-encoded-transform-20230428/",
+        "status": "Working Draft",
+        "date": "2023-04-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-webrtc-encoded-transform-20230427/",
+        "status": "Working Draft",
+        "date": "2023-04-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-webrtc-encoded-transform-20230131/",
+        "status": "Working Draft",
+        "date": "2023-01-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webrtc-encoded-transform-20221208/",
+        "status": "Working Draft",
+        "date": "2022-12-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webrtc-encoded-transform-20221020/",
+        "status": "Working Draft",
+        "date": "2022-10-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webrtc-encoded-transform-20220929/",
+        "status": "Working Draft",
+        "date": "2022-09-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webrtc-encoded-transform-20220706/",
+        "status": "Working Draft",
+        "date": "2022-07-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webrtc-encoded-transform-20220519/",
+        "status": "Working Draft",
+        "date": "2022-05-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webrtc-encoded-transform-20220130/",
+        "status": "Working Draft",
+        "date": "2022-01-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webrtc-encoded-transform-20220127/",
+        "status": "Working Draft",
+        "date": "2022-01-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-webrtc-encoded-transform-20211207/",
+        "status": "Working Draft",
+        "date": "2021-12-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-webrtc-encoded-transform-20210921/",
+        "status": "First Public Working Draft",
+        "date": "2021-09-21"
+      }
+    ],
+    "abstract": "This API defines an API surface for manipulating the bits on MediaStreamTracks being sent via an RTCPeerConnection."
+  },
+  {
+    "url": "https://www.w3.org/TR/beng-gap/",
+    "title": "Bengali Gap Analysis",
+    "status": "Draft Note",
+    "date": "2025-02-14",
+    "histUrl": "https://www.w3.org/standards/history/beng-gap/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/DNOTE-beng-gap-20250214/",
+        "status": "Draft Note",
+        "date": "2025-02-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/DNOTE-beng-gap-20250207/",
+        "status": "Draft Note",
+        "date": "2025-02-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-beng-gap-20240920/",
+        "status": "Draft Note",
+        "date": "2024-09-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-beng-gap-20240710/",
+        "status": "Draft Note",
+        "date": "2024-07-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-beng-gap-20240704/",
+        "status": "Draft Note",
+        "date": "2024-07-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-beng-gap-20240701/",
+        "status": "Draft Note",
+        "date": "2024-07-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-beng-gap-20231004/",
+        "status": "Draft Note",
+        "date": "2023-10-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-beng-gap-20230830/",
+        "status": "Draft Note",
+        "date": "2023-08-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-beng-gap-20230614/",
+        "status": "Draft Note",
+        "date": "2023-06-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/DNOTE-beng-gap-20211215/",
+        "status": "Draft Note",
+        "date": "2021-12-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-beng-gap-20210525/",
+        "status": "Working Draft",
+        "date": "2021-05-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-beng-gap-20210331/",
+        "status": "Working Draft",
+        "date": "2021-03-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-beng-gap-20210330/",
+        "status": "Working Draft",
+        "date": "2021-03-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-beng-gap-20210217/",
+        "status": "Working Draft",
+        "date": "2021-02-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-beng-gap-20210210/",
+        "status": "Working Draft",
+        "date": "2021-02-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-beng-gap-20210126/",
+        "status": "Working Draft",
+        "date": "2021-01-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-beng-gap-20200616/",
+        "status": "First Public Working Draft",
+        "date": "2020-06-16"
+      }
+    ],
+    "abstract": "This document describes and prioritises gaps for the support of the Bengali script on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, such as HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders."
+  },
+  {
+    "url": "https://www.w3.org/TR/did-resolution/",
+    "title": "Decentralized Identifier Resolution (DID Resolution) v0.3",
+    "status": "Draft Standard",
+    "date": "2025-02-14",
+    "histUrl": "https://www.w3.org/standards/history/did-resolution/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20250214/",
+        "status": "Working Draft",
+        "date": "2025-02-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20250206/",
+        "status": "Working Draft",
+        "date": "2025-02-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20250122/",
+        "status": "Working Draft",
+        "date": "2025-01-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20250115/",
+        "status": "Working Draft",
+        "date": "2025-01-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-did-resolution-20241212/",
+        "status": "Working Draft",
+        "date": "2024-12-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-did-resolution-20241203/",
+        "status": "Working Draft",
+        "date": "2024-12-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-did-resolution-20241128/",
+        "status": "First Public Working Draft",
+        "date": "2024-11-28"
+      }
+    ],
+    "abstract": "Decentralized identifiers (DIDs) are a new type of identifier for verifiable, \"self-sovereign\" digital identity. DIDs are fully under the control of the DID controller, independent from any centralized registry, identity provider, or certificate authority. DIDs resolve to DID Documents — simple documents that describe how to use that specific DID."
+  },
+  {
+    "url": "https://www.w3.org/TR/deva-gap/",
+    "title": "Devanagari Gap Analysis",
+    "status": "Draft Note",
+    "date": "2025-02-14",
+    "histUrl": "https://www.w3.org/standards/history/deva-gap/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/DNOTE-deva-gap-20250214/",
+        "status": "Draft Note",
+        "date": "2025-02-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/DNOTE-deva-gap-20250207/",
+        "status": "Draft Note",
+        "date": "2025-02-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-deva-gap-20240920/",
+        "status": "Draft Note",
+        "date": "2024-09-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-deva-gap-20240710/",
+        "status": "Draft Note",
+        "date": "2024-07-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-deva-gap-20240704/",
+        "status": "Draft Note",
+        "date": "2024-07-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-deva-gap-20240701/",
+        "status": "Draft Note",
+        "date": "2024-07-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-deva-gap-20231004/",
+        "status": "Draft Note",
+        "date": "2023-10-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-deva-gap-20230830/",
+        "status": "Draft Note",
+        "date": "2023-08-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-deva-gap-20230614/",
+        "status": "Draft Note",
+        "date": "2023-06-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-deva-gap-20220119/",
+        "status": "Draft Note",
+        "date": "2022-01-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-deva-gap-20210525/",
+        "status": "Working Draft",
+        "date": "2021-05-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-deva-gap-20210331/",
+        "status": "Working Draft",
+        "date": "2021-03-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-deva-gap-20210330/",
+        "status": "Working Draft",
+        "date": "2021-03-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-deva-gap-20210217/",
+        "status": "Working Draft",
+        "date": "2021-02-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-deva-gap-20210126/",
+        "status": "Working Draft",
+        "date": "2021-01-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-deva-gap-20200616/",
+        "status": "First Public Working Draft",
+        "date": "2020-06-16"
+      }
+    ],
+    "abstract": "This document describes and prioritises gaps for the support of the Devanagari script on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, such as HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders."
+  },
+  {
+    "url": "https://www.w3.org/TR/localizable-manifests/",
+    "title": "Developing Localizable Manifests",
+    "status": "Note",
+    "date": "2025-02-14",
+    "histUrl": "https://www.w3.org/standards/history/localizable-manifests/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/NOTE-localizable-manifests-20250214/",
+        "status": "Note",
+        "date": "2025-02-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-localizable-manifests-20231206/",
+        "status": "Draft Note",
+        "date": "2023-12-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-localizable-manifests-20210824/",
+        "status": "First Public Working Draft",
+        "date": "2021-08-24"
+      }
+    ],
+    "abstract": "This document provides definitions and best practices related to the specification of manifest files and similar document formats on the Web."
+  },
+  {
+    "url": "https://www.w3.org/TR/gamepad/",
+    "title": "Gamepad",
+    "status": "Draft Standard",
+    "date": "2025-02-14",
+    "histUrl": "https://www.w3.org/standards/history/gamepad/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/WD-gamepad-20250214/",
+        "status": "Working Draft",
+        "date": "2025-02-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-gamepad-20240809/",
+        "status": "Working Draft",
+        "date": "2024-08-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-gamepad-20240808/",
+        "status": "Working Draft",
+        "date": "2024-08-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-gamepad-20240401/",
+        "status": "Working Draft",
+        "date": "2024-04-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-gamepad-20240330/",
+        "status": "Working Draft",
+        "date": "2024-03-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-gamepad-20240329/",
+        "status": "Working Draft",
+        "date": "2024-03-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-gamepad-20240222/",
+        "status": "Working Draft",
+        "date": "2024-02-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-gamepad-20240124/",
+        "status": "Working Draft",
+        "date": "2024-01-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-gamepad-20231005/",
+        "status": "Working Draft",
+        "date": "2023-10-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-gamepad-20230413/",
+        "status": "Working Draft",
+        "date": "2023-04-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-gamepad-20230310/",
+        "status": "Working Draft",
+        "date": "2023-03-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-gamepad-20230210/",
+        "status": "Working Draft",
+        "date": "2023-02-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-gamepad-20221209/",
+        "status": "Working Draft",
+        "date": "2022-12-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-gamepad-20221003/",
+        "status": "Working Draft",
+        "date": "2022-10-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-gamepad-20220630/",
+        "status": "Working Draft",
+        "date": "2022-06-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-gamepad-20220607/",
+        "status": "Working Draft",
+        "date": "2022-06-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-gamepad-20220603/",
+        "status": "Working Draft",
+        "date": "2022-06-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-gamepad-20220512/",
+        "status": "Working Draft",
+        "date": "2022-05-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-gamepad-20220211/",
+        "status": "Working Draft",
+        "date": "2022-02-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-gamepad-20210805/",
+        "status": "Working Draft",
+        "date": "2021-08-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-gamepad-20210803/",
+        "status": "Working Draft",
+        "date": "2021-08-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-gamepad-20210709/",
+        "status": "Working Draft",
+        "date": "2021-07-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-gamepad-20210408/",
+        "status": "Working Draft",
+        "date": "2021-04-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-gamepad-20210325/",
+        "status": "Working Draft",
+        "date": "2021-03-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-gamepad-20210317/",
+        "status": "Working Draft",
+        "date": "2021-03-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-gamepad-20201029/",
+        "status": "Working Draft",
+        "date": "2020-10-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-gamepad-20200917/",
+        "status": "Working Draft",
+        "date": "2020-09-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-gamepad-20200618/",
+        "status": "Working Draft",
+        "date": "2020-06-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-gamepad-20200225/",
+        "status": "Working Draft",
+        "date": "2020-02-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-gamepad-20200121/",
+        "status": "Working Draft",
+        "date": "2020-01-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-gamepad-20191114/",
+        "status": "Working Draft",
+        "date": "2019-11-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-gamepad-20191010/",
+        "status": "Working Draft",
+        "date": "2019-10-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-gamepad-20191003/",
+        "status": "Working Draft",
+        "date": "2019-10-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-gamepad-20191001/",
+        "status": "Working Draft",
+        "date": "2019-10-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-gamepad-20190923/",
+        "status": "Working Draft",
+        "date": "2019-09-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-gamepad-20190922/",
+        "status": "Working Draft",
+        "date": "2019-09-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-gamepad-20190920/",
+        "status": "Working Draft",
+        "date": "2019-09-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-gamepad-20190903/",
+        "status": "Working Draft",
+        "date": "2019-09-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-gamepad-20190822/",
+        "status": "Working Draft",
+        "date": "2019-08-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-gamepad-20190820/",
+        "status": "Working Draft",
+        "date": "2019-08-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-gamepad-20190814/",
+        "status": "Working Draft",
+        "date": "2019-08-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-gamepad-20190805/",
+        "status": "Working Draft",
+        "date": "2019-08-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-gamepad-20190531/",
+        "status": "Working Draft",
+        "date": "2019-05-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-gamepad-20190530/",
+        "status": "Working Draft",
+        "date": "2019-05-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-gamepad-20181214/",
+        "status": "Working Draft",
+        "date": "2018-12-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-gamepad-20181213/",
+        "status": "Working Draft",
+        "date": "2018-12-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-gamepad-20181109/",
+        "status": "Working Draft",
+        "date": "2018-11-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-gamepad-20181018/",
+        "status": "Working Draft",
+        "date": "2018-10-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-gamepad-20181017/",
+        "status": "Working Draft",
+        "date": "2018-10-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-gamepad-20181016/",
+        "status": "Working Draft",
+        "date": "2018-10-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-gamepad-20180926/",
+        "status": "Working Draft",
+        "date": "2018-09-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-gamepad-20180716/",
+        "status": "Working Draft",
+        "date": "2018-07-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-gamepad-20180508/",
+        "status": "Working Draft",
+        "date": "2018-05-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-gamepad-20180505/",
+        "status": "Working Draft",
+        "date": "2018-05-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-gamepad-20180216/",
+        "status": "Working Draft",
+        "date": "2018-02-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-gamepad-20171027/",
+        "status": "Working Draft",
+        "date": "2017-10-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-gamepad-20170726/",
+        "status": "Working Draft",
+        "date": "2017-07-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-gamepad-20170614/",
+        "status": "Working Draft",
+        "date": "2017-06-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-gamepad-20170125/",
+        "status": "Working Draft",
+        "date": "2017-01-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/WD-gamepad-20161202/",
+        "status": "Working Draft",
+        "date": "2016-12-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/WD-gamepad-20161031/",
+        "status": "Working Draft",
+        "date": "2016-10-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/WD-gamepad-20161011/",
+        "status": "Working Draft",
+        "date": "2016-10-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/WD-gamepad-20160920/",
+        "status": "Working Draft",
+        "date": "2016-09-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/WD-gamepad-20160220/",
+        "status": "Working Draft",
+        "date": "2016-02-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2015/WD-gamepad-20151217/",
+        "status": "Working Draft",
+        "date": "2015-12-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2015/WD-gamepad-20151215/",
+        "status": "Working Draft",
+        "date": "2015-12-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2015/WD-gamepad-20150429/",
+        "status": "Working Draft",
+        "date": "2015-04-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2015/WD-gamepad-20150414/",
+        "status": "Working Draft",
+        "date": "2015-04-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2014/WD-gamepad-20140225/",
+        "status": "Working Draft",
+        "date": "2014-02-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2012/WD-gamepad-20120529/",
+        "status": "Working Draft",
+        "date": "2012-05-29"
+      }
+    ],
+    "abstract": "The Gamepad specification defines a low-level interface that represents gamepad devices."
+  },
+  {
+    "url": "https://www.w3.org/TR/gujr-gap/",
+    "title": "Gujarati Gap Analysis",
+    "status": "Draft Note",
+    "date": "2025-02-14",
+    "histUrl": "https://www.w3.org/standards/history/gujr-gap/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/DNOTE-gujr-gap-20250214/",
+        "status": "Draft Note",
+        "date": "2025-02-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-gujr-gap-20240710/",
+        "status": "Draft Note",
+        "date": "2024-07-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-gujr-gap-20240704/",
+        "status": "Draft Note",
+        "date": "2024-07-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-gujr-gap-20240702/",
+        "status": "Draft Note",
+        "date": "2024-07-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-gujr-gap-20231004/",
+        "status": "Draft Note",
+        "date": "2023-10-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-gujr-gap-20230614/",
+        "status": "Draft Note",
+        "date": "2023-06-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-gujr-gap-20220119/",
+        "status": "Draft Note",
+        "date": "2022-01-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-gujr-gap-20210525/",
+        "status": "Working Draft",
+        "date": "2021-05-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-gujr-gap-20210217/",
+        "status": "Working Draft",
+        "date": "2021-02-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-gujr-gap-20210127/",
+        "status": "Working Draft",
+        "date": "2021-01-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-gujr-gap-20200616/",
+        "status": "First Public Working Draft",
+        "date": "2020-06-16"
+      }
+    ],
+    "abstract": "This document describes and prioritises gaps for the support of the Gujarati script on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, such as HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders."
+  },
+  {
+    "url": "https://www.w3.org/TR/media-capabilities/",
+    "title": "Media Capabilities",
+    "status": "Draft Standard",
+    "date": "2025-02-14",
+    "histUrl": "https://www.w3.org/standards/history/media-capabilities/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/WD-media-capabilities-20250214/",
+        "status": "Working Draft",
+        "date": "2025-02-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-media-capabilities-20250212/",
+        "status": "Working Draft",
+        "date": "2025-02-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-media-capabilities-20241007/",
+        "status": "Working Draft",
+        "date": "2024-10-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-media-capabilities-20240926/",
+        "status": "Working Draft",
+        "date": "2024-09-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-media-capabilities-20240917/",
+        "status": "Working Draft",
+        "date": "2024-09-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-media-capabilities-20240910/",
+        "status": "Working Draft",
+        "date": "2024-09-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-media-capabilities-20240808/",
+        "status": "Working Draft",
+        "date": "2024-08-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-media-capabilities-20240724/",
+        "status": "Working Draft",
+        "date": "2024-07-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-media-capabilities-20240718/",
+        "status": "Working Draft",
+        "date": "2024-07-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-media-capabilities-20240711/",
+        "status": "Working Draft",
+        "date": "2024-07-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-media-capabilities-20240704/",
+        "status": "Working Draft",
+        "date": "2024-07-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-media-capabilities-20240212/",
+        "status": "Working Draft",
+        "date": "2024-02-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-media-capabilities-20240209/",
+        "status": "Working Draft",
+        "date": "2024-02-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-media-capabilities-20221117/",
+        "status": "Working Draft",
+        "date": "2022-11-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-media-capabilities-20220803/",
+        "status": "Working Draft",
+        "date": "2022-08-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-media-capabilities-20220420/",
+        "status": "Working Draft",
+        "date": "2022-04-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-media-capabilities-20220419/",
+        "status": "Working Draft",
+        "date": "2022-04-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-media-capabilities-20220407/",
+        "status": "Working Draft",
+        "date": "2022-04-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-media-capabilities-20220405/",
+        "status": "Working Draft",
+        "date": "2022-04-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-media-capabilities-20220111/",
+        "status": "Working Draft",
+        "date": "2022-01-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-media-capabilities-20210604/",
+        "status": "Working Draft",
+        "date": "2021-06-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-media-capabilities-20210316/",
+        "status": "Working Draft",
+        "date": "2021-03-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-media-capabilities-20200130/",
+        "status": "First Public Working Draft",
+        "date": "2020-01-30"
+      }
+    ],
+    "abstract": "This specification intends to provide APIs to allow websites to make an optimal decision when picking media content for the user. The APIs will expose information about the decoding and encoding capabilities for a given format but also output capabilities to find the best match based on the device’s display."
+  },
+  {
+    "url": "https://www.w3.org/TR/vc-data-integrity/",
+    "title": "Verifiable Credential Data Integrity 1.0",
+    "status": "Candidate Standard",
+    "date": "2025-02-14",
+    "histUrl": "https://www.w3.org/standards/history/vc-data-integrity/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/CRD-vc-data-integrity-20250214/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2025-02-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/CRD-vc-data-integrity-20250210/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2025-02-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/CRD-vc-data-integrity-20250203/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2025-02-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/CRD-vc-data-integrity-20250202/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2025-02-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/CRD-vc-data-integrity-20250126/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2025-01-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/CRD-vc-data-integrity-20250118/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2025-01-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/CRD-vc-data-integrity-20250106/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2025-01-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CR-vc-data-integrity-20241219/",
+        "status": "Candidate Recommendation Snapshot",
+        "date": "2024-12-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20241214/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-12-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20241213/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-12-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20241117/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-11-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20241019/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-10-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20241015/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-10-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20241014/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-10-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20241002/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-10-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20240930/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-09-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20240919/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-09-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20240916/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-09-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20240803/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-08-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20240730/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-07-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20240729/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-07-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20240727/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-07-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20240725/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-07-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20240721/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-07-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20240709/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-07-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20240620/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-06-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20240614/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-06-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20240609/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-06-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20240605/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-06-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20240428/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-04-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20240315/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-03-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20240303/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-03-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20240225/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-02-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-data-integrity-20240224/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-02-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-vc-data-integrity-20231210/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-12-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CR-vc-data-integrity-20231121/",
+        "status": "Candidate Recommendation Snapshot",
+        "date": "2023-11-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20231021/",
+        "status": "Working Draft",
+        "date": "2023-10-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20231017/",
+        "status": "Working Draft",
+        "date": "2023-10-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20231013/",
+        "status": "Working Draft",
+        "date": "2023-10-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20231012/",
+        "status": "Working Draft",
+        "date": "2023-10-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230925/",
+        "status": "Working Draft",
+        "date": "2023-09-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230918/",
+        "status": "Working Draft",
+        "date": "2023-09-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230902/",
+        "status": "Working Draft",
+        "date": "2023-09-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230831/",
+        "status": "Working Draft",
+        "date": "2023-08-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230826/",
+        "status": "Working Draft",
+        "date": "2023-08-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230824/",
+        "status": "Working Draft",
+        "date": "2023-08-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230819/",
+        "status": "Working Draft",
+        "date": "2023-08-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230818/",
+        "status": "Working Draft",
+        "date": "2023-08-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230812/",
+        "status": "Working Draft",
+        "date": "2023-08-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230810/",
+        "status": "Working Draft",
+        "date": "2023-08-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230806/",
+        "status": "Working Draft",
+        "date": "2023-08-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230805/",
+        "status": "Working Draft",
+        "date": "2023-08-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230731/",
+        "status": "Working Draft",
+        "date": "2023-07-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230713/",
+        "status": "Working Draft",
+        "date": "2023-07-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230709/",
+        "status": "Working Draft",
+        "date": "2023-07-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230705/",
+        "status": "Working Draft",
+        "date": "2023-07-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230704/",
+        "status": "Working Draft",
+        "date": "2023-07-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230630/",
+        "status": "Working Draft",
+        "date": "2023-06-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230528/",
+        "status": "Working Draft",
+        "date": "2023-05-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230515/",
+        "status": "Working Draft",
+        "date": "2023-05-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230428/",
+        "status": "Working Draft",
+        "date": "2023-04-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230420/",
+        "status": "Working Draft",
+        "date": "2023-04-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230408/",
+        "status": "Working Draft",
+        "date": "2023-04-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230317/",
+        "status": "Working Draft",
+        "date": "2023-03-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230305/",
+        "status": "Working Draft",
+        "date": "2023-03-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230304/",
+        "status": "Working Draft",
+        "date": "2023-03-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230226/",
+        "status": "Working Draft",
+        "date": "2023-02-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230225/",
+        "status": "Working Draft",
+        "date": "2023-02-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230211/",
+        "status": "Working Draft",
+        "date": "2023-02-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-data-integrity-20230128/",
+        "status": "Working Draft",
+        "date": "2023-01-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-vc-data-integrity-20221110/",
+        "status": "First Public Working Draft",
+        "date": "2022-11-10"
+      }
+    ],
+    "abstract": "This specification describes mechanisms for ensuring the authenticity and integrity of verifiable credentials and similar types of constrained digital documents using cryptography, especially through the use of digital signatures and related mathematical proofs."
+  },
+  {
     "url": "https://www.w3.org/TR/webnn/",
     "title": "Web Neural Network API",
     "status": "Candidate Standard",
-    "date": "2025-02-13",
+    "date": "2025-02-15",
     "histUrl": "https://www.w3.org/standards/history/webnn/",
     "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/CRD-webnn-20250215/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2025-02-15"
+      },
       {
         "url": "https://www.w3.org/TR/2025/CRD-webnn-20250213/",
         "status": "Candidate Recommendation Draft",
@@ -75480,620 +76130,5 @@
       }
     ],
     "abstract": "This document describes a dedicated low-level API for neural network inference hardware acceleration."
-  },
-  {
-    "url": "https://www.w3.org/TR/webrtc-encoded-transform/",
-    "title": "WebRTC Encoded Transform",
-    "status": "Draft Standard",
-    "date": "2025-02-13",
-    "histUrl": "https://www.w3.org/standards/history/webrtc-encoded-transform/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webrtc-encoded-transform-20250213/",
-        "status": "Working Draft",
-        "date": "2025-02-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-webrtc-encoded-transform-20240419/",
-        "status": "Working Draft",
-        "date": "2024-04-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-webrtc-encoded-transform-20231212/",
-        "status": "Working Draft",
-        "date": "2023-12-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-webrtc-encoded-transform-20231207/",
-        "status": "Working Draft",
-        "date": "2023-12-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-webrtc-encoded-transform-20231012/",
-        "status": "Working Draft",
-        "date": "2023-10-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-webrtc-encoded-transform-20231009/",
-        "status": "Working Draft",
-        "date": "2023-10-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-webrtc-encoded-transform-20231004/",
-        "status": "Working Draft",
-        "date": "2023-10-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-webrtc-encoded-transform-20230922/",
-        "status": "Working Draft",
-        "date": "2023-09-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-webrtc-encoded-transform-20230727/",
-        "status": "Working Draft",
-        "date": "2023-07-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-webrtc-encoded-transform-20230713/",
-        "status": "Working Draft",
-        "date": "2023-07-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-webrtc-encoded-transform-20230629/",
-        "status": "Working Draft",
-        "date": "2023-06-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-webrtc-encoded-transform-20230602/",
-        "status": "Working Draft",
-        "date": "2023-06-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-webrtc-encoded-transform-20230428/",
-        "status": "Working Draft",
-        "date": "2023-04-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-webrtc-encoded-transform-20230427/",
-        "status": "Working Draft",
-        "date": "2023-04-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-webrtc-encoded-transform-20230131/",
-        "status": "Working Draft",
-        "date": "2023-01-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webrtc-encoded-transform-20221208/",
-        "status": "Working Draft",
-        "date": "2022-12-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webrtc-encoded-transform-20221020/",
-        "status": "Working Draft",
-        "date": "2022-10-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webrtc-encoded-transform-20220929/",
-        "status": "Working Draft",
-        "date": "2022-09-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webrtc-encoded-transform-20220706/",
-        "status": "Working Draft",
-        "date": "2022-07-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webrtc-encoded-transform-20220519/",
-        "status": "Working Draft",
-        "date": "2022-05-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webrtc-encoded-transform-20220130/",
-        "status": "Working Draft",
-        "date": "2022-01-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webrtc-encoded-transform-20220127/",
-        "status": "Working Draft",
-        "date": "2022-01-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webrtc-encoded-transform-20211207/",
-        "status": "Working Draft",
-        "date": "2021-12-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webrtc-encoded-transform-20210921/",
-        "status": "First Public Working Draft",
-        "date": "2021-09-21"
-      }
-    ],
-    "abstract": "This API defines an API surface for manipulating the bits on MediaStreamTracks being sent via an RTCPeerConnection."
-  },
-  {
-    "url": "https://www.w3.org/TR/gamepad/",
-    "title": "Gamepad",
-    "status": "Draft Standard",
-    "date": "2025-02-14",
-    "histUrl": "https://www.w3.org/standards/history/gamepad/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/WD-gamepad-20250214/",
-        "status": "Working Draft",
-        "date": "2025-02-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-gamepad-20240809/",
-        "status": "Working Draft",
-        "date": "2024-08-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-gamepad-20240808/",
-        "status": "Working Draft",
-        "date": "2024-08-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-gamepad-20240401/",
-        "status": "Working Draft",
-        "date": "2024-04-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-gamepad-20240330/",
-        "status": "Working Draft",
-        "date": "2024-03-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-gamepad-20240329/",
-        "status": "Working Draft",
-        "date": "2024-03-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-gamepad-20240222/",
-        "status": "Working Draft",
-        "date": "2024-02-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-gamepad-20240124/",
-        "status": "Working Draft",
-        "date": "2024-01-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-gamepad-20231005/",
-        "status": "Working Draft",
-        "date": "2023-10-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-gamepad-20230413/",
-        "status": "Working Draft",
-        "date": "2023-04-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-gamepad-20230310/",
-        "status": "Working Draft",
-        "date": "2023-03-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-gamepad-20230210/",
-        "status": "Working Draft",
-        "date": "2023-02-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-gamepad-20221209/",
-        "status": "Working Draft",
-        "date": "2022-12-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-gamepad-20221003/",
-        "status": "Working Draft",
-        "date": "2022-10-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-gamepad-20220630/",
-        "status": "Working Draft",
-        "date": "2022-06-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-gamepad-20220607/",
-        "status": "Working Draft",
-        "date": "2022-06-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-gamepad-20220603/",
-        "status": "Working Draft",
-        "date": "2022-06-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-gamepad-20220512/",
-        "status": "Working Draft",
-        "date": "2022-05-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-gamepad-20220211/",
-        "status": "Working Draft",
-        "date": "2022-02-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-gamepad-20210805/",
-        "status": "Working Draft",
-        "date": "2021-08-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-gamepad-20210803/",
-        "status": "Working Draft",
-        "date": "2021-08-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-gamepad-20210709/",
-        "status": "Working Draft",
-        "date": "2021-07-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-gamepad-20210408/",
-        "status": "Working Draft",
-        "date": "2021-04-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-gamepad-20210325/",
-        "status": "Working Draft",
-        "date": "2021-03-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-gamepad-20210317/",
-        "status": "Working Draft",
-        "date": "2021-03-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-gamepad-20201029/",
-        "status": "Working Draft",
-        "date": "2020-10-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-gamepad-20200917/",
-        "status": "Working Draft",
-        "date": "2020-09-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-gamepad-20200618/",
-        "status": "Working Draft",
-        "date": "2020-06-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-gamepad-20200225/",
-        "status": "Working Draft",
-        "date": "2020-02-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-gamepad-20200121/",
-        "status": "Working Draft",
-        "date": "2020-01-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-gamepad-20191114/",
-        "status": "Working Draft",
-        "date": "2019-11-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-gamepad-20191010/",
-        "status": "Working Draft",
-        "date": "2019-10-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-gamepad-20191003/",
-        "status": "Working Draft",
-        "date": "2019-10-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-gamepad-20191001/",
-        "status": "Working Draft",
-        "date": "2019-10-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-gamepad-20190923/",
-        "status": "Working Draft",
-        "date": "2019-09-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-gamepad-20190922/",
-        "status": "Working Draft",
-        "date": "2019-09-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-gamepad-20190920/",
-        "status": "Working Draft",
-        "date": "2019-09-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-gamepad-20190903/",
-        "status": "Working Draft",
-        "date": "2019-09-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-gamepad-20190822/",
-        "status": "Working Draft",
-        "date": "2019-08-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-gamepad-20190820/",
-        "status": "Working Draft",
-        "date": "2019-08-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-gamepad-20190814/",
-        "status": "Working Draft",
-        "date": "2019-08-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-gamepad-20190805/",
-        "status": "Working Draft",
-        "date": "2019-08-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-gamepad-20190531/",
-        "status": "Working Draft",
-        "date": "2019-05-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-gamepad-20190530/",
-        "status": "Working Draft",
-        "date": "2019-05-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-gamepad-20181214/",
-        "status": "Working Draft",
-        "date": "2018-12-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-gamepad-20181213/",
-        "status": "Working Draft",
-        "date": "2018-12-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-gamepad-20181109/",
-        "status": "Working Draft",
-        "date": "2018-11-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-gamepad-20181018/",
-        "status": "Working Draft",
-        "date": "2018-10-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-gamepad-20181017/",
-        "status": "Working Draft",
-        "date": "2018-10-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-gamepad-20181016/",
-        "status": "Working Draft",
-        "date": "2018-10-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-gamepad-20180926/",
-        "status": "Working Draft",
-        "date": "2018-09-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-gamepad-20180716/",
-        "status": "Working Draft",
-        "date": "2018-07-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-gamepad-20180508/",
-        "status": "Working Draft",
-        "date": "2018-05-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-gamepad-20180505/",
-        "status": "Working Draft",
-        "date": "2018-05-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-gamepad-20180216/",
-        "status": "Working Draft",
-        "date": "2018-02-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-gamepad-20171027/",
-        "status": "Working Draft",
-        "date": "2017-10-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-gamepad-20170726/",
-        "status": "Working Draft",
-        "date": "2017-07-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-gamepad-20170614/",
-        "status": "Working Draft",
-        "date": "2017-06-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-gamepad-20170125/",
-        "status": "Working Draft",
-        "date": "2017-01-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2016/WD-gamepad-20161202/",
-        "status": "Working Draft",
-        "date": "2016-12-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2016/WD-gamepad-20161031/",
-        "status": "Working Draft",
-        "date": "2016-10-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2016/WD-gamepad-20161011/",
-        "status": "Working Draft",
-        "date": "2016-10-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2016/WD-gamepad-20160920/",
-        "status": "Working Draft",
-        "date": "2016-09-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2016/WD-gamepad-20160220/",
-        "status": "Working Draft",
-        "date": "2016-02-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2015/WD-gamepad-20151217/",
-        "status": "Working Draft",
-        "date": "2015-12-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2015/WD-gamepad-20151215/",
-        "status": "Working Draft",
-        "date": "2015-12-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2015/WD-gamepad-20150429/",
-        "status": "Working Draft",
-        "date": "2015-04-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2015/WD-gamepad-20150414/",
-        "status": "Working Draft",
-        "date": "2015-04-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2014/WD-gamepad-20140225/",
-        "status": "Working Draft",
-        "date": "2014-02-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2012/WD-gamepad-20120529/",
-        "status": "Working Draft",
-        "date": "2012-05-29"
-      }
-    ],
-    "abstract": "The Gamepad specification defines a low-level interface that represents gamepad devices."
-  },
-  {
-    "url": "https://www.w3.org/TR/media-capabilities/",
-    "title": "Media Capabilities",
-    "status": "Draft Standard",
-    "date": "2025-02-14",
-    "histUrl": "https://www.w3.org/standards/history/media-capabilities/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/WD-media-capabilities-20250214/",
-        "status": "Working Draft",
-        "date": "2025-02-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-media-capabilities-20250212/",
-        "status": "Working Draft",
-        "date": "2025-02-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-media-capabilities-20241007/",
-        "status": "Working Draft",
-        "date": "2024-10-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-media-capabilities-20240926/",
-        "status": "Working Draft",
-        "date": "2024-09-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-media-capabilities-20240917/",
-        "status": "Working Draft",
-        "date": "2024-09-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-media-capabilities-20240910/",
-        "status": "Working Draft",
-        "date": "2024-09-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-media-capabilities-20240808/",
-        "status": "Working Draft",
-        "date": "2024-08-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-media-capabilities-20240724/",
-        "status": "Working Draft",
-        "date": "2024-07-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-media-capabilities-20240718/",
-        "status": "Working Draft",
-        "date": "2024-07-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-media-capabilities-20240711/",
-        "status": "Working Draft",
-        "date": "2024-07-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-media-capabilities-20240704/",
-        "status": "Working Draft",
-        "date": "2024-07-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-media-capabilities-20240212/",
-        "status": "Working Draft",
-        "date": "2024-02-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-media-capabilities-20240209/",
-        "status": "Working Draft",
-        "date": "2024-02-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-media-capabilities-20221117/",
-        "status": "Working Draft",
-        "date": "2022-11-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-media-capabilities-20220803/",
-        "status": "Working Draft",
-        "date": "2022-08-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-media-capabilities-20220420/",
-        "status": "Working Draft",
-        "date": "2022-04-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-media-capabilities-20220419/",
-        "status": "Working Draft",
-        "date": "2022-04-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-media-capabilities-20220407/",
-        "status": "Working Draft",
-        "date": "2022-04-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-media-capabilities-20220405/",
-        "status": "Working Draft",
-        "date": "2022-04-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-media-capabilities-20220111/",
-        "status": "Working Draft",
-        "date": "2022-01-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-media-capabilities-20210604/",
-        "status": "Working Draft",
-        "date": "2021-06-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-media-capabilities-20210316/",
-        "status": "Working Draft",
-        "date": "2021-03-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-media-capabilities-20200130/",
-        "status": "First Public Working Draft",
-        "date": "2020-01-30"
-      }
-    ],
-    "abstract": "This specification intends to provide APIs to allow websites to make an optimal decision when picking media content for the user. The APIs will expose information about the decoding and encoding capabilities for a given format but also output capabilities to find the best match based on the device’s display."
   }
 ]
