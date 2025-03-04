@@ -35687,36 +35687,6 @@
     "abstract": "This specification defines a well-known URL that sites can use to make their change password forms discoverable by tools. This simple affordance provides a way for software to help the user find the way to change their password."
   },
   {
-    "url": "https://www.w3.org/TR/capture-handle-identity/",
-    "title": "Capture Handle - Bootstrapping Collaboration when Screensharing",
-    "status": "Draft Standard",
-    "date": "2024-06-05",
-    "histUrl": "https://www.w3.org/standards/history/capture-handle-identity/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-capture-handle-identity-20240605/",
-        "status": "Working Draft",
-        "date": "2024-06-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-capture-handle-identity-20220706/",
-        "status": "Working Draft",
-        "date": "2022-07-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-capture-handle-identity-20220519/",
-        "status": "Working Draft",
-        "date": "2022-05-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-capture-handle-identity-20220510/",
-        "status": "First Public Working Draft",
-        "date": "2022-05-10"
-      }
-    ],
-    "abstract": "This document proposes a mechanism by which an application APP can opt-in to exposing certain information with another application CAPTR, if CAPTR is screen-capturing the tab in which APP is running. It describes a mechanism for tab capture only."
-  },
-  {
     "url": "https://www.w3.org/TR/webxr-hand-input-1/",
     "title": "WebXR Hand Input Module - Level 1",
     "status": "Draft Standard",
@@ -75480,5 +75450,40 @@
       }
     ],
     "abstract": "This specification defines how to secure credentials and presentations conforming to the Verifiable Credential data model [VC-DATA-MODEL-2.0] with JSON Object Signing and Encryption (JOSE), Selective Disclosure for JWTs [SD-JWT], and CBOR Object Signing and Encryption (COSE) [RFC9052]. This enables the Verifiable Credential data model [VC-DATA-MODEL-2.0] to be implemented with standards for signing and encryption that are widely adopted."
+  },
+  {
+    "url": "https://www.w3.org/TR/capture-handle-identity/",
+    "title": "Capture Handle - Bootstrapping Collaboration when Screensharing",
+    "status": "Draft Standard",
+    "date": "2025-03-03",
+    "histUrl": "https://www.w3.org/standards/history/capture-handle-identity/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/WD-capture-handle-identity-20250303/",
+        "status": "Working Draft",
+        "date": "2025-03-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-capture-handle-identity-20240605/",
+        "status": "Working Draft",
+        "date": "2024-06-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-capture-handle-identity-20220706/",
+        "status": "Working Draft",
+        "date": "2022-07-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-capture-handle-identity-20220519/",
+        "status": "Working Draft",
+        "date": "2022-05-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-capture-handle-identity-20220510/",
+        "status": "First Public Working Draft",
+        "date": "2022-05-10"
+      }
+    ],
+    "abstract": "This document proposes a mechanism by which an application APP can opt-in to exposing certain information with another application CAPTR, if CAPTR is screen-capturing the tab in which APP is running. It describes a mechanism for tab capture only."
   }
 ]
