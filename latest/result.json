@@ -8270,6 +8270,126 @@
     "abstract": "This document identifies the issues surrounding use of transforming proxies in the delivery of Web content. It does not comment on the techniques that cause these issues, it merely identifies them in order to inform the requirements of the Content Transformation Guidelines document. That document is to offer recommendations as to how components of the delivery context can cooperate to achieve, at a minimum, a functional user experience."
   },
   {
+    "url": "https://www.w3.org/TR/REC-PICS-labels/",
+    "title": "PICS 1.1 Label Distribution -- Label Syntax and Communication Protocols",
+    "status": "Standard",
+    "date": "2009-11-24",
+    "histUrl": "https://www.w3.org/standards/history/REC-PICS-labels/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2009/REC-PICS-labels-20091124/",
+        "status": "Recommendation",
+        "date": "2009-11-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/REC-PICS-labels-961031",
+        "status": "Recommendation",
+        "date": "1996-10-31"
+      }
+    ],
+    "abstract": "This document has been prepared for the technical subcommittee of PICS (Platform for Internet Content Selection). It defines a general format for labels and three methods by which these labels may be transmitted:"
+  },
+  {
+    "url": "https://www.w3.org/TR/REC-PICS-services/",
+    "title": "PICS 1.1 Rating Services and Rating Systems -- and Their Machine Readable Descriptions",
+    "status": "Standard",
+    "date": "2009-11-24",
+    "histUrl": "https://www.w3.org/standards/history/REC-PICS-services/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2009/REC-PICS-services-20091124/",
+        "status": "Recommendation",
+        "date": "2009-11-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/REC-PICS-services-961031",
+        "status": "Recommendation",
+        "date": "1996-10-31"
+      }
+    ],
+    "abstract": "This document, which has been prepared for the technical subcommittee of PICS (Platform for Internet Content Selection), defines a language for describing rating services. Software programs will read service descriptions written in this language, in order to interpret content labels and assist end-users in configuring selection software."
+  },
+  {
+    "url": "https://www.w3.org/TR/REC-DSig-label/",
+    "title": "PICS Signed Labels (DSig) 1.0 Specification",
+    "status": "Standard",
+    "date": "2009-11-24",
+    "histUrl": "https://www.w3.org/standards/history/REC-DSig-label/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2009/REC-DSig-label-20091124/",
+        "status": "Recommendation",
+        "date": "2009-11-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/1998/REC-DSig-label-19980527/",
+        "status": "Recommendation",
+        "date": "1998-05-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/1998/PR-DSig-label-19980403/",
+        "status": "Proposed Recommendation",
+        "date": "1998-04-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/PR-DSig-label-971111",
+        "status": "Proposed Recommendation",
+        "date": "1997-11-11"
+      },
+      {
+        "url": "https://www.w3.org/pub/WWW/TR/WD-DSIG-label-971111.html",
+        "status": "Working Draft",
+        "date": "1997-11-11"
+      },
+      {
+        "url": "https://www.w3.org/pub/WWW/TR/WD-DSIG-label-971024.html",
+        "status": "Working Draft",
+        "date": "1997-10-24"
+      },
+      {
+        "url": "https://www.w3.org/pub/WWW/TR/WD-DSIG-label-970605.html",
+        "status": "Working Draft",
+        "date": "1997-06-05"
+      },
+      {
+        "url": "https://www.w3.org/pub/WWW/TR/WD-DSIG-label-970523.html",
+        "status": "Working Draft",
+        "date": "1997-05-23"
+      },
+      {
+        "url": "https://www.w3.org/pub/WWW/TR/WD-DSIG-label-970516.html",
+        "status": "Working Draft",
+        "date": "1997-05-16"
+      }
+    ],
+    "abstract": "signer believes statement about information resource"
+  },
+  {
+    "url": "https://www.w3.org/TR/REC-PICSRules/",
+    "title": "PICSRules 1.1 Specification",
+    "status": "Standard",
+    "date": "2009-11-24",
+    "histUrl": "https://www.w3.org/standards/history/REC-PICSRules/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2009/REC-PICSRules-20091124/",
+        "status": "Recommendation",
+        "date": "2009-11-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/REC-PICSRules-971229",
+        "status": "Recommendation",
+        "date": "1997-12-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/REC-PICSRules-971222",
+        "status": "Recommendation",
+        "date": "1997-12-22"
+      }
+    ],
+    "abstract": "This document assumes that the reader has a working knowledge of PICS-1.1. All labels referred to here are assumed to be PICS-1.1 compliant labels. See references [PicsServices] and [PicsLabels] for details."
+  },
+  {
     "url": "https://www.w3.org/TR/mw4d-roadmap/",
     "title": "Mobile Web for Social Development Roadmap",
     "status": "Note",
@@ -23029,6 +23149,46 @@
     "abstract": "This document is a practical guide for developers on how to add accessibility information to HTML elements using the Accessible Rich Internet Applications specification [WAI-ARIA-1.1], which defines a way to make Web content and Web applications more accessible to people with disabilities. This document demonstrates how to use WAI-ARIA in [HTML51], which especially helps with dynamic content and advanced user interface controls developed with Ajax, HTML, JavaScript, and related technologies."
   },
   {
+    "url": "https://www.w3.org/TR/graphics-aam-1.0/",
+    "title": "Graphics Accessibility API Mappings",
+    "status": "Standard",
+    "date": "2018-10-02",
+    "histUrl": "https://www.w3.org/standards/history/graphics-aam-1.0/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2018/REC-graphics-aam-1.0-20181002/",
+        "status": "Recommendation",
+        "date": "2018-10-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/PR-graphics-aam-1.0-20180626/",
+        "status": "Proposed Recommendation",
+        "date": "2018-06-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/CR-graphics-aam-1.0-20180419/",
+        "status": "Candidate Recommendation Snapshot",
+        "date": "2018-04-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/CR-graphics-aam-1.0-20180329/",
+        "status": "Candidate Recommendation Snapshot",
+        "date": "2018-03-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-graphics-aam-1.0-20180202/",
+        "status": "Working Draft",
+        "date": "2018-02-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/WD-graphics-aam-1.0-20160908/",
+        "status": "First Public Working Draft",
+        "date": "2016-09-08"
+      }
+    ],
+    "abstract": "The Graphics Accessibility API Mappings defines how user agents map the WAI-ARIA Graphics Module [GRAPHICS-ARIA-1.0] markup to platform accessibility APIs. It is intended for user agent developers responsible for accessibility in their user agent so that they can support the accessibility of graphics such as that created for [SVG] or [HTML52]."
+  },
+  {
     "url": "https://www.w3.org/TR/graphics-aria-1.0/",
     "title": "WAI-ARIA Graphics Module",
     "status": "Standard",
@@ -23242,6 +23402,106 @@
       }
     ],
     "abstract": "Selectors are patterns that match against elements in a tree, and as such form one of several technologies that can be used to select nodes in an XML document. Selectors have been optimized for use with HTML and XML, and are designed to be usable in performance-critical code."
+  },
+  {
+    "url": "https://www.w3.org/TR/ttml1/",
+    "title": "Timed Text Markup Language 1 (TTML1) (Third Edition)",
+    "status": "Standard",
+    "date": "2018-11-08",
+    "histUrl": "https://www.w3.org/standards/history/ttml1/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2018/REC-ttml1-20181108/",
+        "status": "Recommendation",
+        "date": "2018-11-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/PR-ttml1-20181004/",
+        "status": "Proposed Recommendation",
+        "date": "2018-10-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/CR-ttml1-20180809/",
+        "status": "Candidate Recommendation Snapshot",
+        "date": "2018-08-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/CR-ttml1-20180424/",
+        "status": "Candidate Recommendation Snapshot",
+        "date": "2018-04-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2013/REC-ttml1-20130924/",
+        "status": "Recommendation",
+        "date": "2013-09-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2013/PER-ttaf1-dfxp-20130709/",
+        "status": "Proposed Edited Recommendation",
+        "date": "2013-07-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2013/WD-ttaf1-dfxp-20130131/",
+        "status": "Working Draft",
+        "date": "2013-01-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2010/REC-ttaf1-dfxp-20101118/",
+        "status": "Recommendation",
+        "date": "2010-11-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2010/PR-ttaf1-dfxp-20100914/",
+        "status": "Proposed Recommendation",
+        "date": "2010-09-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2010/CR-ttaf1-dfxp-20100223/",
+        "status": "Candidate Recommendation Snapshot",
+        "date": "2010-02-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2009/CR-ttaf1-dfxp-20090924/",
+        "status": "Candidate Recommendation Snapshot",
+        "date": "2009-09-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2009/WD-ttaf1-dfxp-20090602/",
+        "status": "Last Call Working Draft",
+        "date": "2009-06-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2009/WD-ttaf1-dfxp-20090511/",
+        "status": "Working Draft",
+        "date": "2009-05-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2006/CR-ttaf1-dfxp-20061116/",
+        "status": "Candidate Recommendation Snapshot",
+        "date": "2006-11-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2006/WD-ttaf1-dfxp-20060427/",
+        "status": "Last Call Working Draft",
+        "date": "2006-04-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2005/WD-ttaf1-dfxp-20050321/",
+        "status": "Last Call Working Draft",
+        "date": "2005-03-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2005/WD-ttaf1-dfxp-20050314/",
+        "status": "Working Draft",
+        "date": "2005-03-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2004/WD-ttaf1-dfxp-20041101/",
+        "status": "Working Draft",
+        "date": "2004-11-01"
+      }
+    ],
+    "abstract": "This document specifies Timed Text Markup Language (TTML), Version 1, also known as TTML1, in terms of a vocabulary and semantics thereof."
   },
   {
     "url": "https://www.w3.org/TR/ttml2/",
@@ -30427,6 +30687,61 @@
     "abstract": "This module introduces the ability to nest one style rule inside another, with the selector of the child rule relative to the selector of the parent rule. This increases the modularity and maintainability of CSS stylesheets."
   },
   {
+    "url": "https://www.w3.org/TR/css-speech-1/",
+    "title": "CSS Speech Module Level 1",
+    "status": "Candidate Standard",
+    "date": "2023-02-14",
+    "histUrl": "https://www.w3.org/standards/history/css-speech-1/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-css-speech-1-20230214/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-02-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/CR-css-speech-1-20200310/",
+        "status": "Candidate Recommendation Snapshot",
+        "date": "2020-03-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/NOTE-css3-speech-20180605/",
+        "status": "Note",
+        "date": "2018-06-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2012/CR-css3-speech-20120320/",
+        "status": "Candidate Recommendation Snapshot",
+        "date": "2012-03-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2011/WD-css3-speech-20110818/",
+        "status": "Last Call Working Draft",
+        "date": "2011-08-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2011/WD-css3-speech-20110419",
+        "status": "Working Draft",
+        "date": "2011-04-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2004/WD-css3-speech-20041216/",
+        "status": "Working Draft",
+        "date": "2004-12-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2004/WD-css3-speech-20040727",
+        "status": "Working Draft",
+        "date": "2004-07-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2003/WD-css3-speech-20030514",
+        "status": "Working Draft",
+        "date": "2003-05-14"
+      }
+    ],
+    "abstract": "The Speech module defines aural CSS properties that enable authors to declaratively control the rendering of documents via speech synthesis, and using optional audio cues. Note that this standard was developed in cooperation with the Voice Browser Activity."
+  },
+  {
     "url": "https://www.w3.org/TR/css-align-3/",
     "title": "CSS Box Alignment Module Level 3",
     "status": "Draft Standard",
@@ -30925,6 +31240,181 @@
       }
     ],
     "abstract": "This CSS module describes events and interfaces used for dynamically loading font resources."
+  },
+  {
+    "url": "https://www.w3.org/TR/server-timing/",
+    "title": "Server Timing",
+    "status": "Draft Standard",
+    "date": "2023-04-11",
+    "histUrl": "https://www.w3.org/standards/history/server-timing/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2023/WD-server-timing-20230411/",
+        "status": "Working Draft",
+        "date": "2023-04-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-server-timing-20230317/",
+        "status": "Working Draft",
+        "date": "2023-03-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-server-timing-20230303/",
+        "status": "Working Draft",
+        "date": "2023-03-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-server-timing-20220421/",
+        "status": "Working Draft",
+        "date": "2022-04-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-server-timing-20210630/",
+        "status": "Working Draft",
+        "date": "2021-06-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-server-timing-20200728/",
+        "status": "Working Draft",
+        "date": "2020-07-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-server-timing-20200430/",
+        "status": "Working Draft",
+        "date": "2020-04-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-server-timing-20200420/",
+        "status": "Working Draft",
+        "date": "2020-04-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-server-timing-20200120/",
+        "status": "Working Draft",
+        "date": "2020-01-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-server-timing-20190307/",
+        "status": "Working Draft",
+        "date": "2019-03-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-server-timing-20190122/",
+        "status": "Working Draft",
+        "date": "2019-01-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-server-timing-20181019/",
+        "status": "Working Draft",
+        "date": "2018-10-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-server-timing-20181017/",
+        "status": "Working Draft",
+        "date": "2018-10-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-server-timing-20180926/",
+        "status": "Working Draft",
+        "date": "2018-09-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-server-timing-20180717/",
+        "status": "Working Draft",
+        "date": "2018-07-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-server-timing-20171229/",
+        "status": "Working Draft",
+        "date": "2017-12-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-server-timing-20171221/",
+        "status": "Working Draft",
+        "date": "2017-12-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-server-timing-20171120/",
+        "status": "Working Draft",
+        "date": "2017-11-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-server-timing-20171102/",
+        "status": "Working Draft",
+        "date": "2017-11-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-server-timing-20171018/",
+        "status": "Working Draft",
+        "date": "2017-10-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-server-timing-20170920/",
+        "status": "Working Draft",
+        "date": "2017-09-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-server-timing-20170902/",
+        "status": "Working Draft",
+        "date": "2017-09-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-server-timing-20170828/",
+        "status": "Working Draft",
+        "date": "2017-08-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-server-timing-20170824/",
+        "status": "Working Draft",
+        "date": "2017-08-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-server-timing-20170823/",
+        "status": "Working Draft",
+        "date": "2017-08-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-server-timing-20170818/",
+        "status": "Working Draft",
+        "date": "2017-08-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-server-timing-20170726/",
+        "status": "Working Draft",
+        "date": "2017-07-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-server-timing-20170725/",
+        "status": "Working Draft",
+        "date": "2017-07-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-server-timing-20170713/",
+        "status": "Working Draft",
+        "date": "2017-07-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/NOTE-server-timing-20160523/",
+        "status": "Note",
+        "date": "2016-05-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2015/WD-server-timing-20150717/",
+        "status": "Working Draft",
+        "date": "2015-07-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2015/WD-server-timing-20150428/",
+        "status": "Working Draft",
+        "date": "2015-04-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2015/WD-server-timing-20150217/",
+        "status": "First Public Working Draft",
+        "date": "2015-02-17"
+      }
+    ],
+    "abstract": "This specification enables a server to communicate performance metrics about the request-response cycle to the user agent. It also standardizes a JavaScript interface to enable applications to collect, process, and act on these metrics to optimize application delivery."
   },
   {
     "url": "https://www.w3.org/TR/badging/",
@@ -37400,6 +37890,71 @@
       }
     ],
     "abstract": "This specification describes an imperative API enabling a website to request a user’s credentials from a user agent, and to help the user agent correctly store user credentials for future use."
+  },
+  {
+    "url": "https://www.w3.org/TR/reporting-1/",
+    "title": "Reporting API",
+    "status": "Draft Standard",
+    "date": "2024-08-13",
+    "histUrl": "https://www.w3.org/standards/history/reporting-1/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-reporting-1-20240813/",
+        "status": "Working Draft",
+        "date": "2024-08-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-reporting-1-20240809/",
+        "status": "Working Draft",
+        "date": "2024-08-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-reporting-1-20231110/",
+        "status": "Working Draft",
+        "date": "2023-11-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-reporting-1-20230512/",
+        "status": "Working Draft",
+        "date": "2023-05-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-reporting-1-20220917/",
+        "status": "Working Draft",
+        "date": "2022-09-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-reporting-1-20220916/",
+        "status": "Working Draft",
+        "date": "2022-09-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-reporting-1-20220915/",
+        "status": "Working Draft",
+        "date": "2022-09-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-reporting-1-20220405/",
+        "status": "Working Draft",
+        "date": "2022-04-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-reporting-1-20180925/",
+        "status": "Working Draft",
+        "date": "2018-09-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/NOTE-reporting-1-20160607/",
+        "status": "Note",
+        "date": "2016-06-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/WD-reporting-1-20160407/",
+        "status": "First Public Working Draft",
+        "date": "2016-04-07"
+      }
+    ],
+    "abstract": "This document defines a generic reporting framework which allows web developers to associate a set of named reporting endpoints with an origin. Various platform features can use these endpoints to deliver feature-specific reports in a consistent manner."
   },
   {
     "url": "https://www.w3.org/TR/css-conditional-3/",
@@ -45257,6 +45812,141 @@
     "abstract": "This specification describes a high-level Web API for processing and synthesizing audio in web applications. The primary paradigm is of an audio routing graph, where a number of AudioNode objects are connected together to define the overall audio rendering. The actual processing will primarily take place in the underlying implementation (typically optimized Assembly / C / C++ code), but direct script processing and synthesis is also supported."
   },
   {
+    "url": "https://www.w3.org/TR/hr-time-3/",
+    "title": "High Resolution Time",
+    "status": "Draft Standard",
+    "date": "2024-11-07",
+    "histUrl": "https://www.w3.org/standards/history/hr-time-3/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2024/WD-hr-time-3-20241107/",
+        "status": "Working Draft",
+        "date": "2024-11-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-hr-time-3-20230719/",
+        "status": "Working Draft",
+        "date": "2023-07-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-hr-time-3-20230425/",
+        "status": "Working Draft",
+        "date": "2023-04-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-hr-time-3-20230411/",
+        "status": "Working Draft",
+        "date": "2023-04-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-hr-time-3-20230322/",
+        "status": "Working Draft",
+        "date": "2023-03-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-hr-time-3-20230321/",
+        "status": "Working Draft",
+        "date": "2023-03-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-hr-time-3-20230216/",
+        "status": "Working Draft",
+        "date": "2023-02-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-hr-time-3-20230209/",
+        "status": "Working Draft",
+        "date": "2023-02-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-hr-time-3-20230116/",
+        "status": "Working Draft",
+        "date": "2023-01-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-hr-time-3-20230112/",
+        "status": "Working Draft",
+        "date": "2023-01-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-hr-time-3-20220920/",
+        "status": "Working Draft",
+        "date": "2022-09-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-hr-time-3-20220128/",
+        "status": "Working Draft",
+        "date": "2022-01-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-hr-time-3-20220117/",
+        "status": "Working Draft",
+        "date": "2022-01-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-hr-time-3-20211201/",
+        "status": "Working Draft",
+        "date": "2021-12-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-hr-time-3-20211012/",
+        "status": "Working Draft",
+        "date": "2021-10-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-hr-time-3-20211011/",
+        "status": "Working Draft",
+        "date": "2021-10-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-hr-time-3-20211010/",
+        "status": "Working Draft",
+        "date": "2021-10-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-hr-time-3-20211009/",
+        "status": "Working Draft",
+        "date": "2021-10-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-hr-time-3-20210715/",
+        "status": "Working Draft",
+        "date": "2021-07-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-hr-time-3-20210607/",
+        "status": "Working Draft",
+        "date": "2021-06-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-hr-time-3-20210324/",
+        "status": "Working Draft",
+        "date": "2021-03-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-hr-time-3-20210316/",
+        "status": "Working Draft",
+        "date": "2021-03-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-hr-time-3-20201001/",
+        "status": "First Public Working Draft",
+        "date": "2020-10-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/NOTE-hr-time-3-20170803/",
+        "status": "Note",
+        "date": "2017-08-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/WD-hr-time-3-20161031/",
+        "status": "First Public Working Draft",
+        "date": "2016-10-31"
+      }
+    ],
+    "abstract": "This specification defines an API that provides the time origin, and current time in sub-millisecond resolution, such that it is not subject to system clock skew or adjustments."
+  },
+  {
     "url": "https://www.w3.org/TR/css-values-5/",
     "title": "CSS Values and Units Module Level 5",
     "status": "Draft Standard",
@@ -51077,106 +51767,6 @@
     "abstract": "This document points to resources for the layout and presentation of text in languages that use the Mongolian script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Mongolian text."
   },
   {
-    "url": "https://www.w3.org/TR/adlm-gap/",
-    "title": "Adlam Gap Analysis",
-    "status": "Draft Note",
-    "date": "2025-01-17",
-    "histUrl": "https://www.w3.org/standards/history/adlm-gap/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/DNOTE-adlm-gap-20250117/",
-        "status": "Draft Note",
-        "date": "2025-01-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-adlm-gap-20240920/",
-        "status": "Draft Note",
-        "date": "2024-09-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-adlm-gap-20240709/",
-        "status": "Draft Note",
-        "date": "2024-07-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-adlm-gap-20240704/",
-        "status": "Draft Note",
-        "date": "2024-07-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-adlm-gap-20240701/",
-        "status": "Draft Note",
-        "date": "2024-07-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-adlm-gap-20231004/",
-        "status": "Draft Note",
-        "date": "2023-10-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-adlm-gap-20230807/",
-        "status": "Draft Note",
-        "date": "2023-08-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-adlm-gap-20230616/",
-        "status": "Draft Note",
-        "date": "2023-06-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-adlm-gap-20230614/",
-        "status": "Draft Note",
-        "date": "2023-06-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-adlm-gap-20220712/",
-        "status": "Draft Note",
-        "date": "2022-07-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-adlm-gap-20220203/",
-        "status": "Draft Note",
-        "date": "2022-02-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-adlm-gap-20220201/",
-        "status": "Draft Note",
-        "date": "2022-02-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-adlm-gap-20220128/",
-        "status": "Draft Note",
-        "date": "2022-01-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-adlm-gap-20220112/",
-        "status": "Draft Note",
-        "date": "2022-01-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/DNOTE-adlm-gap-20211202/",
-        "status": "Draft Note",
-        "date": "2021-12-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-adlm-gap-20210521/",
-        "status": "Working Draft",
-        "date": "2021-05-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-adlm-gap-20210216/",
-        "status": "Working Draft",
-        "date": "2021-02-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-adlm-gap-20210204/",
-        "status": "First Public Working Draft",
-        "date": "2021-02-04"
-      }
-    ],
-    "abstract": "This document describes and prioritises gaps for the support of the Adlam script on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, such as HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders."
-  },
-  {
     "url": "https://www.w3.org/TR/hebr-gap/",
     "title": "Hebrew Gap Analysis",
     "status": "Draft Note",
@@ -51225,111 +51815,6 @@
       }
     ],
     "abstract": "This document describes and prioritises gaps for the support of the Hebrew script on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, such as HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders."
-  },
-  {
-    "url": "https://www.w3.org/TR/nkoo-gap/",
-    "title": "N’Ko Gap Analysis",
-    "status": "Draft Note",
-    "date": "2025-01-17",
-    "histUrl": "https://www.w3.org/standards/history/nkoo-gap/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/DNOTE-nkoo-gap-20250117/",
-        "status": "Draft Note",
-        "date": "2025-01-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-nkoo-gap-20240920/",
-        "status": "Draft Note",
-        "date": "2024-09-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-nkoo-gap-20240709/",
-        "status": "Draft Note",
-        "date": "2024-07-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-nkoo-gap-20240704/",
-        "status": "Draft Note",
-        "date": "2024-07-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-nkoo-gap-20240701/",
-        "status": "Draft Note",
-        "date": "2024-07-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-nkoo-gap-20231004/",
-        "status": "Draft Note",
-        "date": "2023-10-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-nkoo-gap-20230807/",
-        "status": "Draft Note",
-        "date": "2023-08-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-nkoo-gap-20230727/",
-        "status": "Draft Note",
-        "date": "2023-07-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-nkoo-gap-20230627/",
-        "status": "Draft Note",
-        "date": "2023-06-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-nkoo-gap-20230615/",
-        "status": "Draft Note",
-        "date": "2023-06-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-nkoo-gap-20230608/",
-        "status": "Draft Note",
-        "date": "2023-06-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-nkoo-gap-20220712/",
-        "status": "Draft Note",
-        "date": "2022-07-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-nkoo-gap-20220128/",
-        "status": "Draft Note",
-        "date": "2022-01-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-nkoo-gap-20220119/",
-        "status": "Draft Note",
-        "date": "2022-01-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/DNOTE-nkoo-gap-20211202/",
-        "status": "Draft Note",
-        "date": "2021-12-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/DNOTE-nkoo-gap-20211125/",
-        "status": "Draft Note",
-        "date": "2021-11-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-nkoo-gap-20210521/",
-        "status": "Working Draft",
-        "date": "2021-05-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-nkoo-gap-20210216/",
-        "status": "Working Draft",
-        "date": "2021-02-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-nkoo-gap-20210204/",
-        "status": "First Public Working Draft",
-        "date": "2021-02-04"
-      }
-    ],
-    "abstract": "This document describes and prioritises gaps for the support of the N’Ko script on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, such as HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders."
   },
   {
     "url": "https://www.w3.org/TR/ctaur/",
@@ -56917,6 +57402,216 @@
     "abstract": "This registration is entered into the [webcodecs-codec-registry]. It describes, for AVC (H.264), the (1) fully qualified codec strings, (2) the codec-specific EncodedVideoChunk [[internal data]] bytes, (3) the VideoDecoderConfig.description bytes, (4) the values of EncodedVideoChunk [[type]], (5) the codec-specific extensions to VideoEncoderConfig, and (6) the codec-specific extensions to VideoEncoderEncodeOptions."
   },
   {
+    "url": "https://www.w3.org/TR/orientation-event/",
+    "title": "Device Orientation and Motion",
+    "status": "Candidate Standard",
+    "date": "2025-02-12",
+    "histUrl": "https://www.w3.org/standards/history/orientation-event/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/CRD-orientation-event-20250212/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2025-02-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CR-orientation-event-20241121/",
+        "status": "Candidate Recommendation Snapshot",
+        "date": "2024-11-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-orientation-event-20241024/",
+        "status": "Working Draft",
+        "date": "2024-10-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-orientation-event-20240514/",
+        "status": "Working Draft",
+        "date": "2024-05-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-orientation-event-20240509/",
+        "status": "Working Draft",
+        "date": "2024-05-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-orientation-event-20240508/",
+        "status": "Working Draft",
+        "date": "2024-05-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-orientation-event-20240507/",
+        "status": "Working Draft",
+        "date": "2024-05-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-orientation-event-20240504/",
+        "status": "Working Draft",
+        "date": "2024-05-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-orientation-event-20240503/",
+        "status": "Working Draft",
+        "date": "2024-05-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-orientation-event-20240502/",
+        "status": "Working Draft",
+        "date": "2024-05-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-orientation-event-20240411/",
+        "status": "Working Draft",
+        "date": "2024-04-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-orientation-event-20240311/",
+        "status": "Working Draft",
+        "date": "2024-03-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-orientation-event-20240305/",
+        "status": "Working Draft",
+        "date": "2024-03-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-orientation-event-20240214/",
+        "status": "Working Draft",
+        "date": "2024-02-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-orientation-event-20240202/",
+        "status": "Working Draft",
+        "date": "2024-02-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-orientation-event-20240131/",
+        "status": "Working Draft",
+        "date": "2024-01-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-orientation-event-20240130/",
+        "status": "Working Draft",
+        "date": "2024-01-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-orientation-event-20240129/",
+        "status": "Working Draft",
+        "date": "2024-01-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-orientation-event-20240122/",
+        "status": "Working Draft",
+        "date": "2024-01-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-orientation-event-20240105/",
+        "status": "Working Draft",
+        "date": "2024-01-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-orientation-event-20240104/",
+        "status": "Working Draft",
+        "date": "2024-01-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-orientation-event-20231211/",
+        "status": "Working Draft",
+        "date": "2023-12-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-orientation-event-20231205/",
+        "status": "Working Draft",
+        "date": "2023-12-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-orientation-event-20231204/",
+        "status": "Working Draft",
+        "date": "2023-12-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-orientation-event-20231113/",
+        "status": "Working Draft",
+        "date": "2023-11-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-orientation-event-20231110/",
+        "status": "Working Draft",
+        "date": "2023-11-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-orientation-event-20231107/",
+        "status": "Working Draft",
+        "date": "2023-11-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-orientation-event-20230421/",
+        "status": "Working Draft",
+        "date": "2023-04-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-orientation-event-20230412/",
+        "status": "Working Draft",
+        "date": "2023-04-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-orientation-event-20230403/",
+        "status": "Working Draft",
+        "date": "2023-04-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-orientation-event-20230322/",
+        "status": "Working Draft",
+        "date": "2023-03-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-orientation-event-20230130/",
+        "status": "Working Draft",
+        "date": "2023-01-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-orientation-event-20230109/",
+        "status": "Working Draft",
+        "date": "2023-01-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-orientation-event-20220919/",
+        "status": "Working Draft",
+        "date": "2022-09-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-orientation-event-20220610/",
+        "status": "Working Draft",
+        "date": "2022-06-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-orientation-event-20190416/",
+        "status": "Working Draft",
+        "date": "2019-04-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/NOTE-orientation-event-20170530/",
+        "status": "Note",
+        "date": "2017-05-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/CR-orientation-event-20160818/",
+        "status": "Candidate Recommendation Snapshot",
+        "date": "2016-08-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2011/WD-orientation-event-20111201/",
+        "status": "Last Call Working Draft",
+        "date": "2011-12-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2011/WD-orientation-event-20110628/",
+        "status": "Working Draft",
+        "date": "2011-06-28"
+      }
+    ],
+    "abstract": "This specification defines events that represent the physical orientation and motion of a hosting device. These events provide web applications with access to orientation and motion data. The specification is designed to be agnostic to the underlying sources of this data, aiming to achieve interoperability across different environments."
+  },
+  {
     "url": "https://www.w3.org/TR/webcodecs-flac-codec-registration/",
     "title": "FLAC WebCodecs Registration",
     "status": "Draft Note",
@@ -58015,6 +58710,116 @@
       }
     ],
     "abstract": "This document defines how a stream of media can be captured from a DOM element, such as a video, audio, or canvas element, in the form of a MediaStream [GETUSERMEDIA]."
+  },
+  {
+    "url": "https://www.w3.org/TR/network-error-logging/",
+    "title": "Network Error Logging",
+    "status": "Draft Standard",
+    "date": "2025-02-12",
+    "histUrl": "https://www.w3.org/standards/history/network-error-logging/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/WD-network-error-logging-20250212/",
+        "status": "Working Draft",
+        "date": "2025-02-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-network-error-logging-20250207/",
+        "status": "Working Draft",
+        "date": "2025-02-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-network-error-logging-20250205/",
+        "status": "Working Draft",
+        "date": "2025-02-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-network-error-logging-20250203/",
+        "status": "Working Draft",
+        "date": "2025-02-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-network-error-logging-20231005/",
+        "status": "Working Draft",
+        "date": "2023-10-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-network-error-logging-20231003/",
+        "status": "Working Draft",
+        "date": "2023-10-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-network-error-logging-1-20230929/",
+        "status": "Working Draft",
+        "date": "2023-09-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-network-error-logging-1-20230927/",
+        "status": "Working Draft",
+        "date": "2023-09-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-network-error-logging-1-20180925/",
+        "status": "Working Draft",
+        "date": "2018-09-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/NOTE-network-error-logging-20160720/",
+        "status": "Note",
+        "date": "2016-07-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/NOTE-network-error-logging-20160524/",
+        "status": "Note",
+        "date": "2016-05-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/WD-network-error-logging-20160225/",
+        "status": "Working Draft",
+        "date": "2016-02-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/WD-network-error-logging-20160204/",
+        "status": "Working Draft",
+        "date": "2016-02-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2015/WD-network-error-logging-20151027/",
+        "status": "Working Draft",
+        "date": "2015-10-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2015/WD-network-error-logging-20150929/",
+        "status": "Working Draft",
+        "date": "2015-09-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2015/WD-network-error-logging-20150916/",
+        "status": "Working Draft",
+        "date": "2015-09-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2015/WD-network-error-logging-20150423/",
+        "status": "Working Draft",
+        "date": "2015-04-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2015/WD-network-error-logging-20150422/",
+        "status": "Working Draft",
+        "date": "2015-04-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2015/WD-network-error-logging-20150305/",
+        "status": "Working Draft",
+        "date": "2015-03-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2014/WD-navigation-error-logging-20140211/",
+        "status": "First Public Working Draft",
+        "date": "2014-02-11"
+      }
+    ],
+    "abstract": "This document defines a mechanism that enables developers to declare a network error reporting policy for a web application. A user agent can use this policy to report encountered network errors that prevented it from successfully fetching requested resources."
   },
   {
     "url": "https://www.w3.org/TR/webcodecs-opus-codec-registration/",
@@ -69622,71 +70427,6 @@
     "abstract": "The features in this specification extend or modify those found in Pointer Events, a W3C Recommendation that describes events and related interfaces for handling hardware agnostic pointer input from devices including a mouse, pen, touchscreen, etc. For compatibility with existing mouse based content, this specification also describes a mapping to fire Mouse Events for other pointer device types."
   },
   {
-    "url": "https://www.w3.org/TR/design-principles/",
-    "title": "Web Platform Design Principles",
-    "status": "Note",
-    "date": "2025-02-26",
-    "histUrl": "https://www.w3.org/standards/history/design-principles/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/NOTE-design-principles-20250226/",
-        "status": "Note",
-        "date": "2025-02-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/NOTE-design-principles-20250106/",
-        "status": "Note",
-        "date": "2025-01-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/NOTE-design-principles-20240718/",
-        "status": "Note",
-        "date": "2024-07-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/NOTE-design-principles-20240130/",
-        "status": "Note",
-        "date": "2024-01-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-design-principles-20230907/",
-        "status": "Note",
-        "date": "2023-09-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-design-principles-20230426/",
-        "status": "Note",
-        "date": "2023-04-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-design-principles-20230224/",
-        "status": "Note",
-        "date": "2023-02-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-design-principles-20220824/",
-        "status": "Note",
-        "date": "2022-08-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-design-principles-20211216/",
-        "status": "Note",
-        "date": "2021-12-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-design-principles-20210923/",
-        "status": "Note",
-        "date": "2021-09-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/NOTE-design-principles-20201110/",
-        "status": "Note",
-        "date": "2020-11-10"
-      }
-    ],
-    "abstract": "This document contains a set of design principles to be used when designing web platform technologies. These principles have been collected during the Technical Architecture Group’s discussions in reviewing developing specifications, and build upon the Ethical Web Principles [ETHICAL-WEB]. We encourage specification designers to read this document and use it as a resource when making design decisions."
-  },
-  {
     "url": "https://www.w3.org/TR/did-resolution/",
     "title": "Decentralized Identifier Resolution (DID Resolution) v0.3",
     "status": "Draft Standard",
@@ -70715,126 +71455,6 @@
       }
     ],
     "abstract": "This document describes a dedicated low-level API for neural network inference hardware acceleration."
-  },
-  {
-    "url": "https://www.w3.org/TR/webdriver-bidi/",
-    "title": "WebDriver BiDi",
-    "status": "Draft Standard",
-    "date": "2025-02-27",
-    "histUrl": "https://www.w3.org/standards/history/webdriver-bidi/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250227/",
-        "status": "Working Draft",
-        "date": "2025-02-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250225/",
-        "status": "Working Draft",
-        "date": "2025-02-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250210/",
-        "status": "Working Draft",
-        "date": "2025-02-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250131/",
-        "status": "Working Draft",
-        "date": "2025-01-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250130/",
-        "status": "Working Draft",
-        "date": "2025-01-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250129/",
-        "status": "Working Draft",
-        "date": "2025-01-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250124/",
-        "status": "Working Draft",
-        "date": "2025-01-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250122/",
-        "status": "Working Draft",
-        "date": "2025-01-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250121/",
-        "status": "Working Draft",
-        "date": "2025-01-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250116/",
-        "status": "Working Draft",
-        "date": "2025-01-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250115/",
-        "status": "Working Draft",
-        "date": "2025-01-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250113/",
-        "status": "Working Draft",
-        "date": "2025-01-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250108/",
-        "status": "Working Draft",
-        "date": "2025-01-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250107/",
-        "status": "Working Draft",
-        "date": "2025-01-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250103/",
-        "status": "Working Draft",
-        "date": "2025-01-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-webdriver-bidi-20241220/",
-        "status": "Working Draft",
-        "date": "2024-12-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-webdriver-bidi-20241219/",
-        "status": "Working Draft",
-        "date": "2024-12-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-webdriver-bidi-20241218/",
-        "status": "Working Draft",
-        "date": "2024-12-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-webdriver-bidi-20241206/",
-        "status": "Working Draft",
-        "date": "2024-12-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-webdriver-bidi-20241203/",
-        "status": "Working Draft",
-        "date": "2024-12-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-webdriver-bidi-20241202/",
-        "status": "Working Draft",
-        "date": "2024-12-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-webdriver-bidi-20241121/",
-        "status": "First Public Working Draft",
-        "date": "2024-11-21"
-      }
-    ],
-    "abstract": "This document defines the BiDirectional WebDriver Protocol, a mechanism for remote control of user agents."
   },
   {
     "url": "https://www.w3.org/TR/WGSL/",
@@ -74032,191 +74652,6 @@
     "abstract": "The Digital Publishing Accessibility API Mappings (DPub-AAM) defines how user agents map the Digital Publishing WAI-ARIA Module [dpub-aria-1.1] markup to platform accessibility APIs. It is intended for user agent developers responsible for accessibility in their user agent so that they can support the accessibility content produced for digital publishing."
   },
   {
-    "url": "https://www.w3.org/TR/dpub-aria-1.1/",
-    "title": "Digital Publishing WAI-ARIA Module 1.1",
-    "status": "Candidate Standard",
-    "date": "2025-03-01",
-    "histUrl": "https://www.w3.org/standards/history/dpub-aria-1.1/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/CRD-dpub-aria-1.1-20250301/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2025-03-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/CRD-dpub-aria-1.1-20250226/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2025-02-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/CRD-dpub-aria-1.1-20250225/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2025-02-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/CRD-dpub-aria-1.1-20250212/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2025-02-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-dpub-aria-1.1-20241218/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-12-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-dpub-aria-1.1-20240621/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-06-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CR-dpub-aria-1.1-20240227/",
-        "status": "Candidate Recommendation Snapshot",
-        "date": "2024-02-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dpub-aria-1.1-20240213/",
-        "status": "Working Draft",
-        "date": "2024-02-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dpub-aria-1.1-20240123/",
-        "status": "Working Draft",
-        "date": "2024-01-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dpub-aria-1.1-20240109/",
-        "status": "Working Draft",
-        "date": "2024-01-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dpub-aria-1.1-20240108/",
-        "status": "Working Draft",
-        "date": "2024-01-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dpub-aria-1.1-20231222/",
-        "status": "Working Draft",
-        "date": "2023-12-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dpub-aria-1.1-20231213/",
-        "status": "Working Draft",
-        "date": "2023-12-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dpub-aria-1.1-20231030/",
-        "status": "Working Draft",
-        "date": "2023-10-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dpub-aria-1.1-20230902/",
-        "status": "Working Draft",
-        "date": "2023-09-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dpub-aria-1.1-20230705/",
-        "status": "Working Draft",
-        "date": "2023-07-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dpub-aria-1.1-20230703/",
-        "status": "Working Draft",
-        "date": "2023-07-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dpub-aria-1.1-20230620/",
-        "status": "Working Draft",
-        "date": "2023-06-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dpub-aria-1.1-20230619/",
-        "status": "Working Draft",
-        "date": "2023-06-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dpub-aria-1.1-20230515/",
-        "status": "Working Draft",
-        "date": "2023-05-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dpub-aria-1.1-20230222/",
-        "status": "Working Draft",
-        "date": "2023-02-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dpub-aria-1.1-20230215/",
-        "status": "Working Draft",
-        "date": "2023-02-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dpub-aria-1.1-20230202/",
-        "status": "Working Draft",
-        "date": "2023-02-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dpub-aria-1.1-20230125/",
-        "status": "Working Draft",
-        "date": "2023-01-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dpub-aria-1.1-20230124/",
-        "status": "Working Draft",
-        "date": "2023-01-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-dpub-aria-1.1-20220530/",
-        "status": "Working Draft",
-        "date": "2022-05-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-dpub-aria-1.1-20220524/",
-        "status": "Working Draft",
-        "date": "2022-05-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-dpub-aria-1.1-20220517/",
-        "status": "Working Draft",
-        "date": "2022-05-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-dpub-aria-1.1-20220511/",
-        "status": "Working Draft",
-        "date": "2022-05-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-dpub-aria-1.1-20220302/",
-        "status": "Working Draft",
-        "date": "2022-03-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-dpub-aria-1.1-20220215/",
-        "status": "Working Draft",
-        "date": "2022-02-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-dpub-aria-1.1-20220120/",
-        "status": "Working Draft",
-        "date": "2022-01-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-dpub-aria-1.1-20211203/",
-        "status": "Working Draft",
-        "date": "2021-12-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-dpub-aria-1.1-20211119/",
-        "status": "Working Draft",
-        "date": "2021-11-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-dpub-aria-1.1-20210826/",
-        "status": "First Public Working Draft",
-        "date": "2021-08-26"
-      }
-    ],
-    "abstract": "Enabling users of assistive technologies to find their way through web content requires embedding semantic metadata about web document structural divisions. This is particularly important for structural divisions of long-form documents and goes along with embedding semantic metadata about web-application widgets and behaviors for assistive technologies. This specification defines a set of WAI-ARIA roles specific to helping users of assistive technologies navigate through such long-form documents."
-  },
-  {
     "url": "https://www.w3.org/TR/html-aam-1.0/",
     "title": "HTML Accessibility API Mappings 1.0",
     "status": "Draft Standard",
@@ -75485,5 +75920,605 @@
       }
     ],
     "abstract": "This document proposes a mechanism by which an application APP can opt-in to exposing certain information with another application CAPTR, if CAPTR is screen-capturing the tab in which APP is running. It describes a mechanism for tab capture only."
+  },
+  {
+    "url": "https://www.w3.org/TR/adlm-gap/",
+    "title": "Adlam Gap Analysis",
+    "status": "Draft Note",
+    "date": "2025-03-04",
+    "histUrl": "https://www.w3.org/standards/history/adlm-gap/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/DNOTE-adlm-gap-20250304/",
+        "status": "Draft Note",
+        "date": "2025-03-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/DNOTE-adlm-gap-20250117/",
+        "status": "Draft Note",
+        "date": "2025-01-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-adlm-gap-20240920/",
+        "status": "Draft Note",
+        "date": "2024-09-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-adlm-gap-20240709/",
+        "status": "Draft Note",
+        "date": "2024-07-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-adlm-gap-20240704/",
+        "status": "Draft Note",
+        "date": "2024-07-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-adlm-gap-20240701/",
+        "status": "Draft Note",
+        "date": "2024-07-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-adlm-gap-20231004/",
+        "status": "Draft Note",
+        "date": "2023-10-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-adlm-gap-20230807/",
+        "status": "Draft Note",
+        "date": "2023-08-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-adlm-gap-20230616/",
+        "status": "Draft Note",
+        "date": "2023-06-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-adlm-gap-20230614/",
+        "status": "Draft Note",
+        "date": "2023-06-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-adlm-gap-20220712/",
+        "status": "Draft Note",
+        "date": "2022-07-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-adlm-gap-20220203/",
+        "status": "Draft Note",
+        "date": "2022-02-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-adlm-gap-20220201/",
+        "status": "Draft Note",
+        "date": "2022-02-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-adlm-gap-20220128/",
+        "status": "Draft Note",
+        "date": "2022-01-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-adlm-gap-20220112/",
+        "status": "Draft Note",
+        "date": "2022-01-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/DNOTE-adlm-gap-20211202/",
+        "status": "Draft Note",
+        "date": "2021-12-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-adlm-gap-20210521/",
+        "status": "Working Draft",
+        "date": "2021-05-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-adlm-gap-20210216/",
+        "status": "Working Draft",
+        "date": "2021-02-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-adlm-gap-20210204/",
+        "status": "First Public Working Draft",
+        "date": "2021-02-04"
+      }
+    ],
+    "abstract": "This document describes and prioritises gaps for the support of the Adlam script on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, such as HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders."
+  },
+  {
+    "url": "https://www.w3.org/TR/dpub-aria-1.1/",
+    "title": "Digital Publishing WAI-ARIA Module 1.1",
+    "status": "Candidate Standard",
+    "date": "2025-03-04",
+    "histUrl": "https://www.w3.org/standards/history/dpub-aria-1.1/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/CRD-dpub-aria-1.1-20250304/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2025-03-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/CRD-dpub-aria-1.1-20250301/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2025-03-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/CRD-dpub-aria-1.1-20250226/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2025-02-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/CRD-dpub-aria-1.1-20250225/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2025-02-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/CRD-dpub-aria-1.1-20250212/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2025-02-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-dpub-aria-1.1-20241218/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-12-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-dpub-aria-1.1-20240621/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-06-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CR-dpub-aria-1.1-20240227/",
+        "status": "Candidate Recommendation Snapshot",
+        "date": "2024-02-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dpub-aria-1.1-20240213/",
+        "status": "Working Draft",
+        "date": "2024-02-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dpub-aria-1.1-20240123/",
+        "status": "Working Draft",
+        "date": "2024-01-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dpub-aria-1.1-20240109/",
+        "status": "Working Draft",
+        "date": "2024-01-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dpub-aria-1.1-20240108/",
+        "status": "Working Draft",
+        "date": "2024-01-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dpub-aria-1.1-20231222/",
+        "status": "Working Draft",
+        "date": "2023-12-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dpub-aria-1.1-20231213/",
+        "status": "Working Draft",
+        "date": "2023-12-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dpub-aria-1.1-20231030/",
+        "status": "Working Draft",
+        "date": "2023-10-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dpub-aria-1.1-20230902/",
+        "status": "Working Draft",
+        "date": "2023-09-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dpub-aria-1.1-20230705/",
+        "status": "Working Draft",
+        "date": "2023-07-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dpub-aria-1.1-20230703/",
+        "status": "Working Draft",
+        "date": "2023-07-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dpub-aria-1.1-20230620/",
+        "status": "Working Draft",
+        "date": "2023-06-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dpub-aria-1.1-20230619/",
+        "status": "Working Draft",
+        "date": "2023-06-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dpub-aria-1.1-20230515/",
+        "status": "Working Draft",
+        "date": "2023-05-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dpub-aria-1.1-20230222/",
+        "status": "Working Draft",
+        "date": "2023-02-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dpub-aria-1.1-20230215/",
+        "status": "Working Draft",
+        "date": "2023-02-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dpub-aria-1.1-20230202/",
+        "status": "Working Draft",
+        "date": "2023-02-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dpub-aria-1.1-20230125/",
+        "status": "Working Draft",
+        "date": "2023-01-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dpub-aria-1.1-20230124/",
+        "status": "Working Draft",
+        "date": "2023-01-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-dpub-aria-1.1-20220530/",
+        "status": "Working Draft",
+        "date": "2022-05-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-dpub-aria-1.1-20220524/",
+        "status": "Working Draft",
+        "date": "2022-05-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-dpub-aria-1.1-20220517/",
+        "status": "Working Draft",
+        "date": "2022-05-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-dpub-aria-1.1-20220511/",
+        "status": "Working Draft",
+        "date": "2022-05-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-dpub-aria-1.1-20220302/",
+        "status": "Working Draft",
+        "date": "2022-03-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-dpub-aria-1.1-20220215/",
+        "status": "Working Draft",
+        "date": "2022-02-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-dpub-aria-1.1-20220120/",
+        "status": "Working Draft",
+        "date": "2022-01-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-dpub-aria-1.1-20211203/",
+        "status": "Working Draft",
+        "date": "2021-12-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-dpub-aria-1.1-20211119/",
+        "status": "Working Draft",
+        "date": "2021-11-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-dpub-aria-1.1-20210826/",
+        "status": "First Public Working Draft",
+        "date": "2021-08-26"
+      }
+    ],
+    "abstract": "Enabling users of assistive technologies to find their way through web content requires embedding semantic metadata about web document structural divisions. This is particularly important for structural divisions of long-form documents and goes along with embedding semantic metadata about web-application widgets and behaviors for assistive technologies. This specification defines a set of WAI-ARIA roles specific to helping users of assistive technologies navigate through such long-form documents."
+  },
+  {
+    "url": "https://www.w3.org/TR/nkoo-gap/",
+    "title": "N’Ko Gap Analysis",
+    "status": "Draft Note",
+    "date": "2025-03-04",
+    "histUrl": "https://www.w3.org/standards/history/nkoo-gap/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/DNOTE-nkoo-gap-20250304/",
+        "status": "Draft Note",
+        "date": "2025-03-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/DNOTE-nkoo-gap-20250117/",
+        "status": "Draft Note",
+        "date": "2025-01-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-nkoo-gap-20240920/",
+        "status": "Draft Note",
+        "date": "2024-09-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-nkoo-gap-20240709/",
+        "status": "Draft Note",
+        "date": "2024-07-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-nkoo-gap-20240704/",
+        "status": "Draft Note",
+        "date": "2024-07-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-nkoo-gap-20240701/",
+        "status": "Draft Note",
+        "date": "2024-07-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-nkoo-gap-20231004/",
+        "status": "Draft Note",
+        "date": "2023-10-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-nkoo-gap-20230807/",
+        "status": "Draft Note",
+        "date": "2023-08-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-nkoo-gap-20230727/",
+        "status": "Draft Note",
+        "date": "2023-07-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-nkoo-gap-20230627/",
+        "status": "Draft Note",
+        "date": "2023-06-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-nkoo-gap-20230615/",
+        "status": "Draft Note",
+        "date": "2023-06-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-nkoo-gap-20230608/",
+        "status": "Draft Note",
+        "date": "2023-06-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-nkoo-gap-20220712/",
+        "status": "Draft Note",
+        "date": "2022-07-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-nkoo-gap-20220128/",
+        "status": "Draft Note",
+        "date": "2022-01-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-nkoo-gap-20220119/",
+        "status": "Draft Note",
+        "date": "2022-01-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/DNOTE-nkoo-gap-20211202/",
+        "status": "Draft Note",
+        "date": "2021-12-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/DNOTE-nkoo-gap-20211125/",
+        "status": "Draft Note",
+        "date": "2021-11-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-nkoo-gap-20210521/",
+        "status": "Working Draft",
+        "date": "2021-05-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-nkoo-gap-20210216/",
+        "status": "Working Draft",
+        "date": "2021-02-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-nkoo-gap-20210204/",
+        "status": "First Public Working Draft",
+        "date": "2021-02-04"
+      }
+    ],
+    "abstract": "This document describes and prioritises gaps for the support of the N’Ko script on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, such as HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders."
+  },
+  {
+    "url": "https://www.w3.org/TR/design-principles/",
+    "title": "Web Platform Design Principles",
+    "status": "Note",
+    "date": "2025-03-04",
+    "histUrl": "https://www.w3.org/standards/history/design-principles/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/NOTE-design-principles-20250304/",
+        "status": "Note",
+        "date": "2025-03-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/NOTE-design-principles-20250226/",
+        "status": "Note",
+        "date": "2025-02-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/NOTE-design-principles-20250106/",
+        "status": "Note",
+        "date": "2025-01-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/NOTE-design-principles-20240718/",
+        "status": "Note",
+        "date": "2024-07-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/NOTE-design-principles-20240130/",
+        "status": "Note",
+        "date": "2024-01-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-design-principles-20230907/",
+        "status": "Note",
+        "date": "2023-09-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-design-principles-20230426/",
+        "status": "Note",
+        "date": "2023-04-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-design-principles-20230224/",
+        "status": "Note",
+        "date": "2023-02-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-design-principles-20220824/",
+        "status": "Note",
+        "date": "2022-08-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-design-principles-20211216/",
+        "status": "Note",
+        "date": "2021-12-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-design-principles-20210923/",
+        "status": "Note",
+        "date": "2021-09-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/NOTE-design-principles-20201110/",
+        "status": "Note",
+        "date": "2020-11-10"
+      }
+    ],
+    "abstract": "This document contains a set of design principles to be used when designing web platform technologies. These principles have been collected during the Technical Architecture Group’s discussions in reviewing developing specifications, and build upon the Ethical Web Principles [ETHICAL-WEB]. We encourage specification designers to read this document and use it as a resource when making design decisions."
+  },
+  {
+    "url": "https://www.w3.org/TR/webdriver-bidi/",
+    "title": "WebDriver BiDi",
+    "status": "Draft Standard",
+    "date": "2025-03-04",
+    "histUrl": "https://www.w3.org/standards/history/webdriver-bidi/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250304/",
+        "status": "Working Draft",
+        "date": "2025-03-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250227/",
+        "status": "Working Draft",
+        "date": "2025-02-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250225/",
+        "status": "Working Draft",
+        "date": "2025-02-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250210/",
+        "status": "Working Draft",
+        "date": "2025-02-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250131/",
+        "status": "Working Draft",
+        "date": "2025-01-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250130/",
+        "status": "Working Draft",
+        "date": "2025-01-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250129/",
+        "status": "Working Draft",
+        "date": "2025-01-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250124/",
+        "status": "Working Draft",
+        "date": "2025-01-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250122/",
+        "status": "Working Draft",
+        "date": "2025-01-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250121/",
+        "status": "Working Draft",
+        "date": "2025-01-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250116/",
+        "status": "Working Draft",
+        "date": "2025-01-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250115/",
+        "status": "Working Draft",
+        "date": "2025-01-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250113/",
+        "status": "Working Draft",
+        "date": "2025-01-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250108/",
+        "status": "Working Draft",
+        "date": "2025-01-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250107/",
+        "status": "Working Draft",
+        "date": "2025-01-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250103/",
+        "status": "Working Draft",
+        "date": "2025-01-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-webdriver-bidi-20241220/",
+        "status": "Working Draft",
+        "date": "2024-12-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-webdriver-bidi-20241219/",
+        "status": "Working Draft",
+        "date": "2024-12-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-webdriver-bidi-20241218/",
+        "status": "Working Draft",
+        "date": "2024-12-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-webdriver-bidi-20241206/",
+        "status": "Working Draft",
+        "date": "2024-12-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-webdriver-bidi-20241203/",
+        "status": "Working Draft",
+        "date": "2024-12-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-webdriver-bidi-20241202/",
+        "status": "Working Draft",
+        "date": "2024-12-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-webdriver-bidi-20241121/",
+        "status": "First Public Working Draft",
+        "date": "2024-11-21"
+      }
+    ],
+    "abstract": "This document defines the BiDirectional WebDriver Protocol, a mechanism for remote control of user agents."
   }
 ]
