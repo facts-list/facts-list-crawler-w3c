@@ -49762,186 +49762,6 @@
     "abstract": "This document describes SPARQL service description, a method for discovering, and vocabulary for describing SPARQL services made available via the SPARQL 1.2 Protocol. These descriptions provide a mechanism by which a client or end user can discover information about the SPARQL service such as supported extension functions and details about the available dataset."
   },
   {
-    "url": "https://www.w3.org/TR/dapt/",
-    "title": "Dubbing and Audio description Profiles of TTML2",
-    "status": "Draft Standard",
-    "date": "2024-12-20",
-    "histUrl": "https://www.w3.org/standards/history/dapt/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20241220/",
-        "status": "Working Draft",
-        "date": "2024-12-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20241210/",
-        "status": "Working Draft",
-        "date": "2024-12-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20241121/",
-        "status": "Working Draft",
-        "date": "2024-11-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20241114/",
-        "status": "Working Draft",
-        "date": "2024-11-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20241113/",
-        "status": "Working Draft",
-        "date": "2024-11-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20241017/",
-        "status": "Working Draft",
-        "date": "2024-10-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20241011/",
-        "status": "Working Draft",
-        "date": "2024-10-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20241010/",
-        "status": "Working Draft",
-        "date": "2024-10-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20241009/",
-        "status": "Working Draft",
-        "date": "2024-10-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20241008/",
-        "status": "Working Draft",
-        "date": "2024-10-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20240928/",
-        "status": "Working Draft",
-        "date": "2024-09-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20240916/",
-        "status": "Working Draft",
-        "date": "2024-09-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20240829/",
-        "status": "Working Draft",
-        "date": "2024-08-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20240412/",
-        "status": "Working Draft",
-        "date": "2024-04-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20240328/",
-        "status": "Working Draft",
-        "date": "2024-03-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20240301/",
-        "status": "Working Draft",
-        "date": "2024-03-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20240215/",
-        "status": "Working Draft",
-        "date": "2024-02-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20240213/",
-        "status": "Working Draft",
-        "date": "2024-02-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20240208/",
-        "status": "Working Draft",
-        "date": "2024-02-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20231221/",
-        "status": "Working Draft",
-        "date": "2023-12-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20231123/",
-        "status": "Working Draft",
-        "date": "2023-11-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20231102/",
-        "status": "Working Draft",
-        "date": "2023-11-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20231019/",
-        "status": "Working Draft",
-        "date": "2023-10-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20231013/",
-        "status": "Working Draft",
-        "date": "2023-10-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20231011/",
-        "status": "Working Draft",
-        "date": "2023-10-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20231006/",
-        "status": "Working Draft",
-        "date": "2023-10-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20230801/",
-        "status": "Working Draft",
-        "date": "2023-08-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20230727/",
-        "status": "Working Draft",
-        "date": "2023-07-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20230628/",
-        "status": "Working Draft",
-        "date": "2023-06-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20230619/",
-        "status": "Working Draft",
-        "date": "2023-06-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20230606/",
-        "status": "Working Draft",
-        "date": "2023-06-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20230505/",
-        "status": "Working Draft",
-        "date": "2023-05-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20230504/",
-        "status": "Working Draft",
-        "date": "2023-05-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20230425/",
-        "status": "First Public Working Draft",
-        "date": "2023-04-25"
-      }
-    ],
-    "abstract": "This specification defines DAPT, a TTML-based file format for the exchange of timed text content in dubbing and audio description workflows."
-  },
-  {
     "url": "https://www.w3.org/TR/permissions/",
     "title": "Permissions",
     "status": "Draft Standard",
@@ -76595,5 +76415,190 @@
       }
     ],
     "abstract": "This specification defines a JSON-based file format that provides developers with a centralized place to put metadata associated with a web application. This metadata includes, but is not limited to, the web application's name, links to icons, as well as the preferred URL to open when a user launches the web application. The manifest also allows developers to declare a default screen orientation for their web application, as well as providing the ability to set the display mode for the application (e.g., in fullscreen). Additionally, the manifest allows a developer to \"scope\" a web application to a URL. This restricts the URLs to which the manifest is applied and provides a means to \"deep link\" into a web application from other applications."
+  },
+  {
+    "url": "https://www.w3.org/TR/dapt/",
+    "title": "Dubbing and Audio description Profiles of TTML2",
+    "status": "Candidate Standard",
+    "date": "2025-03-11",
+    "histUrl": "https://www.w3.org/standards/history/dapt/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/CR-dapt-20250311/",
+        "status": "Candidate Recommendation Snapshot",
+        "date": "2025-03-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20241220/",
+        "status": "Working Draft",
+        "date": "2024-12-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20241210/",
+        "status": "Working Draft",
+        "date": "2024-12-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20241121/",
+        "status": "Working Draft",
+        "date": "2024-11-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20241114/",
+        "status": "Working Draft",
+        "date": "2024-11-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20241113/",
+        "status": "Working Draft",
+        "date": "2024-11-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20241017/",
+        "status": "Working Draft",
+        "date": "2024-10-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20241011/",
+        "status": "Working Draft",
+        "date": "2024-10-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20241010/",
+        "status": "Working Draft",
+        "date": "2024-10-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20241009/",
+        "status": "Working Draft",
+        "date": "2024-10-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20241008/",
+        "status": "Working Draft",
+        "date": "2024-10-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20240928/",
+        "status": "Working Draft",
+        "date": "2024-09-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20240916/",
+        "status": "Working Draft",
+        "date": "2024-09-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20240829/",
+        "status": "Working Draft",
+        "date": "2024-08-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20240412/",
+        "status": "Working Draft",
+        "date": "2024-04-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20240328/",
+        "status": "Working Draft",
+        "date": "2024-03-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20240301/",
+        "status": "Working Draft",
+        "date": "2024-03-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20240215/",
+        "status": "Working Draft",
+        "date": "2024-02-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20240213/",
+        "status": "Working Draft",
+        "date": "2024-02-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20240208/",
+        "status": "Working Draft",
+        "date": "2024-02-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20231221/",
+        "status": "Working Draft",
+        "date": "2023-12-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20231123/",
+        "status": "Working Draft",
+        "date": "2023-11-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20231102/",
+        "status": "Working Draft",
+        "date": "2023-11-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20231019/",
+        "status": "Working Draft",
+        "date": "2023-10-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20231013/",
+        "status": "Working Draft",
+        "date": "2023-10-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20231011/",
+        "status": "Working Draft",
+        "date": "2023-10-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20231006/",
+        "status": "Working Draft",
+        "date": "2023-10-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20230801/",
+        "status": "Working Draft",
+        "date": "2023-08-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20230727/",
+        "status": "Working Draft",
+        "date": "2023-07-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20230628/",
+        "status": "Working Draft",
+        "date": "2023-06-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20230619/",
+        "status": "Working Draft",
+        "date": "2023-06-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20230606/",
+        "status": "Working Draft",
+        "date": "2023-06-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20230505/",
+        "status": "Working Draft",
+        "date": "2023-05-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20230504/",
+        "status": "Working Draft",
+        "date": "2023-05-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20230425/",
+        "status": "First Public Working Draft",
+        "date": "2023-04-25"
+      }
+    ],
+    "abstract": "This specification defines DAPT, a TTML-based file format for the exchange of timed text content in dubbing and audio description workflows."
   }
 ]
