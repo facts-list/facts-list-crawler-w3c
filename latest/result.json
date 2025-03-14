@@ -33127,456 +33127,6 @@
     "abstract": "This module contains the features of CSS level 3 relating to the <image> type and some replaced elements. It includes and extends the functionality of CSS level 2 [CSS2]. The main extensions compared to CSS2.1 are the generalization of the <url> type to the <image> type, several additions to the <image> type, a generic sizing algorithm for images and other replaced content in CSS, definitions for interpolating several <image> types, and several properties controlling the interaction of replaced elements and CSS’s layout models."
   },
   {
-    "url": "https://www.w3.org/TR/epub-multi-rend-11/",
-    "title": "EPUB 3 Multiple-Rendition Publications 1.1",
-    "status": "Note",
-    "date": "2023-12-21",
-    "histUrl": "https://www.w3.org/standards/history/epub-multi-rend-11/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-epub-multi-rend-11-20231221/",
-        "status": "Note",
-        "date": "2023-12-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-epub-multi-rend-11-20230519/",
-        "status": "Note",
-        "date": "2023-05-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-epub-multi-rend-11-20230510/",
-        "status": "Note",
-        "date": "2023-05-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-epub-multi-rend-11-20230402/",
-        "status": "Note",
-        "date": "2023-04-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-epub-multi-rend-11-20230330/",
-        "status": "Note",
-        "date": "2023-03-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-epub-multi-rend-11-20230113/",
-        "status": "Note",
-        "date": "2023-01-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-multi-rend-11-20220810/",
-        "status": "Note",
-        "date": "2022-08-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-multi-rend-11-20220724/",
-        "status": "Note",
-        "date": "2022-07-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-multi-rend-11-20220519/",
-        "status": "Note",
-        "date": "2022-05-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-multi-rend-11-20220517/",
-        "status": "Note",
-        "date": "2022-05-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-multi-rend-11-20220420/",
-        "status": "Note",
-        "date": "2022-04-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-multi-rend-11-20220415/",
-        "status": "Note",
-        "date": "2022-04-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-multi-rend-11-20220414/",
-        "status": "Note",
-        "date": "2022-04-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-multi-rend-11-20220411/",
-        "status": "Note",
-        "date": "2022-04-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-multi-rend-11-20220406/",
-        "status": "Note",
-        "date": "2022-04-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-multi-rend-11-20220331/",
-        "status": "Note",
-        "date": "2022-03-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-multi-rend-11-20220330/",
-        "status": "Note",
-        "date": "2022-03-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-multi-rend-11-20220310/",
-        "status": "Note",
-        "date": "2022-03-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-multi-rend-11-20220118/",
-        "status": "Note",
-        "date": "2022-01-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-multi-rend-11-20211208/",
-        "status": "Note",
-        "date": "2021-12-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-multi-rend-11-20211125/",
-        "status": "Note",
-        "date": "2021-11-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-multi-rend-11-20211101/",
-        "status": "Note",
-        "date": "2021-11-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-multi-rend-11-20211013/",
-        "status": "Note",
-        "date": "2021-10-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-multi-rend-11-20210929/",
-        "status": "Note",
-        "date": "2021-09-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-multi-rend-11-20210928/",
-        "status": "Note",
-        "date": "2021-09-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-multi-rend-11-20210921/",
-        "status": "Note",
-        "date": "2021-09-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-multi-rend-11-20210914/",
-        "status": "Note",
-        "date": "2021-09-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-multi-rend-11-20210903/",
-        "status": "Note",
-        "date": "2021-09-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-multi-rend-11-20210825/",
-        "status": "Note",
-        "date": "2021-08-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-multi-rend-11-20210525/",
-        "status": "Note",
-        "date": "2021-05-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-multi-rend-11-20210112/",
-        "status": "Note",
-        "date": "2021-01-12"
-      }
-    ],
-    "abstract": "This specification, EPUB Multiple-Rendition Publications, defines the creation and rendering of EPUB® Publications consisting of more than one rendition."
-  },
-  {
-    "url": "https://www.w3.org/TR/epub-ssv-11/",
-    "title": "EPUB 3 Structural Semantics Vocabulary 1.1",
-    "status": "Note",
-    "date": "2023-12-21",
-    "histUrl": "https://www.w3.org/standards/history/epub-ssv-11/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-epub-ssv-11-20231221/",
-        "status": "Note",
-        "date": "2023-12-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-epub-ssv-11-20230519/",
-        "status": "Note",
-        "date": "2023-05-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-epub-ssv-11-20230510/",
-        "status": "Note",
-        "date": "2023-05-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-epub-ssv-11-20230402/",
-        "status": "Note",
-        "date": "2023-04-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-epub-ssv-11-20230330/",
-        "status": "Note",
-        "date": "2023-03-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-epub-ssv-11-20230113/",
-        "status": "Note",
-        "date": "2023-01-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-epub-ssv-11-20230104/",
-        "status": "Note",
-        "date": "2023-01-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-ssv-11-20220810/",
-        "status": "Note",
-        "date": "2022-08-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-ssv-11-20220724/",
-        "status": "Note",
-        "date": "2022-07-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-ssv-11-20220624/",
-        "status": "Note",
-        "date": "2022-06-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-ssv-11-20220519/",
-        "status": "Note",
-        "date": "2022-05-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-ssv-11-20220517/",
-        "status": "Note",
-        "date": "2022-05-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-ssv-11-20220420/",
-        "status": "Note",
-        "date": "2022-04-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-ssv-11-20220419/",
-        "status": "Note",
-        "date": "2022-04-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-ssv-11-20220415/",
-        "status": "Note",
-        "date": "2022-04-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-ssv-11-20220414/",
-        "status": "Note",
-        "date": "2022-04-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-ssv-11-20220411/",
-        "status": "Note",
-        "date": "2022-04-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-ssv-11-20220406/",
-        "status": "Note",
-        "date": "2022-04-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-ssv-11-20220331/",
-        "status": "Note",
-        "date": "2022-03-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-ssv-11-20220310/",
-        "status": "Note",
-        "date": "2022-03-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-ssv-11-20211208/",
-        "status": "Note",
-        "date": "2021-12-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-ssv-11-20211126/",
-        "status": "Note",
-        "date": "2021-11-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-ssv-11-20211104/",
-        "status": "Note",
-        "date": "2021-11-04"
-      }
-    ],
-    "abstract": "This vocabulary, a part of EPUB® 3, defines a set of properties relating to the description of structural semantics of written works."
-  },
-  {
-    "url": "https://www.w3.org/TR/epub-tts-10/",
-    "title": "EPUB 3 Text-to-Speech Enhancements 1.0",
-    "status": "Note",
-    "date": "2023-12-21",
-    "histUrl": "https://www.w3.org/standards/history/epub-tts-10/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-epub-tts-10-20231221/",
-        "status": "Note",
-        "date": "2023-12-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-epub-tts-10-20230519/",
-        "status": "Note",
-        "date": "2023-05-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-epub-tts-10-20230510/",
-        "status": "Note",
-        "date": "2023-05-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-epub-tts-10-20230402/",
-        "status": "Note",
-        "date": "2023-04-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-epub-tts-10-20230330/",
-        "status": "Note",
-        "date": "2023-03-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-epub-tts-10-20230113/",
-        "status": "Note",
-        "date": "2023-01-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-tts-10-20220810/",
-        "status": "Note",
-        "date": "2022-08-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-tts-10-20220724/",
-        "status": "Note",
-        "date": "2022-07-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-tts-10-20220519/",
-        "status": "Note",
-        "date": "2022-05-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-tts-10-20220517/",
-        "status": "Note",
-        "date": "2022-05-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-tts-10-20220420/",
-        "status": "Note",
-        "date": "2022-04-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-tts-10-20220419/",
-        "status": "Note",
-        "date": "2022-04-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-tts-10-20220415/",
-        "status": "Note",
-        "date": "2022-04-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-tts-10-20220414/",
-        "status": "Note",
-        "date": "2022-04-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-tts-10-20220411/",
-        "status": "Note",
-        "date": "2022-04-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-tts-10-20220406/",
-        "status": "Note",
-        "date": "2022-04-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-tts-10-20220331/",
-        "status": "Note",
-        "date": "2022-03-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-tts-10-20220310/",
-        "status": "Note",
-        "date": "2022-03-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-tts-10-20211208/",
-        "status": "Note",
-        "date": "2021-12-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-tts-10-20211125/",
-        "status": "Note",
-        "date": "2021-11-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-tts-10-20211101/",
-        "status": "Note",
-        "date": "2021-11-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-tts-10-20211013/",
-        "status": "Note",
-        "date": "2021-10-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-tts-10-20211007/",
-        "status": "Note",
-        "date": "2021-10-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-tts-10-20210929/",
-        "status": "Note",
-        "date": "2021-09-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-tts-10-20210928/",
-        "status": "Note",
-        "date": "2021-09-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-tts-10-20210921/",
-        "status": "Note",
-        "date": "2021-09-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-tts-10-20210914/",
-        "status": "Note",
-        "date": "2021-09-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-tts-10-20210903/",
-        "status": "Note",
-        "date": "2021-09-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-tts-10-20210825/",
-        "status": "Note",
-        "date": "2021-08-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-tts-10-20210803/",
-        "status": "Note",
-        "date": "2021-08-03"
-      }
-    ],
-    "abstract": "This document describes authoring features and reading system support for improving the voicing of EPUB® 3 publications."
-  },
-  {
     "url": "https://www.w3.org/TR/webmachinelearning-ethics/",
     "title": "Ethical Principles for Web Machine Learning",
     "status": "Draft Note",
@@ -34945,186 +34495,6 @@
       }
     ],
     "abstract": "This specification specifies a Hypothetical Render Model (HRM) that constrains the presentation complexity of documents that conform to the Text Profiles specified in any edition of Internet Media Subtitles and Captions ([IMSC])."
-  },
-  {
-    "url": "https://www.w3.org/TR/epub-a11y-eaa-mapping/",
-    "title": "EPUB Accessibility - EU Accessibility Act Mapping",
-    "status": "Note",
-    "date": "2024-04-30",
-    "histUrl": "https://www.w3.org/standards/history/epub-a11y-eaa-mapping/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/NOTE-epub-a11y-eaa-mapping-20240430/",
-        "status": "Note",
-        "date": "2024-04-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/NOTE-epub-a11y-eaa-mapping-20240320/",
-        "status": "Note",
-        "date": "2024-03-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-epub-a11y-eaa-mapping-20231227/",
-        "status": "Note",
-        "date": "2023-12-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-epub-a11y-eaa-mapping-20231221/",
-        "status": "Note",
-        "date": "2023-12-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-epub-a11y-eaa-mapping-20230519/",
-        "status": "Note",
-        "date": "2023-05-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-epub-a11y-eaa-mapping-20230510/",
-        "status": "Note",
-        "date": "2023-05-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-epub-a11y-eaa-mapping-20230402/",
-        "status": "Note",
-        "date": "2023-04-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-epub-a11y-eaa-mapping-20230330/",
-        "status": "Note",
-        "date": "2023-03-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-epub-a11y-eaa-mapping-20230329/",
-        "status": "Note",
-        "date": "2023-03-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-epub-a11y-eaa-mapping-20230113/",
-        "status": "Note",
-        "date": "2023-01-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-eaa-mapping-20220810/",
-        "status": "Note",
-        "date": "2022-08-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-eaa-mapping-20220724/",
-        "status": "Note",
-        "date": "2022-07-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-eaa-mapping-20220519/",
-        "status": "Note",
-        "date": "2022-05-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-eaa-mapping-20220517/",
-        "status": "Note",
-        "date": "2022-05-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-eaa-mapping-20220419/",
-        "status": "Note",
-        "date": "2022-04-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-eaa-mapping-20220415/",
-        "status": "Note",
-        "date": "2022-04-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-eaa-mapping-20220414/",
-        "status": "Note",
-        "date": "2022-04-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-eaa-mapping-20220411/",
-        "status": "Note",
-        "date": "2022-04-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-eaa-mapping-20220406/",
-        "status": "Note",
-        "date": "2022-04-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-eaa-mapping-20220331/",
-        "status": "Note",
-        "date": "2022-03-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-eaa-mapping-20220330/",
-        "status": "Note",
-        "date": "2022-03-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-eaa-mapping-20220310/",
-        "status": "Note",
-        "date": "2022-03-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-a11y-eaa-mapping-20211208/",
-        "status": "Note",
-        "date": "2021-12-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-a11y-eaa-mapping-20211125/",
-        "status": "Note",
-        "date": "2021-11-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-a11y-eaa-mapping-20211101/",
-        "status": "Note",
-        "date": "2021-11-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-a11y-eaa-mapping-20211025/",
-        "status": "Note",
-        "date": "2021-10-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-a11y-eaa-mapping-20211013/",
-        "status": "Note",
-        "date": "2021-10-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-a11y-eaa-mapping-20211007/",
-        "status": "Note",
-        "date": "2021-10-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-a11y-eaa-mapping-20210929/",
-        "status": "Note",
-        "date": "2021-09-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-a11y-eaa-mapping-20210928/",
-        "status": "Note",
-        "date": "2021-09-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-a11y-eaa-mapping-20210921/",
-        "status": "Note",
-        "date": "2021-09-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-a11y-eaa-mapping-20210914/",
-        "status": "Note",
-        "date": "2021-09-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-a11y-eaa-mapping-20210903/",
-        "status": "Note",
-        "date": "2021-09-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-a11y-eaa-mapping-20210629/",
-        "status": "Note",
-        "date": "2021-06-29"
-      }
-    ],
-    "abstract": "The European Accessibility Act (EAA) is an EU directive that establishes accessibility requirements for different types of products and services. It aims to strengthen the rights of people with disabilities by providing access to products and services, including e-books, dedicated e-reading devices and software, digital rights management software, and e-commerce."
   },
   {
     "url": "https://www.w3.org/TR/remote-playback/",
@@ -38510,31 +37880,6 @@
       }
     ],
     "abstract": "This CSS module describes how to collate style rules and assign values to all properties on all elements. By way of cascading and inheritance, values are propagated for all properties on all elements."
-  },
-  {
-    "url": "https://www.w3.org/TR/epub-a11y-exemption/",
-    "title": "The EPUB Accessibility exemption property",
-    "status": "Note",
-    "date": "2024-09-06",
-    "histUrl": "https://www.w3.org/standards/history/epub-a11y-exemption/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/NOTE-epub-a11y-exemption-20240906/",
-        "status": "Note",
-        "date": "2024-09-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-epub-a11y-exemption-20231215/",
-        "status": "Note",
-        "date": "2023-12-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-epub-a11y-exemption-20231003/",
-        "status": "Note",
-        "date": "2023-10-03"
-      }
-    ],
-    "abstract": "The exemption property allows EPUB creators to indicate that an EPUB publication that does not meet accessibility conformance requirements has an exemption under the applicable jurisdiction's laws."
   },
   {
     "url": "https://www.w3.org/TR/uievents/",
@@ -47067,281 +46412,6 @@
     "abstract": "This document describes and prioritises gaps for the support of Japanese on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, such as HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders."
   },
   {
-    "url": "https://www.w3.org/TR/epub-a11y-tech-11/",
-    "title": "EPUB Accessibility Techniques 1.1",
-    "status": "Note",
-    "date": "2024-12-03",
-    "histUrl": "https://www.w3.org/standards/history/epub-a11y-tech-11/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/NOTE-epub-a11y-tech-11-20241203/",
-        "status": "Note",
-        "date": "2024-12-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/NOTE-epub-a11y-tech-11-20240704/",
-        "status": "Note",
-        "date": "2024-07-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/NOTE-epub-a11y-tech-11-20240412/",
-        "status": "Note",
-        "date": "2024-04-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-epub-a11y-tech-11-20231221/",
-        "status": "Note",
-        "date": "2023-12-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-epub-a11y-tech-11-20230519/",
-        "status": "Note",
-        "date": "2023-05-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-epub-a11y-tech-11-20230510/",
-        "status": "Note",
-        "date": "2023-05-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-epub-a11y-tech-11-20230404/",
-        "status": "Note",
-        "date": "2023-04-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-epub-a11y-tech-11-20230402/",
-        "status": "Note",
-        "date": "2023-04-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-epub-a11y-tech-11-20230330/",
-        "status": "Note",
-        "date": "2023-03-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-epub-a11y-tech-11-20230222/",
-        "status": "Note",
-        "date": "2023-02-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-epub-a11y-tech-11-20230201/",
-        "status": "Note",
-        "date": "2023-02-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-epub-a11y-tech-11-20230113/",
-        "status": "Note",
-        "date": "2023-01-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-tech-11-20220913/",
-        "status": "Note",
-        "date": "2022-09-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-tech-11-20220827/",
-        "status": "Note",
-        "date": "2022-08-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-tech-11-20220810/",
-        "status": "Note",
-        "date": "2022-08-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-tech-11-20220804/",
-        "status": "Note",
-        "date": "2022-08-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-tech-11-20220724/",
-        "status": "Note",
-        "date": "2022-07-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-tech-11-20220722/",
-        "status": "Note",
-        "date": "2022-07-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-tech-11-20220610/",
-        "status": "Note",
-        "date": "2022-06-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-tech-11-20220607/",
-        "status": "Note",
-        "date": "2022-06-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-tech-11-20220520/",
-        "status": "Note",
-        "date": "2022-05-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-tech-11-20220519/",
-        "status": "Note",
-        "date": "2022-05-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-tech-11-20220517/",
-        "status": "Note",
-        "date": "2022-05-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-tech-11-20220420/",
-        "status": "Note",
-        "date": "2022-04-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-tech-11-20220419/",
-        "status": "Note",
-        "date": "2022-04-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-tech-11-20220415/",
-        "status": "Note",
-        "date": "2022-04-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-tech-11-20220414/",
-        "status": "Note",
-        "date": "2022-04-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-tech-11-20220413/",
-        "status": "Note",
-        "date": "2022-04-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-tech-11-20220411/",
-        "status": "Note",
-        "date": "2022-04-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-tech-11-20220406/",
-        "status": "Note",
-        "date": "2022-04-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-tech-11-20220331/",
-        "status": "Note",
-        "date": "2022-03-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-tech-11-20220330/",
-        "status": "Note",
-        "date": "2022-03-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-tech-11-20220328/",
-        "status": "Note",
-        "date": "2022-03-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-tech-11-20220310/",
-        "status": "Note",
-        "date": "2022-03-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-a11y-tech-11-20211208/",
-        "status": "Note",
-        "date": "2021-12-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-a11y-tech-11-20211125/",
-        "status": "Note",
-        "date": "2021-11-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-a11y-tech-11-20211123/",
-        "status": "Note",
-        "date": "2021-11-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-a11y-tech-11-20211122/",
-        "status": "Note",
-        "date": "2021-11-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-a11y-tech-11-20211101/",
-        "status": "Note",
-        "date": "2021-11-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-a11y-tech-11-20211029/",
-        "status": "Note",
-        "date": "2021-10-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-a11y-tech-11-20211025/",
-        "status": "Note",
-        "date": "2021-10-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-a11y-tech-11-20211013/",
-        "status": "Note",
-        "date": "2021-10-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-a11y-tech-11-20211007/",
-        "status": "Note",
-        "date": "2021-10-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-a11y-tech-11-20210930/",
-        "status": "Note",
-        "date": "2021-09-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-a11y-tech-11-20210929/",
-        "status": "Note",
-        "date": "2021-09-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-a11y-tech-11-20210928/",
-        "status": "Note",
-        "date": "2021-09-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-a11y-tech-11-20210921/",
-        "status": "Note",
-        "date": "2021-09-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-a11y-tech-11-20210914/",
-        "status": "Note",
-        "date": "2021-09-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-a11y-tech-11-20210903/",
-        "status": "Note",
-        "date": "2021-09-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-a11y-tech-11-20210825/",
-        "status": "Note",
-        "date": "2021-08-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-epub-a11y-tech-11-20210712/",
-        "status": "Working Draft",
-        "date": "2021-07-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-a11y-tech-11-20210525/",
-        "status": "Note",
-        "date": "2021-05-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-a11y-tech-11-20210223/",
-        "status": "Note",
-        "date": "2021-02-23"
-      }
-    ],
-    "abstract": "EPUB Accessibility Techniques defines discovery and content accessibility requirements for EPUB® Publications."
-  },
-  {
     "url": "https://www.w3.org/TR/FileAPI/",
     "title": "File API",
     "status": "Draft Standard",
@@ -51275,196 +50345,6 @@
       }
     ],
     "abstract": "Some user agents have music devices, such as synthesizers, keyboard and other controllers, and drum machines connected to their host computer or device. The widely adopted Musical Instrument Digital Interface (MIDI) protocol enables electronic musical instruments, controllers and computers to communicate and synchronize with each other. MIDI does not transmit audio signals: instead, it sends event messages about musical notes, controller signals for parameters such as volume, vibrato and panning, cues and clock signals to set the tempo, and system-specific MIDI communications (e.g. to remotely store synthesizer-specific patch data). This same protocol has become a standard for non-musical uses, such as show control, lighting and special effects control."
-  },
-  {
-    "url": "https://www.w3.org/TR/epub-overview-33/",
-    "title": "EPUB 3 Overview",
-    "status": "Note",
-    "date": "2025-01-23",
-    "histUrl": "https://www.w3.org/standards/history/epub-overview-33/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/NOTE-epub-overview-33-20250123/",
-        "status": "Note",
-        "date": "2025-01-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/NOTE-epub-overview-33-20250121/",
-        "status": "Note",
-        "date": "2025-01-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-epub-overview-33-20231221/",
-        "status": "Note",
-        "date": "2023-12-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-epub-overview-33-20230519/",
-        "status": "Note",
-        "date": "2023-05-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-epub-overview-33-20230518/",
-        "status": "Note",
-        "date": "2023-05-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-epub-overview-33-20230510/",
-        "status": "Note",
-        "date": "2023-05-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-epub-overview-33-20230402/",
-        "status": "Note",
-        "date": "2023-04-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-epub-overview-33-20230330/",
-        "status": "Note",
-        "date": "2023-03-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-epub-overview-33-20230113/",
-        "status": "Note",
-        "date": "2023-01-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-overview-33-20220810/",
-        "status": "Note",
-        "date": "2022-08-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-overview-33-20220724/",
-        "status": "Note",
-        "date": "2022-07-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-overview-33-20220519/",
-        "status": "Note",
-        "date": "2022-05-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-overview-33-20220517/",
-        "status": "Note",
-        "date": "2022-05-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-overview-33-20220420/",
-        "status": "Note",
-        "date": "2022-04-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-overview-33-20220415/",
-        "status": "Note",
-        "date": "2022-04-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-overview-33-20220414/",
-        "status": "Note",
-        "date": "2022-04-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-overview-33-20220411/",
-        "status": "Note",
-        "date": "2022-04-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-overview-33-20220406/",
-        "status": "Note",
-        "date": "2022-04-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-overview-33-20220401/",
-        "status": "Note",
-        "date": "2022-04-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-overview-33-20220331/",
-        "status": "Note",
-        "date": "2022-03-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-overview-33-20220330/",
-        "status": "Note",
-        "date": "2022-03-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-overview-33-20220328/",
-        "status": "Note",
-        "date": "2022-03-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-overview-33-20220310/",
-        "status": "Note",
-        "date": "2022-03-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-epub-overview-33-20220118/",
-        "status": "Note",
-        "date": "2022-01-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-overview-33-20211208/",
-        "status": "Note",
-        "date": "2021-12-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-overview-33-20211125/",
-        "status": "Note",
-        "date": "2021-11-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-overview-33-20211101/",
-        "status": "Note",
-        "date": "2021-11-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-overview-33-20211013/",
-        "status": "Note",
-        "date": "2021-10-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-overview-33-20211007/",
-        "status": "Note",
-        "date": "2021-10-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-overview-33-20211001/",
-        "status": "Note",
-        "date": "2021-10-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-overview-33-20210929/",
-        "status": "Note",
-        "date": "2021-09-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-overview-33-20210928/",
-        "status": "Note",
-        "date": "2021-09-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-overview-33-20210921/",
-        "status": "Note",
-        "date": "2021-09-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-overview-33-20210914/",
-        "status": "Note",
-        "date": "2021-09-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-overview-33-20210903/",
-        "status": "Note",
-        "date": "2021-09-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-epub-overview-33-20210112/",
-        "status": "Note",
-        "date": "2021-01-12"
-      }
-    ],
-    "abstract": "EPUB® 3 defines a distribution and interchange format for digital publications and documents. The EPUB format provides a means of representing, packaging, and encoding structured and semantically enhanced web content — including HTML, CSS, SVG, and other resources — for distribution in a single-file container."
   },
   {
     "url": "https://www.w3.org/TR/mediasession/",
@@ -67117,61 +65997,6 @@
     "abstract": "A verifiable credential is a specific way to express a set of claims made by an issuer, such as a driver's license or an education certificate. This specification describes the extensible data model for verifiable credentials, how they can be secured from tampering, and a three-party ecosystem for the exchange of these credentials that is composed of issuers, holders, and verifiers. This document also covers a variety of security, privacy, internationalization, and accessibility considerations for ecosystems that use the technologies described in this specification."
   },
   {
-    "url": "https://www.w3.org/TR/did-resolution/",
-    "title": "Decentralized Identifier Resolution (DID Resolution) v0.3",
-    "status": "Draft Standard",
-    "date": "2025-02-27",
-    "histUrl": "https://www.w3.org/standards/history/did-resolution/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20250227/",
-        "status": "Working Draft",
-        "date": "2025-02-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20250221/",
-        "status": "Working Draft",
-        "date": "2025-02-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20250214/",
-        "status": "Working Draft",
-        "date": "2025-02-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20250206/",
-        "status": "Working Draft",
-        "date": "2025-02-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20250122/",
-        "status": "Working Draft",
-        "date": "2025-01-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20250115/",
-        "status": "Working Draft",
-        "date": "2025-01-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-did-resolution-20241212/",
-        "status": "Working Draft",
-        "date": "2024-12-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-did-resolution-20241203/",
-        "status": "Working Draft",
-        "date": "2024-12-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-did-resolution-20241128/",
-        "status": "First Public Working Draft",
-        "date": "2024-11-28"
-      }
-    ],
-    "abstract": "Decentralized identifiers (DIDs) are a new type of identifier for verifiable, \"self-sovereign\" digital identity. DIDs are fully under the control of the DID controller, independent from any centralized registry, identity provider, or certificate authority. DIDs resolve to DID Documents — simple documents that describe how to use that specific DID."
-  },
-  {
     "url": "https://www.w3.org/TR/rdf12-semantics/",
     "title": "RDF 1.2 Semantics",
     "status": "Draft Standard",
@@ -74227,836 +73052,6 @@
     "abstract": "This specification defines DAPT, a TTML-based file format for the exchange of timed text content in dubbing and audio description workflows."
   },
   {
-    "url": "https://www.w3.org/TR/webnn/",
-    "title": "Web Neural Network API",
-    "status": "Candidate Standard",
-    "date": "2025-03-11",
-    "histUrl": "https://www.w3.org/standards/history/webnn/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/CRD-webnn-20250311/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2025-03-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/CRD-webnn-20250227/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2025-02-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/CRD-webnn-20250222/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2025-02-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/CRD-webnn-20250218/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2025-02-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/CRD-webnn-20250215/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2025-02-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/CRD-webnn-20250213/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2025-02-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/CRD-webnn-20250131/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2025-01-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/CRD-webnn-20250129/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2025-01-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/CRD-webnn-20250127/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2025-01-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/CRD-webnn-20250123/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2025-01-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/CRD-webnn-20250122/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2025-01-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/CRD-webnn-20250116/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2025-01-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20241204/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-12-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20241128/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-11-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20241119/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-11-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20241115/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-11-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20241109/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-11-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20241108/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-11-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20241106/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-11-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240925/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-09-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240918/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-09-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240905/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-09-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240830/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-08-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240822/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-08-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240805/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-08-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240731/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-07-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240730/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-07-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240727/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-07-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240725/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-07-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240724/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-07-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240723/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-07-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240722/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-07-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240719/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-07-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240718/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-07-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240717/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-07-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240712/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-07-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240711/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-07-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240705/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-07-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240627/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-06-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240626/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-06-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240625/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-06-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240618/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-06-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240617/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-06-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240613/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-06-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240608/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-06-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240605/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-06-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240604/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-06-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240601/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-06-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240530/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-05-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240523/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-05-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240515/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-05-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240514/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-05-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240511/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-05-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240510/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-05-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240509/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-05-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240507/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-05-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240505/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-05-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240503/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-05-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240502/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-05-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240501/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-05-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240430/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-04-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240429/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-04-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240427/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-04-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240426/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-04-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240425/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-04-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240424/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-04-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240419/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-04-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240418/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-04-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240416/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-04-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240415/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-04-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CR-webnn-20240411/",
-        "status": "Candidate Recommendation Snapshot",
-        "date": "2024-04-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240404/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-04-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240403/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-04-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240328/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-03-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240327/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-03-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240325/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-03-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240322/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-03-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240321/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-03-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240320/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-03-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240316/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-03-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240314/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-03-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240313/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-03-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240312/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-03-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240308/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-03-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240307/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-03-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240306/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-03-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240301/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-03-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240228/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-02-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240227/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-02-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240222/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-02-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240221/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-02-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240218/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-02-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240215/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-02-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240214/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-02-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240213/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-02-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240212/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-02-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240208/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-02-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240207/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-02-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240206/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-02-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240205/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-02-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240203/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-02-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240127/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-01-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240126/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-01-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240125/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-01-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240123/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-01-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240122/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-01-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240120/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-01-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240118/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-01-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240117/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-01-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-webnn-20231219/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-12-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-webnn-20231216/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-12-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-webnn-20231211/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-12-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-webnn-20231026/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-10-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-webnn-20230830/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-08-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-webnn-20230810/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-08-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-webnn-20230620/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-06-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-webnn-20230606/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-06-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-webnn-20230519/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-05-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-webnn-20230516/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-05-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-webnn-20230515/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-05-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-webnn-20230414/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-04-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CR-webnn-20230330/",
-        "status": "Candidate Recommendation Snapshot",
-        "date": "2023-03-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-webnn-20230309/",
-        "status": "Working Draft",
-        "date": "2023-03-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-webnn-20230308/",
-        "status": "Working Draft",
-        "date": "2023-03-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-webnn-20230124/",
-        "status": "Working Draft",
-        "date": "2023-01-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-webnn-20230123/",
-        "status": "Working Draft",
-        "date": "2023-01-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-webnn-20230118/",
-        "status": "Working Draft",
-        "date": "2023-01-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-webnn-20230109/",
-        "status": "Working Draft",
-        "date": "2023-01-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webnn-20221220/",
-        "status": "Working Draft",
-        "date": "2022-12-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webnn-20221213/",
-        "status": "Working Draft",
-        "date": "2022-12-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webnn-20221209/",
-        "status": "Working Draft",
-        "date": "2022-12-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webnn-20221208/",
-        "status": "Working Draft",
-        "date": "2022-12-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webnn-20221207/",
-        "status": "Working Draft",
-        "date": "2022-12-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webnn-20221205/",
-        "status": "Working Draft",
-        "date": "2022-12-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webnn-20221104/",
-        "status": "Working Draft",
-        "date": "2022-11-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webnn-20221024/",
-        "status": "Working Draft",
-        "date": "2022-10-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webnn-20220929/",
-        "status": "Working Draft",
-        "date": "2022-09-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webnn-20220901/",
-        "status": "Working Draft",
-        "date": "2022-09-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webnn-20220831/",
-        "status": "Working Draft",
-        "date": "2022-08-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webnn-20220825/",
-        "status": "Working Draft",
-        "date": "2022-08-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webnn-20220630/",
-        "status": "Working Draft",
-        "date": "2022-06-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webnn-20220628/",
-        "status": "Working Draft",
-        "date": "2022-06-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webnn-20220617/",
-        "status": "Working Draft",
-        "date": "2022-06-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webnn-20220520/",
-        "status": "Working Draft",
-        "date": "2022-05-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webnn-20220430/",
-        "status": "Working Draft",
-        "date": "2022-04-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webnn-20220421/",
-        "status": "Working Draft",
-        "date": "2022-04-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webnn-20220324/",
-        "status": "Working Draft",
-        "date": "2022-03-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webnn-20220322/",
-        "status": "Working Draft",
-        "date": "2022-03-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webnn-20220223/",
-        "status": "Working Draft",
-        "date": "2022-02-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webnn-20220215/",
-        "status": "Working Draft",
-        "date": "2022-02-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webnn-20220214/",
-        "status": "Working Draft",
-        "date": "2022-02-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webnn-20220127/",
-        "status": "Working Draft",
-        "date": "2022-01-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webnn-20220115/",
-        "status": "Working Draft",
-        "date": "2022-01-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webnn-20211215/",
-        "status": "Working Draft",
-        "date": "2021-12-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webnn-20211125/",
-        "status": "Working Draft",
-        "date": "2021-11-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webnn-20211116/",
-        "status": "Working Draft",
-        "date": "2021-11-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webnn-20210930/",
-        "status": "Working Draft",
-        "date": "2021-09-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webnn-20210922/",
-        "status": "Working Draft",
-        "date": "2021-09-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webnn-20210920/",
-        "status": "Working Draft",
-        "date": "2021-09-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webnn-20210908/",
-        "status": "Working Draft",
-        "date": "2021-09-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webnn-20210903/",
-        "status": "Working Draft",
-        "date": "2021-09-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webnn-20210810/",
-        "status": "Working Draft",
-        "date": "2021-08-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webnn-20210722/",
-        "status": "Working Draft",
-        "date": "2021-07-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webnn-20210622/",
-        "status": "First Public Working Draft",
-        "date": "2021-06-22"
-      }
-    ],
-    "abstract": "This document describes a dedicated low-level API for neural network inference hardware acceleration."
-  },
-  {
     "url": "https://www.w3.org/TR/accname-1.2/",
     "title": "Accessible Name and Description Computation 1.2",
     "status": "Draft Standard",
@@ -75997,12 +73992,1202 @@
     "abstract": "This document defines a mechanism that enables developers to declare a network error reporting policy for a web application. A user agent can use this policy to report encountered network errors that prevented it from successfully fetching requested resources."
   },
   {
+    "url": "https://www.w3.org/TR/did-resolution/",
+    "title": "Decentralized Identifier Resolution (DID Resolution) v0.3",
+    "status": "Draft Standard",
+    "date": "2025-03-13",
+    "histUrl": "https://www.w3.org/standards/history/did-resolution/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20250313/",
+        "status": "Working Draft",
+        "date": "2025-03-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20250227/",
+        "status": "Working Draft",
+        "date": "2025-02-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20250221/",
+        "status": "Working Draft",
+        "date": "2025-02-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20250214/",
+        "status": "Working Draft",
+        "date": "2025-02-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20250206/",
+        "status": "Working Draft",
+        "date": "2025-02-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20250122/",
+        "status": "Working Draft",
+        "date": "2025-01-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20250115/",
+        "status": "Working Draft",
+        "date": "2025-01-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-did-resolution-20241212/",
+        "status": "Working Draft",
+        "date": "2024-12-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-did-resolution-20241203/",
+        "status": "Working Draft",
+        "date": "2024-12-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-did-resolution-20241128/",
+        "status": "First Public Working Draft",
+        "date": "2024-11-28"
+      }
+    ],
+    "abstract": "Decentralized identifiers (DIDs) are a new type of identifier for verifiable, \"self-sovereign\" digital identity. DIDs are fully under the control of the DID controller, independent from any centralized registry, identity provider, or certificate authority. DIDs resolve to DID Documents — simple documents that describe how to use that specific DID."
+  },
+  {
+    "url": "https://www.w3.org/TR/epub-multi-rend-11/",
+    "title": "EPUB 3 Multiple-Rendition Publications 1.1",
+    "status": "Note",
+    "date": "2025-03-13",
+    "histUrl": "https://www.w3.org/standards/history/epub-multi-rend-11/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/NOTE-epub-multi-rend-11-20250313/",
+        "status": "Note",
+        "date": "2025-03-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-epub-multi-rend-11-20231221/",
+        "status": "Note",
+        "date": "2023-12-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-epub-multi-rend-11-20230519/",
+        "status": "Note",
+        "date": "2023-05-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-epub-multi-rend-11-20230510/",
+        "status": "Note",
+        "date": "2023-05-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-epub-multi-rend-11-20230402/",
+        "status": "Note",
+        "date": "2023-04-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-epub-multi-rend-11-20230330/",
+        "status": "Note",
+        "date": "2023-03-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-epub-multi-rend-11-20230113/",
+        "status": "Note",
+        "date": "2023-01-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-multi-rend-11-20220810/",
+        "status": "Note",
+        "date": "2022-08-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-multi-rend-11-20220724/",
+        "status": "Note",
+        "date": "2022-07-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-multi-rend-11-20220519/",
+        "status": "Note",
+        "date": "2022-05-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-multi-rend-11-20220517/",
+        "status": "Note",
+        "date": "2022-05-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-multi-rend-11-20220420/",
+        "status": "Note",
+        "date": "2022-04-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-multi-rend-11-20220415/",
+        "status": "Note",
+        "date": "2022-04-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-multi-rend-11-20220414/",
+        "status": "Note",
+        "date": "2022-04-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-multi-rend-11-20220411/",
+        "status": "Note",
+        "date": "2022-04-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-multi-rend-11-20220406/",
+        "status": "Note",
+        "date": "2022-04-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-multi-rend-11-20220331/",
+        "status": "Note",
+        "date": "2022-03-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-multi-rend-11-20220330/",
+        "status": "Note",
+        "date": "2022-03-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-multi-rend-11-20220310/",
+        "status": "Note",
+        "date": "2022-03-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-multi-rend-11-20220118/",
+        "status": "Note",
+        "date": "2022-01-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-multi-rend-11-20211208/",
+        "status": "Note",
+        "date": "2021-12-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-multi-rend-11-20211125/",
+        "status": "Note",
+        "date": "2021-11-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-multi-rend-11-20211101/",
+        "status": "Note",
+        "date": "2021-11-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-multi-rend-11-20211013/",
+        "status": "Note",
+        "date": "2021-10-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-multi-rend-11-20210929/",
+        "status": "Note",
+        "date": "2021-09-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-multi-rend-11-20210928/",
+        "status": "Note",
+        "date": "2021-09-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-multi-rend-11-20210921/",
+        "status": "Note",
+        "date": "2021-09-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-multi-rend-11-20210914/",
+        "status": "Note",
+        "date": "2021-09-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-multi-rend-11-20210903/",
+        "status": "Note",
+        "date": "2021-09-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-multi-rend-11-20210825/",
+        "status": "Note",
+        "date": "2021-08-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-multi-rend-11-20210525/",
+        "status": "Note",
+        "date": "2021-05-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-multi-rend-11-20210112/",
+        "status": "Note",
+        "date": "2021-01-12"
+      }
+    ],
+    "abstract": "This specification, EPUB Multiple-Rendition Publications, defines the creation and rendering of EPUB® Publications consisting of more than one rendition."
+  },
+  {
+    "url": "https://www.w3.org/TR/epub-overview-33/",
+    "title": "EPUB 3 Overview",
+    "status": "Note",
+    "date": "2025-03-13",
+    "histUrl": "https://www.w3.org/standards/history/epub-overview-33/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/NOTE-epub-overview-33-20250313/",
+        "status": "Note",
+        "date": "2025-03-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/NOTE-epub-overview-33-20250123/",
+        "status": "Note",
+        "date": "2025-01-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/NOTE-epub-overview-33-20250121/",
+        "status": "Note",
+        "date": "2025-01-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-epub-overview-33-20231221/",
+        "status": "Note",
+        "date": "2023-12-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-epub-overview-33-20230519/",
+        "status": "Note",
+        "date": "2023-05-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-epub-overview-33-20230518/",
+        "status": "Note",
+        "date": "2023-05-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-epub-overview-33-20230510/",
+        "status": "Note",
+        "date": "2023-05-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-epub-overview-33-20230402/",
+        "status": "Note",
+        "date": "2023-04-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-epub-overview-33-20230330/",
+        "status": "Note",
+        "date": "2023-03-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-epub-overview-33-20230113/",
+        "status": "Note",
+        "date": "2023-01-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-overview-33-20220810/",
+        "status": "Note",
+        "date": "2022-08-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-overview-33-20220724/",
+        "status": "Note",
+        "date": "2022-07-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-overview-33-20220519/",
+        "status": "Note",
+        "date": "2022-05-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-overview-33-20220517/",
+        "status": "Note",
+        "date": "2022-05-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-overview-33-20220420/",
+        "status": "Note",
+        "date": "2022-04-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-overview-33-20220415/",
+        "status": "Note",
+        "date": "2022-04-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-overview-33-20220414/",
+        "status": "Note",
+        "date": "2022-04-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-overview-33-20220411/",
+        "status": "Note",
+        "date": "2022-04-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-overview-33-20220406/",
+        "status": "Note",
+        "date": "2022-04-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-overview-33-20220401/",
+        "status": "Note",
+        "date": "2022-04-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-overview-33-20220331/",
+        "status": "Note",
+        "date": "2022-03-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-overview-33-20220330/",
+        "status": "Note",
+        "date": "2022-03-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-overview-33-20220328/",
+        "status": "Note",
+        "date": "2022-03-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-overview-33-20220310/",
+        "status": "Note",
+        "date": "2022-03-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-overview-33-20220118/",
+        "status": "Note",
+        "date": "2022-01-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-overview-33-20211208/",
+        "status": "Note",
+        "date": "2021-12-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-overview-33-20211125/",
+        "status": "Note",
+        "date": "2021-11-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-overview-33-20211101/",
+        "status": "Note",
+        "date": "2021-11-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-overview-33-20211013/",
+        "status": "Note",
+        "date": "2021-10-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-overview-33-20211007/",
+        "status": "Note",
+        "date": "2021-10-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-overview-33-20211001/",
+        "status": "Note",
+        "date": "2021-10-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-overview-33-20210929/",
+        "status": "Note",
+        "date": "2021-09-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-overview-33-20210928/",
+        "status": "Note",
+        "date": "2021-09-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-overview-33-20210921/",
+        "status": "Note",
+        "date": "2021-09-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-overview-33-20210914/",
+        "status": "Note",
+        "date": "2021-09-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-overview-33-20210903/",
+        "status": "Note",
+        "date": "2021-09-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-overview-33-20210112/",
+        "status": "Note",
+        "date": "2021-01-12"
+      }
+    ],
+    "abstract": "EPUB® 3 defines a distribution and interchange format for digital publications and documents. The EPUB format provides a means of representing, packaging, and encoding structured and semantically enhanced web content — including HTML, CSS, SVG, and other resources — for distribution in a single-file container."
+  },
+  {
+    "url": "https://www.w3.org/TR/epub-ssv-11/",
+    "title": "EPUB 3 Structural Semantics Vocabulary 1.1",
+    "status": "Note",
+    "date": "2025-03-13",
+    "histUrl": "https://www.w3.org/standards/history/epub-ssv-11/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/NOTE-epub-ssv-11-20250313/",
+        "status": "Note",
+        "date": "2025-03-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-epub-ssv-11-20231221/",
+        "status": "Note",
+        "date": "2023-12-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-epub-ssv-11-20230519/",
+        "status": "Note",
+        "date": "2023-05-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-epub-ssv-11-20230510/",
+        "status": "Note",
+        "date": "2023-05-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-epub-ssv-11-20230402/",
+        "status": "Note",
+        "date": "2023-04-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-epub-ssv-11-20230330/",
+        "status": "Note",
+        "date": "2023-03-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-epub-ssv-11-20230113/",
+        "status": "Note",
+        "date": "2023-01-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-epub-ssv-11-20230104/",
+        "status": "Note",
+        "date": "2023-01-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-ssv-11-20220810/",
+        "status": "Note",
+        "date": "2022-08-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-ssv-11-20220724/",
+        "status": "Note",
+        "date": "2022-07-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-ssv-11-20220624/",
+        "status": "Note",
+        "date": "2022-06-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-ssv-11-20220519/",
+        "status": "Note",
+        "date": "2022-05-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-ssv-11-20220517/",
+        "status": "Note",
+        "date": "2022-05-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-ssv-11-20220420/",
+        "status": "Note",
+        "date": "2022-04-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-ssv-11-20220419/",
+        "status": "Note",
+        "date": "2022-04-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-ssv-11-20220415/",
+        "status": "Note",
+        "date": "2022-04-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-ssv-11-20220414/",
+        "status": "Note",
+        "date": "2022-04-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-ssv-11-20220411/",
+        "status": "Note",
+        "date": "2022-04-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-ssv-11-20220406/",
+        "status": "Note",
+        "date": "2022-04-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-ssv-11-20220331/",
+        "status": "Note",
+        "date": "2022-03-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-ssv-11-20220310/",
+        "status": "Note",
+        "date": "2022-03-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-ssv-11-20211208/",
+        "status": "Note",
+        "date": "2021-12-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-ssv-11-20211126/",
+        "status": "Note",
+        "date": "2021-11-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-ssv-11-20211104/",
+        "status": "Note",
+        "date": "2021-11-04"
+      }
+    ],
+    "abstract": "This vocabulary, a part of EPUB® 3, defines a set of properties relating to the description of structural semantics of written works."
+  },
+  {
+    "url": "https://www.w3.org/TR/epub-tts-10/",
+    "title": "EPUB 3 Text-to-Speech Enhancements 1.0",
+    "status": "Note",
+    "date": "2025-03-13",
+    "histUrl": "https://www.w3.org/standards/history/epub-tts-10/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/NOTE-epub-tts-10-20250313/",
+        "status": "Note",
+        "date": "2025-03-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-epub-tts-10-20231221/",
+        "status": "Note",
+        "date": "2023-12-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-epub-tts-10-20230519/",
+        "status": "Note",
+        "date": "2023-05-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-epub-tts-10-20230510/",
+        "status": "Note",
+        "date": "2023-05-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-epub-tts-10-20230402/",
+        "status": "Note",
+        "date": "2023-04-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-epub-tts-10-20230330/",
+        "status": "Note",
+        "date": "2023-03-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-epub-tts-10-20230113/",
+        "status": "Note",
+        "date": "2023-01-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-tts-10-20220810/",
+        "status": "Note",
+        "date": "2022-08-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-tts-10-20220724/",
+        "status": "Note",
+        "date": "2022-07-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-tts-10-20220519/",
+        "status": "Note",
+        "date": "2022-05-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-tts-10-20220517/",
+        "status": "Note",
+        "date": "2022-05-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-tts-10-20220420/",
+        "status": "Note",
+        "date": "2022-04-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-tts-10-20220419/",
+        "status": "Note",
+        "date": "2022-04-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-tts-10-20220415/",
+        "status": "Note",
+        "date": "2022-04-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-tts-10-20220414/",
+        "status": "Note",
+        "date": "2022-04-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-tts-10-20220411/",
+        "status": "Note",
+        "date": "2022-04-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-tts-10-20220406/",
+        "status": "Note",
+        "date": "2022-04-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-tts-10-20220331/",
+        "status": "Note",
+        "date": "2022-03-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-tts-10-20220310/",
+        "status": "Note",
+        "date": "2022-03-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-tts-10-20211208/",
+        "status": "Note",
+        "date": "2021-12-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-tts-10-20211125/",
+        "status": "Note",
+        "date": "2021-11-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-tts-10-20211101/",
+        "status": "Note",
+        "date": "2021-11-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-tts-10-20211013/",
+        "status": "Note",
+        "date": "2021-10-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-tts-10-20211007/",
+        "status": "Note",
+        "date": "2021-10-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-tts-10-20210929/",
+        "status": "Note",
+        "date": "2021-09-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-tts-10-20210928/",
+        "status": "Note",
+        "date": "2021-09-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-tts-10-20210921/",
+        "status": "Note",
+        "date": "2021-09-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-tts-10-20210914/",
+        "status": "Note",
+        "date": "2021-09-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-tts-10-20210903/",
+        "status": "Note",
+        "date": "2021-09-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-tts-10-20210825/",
+        "status": "Note",
+        "date": "2021-08-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-tts-10-20210803/",
+        "status": "Note",
+        "date": "2021-08-03"
+      }
+    ],
+    "abstract": "This document describes authoring features and reading system support for improving the voicing of EPUB® 3 publications."
+  },
+  {
+    "url": "https://www.w3.org/TR/epub-a11y-eaa-mapping/",
+    "title": "EPUB Accessibility - EU Accessibility Act Mapping",
+    "status": "Note",
+    "date": "2025-03-13",
+    "histUrl": "https://www.w3.org/standards/history/epub-a11y-eaa-mapping/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/NOTE-epub-a11y-eaa-mapping-20250313/",
+        "status": "Note",
+        "date": "2025-03-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/NOTE-epub-a11y-eaa-mapping-20240430/",
+        "status": "Note",
+        "date": "2024-04-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/NOTE-epub-a11y-eaa-mapping-20240320/",
+        "status": "Note",
+        "date": "2024-03-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-epub-a11y-eaa-mapping-20231227/",
+        "status": "Note",
+        "date": "2023-12-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-epub-a11y-eaa-mapping-20231221/",
+        "status": "Note",
+        "date": "2023-12-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-epub-a11y-eaa-mapping-20230519/",
+        "status": "Note",
+        "date": "2023-05-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-epub-a11y-eaa-mapping-20230510/",
+        "status": "Note",
+        "date": "2023-05-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-epub-a11y-eaa-mapping-20230402/",
+        "status": "Note",
+        "date": "2023-04-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-epub-a11y-eaa-mapping-20230330/",
+        "status": "Note",
+        "date": "2023-03-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-epub-a11y-eaa-mapping-20230329/",
+        "status": "Note",
+        "date": "2023-03-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-epub-a11y-eaa-mapping-20230113/",
+        "status": "Note",
+        "date": "2023-01-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-eaa-mapping-20220810/",
+        "status": "Note",
+        "date": "2022-08-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-eaa-mapping-20220724/",
+        "status": "Note",
+        "date": "2022-07-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-eaa-mapping-20220519/",
+        "status": "Note",
+        "date": "2022-05-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-eaa-mapping-20220517/",
+        "status": "Note",
+        "date": "2022-05-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-eaa-mapping-20220419/",
+        "status": "Note",
+        "date": "2022-04-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-eaa-mapping-20220415/",
+        "status": "Note",
+        "date": "2022-04-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-eaa-mapping-20220414/",
+        "status": "Note",
+        "date": "2022-04-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-eaa-mapping-20220411/",
+        "status": "Note",
+        "date": "2022-04-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-eaa-mapping-20220406/",
+        "status": "Note",
+        "date": "2022-04-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-eaa-mapping-20220331/",
+        "status": "Note",
+        "date": "2022-03-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-eaa-mapping-20220330/",
+        "status": "Note",
+        "date": "2022-03-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-eaa-mapping-20220310/",
+        "status": "Note",
+        "date": "2022-03-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-a11y-eaa-mapping-20211208/",
+        "status": "Note",
+        "date": "2021-12-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-a11y-eaa-mapping-20211125/",
+        "status": "Note",
+        "date": "2021-11-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-a11y-eaa-mapping-20211101/",
+        "status": "Note",
+        "date": "2021-11-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-a11y-eaa-mapping-20211025/",
+        "status": "Note",
+        "date": "2021-10-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-a11y-eaa-mapping-20211013/",
+        "status": "Note",
+        "date": "2021-10-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-a11y-eaa-mapping-20211007/",
+        "status": "Note",
+        "date": "2021-10-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-a11y-eaa-mapping-20210929/",
+        "status": "Note",
+        "date": "2021-09-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-a11y-eaa-mapping-20210928/",
+        "status": "Note",
+        "date": "2021-09-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-a11y-eaa-mapping-20210921/",
+        "status": "Note",
+        "date": "2021-09-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-a11y-eaa-mapping-20210914/",
+        "status": "Note",
+        "date": "2021-09-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-a11y-eaa-mapping-20210903/",
+        "status": "Note",
+        "date": "2021-09-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-a11y-eaa-mapping-20210629/",
+        "status": "Note",
+        "date": "2021-06-29"
+      }
+    ],
+    "abstract": "The European Accessibility Act (EAA) is an EU directive that establishes accessibility requirements for different types of products and services. It aims to strengthen the rights of people with disabilities by providing access to products and services, including e-books, dedicated e-reading devices and software, digital rights management software, and e-commerce."
+  },
+  {
+    "url": "https://www.w3.org/TR/epub-a11y-tech-11/",
+    "title": "EPUB Accessibility Techniques 1.1",
+    "status": "Note",
+    "date": "2025-03-13",
+    "histUrl": "https://www.w3.org/standards/history/epub-a11y-tech-11/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/NOTE-epub-a11y-tech-11-20250313/",
+        "status": "Note",
+        "date": "2025-03-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/NOTE-epub-a11y-tech-11-20241203/",
+        "status": "Note",
+        "date": "2024-12-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/NOTE-epub-a11y-tech-11-20240704/",
+        "status": "Note",
+        "date": "2024-07-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/NOTE-epub-a11y-tech-11-20240412/",
+        "status": "Note",
+        "date": "2024-04-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-epub-a11y-tech-11-20231221/",
+        "status": "Note",
+        "date": "2023-12-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-epub-a11y-tech-11-20230519/",
+        "status": "Note",
+        "date": "2023-05-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-epub-a11y-tech-11-20230510/",
+        "status": "Note",
+        "date": "2023-05-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-epub-a11y-tech-11-20230404/",
+        "status": "Note",
+        "date": "2023-04-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-epub-a11y-tech-11-20230402/",
+        "status": "Note",
+        "date": "2023-04-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-epub-a11y-tech-11-20230330/",
+        "status": "Note",
+        "date": "2023-03-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-epub-a11y-tech-11-20230222/",
+        "status": "Note",
+        "date": "2023-02-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-epub-a11y-tech-11-20230201/",
+        "status": "Note",
+        "date": "2023-02-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-epub-a11y-tech-11-20230113/",
+        "status": "Note",
+        "date": "2023-01-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-tech-11-20220913/",
+        "status": "Note",
+        "date": "2022-09-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-tech-11-20220827/",
+        "status": "Note",
+        "date": "2022-08-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-tech-11-20220810/",
+        "status": "Note",
+        "date": "2022-08-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-tech-11-20220804/",
+        "status": "Note",
+        "date": "2022-08-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-tech-11-20220724/",
+        "status": "Note",
+        "date": "2022-07-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-tech-11-20220722/",
+        "status": "Note",
+        "date": "2022-07-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-tech-11-20220610/",
+        "status": "Note",
+        "date": "2022-06-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-tech-11-20220607/",
+        "status": "Note",
+        "date": "2022-06-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-tech-11-20220520/",
+        "status": "Note",
+        "date": "2022-05-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-tech-11-20220519/",
+        "status": "Note",
+        "date": "2022-05-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-tech-11-20220517/",
+        "status": "Note",
+        "date": "2022-05-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-tech-11-20220420/",
+        "status": "Note",
+        "date": "2022-04-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-tech-11-20220419/",
+        "status": "Note",
+        "date": "2022-04-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-tech-11-20220415/",
+        "status": "Note",
+        "date": "2022-04-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-tech-11-20220414/",
+        "status": "Note",
+        "date": "2022-04-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-tech-11-20220413/",
+        "status": "Note",
+        "date": "2022-04-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-tech-11-20220411/",
+        "status": "Note",
+        "date": "2022-04-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-tech-11-20220406/",
+        "status": "Note",
+        "date": "2022-04-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-tech-11-20220331/",
+        "status": "Note",
+        "date": "2022-03-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-tech-11-20220330/",
+        "status": "Note",
+        "date": "2022-03-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-tech-11-20220328/",
+        "status": "Note",
+        "date": "2022-03-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-epub-a11y-tech-11-20220310/",
+        "status": "Note",
+        "date": "2022-03-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-a11y-tech-11-20211208/",
+        "status": "Note",
+        "date": "2021-12-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-a11y-tech-11-20211125/",
+        "status": "Note",
+        "date": "2021-11-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-a11y-tech-11-20211123/",
+        "status": "Note",
+        "date": "2021-11-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-a11y-tech-11-20211122/",
+        "status": "Note",
+        "date": "2021-11-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-a11y-tech-11-20211101/",
+        "status": "Note",
+        "date": "2021-11-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-a11y-tech-11-20211029/",
+        "status": "Note",
+        "date": "2021-10-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-a11y-tech-11-20211025/",
+        "status": "Note",
+        "date": "2021-10-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-a11y-tech-11-20211013/",
+        "status": "Note",
+        "date": "2021-10-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-a11y-tech-11-20211007/",
+        "status": "Note",
+        "date": "2021-10-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-a11y-tech-11-20210930/",
+        "status": "Note",
+        "date": "2021-09-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-a11y-tech-11-20210929/",
+        "status": "Note",
+        "date": "2021-09-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-a11y-tech-11-20210928/",
+        "status": "Note",
+        "date": "2021-09-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-a11y-tech-11-20210921/",
+        "status": "Note",
+        "date": "2021-09-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-a11y-tech-11-20210914/",
+        "status": "Note",
+        "date": "2021-09-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-a11y-tech-11-20210903/",
+        "status": "Note",
+        "date": "2021-09-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-a11y-tech-11-20210825/",
+        "status": "Note",
+        "date": "2021-08-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-epub-a11y-tech-11-20210712/",
+        "status": "Working Draft",
+        "date": "2021-07-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-a11y-tech-11-20210525/",
+        "status": "Note",
+        "date": "2021-05-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-epub-a11y-tech-11-20210223/",
+        "status": "Note",
+        "date": "2021-02-23"
+      }
+    ],
+    "abstract": "EPUB Accessibility Techniques defines discovery and content accessibility requirements for EPUB® Publications."
+  },
+  {
     "url": "https://www.w3.org/TR/pointerevents3/",
     "title": "Pointer Events",
     "status": "Draft Standard",
-    "date": "2025-03-12",
+    "date": "2025-03-13",
     "histUrl": "https://www.w3.org/standards/history/pointerevents3/",
     "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/WD-pointerevents3-20250313/",
+        "status": "Working Draft",
+        "date": "2025-03-13"
+      },
       {
         "url": "https://www.w3.org/TR/2025/WD-pointerevents3-20250312/",
         "status": "Working Draft",
@@ -76385,9 +75570,14 @@
     "url": "https://www.w3.org/TR/pointerevents4/",
     "title": "Pointer Events",
     "status": "Draft Standard",
-    "date": "2025-03-12",
+    "date": "2025-03-13",
     "histUrl": "https://www.w3.org/standards/history/pointerevents4/",
     "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/WD-pointerevents4-20250313/",
+        "status": "Working Draft",
+        "date": "2025-03-13"
+      },
       {
         "url": "https://www.w3.org/TR/2025/WD-pointerevents4-20250312/",
         "status": "Working Draft",
@@ -76465,6 +75655,36 @@
       }
     ],
     "abstract": "This document describes PNG (Portable Network Graphics), an extensible file format for the lossless, portable, well-compressed storage of static and animated raster images. PNG provides a patent-free replacement for GIF and can also replace many common uses of TIFF. Indexed-color, greyscale, and truecolor images are supported, plus an optional alpha channel. Sample depths range from 1 to 16 bits."
+  },
+  {
+    "url": "https://www.w3.org/TR/epub-a11y-exemption/",
+    "title": "The EPUB Accessibility exemption property",
+    "status": "Note",
+    "date": "2025-03-13",
+    "histUrl": "https://www.w3.org/standards/history/epub-a11y-exemption/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/NOTE-epub-a11y-exemption-20250313/",
+        "status": "Note",
+        "date": "2025-03-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/NOTE-epub-a11y-exemption-20240906/",
+        "status": "Note",
+        "date": "2024-09-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-epub-a11y-exemption-20231215/",
+        "status": "Note",
+        "date": "2023-12-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-epub-a11y-exemption-20231003/",
+        "status": "Note",
+        "date": "2023-10-03"
+      }
+    ],
+    "abstract": "The exemption property allows EPUB creators to indicate that an EPUB publication that does not meet accessibility conformance requirements has an exemption under the applicable jurisdiction's laws."
   },
   {
     "url": "https://www.w3.org/TR/webrtc/",
@@ -76665,5 +75885,840 @@
       }
     ],
     "abstract": "This document defines a set of ECMAScript APIs in WebIDL to allow media and generic application data to be sent to and received from another browser or device implementing the appropriate set of real-time protocols. This specification is being developed in conjunction with a protocol specification developed by the IETF RTCWEB group and an API specification to get access to local media devices."
+  },
+  {
+    "url": "https://www.w3.org/TR/webnn/",
+    "title": "Web Neural Network API",
+    "status": "Candidate Standard",
+    "date": "2025-03-14",
+    "histUrl": "https://www.w3.org/standards/history/webnn/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/CRD-webnn-20250314/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2025-03-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/CRD-webnn-20250311/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2025-03-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/CRD-webnn-20250227/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2025-02-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/CRD-webnn-20250222/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2025-02-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/CRD-webnn-20250218/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2025-02-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/CRD-webnn-20250215/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2025-02-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/CRD-webnn-20250213/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2025-02-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/CRD-webnn-20250131/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2025-01-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/CRD-webnn-20250129/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2025-01-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/CRD-webnn-20250127/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2025-01-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/CRD-webnn-20250123/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2025-01-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/CRD-webnn-20250122/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2025-01-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/CRD-webnn-20250116/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2025-01-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20241204/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-12-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20241128/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-11-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20241119/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-11-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20241115/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-11-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20241109/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-11-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20241108/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-11-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20241106/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-11-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240925/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-09-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240918/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-09-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240905/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-09-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240830/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-08-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240822/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-08-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240805/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-08-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240731/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-07-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240730/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-07-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240727/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-07-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240725/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-07-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240724/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-07-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240723/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-07-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240722/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-07-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240719/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-07-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240718/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-07-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240717/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-07-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240712/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-07-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240711/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-07-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240705/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-07-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240627/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-06-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240626/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-06-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240625/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-06-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240618/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-06-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240617/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-06-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240613/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-06-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240608/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-06-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240605/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-06-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240604/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-06-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240601/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-06-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240530/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-05-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240523/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-05-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240515/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-05-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240514/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-05-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240511/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-05-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240510/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-05-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240509/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-05-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240507/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-05-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240505/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-05-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240503/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-05-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240502/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-05-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240501/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-05-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240430/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-04-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240429/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-04-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240427/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-04-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240426/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-04-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240425/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-04-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240424/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-04-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240419/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-04-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240418/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-04-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240416/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-04-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240415/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-04-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CR-webnn-20240411/",
+        "status": "Candidate Recommendation Snapshot",
+        "date": "2024-04-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240404/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-04-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240403/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-04-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240328/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-03-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240327/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-03-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240325/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-03-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240322/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-03-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240321/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-03-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240320/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-03-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240316/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-03-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240314/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-03-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240313/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-03-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240312/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-03-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240308/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-03-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240307/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-03-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240306/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-03-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240301/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-03-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240228/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-02-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240227/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-02-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240222/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-02-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240221/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-02-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240218/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-02-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240215/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-02-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240214/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-02-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240213/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-02-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240212/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-02-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240208/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-02-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240207/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-02-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240206/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-02-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240205/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-02-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240203/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-02-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240127/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-01-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240126/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-01-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240125/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-01-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240123/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-01-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240122/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-01-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240120/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-01-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240118/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-01-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webnn-20240117/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-01-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-webnn-20231219/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-12-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-webnn-20231216/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-12-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-webnn-20231211/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-12-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-webnn-20231026/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-10-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-webnn-20230830/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-08-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-webnn-20230810/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-08-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-webnn-20230620/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-06-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-webnn-20230606/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-06-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-webnn-20230519/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-05-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-webnn-20230516/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-05-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-webnn-20230515/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-05-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-webnn-20230414/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-04-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CR-webnn-20230330/",
+        "status": "Candidate Recommendation Snapshot",
+        "date": "2023-03-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-webnn-20230309/",
+        "status": "Working Draft",
+        "date": "2023-03-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-webnn-20230308/",
+        "status": "Working Draft",
+        "date": "2023-03-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-webnn-20230124/",
+        "status": "Working Draft",
+        "date": "2023-01-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-webnn-20230123/",
+        "status": "Working Draft",
+        "date": "2023-01-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-webnn-20230118/",
+        "status": "Working Draft",
+        "date": "2023-01-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-webnn-20230109/",
+        "status": "Working Draft",
+        "date": "2023-01-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webnn-20221220/",
+        "status": "Working Draft",
+        "date": "2022-12-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webnn-20221213/",
+        "status": "Working Draft",
+        "date": "2022-12-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webnn-20221209/",
+        "status": "Working Draft",
+        "date": "2022-12-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webnn-20221208/",
+        "status": "Working Draft",
+        "date": "2022-12-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webnn-20221207/",
+        "status": "Working Draft",
+        "date": "2022-12-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webnn-20221205/",
+        "status": "Working Draft",
+        "date": "2022-12-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webnn-20221104/",
+        "status": "Working Draft",
+        "date": "2022-11-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webnn-20221024/",
+        "status": "Working Draft",
+        "date": "2022-10-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webnn-20220929/",
+        "status": "Working Draft",
+        "date": "2022-09-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webnn-20220901/",
+        "status": "Working Draft",
+        "date": "2022-09-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webnn-20220831/",
+        "status": "Working Draft",
+        "date": "2022-08-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webnn-20220825/",
+        "status": "Working Draft",
+        "date": "2022-08-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webnn-20220630/",
+        "status": "Working Draft",
+        "date": "2022-06-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webnn-20220628/",
+        "status": "Working Draft",
+        "date": "2022-06-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webnn-20220617/",
+        "status": "Working Draft",
+        "date": "2022-06-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webnn-20220520/",
+        "status": "Working Draft",
+        "date": "2022-05-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webnn-20220430/",
+        "status": "Working Draft",
+        "date": "2022-04-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webnn-20220421/",
+        "status": "Working Draft",
+        "date": "2022-04-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webnn-20220324/",
+        "status": "Working Draft",
+        "date": "2022-03-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webnn-20220322/",
+        "status": "Working Draft",
+        "date": "2022-03-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webnn-20220223/",
+        "status": "Working Draft",
+        "date": "2022-02-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webnn-20220215/",
+        "status": "Working Draft",
+        "date": "2022-02-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webnn-20220214/",
+        "status": "Working Draft",
+        "date": "2022-02-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webnn-20220127/",
+        "status": "Working Draft",
+        "date": "2022-01-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webnn-20220115/",
+        "status": "Working Draft",
+        "date": "2022-01-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-webnn-20211215/",
+        "status": "Working Draft",
+        "date": "2021-12-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-webnn-20211125/",
+        "status": "Working Draft",
+        "date": "2021-11-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-webnn-20211116/",
+        "status": "Working Draft",
+        "date": "2021-11-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-webnn-20210930/",
+        "status": "Working Draft",
+        "date": "2021-09-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-webnn-20210922/",
+        "status": "Working Draft",
+        "date": "2021-09-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-webnn-20210920/",
+        "status": "Working Draft",
+        "date": "2021-09-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-webnn-20210908/",
+        "status": "Working Draft",
+        "date": "2021-09-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-webnn-20210903/",
+        "status": "Working Draft",
+        "date": "2021-09-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-webnn-20210810/",
+        "status": "Working Draft",
+        "date": "2021-08-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-webnn-20210722/",
+        "status": "Working Draft",
+        "date": "2021-07-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-webnn-20210622/",
+        "status": "First Public Working Draft",
+        "date": "2021-06-22"
+      }
+    ],
+    "abstract": "This document describes a dedicated low-level API for neural network inference hardware acceleration."
   }
 ]
