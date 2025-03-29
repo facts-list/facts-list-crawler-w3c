@@ -74947,101 +74947,6 @@
     "abstract": "This specification describes support for accessing virtual reality (VR) and augmented reality (AR) devices, including sensors and head-mounted displays, on the Web."
   },
   {
-    "url": "https://www.w3.org/TR/accname-1.2/",
-    "title": "Accessible Name and Description Computation 1.2",
-    "status": "Draft Standard",
-    "date": "2025-03-27",
-    "histUrl": "https://www.w3.org/standards/history/accname-1.2/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/WD-accname-1.2-20250327/",
-        "status": "Working Draft",
-        "date": "2025-03-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-accname-1.2-20250324/",
-        "status": "Working Draft",
-        "date": "2025-03-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-accname-1.2-20250320/",
-        "status": "Working Draft",
-        "date": "2025-03-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-accname-1.2-20250312/",
-        "status": "Working Draft",
-        "date": "2025-03-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-accname-1.2-20250311/",
-        "status": "Working Draft",
-        "date": "2025-03-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-accname-1.2-20250307/",
-        "status": "Working Draft",
-        "date": "2025-03-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-accname-1.2-20250301/",
-        "status": "Working Draft",
-        "date": "2025-03-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-accname-1.2-20250206/",
-        "status": "Working Draft",
-        "date": "2025-02-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-accname-1.2-20241211/",
-        "status": "Working Draft",
-        "date": "2024-12-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-accname-1.2-20240802/",
-        "status": "Working Draft",
-        "date": "2024-08-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-accname-1.2-20240710/",
-        "status": "Working Draft",
-        "date": "2024-07-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-accname-1.2-20240621/",
-        "status": "Working Draft",
-        "date": "2024-06-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-accname-1.2-20240607/",
-        "status": "Working Draft",
-        "date": "2024-06-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-accname-1.2-20240429/",
-        "status": "Working Draft",
-        "date": "2024-04-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-accname-1.2-20240403/",
-        "status": "Working Draft",
-        "date": "2024-04-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-accname-1.2-20240227/",
-        "status": "Working Draft",
-        "date": "2024-02-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-accname-1.2-20190711/",
-        "status": "First Public Working Draft",
-        "date": "2019-07-11"
-      }
-    ],
-    "abstract": "This document describes how user agents determine the names and descriptions of accessible objects from web content languages. This information is in turn exposed through accessibility APIs so that assistive technologies can identify these objects and present their names or descriptions to users. Documenting the algorithm through which names and descriptions are to be determined promotes interoperable exposure of these properties among different accessibility APIs and helps to ensure that this information appears in a manner consistent with author intent."
-  },
-  {
     "url": "https://www.w3.org/TR/core-aam-1.2/",
     "title": "Core Accessibility API Mappings 1.2",
     "status": "Candidate Standard",
@@ -76227,366 +76132,6 @@
     "abstract": "This document defines an API that provides web page authors with insights into the latency of certain events triggered by user interactions."
   },
   {
-    "url": "https://www.w3.org/TR/webrtc-stats/",
-    "title": "Identifiers for WebRTC's Statistics API",
-    "status": "Candidate Standard",
-    "date": "2025-03-27",
-    "histUrl": "https://www.w3.org/standards/history/webrtc-stats/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/CRD-webrtc-stats-20250327/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2025-03-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/CRD-webrtc-stats-20250306/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2025-03-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/CRD-webrtc-stats-20250220/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2025-02-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webrtc-stats-20241107/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-11-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webrtc-stats-20240718/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-07-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webrtc-stats-20240125/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-01-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-webrtc-stats-20240111/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-01-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-webrtc-stats-20231214/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-12-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-webrtc-stats-20230804/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-08-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-webrtc-stats-20230803/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-08-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-webrtc-stats-20230720/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-07-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-webrtc-stats-20230615/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-06-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-webrtc-stats-20230511/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-05-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-webrtc-stats-20230427/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-04-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-webrtc-stats-20230421/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-04-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-webrtc-stats-20230330/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-03-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-webrtc-stats-20230321/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-03-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-webrtc-stats-20230309/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-03-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-webrtc-stats-20230307/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-03-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-webrtc-stats-20230303/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-03-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-webrtc-stats-20230224/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-02-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-webrtc-stats-20230125/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-01-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-webrtc-stats-20230110/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-01-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20221225/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2022-12-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20221216/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2022-12-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20221214/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2022-12-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20221207/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2022-12-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20221129/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2022-11-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20221011/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2022-10-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20220928/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2022-09-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20220927/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2022-09-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20220926/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2022-09-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20220921/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2022-09-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20220920/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2022-09-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20220726/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2022-07-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20220725/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2022-07-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20220630/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2022-06-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20220629/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2022-06-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20220614/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2022-06-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20220609/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2022-06-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20220517/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2022-05-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20220422/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2022-04-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20220421/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2022-04-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/CRD-webrtc-stats-20211110/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2021-11-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/CRD-webrtc-stats-20210715/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2021-07-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/CRD-webrtc-stats-20210623/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2021-06-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/CRD-webrtc-stats-20210215/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2021-02-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/CRD-webrtc-stats-20210120/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2021-01-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/CRD-webrtc-stats-20210119/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2021-01-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/CRD-webrtc-stats-20201201/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2020-12-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/CRD-webrtc-stats-20201006/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2020-10-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/CR-webrtc-stats-20200114/",
-        "status": "Candidate Recommendation Snapshot",
-        "date": "2020-01-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/CR-webrtc-stats-20180703/",
-        "status": "Candidate Recommendation Snapshot",
-        "date": "2018-07-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-webrtc-stats-20180627/",
-        "status": "Working Draft",
-        "date": "2018-06-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-webrtc-stats-20180519/",
-        "status": "Working Draft",
-        "date": "2018-05-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-webrtc-stats-20180516/",
-        "status": "Working Draft",
-        "date": "2018-05-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-webrtc-stats-20180328/",
-        "status": "Working Draft",
-        "date": "2018-03-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-webrtc-stats-20180314/",
-        "status": "Working Draft",
-        "date": "2018-03-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-webrtc-stats-20180307/",
-        "status": "Working Draft",
-        "date": "2018-03-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-webrtc-stats-20180227/",
-        "status": "Working Draft",
-        "date": "2018-02-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-webrtc-stats-20180226/",
-        "status": "Working Draft",
-        "date": "2018-02-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-webrtc-stats-20180131/",
-        "status": "Working Draft",
-        "date": "2018-01-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-webrtc-stats-20180117/",
-        "status": "Working Draft",
-        "date": "2018-01-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-webrtc-stats-20180110/",
-        "status": "Working Draft",
-        "date": "2018-01-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2016/WD-webrtc-stats-20161214/",
-        "status": "Working Draft",
-        "date": "2016-12-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2016/WD-webrtc-stats-20160921/",
-        "status": "Working Draft",
-        "date": "2016-09-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2016/WD-webrtc-stats-20160527/",
-        "status": "Working Draft",
-        "date": "2016-05-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2016/WD-webrtc-stats-20160524/",
-        "status": "Working Draft",
-        "date": "2016-05-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2015/WD-webrtc-stats-20150206/",
-        "status": "Working Draft",
-        "date": "2015-02-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2014/WD-webrtc-stats-20141021/",
-        "status": "First Public Working Draft",
-        "date": "2014-10-21"
-      }
-    ],
-    "abstract": "This document defines a set of WebIDL objects that allow access to the statistical information about a RTCPeerConnection."
-  },
-  {
     "url": "https://www.w3.org/TR/rdf12-concepts/",
     "title": "RDF 1.2 Concepts and Abstract Syntax",
     "status": "Draft Standard",
@@ -76805,96 +76350,6 @@
       }
     ],
     "abstract": "The Resource Description Framework (RDF) is a framework for representing information in the Web. This document defines an abstract syntax (a data model) which serves to link all RDF-based languages and specifications. The abstract syntax has two key data structures:"
-  },
-  {
-    "url": "https://www.w3.org/TR/rdf12-semantics/",
-    "title": "RDF 1.2 Semantics",
-    "status": "Draft Standard",
-    "date": "2025-03-27",
-    "histUrl": "https://www.w3.org/standards/history/rdf12-semantics/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/WD-rdf12-semantics-20250327/",
-        "status": "Working Draft",
-        "date": "2025-03-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-rdf12-semantics-20250227/",
-        "status": "Working Draft",
-        "date": "2025-02-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-rdf12-semantics-20250225/",
-        "status": "Working Draft",
-        "date": "2025-02-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-rdf12-semantics-20250224/",
-        "status": "Working Draft",
-        "date": "2025-02-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-rdf12-semantics-20250220/",
-        "status": "Working Draft",
-        "date": "2025-02-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-rdf12-semantics-20250206/",
-        "status": "Working Draft",
-        "date": "2025-02-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-rdf12-semantics-20250204/",
-        "status": "Working Draft",
-        "date": "2025-02-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-rdf12-semantics-20250131/",
-        "status": "Working Draft",
-        "date": "2025-01-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-rdf12-semantics-20250124/",
-        "status": "Working Draft",
-        "date": "2025-01-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-rdf12-semantics-20241219/",
-        "status": "Working Draft",
-        "date": "2024-12-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-rdf12-semantics-20240627/",
-        "status": "Working Draft",
-        "date": "2024-06-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-rdf12-semantics-20240418/",
-        "status": "Working Draft",
-        "date": "2024-04-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-rdf12-semantics-20240125/",
-        "status": "Working Draft",
-        "date": "2024-01-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-semantics-20230922/",
-        "status": "Working Draft",
-        "date": "2023-09-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-semantics-20230615/",
-        "status": "Working Draft",
-        "date": "2023-06-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-semantics-20230606/",
-        "status": "First Public Working Draft",
-        "date": "2023-06-06"
-      }
-    ],
-    "abstract": "This document describes a precise semantics for RDF 1.2 Concepts and Abstract Syntax [RDF12-CONCEPTS] and RDF 1.2 Schema [RDF12-SCHEMA]. It defines a number of distinct entailment regimes and corresponding patterns of entailment. It is part of a suite of documents which comprise the full specification of RDF 1.2."
   },
   {
     "url": "https://www.w3.org/TR/screen-capture/",
@@ -77262,6 +76717,471 @@
     "abstract": "This document defines the BiDirectional WebDriver Protocol, a mechanism for remote control of user agents."
   },
   {
+    "url": "https://www.w3.org/TR/accname-1.2/",
+    "title": "Accessible Name and Description Computation 1.2",
+    "status": "Draft Standard",
+    "date": "2025-03-28",
+    "histUrl": "https://www.w3.org/standards/history/accname-1.2/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/WD-accname-1.2-20250328/",
+        "status": "Working Draft",
+        "date": "2025-03-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-accname-1.2-20250327/",
+        "status": "Working Draft",
+        "date": "2025-03-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-accname-1.2-20250324/",
+        "status": "Working Draft",
+        "date": "2025-03-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-accname-1.2-20250320/",
+        "status": "Working Draft",
+        "date": "2025-03-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-accname-1.2-20250312/",
+        "status": "Working Draft",
+        "date": "2025-03-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-accname-1.2-20250311/",
+        "status": "Working Draft",
+        "date": "2025-03-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-accname-1.2-20250307/",
+        "status": "Working Draft",
+        "date": "2025-03-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-accname-1.2-20250301/",
+        "status": "Working Draft",
+        "date": "2025-03-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-accname-1.2-20250206/",
+        "status": "Working Draft",
+        "date": "2025-02-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-accname-1.2-20241211/",
+        "status": "Working Draft",
+        "date": "2024-12-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-accname-1.2-20240802/",
+        "status": "Working Draft",
+        "date": "2024-08-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-accname-1.2-20240710/",
+        "status": "Working Draft",
+        "date": "2024-07-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-accname-1.2-20240621/",
+        "status": "Working Draft",
+        "date": "2024-06-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-accname-1.2-20240607/",
+        "status": "Working Draft",
+        "date": "2024-06-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-accname-1.2-20240429/",
+        "status": "Working Draft",
+        "date": "2024-04-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-accname-1.2-20240403/",
+        "status": "Working Draft",
+        "date": "2024-04-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-accname-1.2-20240227/",
+        "status": "Working Draft",
+        "date": "2024-02-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-accname-1.2-20190711/",
+        "status": "First Public Working Draft",
+        "date": "2019-07-11"
+      }
+    ],
+    "abstract": "This document describes how user agents determine the names and descriptions of accessible objects from web content languages. This information is in turn exposed through accessibility APIs so that assistive technologies can identify these objects and present their names or descriptions to users. Documenting the algorithm through which names and descriptions are to be determined promotes interoperable exposure of these properties among different accessibility APIs and helps to ensure that this information appears in a manner consistent with author intent."
+  },
+  {
+    "url": "https://www.w3.org/TR/webrtc-stats/",
+    "title": "Identifiers for WebRTC's Statistics API",
+    "status": "Candidate Standard",
+    "date": "2025-03-28",
+    "histUrl": "https://www.w3.org/standards/history/webrtc-stats/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/CRD-webrtc-stats-20250328/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2025-03-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/CRD-webrtc-stats-20250327/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2025-03-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/CRD-webrtc-stats-20250306/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2025-03-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/CRD-webrtc-stats-20250220/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2025-02-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webrtc-stats-20241107/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-11-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webrtc-stats-20240718/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-07-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webrtc-stats-20240125/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-01-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-webrtc-stats-20240111/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-01-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-webrtc-stats-20231214/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-12-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-webrtc-stats-20230804/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-08-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-webrtc-stats-20230803/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-08-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-webrtc-stats-20230720/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-07-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-webrtc-stats-20230615/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-06-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-webrtc-stats-20230511/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-05-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-webrtc-stats-20230427/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-04-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-webrtc-stats-20230421/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-04-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-webrtc-stats-20230330/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-03-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-webrtc-stats-20230321/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-03-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-webrtc-stats-20230309/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-03-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-webrtc-stats-20230307/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-03-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-webrtc-stats-20230303/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-03-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-webrtc-stats-20230224/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-02-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-webrtc-stats-20230125/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-01-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-webrtc-stats-20230110/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-01-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20221225/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2022-12-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20221216/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2022-12-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20221214/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2022-12-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20221207/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2022-12-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20221129/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2022-11-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20221011/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2022-10-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20220928/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2022-09-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20220927/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2022-09-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20220926/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2022-09-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20220921/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2022-09-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20220920/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2022-09-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20220726/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2022-07-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20220725/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2022-07-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20220630/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2022-06-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20220629/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2022-06-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20220614/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2022-06-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20220609/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2022-06-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20220517/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2022-05-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20220422/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2022-04-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/CRD-webrtc-stats-20220421/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2022-04-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/CRD-webrtc-stats-20211110/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2021-11-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/CRD-webrtc-stats-20210715/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2021-07-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/CRD-webrtc-stats-20210623/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2021-06-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/CRD-webrtc-stats-20210215/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2021-02-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/CRD-webrtc-stats-20210120/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2021-01-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/CRD-webrtc-stats-20210119/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2021-01-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/CRD-webrtc-stats-20201201/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2020-12-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/CRD-webrtc-stats-20201006/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2020-10-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/CR-webrtc-stats-20200114/",
+        "status": "Candidate Recommendation Snapshot",
+        "date": "2020-01-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/CR-webrtc-stats-20180703/",
+        "status": "Candidate Recommendation Snapshot",
+        "date": "2018-07-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-webrtc-stats-20180627/",
+        "status": "Working Draft",
+        "date": "2018-06-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-webrtc-stats-20180519/",
+        "status": "Working Draft",
+        "date": "2018-05-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-webrtc-stats-20180516/",
+        "status": "Working Draft",
+        "date": "2018-05-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-webrtc-stats-20180328/",
+        "status": "Working Draft",
+        "date": "2018-03-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-webrtc-stats-20180314/",
+        "status": "Working Draft",
+        "date": "2018-03-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-webrtc-stats-20180307/",
+        "status": "Working Draft",
+        "date": "2018-03-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-webrtc-stats-20180227/",
+        "status": "Working Draft",
+        "date": "2018-02-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-webrtc-stats-20180226/",
+        "status": "Working Draft",
+        "date": "2018-02-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-webrtc-stats-20180131/",
+        "status": "Working Draft",
+        "date": "2018-01-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-webrtc-stats-20180117/",
+        "status": "Working Draft",
+        "date": "2018-01-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-webrtc-stats-20180110/",
+        "status": "Working Draft",
+        "date": "2018-01-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/WD-webrtc-stats-20161214/",
+        "status": "Working Draft",
+        "date": "2016-12-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/WD-webrtc-stats-20160921/",
+        "status": "Working Draft",
+        "date": "2016-09-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/WD-webrtc-stats-20160527/",
+        "status": "Working Draft",
+        "date": "2016-05-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/WD-webrtc-stats-20160524/",
+        "status": "Working Draft",
+        "date": "2016-05-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2015/WD-webrtc-stats-20150206/",
+        "status": "Working Draft",
+        "date": "2015-02-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2014/WD-webrtc-stats-20141021/",
+        "status": "First Public Working Draft",
+        "date": "2014-10-21"
+      }
+    ],
+    "abstract": "This document defines a set of WebIDL objects that allow access to the statistical information about a RTCPeerConnection."
+  },
+  {
     "url": "https://www.w3.org/TR/mathml4/",
     "title": "Mathematical Markup Language (MathML) Version 4.0",
     "status": "Draft Standard",
@@ -77330,5 +77250,100 @@
       }
     ],
     "abstract": "This specification defines the Mathematical Markup Language, or MathML. MathML is a markup language for describing mathematical notation and capturing both its structure and content. The goal of MathML is to enable mathematics to be served, received, and processed on the World Wide Web, just as [HTML] has enabled this functionality for text."
+  },
+  {
+    "url": "https://www.w3.org/TR/rdf12-semantics/",
+    "title": "RDF 1.2 Semantics",
+    "status": "Draft Standard",
+    "date": "2025-03-28",
+    "histUrl": "https://www.w3.org/standards/history/rdf12-semantics/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/WD-rdf12-semantics-20250328/",
+        "status": "Working Draft",
+        "date": "2025-03-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-rdf12-semantics-20250327/",
+        "status": "Working Draft",
+        "date": "2025-03-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-rdf12-semantics-20250227/",
+        "status": "Working Draft",
+        "date": "2025-02-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-rdf12-semantics-20250225/",
+        "status": "Working Draft",
+        "date": "2025-02-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-rdf12-semantics-20250224/",
+        "status": "Working Draft",
+        "date": "2025-02-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-rdf12-semantics-20250220/",
+        "status": "Working Draft",
+        "date": "2025-02-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-rdf12-semantics-20250206/",
+        "status": "Working Draft",
+        "date": "2025-02-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-rdf12-semantics-20250204/",
+        "status": "Working Draft",
+        "date": "2025-02-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-rdf12-semantics-20250131/",
+        "status": "Working Draft",
+        "date": "2025-01-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-rdf12-semantics-20250124/",
+        "status": "Working Draft",
+        "date": "2025-01-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-rdf12-semantics-20241219/",
+        "status": "Working Draft",
+        "date": "2024-12-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-rdf12-semantics-20240627/",
+        "status": "Working Draft",
+        "date": "2024-06-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-rdf12-semantics-20240418/",
+        "status": "Working Draft",
+        "date": "2024-04-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-rdf12-semantics-20240125/",
+        "status": "Working Draft",
+        "date": "2024-01-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-semantics-20230922/",
+        "status": "Working Draft",
+        "date": "2023-09-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-semantics-20230615/",
+        "status": "Working Draft",
+        "date": "2023-06-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-semantics-20230606/",
+        "status": "First Public Working Draft",
+        "date": "2023-06-06"
+      }
+    ],
+    "abstract": "This document describes a precise semantics for RDF 1.2 Concepts and Abstract Syntax [RDF12-CONCEPTS] and RDF 1.2 Schema [RDF12-SCHEMA]. It defines a number of distinct entailment regimes and corresponding patterns of entailment. It is part of a suite of documents which comprise the full specification of RDF 1.2."
   }
 ]
