@@ -32457,56 +32457,6 @@
     "abstract": "This document specifies methods and camera settings to produce photographic image capture. The source of images is, or can be referenced via a MediaStreamTrack."
   },
   {
-    "url": "https://www.w3.org/TR/fetch-metadata/",
-    "title": "Fetch Metadata Request Headers",
-    "status": "Draft Standard",
-    "date": "2023-10-31",
-    "histUrl": "https://www.w3.org/standards/history/fetch-metadata/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2023/WD-fetch-metadata-20231031/",
-        "status": "Working Draft",
-        "date": "2023-10-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-fetch-metadata-20210720/",
-        "status": "Working Draft",
-        "date": "2021-07-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-fetch-metadata-20210604/",
-        "status": "Working Draft",
-        "date": "2021-06-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-fetch-metadata-20210313/",
-        "status": "Working Draft",
-        "date": "2021-03-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-fetch-metadata-20210310/",
-        "status": "Working Draft",
-        "date": "2021-03-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-fetch-metadata-20200110/",
-        "status": "Working Draft",
-        "date": "2020-01-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-fetch-metadata-20191125/",
-        "status": "Working Draft",
-        "date": "2019-11-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-fetch-metadata-20190627/",
-        "status": "First Public Working Draft",
-        "date": "2019-06-27"
-      }
-    ],
-    "abstract": "This document defines a set of Fetch metadata request headers that aim to provide servers with enough information to make a priori decisions about whether or not to service a request based on the way it was made, and the context in which it will be used."
-  },
-  {
     "url": "https://www.w3.org/TR/secure-contexts/",
     "title": "Secure Contexts",
     "status": "Candidate Standard",
@@ -77345,5 +77295,60 @@
       }
     ],
     "abstract": "This document describes a precise semantics for RDF 1.2 Concepts and Abstract Syntax [RDF12-CONCEPTS] and RDF 1.2 Schema [RDF12-SCHEMA]. It defines a number of distinct entailment regimes and corresponding patterns of entailment. It is part of a suite of documents which comprise the full specification of RDF 1.2."
+  },
+  {
+    "url": "https://www.w3.org/TR/fetch-metadata/",
+    "title": "Fetch Metadata Request Headers",
+    "status": "Draft Standard",
+    "date": "2025-04-01",
+    "histUrl": "https://www.w3.org/standards/history/fetch-metadata/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/WD-fetch-metadata-20250401/",
+        "status": "Working Draft",
+        "date": "2025-04-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-fetch-metadata-20231031/",
+        "status": "Working Draft",
+        "date": "2023-10-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-fetch-metadata-20210720/",
+        "status": "Working Draft",
+        "date": "2021-07-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-fetch-metadata-20210604/",
+        "status": "Working Draft",
+        "date": "2021-06-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-fetch-metadata-20210313/",
+        "status": "Working Draft",
+        "date": "2021-03-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-fetch-metadata-20210310/",
+        "status": "Working Draft",
+        "date": "2021-03-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-fetch-metadata-20200110/",
+        "status": "Working Draft",
+        "date": "2020-01-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-fetch-metadata-20191125/",
+        "status": "Working Draft",
+        "date": "2019-11-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-fetch-metadata-20190627/",
+        "status": "First Public Working Draft",
+        "date": "2019-06-27"
+      }
+    ],
+    "abstract": "This document defines a set of Fetch metadata request headers that aim to provide servers with enough information to make a priori decisions about whether or not to service a request based on the way it was made, and the context in which it will be used."
   }
 ]
