@@ -35092,31 +35092,6 @@
     "abstract": "This specification defines a standard for representing and propagating a set of application-defined properties associated with a distributed request or workflow execution."
   },
   {
-    "url": "https://www.w3.org/TR/mediacapture-transform/",
-    "title": "MediaStreamTrack Insertable Media Processing using Streams",
-    "status": "Draft Standard",
-    "date": "2024-05-31",
-    "histUrl": "https://www.w3.org/standards/history/mediacapture-transform/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-mediacapture-transform-20240531/",
-        "status": "Working Draft",
-        "date": "2024-05-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-mediacapture-transform-20221020/",
-        "status": "Working Draft",
-        "date": "2022-10-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-mediacapture-transform-20220210/",
-        "status": "First Public Working Draft",
-        "date": "2022-02-10"
-      }
-    ],
-    "abstract": "This API defines an API surface for manipulating the bits on MediaStreamTracks carrying raw data."
-  },
-  {
     "url": "https://www.w3.org/TR/change-password-url/",
     "title": "A Well-Known URL for Changing Passwords",
     "status": "Draft Standard",
@@ -45307,51 +45282,6 @@
     "abstract": "The Open Screen Network Protocol is a network protocol that allows two Open Screen agents to establish a secure network transport in an interoperable fashion."
   },
   {
-    "url": "https://www.w3.org/TR/webcodecs-video-frame-metadata-registry/",
-    "title": "WebCodecs VideoFrame Metadata Registry",
-    "status": "Draft Registry",
-    "date": "2024-12-10",
-    "histUrl": "https://www.w3.org/standards/history/webcodecs-video-frame-metadata-registry/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/DRY-webcodecs-video-frame-metadata-registry-20241210/",
-        "status": "Draft Registry",
-        "date": "2024-12-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DRY-webcodecs-video-frame-metadata-registry-20240909/",
-        "status": "Draft Registry",
-        "date": "2024-09-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DRY-webcodecs-video-frame-metadata-registry-20240726/",
-        "status": "Draft Registry",
-        "date": "2024-07-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DRY-webcodecs-video-frame-metadata-registry-20240717/",
-        "status": "Draft Registry",
-        "date": "2024-07-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DRY-webcodecs-video-frame-metadata-registry-20240711/",
-        "status": "Draft Registry",
-        "date": "2024-07-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DRY-webcodecs-video-frame-metadata-registry-20240704/",
-        "status": "Draft Registry",
-        "date": "2024-07-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DRY-webcodecs-video-frame-metadata-registry-20240702/",
-        "status": "Draft Registry",
-        "date": "2024-07-02"
-      }
-    ],
-    "abstract": "This registry is intended to enumerate the metadata fields that can be attached to VideoFrame objects via the VideoFrameMetadata dictionary."
-  },
-  {
     "url": "https://www.w3.org/TR/ethical-web-principles/",
     "title": "Ethical Web Principles",
     "status": "Statement",
@@ -47750,86 +47680,6 @@
       }
     ],
     "abstract": "This document describes string searching operations on the Web in order to allow greater interoperability. String searching refers to natural language string matching such as the \"find\" command in a Web browser. This document builds upon the concepts found in Character Model for the World Wide Web 1.0: Fundamentals [CHARMOD] and Character Model for the World Wide Web 1.0: String Matching [CHARMOD-NORM] to provide authors of specifications, software developers, and content developers the information they need to describe and implement search features suitable for global audiences."
-  },
-  {
-    "url": "https://www.w3.org/TR/clreq-gap/",
-    "title": "Chinese Layout Gap Analysis",
-    "status": "Draft Note",
-    "date": "2025-01-09",
-    "histUrl": "https://www.w3.org/standards/history/clreq-gap/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/DNOTE-clreq-gap-20250109/",
-        "status": "Draft Note",
-        "date": "2025-01-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-clreq-gap-20240919/",
-        "status": "Draft Note",
-        "date": "2024-09-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-clreq-gap-20240709/",
-        "status": "Draft Note",
-        "date": "2024-07-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-clreq-gap-20240704/",
-        "status": "Draft Note",
-        "date": "2024-07-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-clreq-gap-20240208/",
-        "status": "Draft Note",
-        "date": "2024-02-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-clreq-gap-20231004/",
-        "status": "Draft Note",
-        "date": "2023-10-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-clreq-gap-20230721/",
-        "status": "Draft Note",
-        "date": "2023-07-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-clreq-gap-20230720/",
-        "status": "Draft Note",
-        "date": "2023-07-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-clreq-gap-20230615/",
-        "status": "Draft Note",
-        "date": "2023-06-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-clreq-gap-20220923/",
-        "status": "Draft Note",
-        "date": "2022-09-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-clreq-gap-20211119/",
-        "status": "Working Draft",
-        "date": "2021-11-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-clreq-gap-20210614/",
-        "status": "Working Draft",
-        "date": "2021-06-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-clreq-gap-20210525/",
-        "status": "Working Draft",
-        "date": "2021-05-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-clreq-gap-20200616/",
-        "status": "First Public Working Draft",
-        "date": "2020-06-16"
-      }
-    ],
-    "abstract": "This document describes and prioritises gaps for the support of the Chinese script on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, such as HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders."
   },
   {
     "url": "https://www.w3.org/TR/trusted-types/",
@@ -56537,151 +56387,6 @@
     "abstract": "This document defines a recording API for use with MediaStreams."
   },
   {
-    "url": "https://www.w3.org/TR/vc-di-bbs/",
-    "title": "Data Integrity BBS Cryptosuites v1.0",
-    "status": "Candidate Standard",
-    "date": "2025-02-18",
-    "histUrl": "https://www.w3.org/standards/history/vc-di-bbs/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/CRD-vc-di-bbs-20250218/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2025-02-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/CRD-vc-di-bbs-20250130/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2025-01-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-vc-di-bbs-20241015/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-10-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-vc-di-bbs-20240828/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-08-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-vc-di-bbs-20240819/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-08-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-vc-di-bbs-20240630/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-06-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-vc-di-bbs-20240626/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-06-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-vc-di-bbs-20240617/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-06-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-vc-di-bbs-20240614/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-06-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-vc-di-bbs-20240428/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-04-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CR-vc-di-bbs-20240404/",
-        "status": "Candidate Recommendation Snapshot",
-        "date": "2024-04-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-di-bbs-20240401/",
-        "status": "Working Draft",
-        "date": "2024-04-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-di-bbs-20240318/",
-        "status": "Working Draft",
-        "date": "2024-03-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-di-bbs-20240316/",
-        "status": "Working Draft",
-        "date": "2024-03-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-di-bbs-20240315/",
-        "status": "Working Draft",
-        "date": "2024-03-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-di-bbs-20240314/",
-        "status": "Working Draft",
-        "date": "2024-03-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-di-bbs-20240309/",
-        "status": "Working Draft",
-        "date": "2024-03-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-di-bbs-20240307/",
-        "status": "Working Draft",
-        "date": "2024-03-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-di-bbs-20240303/",
-        "status": "Working Draft",
-        "date": "2024-03-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-vc-di-bbs-20240202/",
-        "status": "Working Draft",
-        "date": "2024-02-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-di-bbs-20231218/",
-        "status": "Working Draft",
-        "date": "2023-12-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-di-bbs-20231214/",
-        "status": "Working Draft",
-        "date": "2023-12-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-di-bbs-20231104/",
-        "status": "Working Draft",
-        "date": "2023-11-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-di-bbs-20231025/",
-        "status": "Working Draft",
-        "date": "2023-10-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-di-bbs-20231016/",
-        "status": "Working Draft",
-        "date": "2023-10-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-di-bbs-20230524/",
-        "status": "Working Draft",
-        "date": "2023-05-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-vc-di-bbs-20230518/",
-        "status": "First Public Working Draft",
-        "date": "2023-05-18"
-      }
-    ],
-    "abstract": "This specification describes a Data Integrity Cryptosuite for use when generating digital signatures using the BBS signature scheme. The Signature Suite utilizes BBS signatures to provide selective disclosure and unlinkable derived proofs."
-  },
-  {
     "url": "https://www.w3.org/TR/did-extensions/",
     "title": "Decentralized Identifier Extensions",
     "status": "Note",
@@ -60840,56 +60545,6 @@
       }
     ],
     "abstract": "This specification defines interfaces to codecs for encoding and decoding of audio, video, and images."
-  },
-  {
-    "url": "https://www.w3.org/TR/webxr-depth-sensing-1/",
-    "title": "WebXR Depth Sensing Module",
-    "status": "Draft Standard",
-    "date": "2025-03-17",
-    "histUrl": "https://www.w3.org/standards/history/webxr-depth-sensing-1/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webxr-depth-sensing-1-20250317/",
-        "status": "Working Draft",
-        "date": "2025-03-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-webxr-depth-sensing-1-20240923/",
-        "status": "Working Draft",
-        "date": "2024-09-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-webxr-depth-sensing-1-20240531/",
-        "status": "Working Draft",
-        "date": "2024-05-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-webxr-depth-sensing-1-20240528/",
-        "status": "Working Draft",
-        "date": "2024-05-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webxr-depth-sensing-1-20220419/",
-        "status": "Working Draft",
-        "date": "2022-04-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webxr-depth-sensing-1-20220223/",
-        "status": "Working Draft",
-        "date": "2022-02-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webxr-depth-sensing-1-20220215/",
-        "status": "Working Draft",
-        "date": "2022-02-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webxr-depth-sensing-1-20210831/",
-        "status": "First Public Working Draft",
-        "date": "2021-08-31"
-      }
-    ],
-    "abstract": "Depth Sensing API is a module extending the capabilities of WebXR Device API. It enables apps to obtain depth information computed by supported XR devices in order to provide more immersive experiences. The example use cases of depth sensing API include (but are not limited to) simulating physical interactions of virtual objects with the real world, occlusion, and non-visual applications that can make use of increased awareness of users' environment."
   },
   {
     "url": "https://www.w3.org/TR/css-color-5/",
@@ -72092,106 +71747,6 @@
     "abstract": "This document defines how a user's display, or parts thereof, can be used as the source of a media stream using getDisplayMedia, an extension to the Media Capture API [GETUSERMEDIA]."
   },
   {
-    "url": "https://www.w3.org/TR/accname-1.2/",
-    "title": "Accessible Name and Description Computation 1.2",
-    "status": "Draft Standard",
-    "date": "2025-03-28",
-    "histUrl": "https://www.w3.org/standards/history/accname-1.2/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/WD-accname-1.2-20250328/",
-        "status": "Working Draft",
-        "date": "2025-03-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-accname-1.2-20250327/",
-        "status": "Working Draft",
-        "date": "2025-03-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-accname-1.2-20250324/",
-        "status": "Working Draft",
-        "date": "2025-03-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-accname-1.2-20250320/",
-        "status": "Working Draft",
-        "date": "2025-03-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-accname-1.2-20250312/",
-        "status": "Working Draft",
-        "date": "2025-03-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-accname-1.2-20250311/",
-        "status": "Working Draft",
-        "date": "2025-03-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-accname-1.2-20250307/",
-        "status": "Working Draft",
-        "date": "2025-03-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-accname-1.2-20250301/",
-        "status": "Working Draft",
-        "date": "2025-03-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-accname-1.2-20250206/",
-        "status": "Working Draft",
-        "date": "2025-02-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-accname-1.2-20241211/",
-        "status": "Working Draft",
-        "date": "2024-12-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-accname-1.2-20240802/",
-        "status": "Working Draft",
-        "date": "2024-08-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-accname-1.2-20240710/",
-        "status": "Working Draft",
-        "date": "2024-07-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-accname-1.2-20240621/",
-        "status": "Working Draft",
-        "date": "2024-06-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-accname-1.2-20240607/",
-        "status": "Working Draft",
-        "date": "2024-06-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-accname-1.2-20240429/",
-        "status": "Working Draft",
-        "date": "2024-04-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-accname-1.2-20240403/",
-        "status": "Working Draft",
-        "date": "2024-04-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-accname-1.2-20240227/",
-        "status": "Working Draft",
-        "date": "2024-02-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-accname-1.2-20190711/",
-        "status": "First Public Working Draft",
-        "date": "2019-07-11"
-      }
-    ],
-    "abstract": "This document describes how user agents determine the names and descriptions of accessible objects from web content languages. This information is in turn exposed through accessibility APIs so that assistive technologies can identify these objects and present their names or descriptions to users. Documenting the algorithm through which names and descriptions are to be determined promotes interoperable exposure of these properties among different accessibility APIs and helps to ensure that this information appears in a manner consistent with author intent."
-  },
-  {
     "url": "https://www.w3.org/TR/webrtc-stats/",
     "title": "Identifiers for WebRTC's Statistics API",
     "status": "Candidate Standard",
@@ -72555,101 +72110,6 @@
       }
     ],
     "abstract": "This document defines a set of WebIDL objects that allow access to the statistical information about a RTCPeerConnection."
-  },
-  {
-    "url": "https://www.w3.org/TR/rdf12-semantics/",
-    "title": "RDF 1.2 Semantics",
-    "status": "Draft Standard",
-    "date": "2025-03-28",
-    "histUrl": "https://www.w3.org/standards/history/rdf12-semantics/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/WD-rdf12-semantics-20250328/",
-        "status": "Working Draft",
-        "date": "2025-03-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-rdf12-semantics-20250327/",
-        "status": "Working Draft",
-        "date": "2025-03-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-rdf12-semantics-20250227/",
-        "status": "Working Draft",
-        "date": "2025-02-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-rdf12-semantics-20250225/",
-        "status": "Working Draft",
-        "date": "2025-02-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-rdf12-semantics-20250224/",
-        "status": "Working Draft",
-        "date": "2025-02-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-rdf12-semantics-20250220/",
-        "status": "Working Draft",
-        "date": "2025-02-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-rdf12-semantics-20250206/",
-        "status": "Working Draft",
-        "date": "2025-02-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-rdf12-semantics-20250204/",
-        "status": "Working Draft",
-        "date": "2025-02-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-rdf12-semantics-20250131/",
-        "status": "Working Draft",
-        "date": "2025-01-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-rdf12-semantics-20250124/",
-        "status": "Working Draft",
-        "date": "2025-01-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-rdf12-semantics-20241219/",
-        "status": "Working Draft",
-        "date": "2024-12-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-rdf12-semantics-20240627/",
-        "status": "Working Draft",
-        "date": "2024-06-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-rdf12-semantics-20240418/",
-        "status": "Working Draft",
-        "date": "2024-04-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-rdf12-semantics-20240125/",
-        "status": "Working Draft",
-        "date": "2024-01-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-semantics-20230922/",
-        "status": "Working Draft",
-        "date": "2023-09-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-semantics-20230615/",
-        "status": "Working Draft",
-        "date": "2023-06-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-semantics-20230606/",
-        "status": "First Public Working Draft",
-        "date": "2023-06-06"
-      }
-    ],
-    "abstract": "This document describes a precise semantics for RDF 1.2 Concepts and Abstract Syntax [RDF12-CONCEPTS] and RDF 1.2 Schema [RDF12-SCHEMA]. It defines a number of distinct entailment regimes and corresponding patterns of entailment. It is part of a suite of documents which comprise the full specification of RDF 1.2."
   },
   {
     "url": "https://www.w3.org/TR/fetch-metadata/",
@@ -77272,6 +76732,291 @@
     "abstract": "Shading language for WebGPU."
   },
   {
+    "url": "https://www.w3.org/TR/accname-1.2/",
+    "title": "Accessible Name and Description Computation 1.2",
+    "status": "Draft Standard",
+    "date": "2025-04-03",
+    "histUrl": "https://www.w3.org/standards/history/accname-1.2/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/WD-accname-1.2-20250403/",
+        "status": "Working Draft",
+        "date": "2025-04-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-accname-1.2-20250328/",
+        "status": "Working Draft",
+        "date": "2025-03-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-accname-1.2-20250327/",
+        "status": "Working Draft",
+        "date": "2025-03-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-accname-1.2-20250324/",
+        "status": "Working Draft",
+        "date": "2025-03-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-accname-1.2-20250320/",
+        "status": "Working Draft",
+        "date": "2025-03-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-accname-1.2-20250312/",
+        "status": "Working Draft",
+        "date": "2025-03-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-accname-1.2-20250311/",
+        "status": "Working Draft",
+        "date": "2025-03-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-accname-1.2-20250307/",
+        "status": "Working Draft",
+        "date": "2025-03-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-accname-1.2-20250301/",
+        "status": "Working Draft",
+        "date": "2025-03-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-accname-1.2-20250206/",
+        "status": "Working Draft",
+        "date": "2025-02-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-accname-1.2-20241211/",
+        "status": "Working Draft",
+        "date": "2024-12-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-accname-1.2-20240802/",
+        "status": "Working Draft",
+        "date": "2024-08-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-accname-1.2-20240710/",
+        "status": "Working Draft",
+        "date": "2024-07-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-accname-1.2-20240621/",
+        "status": "Working Draft",
+        "date": "2024-06-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-accname-1.2-20240607/",
+        "status": "Working Draft",
+        "date": "2024-06-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-accname-1.2-20240429/",
+        "status": "Working Draft",
+        "date": "2024-04-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-accname-1.2-20240403/",
+        "status": "Working Draft",
+        "date": "2024-04-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-accname-1.2-20240227/",
+        "status": "Working Draft",
+        "date": "2024-02-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-accname-1.2-20190711/",
+        "status": "First Public Working Draft",
+        "date": "2019-07-11"
+      }
+    ],
+    "abstract": "This document describes how user agents determine the names and descriptions of accessible objects from web content languages. This information is in turn exposed through accessibility APIs so that assistive technologies can identify these objects and present their names or descriptions to users. Documenting the algorithm through which names and descriptions are to be determined promotes interoperable exposure of these properties among different accessibility APIs and helps to ensure that this information appears in a manner consistent with author intent."
+  },
+  {
+    "url": "https://www.w3.org/TR/vc-di-bbs/",
+    "title": "Data Integrity BBS Cryptosuites v1.0",
+    "status": "Candidate Standard",
+    "date": "2025-04-03",
+    "histUrl": "https://www.w3.org/standards/history/vc-di-bbs/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/CRD-vc-di-bbs-20250403/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2025-04-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/CRD-vc-di-bbs-20250218/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2025-02-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/CRD-vc-di-bbs-20250130/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2025-01-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-di-bbs-20241015/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-10-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-di-bbs-20240828/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-08-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-di-bbs-20240819/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-08-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-di-bbs-20240630/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-06-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-di-bbs-20240626/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-06-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-di-bbs-20240617/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-06-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-di-bbs-20240614/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-06-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-vc-di-bbs-20240428/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-04-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CR-vc-di-bbs-20240404/",
+        "status": "Candidate Recommendation Snapshot",
+        "date": "2024-04-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-di-bbs-20240401/",
+        "status": "Working Draft",
+        "date": "2024-04-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-di-bbs-20240318/",
+        "status": "Working Draft",
+        "date": "2024-03-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-di-bbs-20240316/",
+        "status": "Working Draft",
+        "date": "2024-03-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-di-bbs-20240315/",
+        "status": "Working Draft",
+        "date": "2024-03-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-di-bbs-20240314/",
+        "status": "Working Draft",
+        "date": "2024-03-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-di-bbs-20240309/",
+        "status": "Working Draft",
+        "date": "2024-03-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-di-bbs-20240307/",
+        "status": "Working Draft",
+        "date": "2024-03-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-di-bbs-20240303/",
+        "status": "Working Draft",
+        "date": "2024-03-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-vc-di-bbs-20240202/",
+        "status": "Working Draft",
+        "date": "2024-02-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-di-bbs-20231218/",
+        "status": "Working Draft",
+        "date": "2023-12-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-di-bbs-20231214/",
+        "status": "Working Draft",
+        "date": "2023-12-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-di-bbs-20231104/",
+        "status": "Working Draft",
+        "date": "2023-11-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-di-bbs-20231025/",
+        "status": "Working Draft",
+        "date": "2023-10-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-di-bbs-20231016/",
+        "status": "Working Draft",
+        "date": "2023-10-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-di-bbs-20230524/",
+        "status": "Working Draft",
+        "date": "2023-05-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-vc-di-bbs-20230518/",
+        "status": "First Public Working Draft",
+        "date": "2023-05-18"
+      }
+    ],
+    "abstract": "This specification describes a Data Integrity Cryptosuite for use when generating digital signatures using the BBS signature scheme. The Signature Suite utilizes BBS signatures to provide selective disclosure and unlinkable derived proofs."
+  },
+  {
+    "url": "https://www.w3.org/TR/mediacapture-transform/",
+    "title": "MediaStreamTrack Insertable Media Processing using Streams",
+    "status": "Draft Standard",
+    "date": "2025-04-03",
+    "histUrl": "https://www.w3.org/standards/history/mediacapture-transform/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/WD-mediacapture-transform-20250403/",
+        "status": "Working Draft",
+        "date": "2025-04-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-mediacapture-transform-20240531/",
+        "status": "Working Draft",
+        "date": "2024-05-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-mediacapture-transform-20221020/",
+        "status": "Working Draft",
+        "date": "2022-10-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-mediacapture-transform-20220210/",
+        "status": "First Public Working Draft",
+        "date": "2022-02-10"
+      }
+    ],
+    "abstract": "This API defines an API surface for manipulating the bits on MediaStreamTracks carrying raw data."
+  },
+  {
     "url": "https://www.w3.org/TR/rdf12-primer/",
     "title": "RDF 1.2 Primer",
     "status": "Draft Note",
@@ -77285,6 +77030,156 @@
       }
     ],
     "abstract": "This primer is designed to provide the reader with the basic knowledge required to effectively use RDF. It introduces the basic concepts of RDF and shows concrete examples of the use of RDF. Secs. 3-5 can be used as a minimalist introduction into the key elements of RDF. Changes between RDF 1.1 and RDF 1.2 are summarized in a separate document: What’s New in RDF 1.2 [RDF12-NEW]."
+  },
+  {
+    "url": "https://www.w3.org/TR/rdf12-semantics/",
+    "title": "RDF 1.2 Semantics",
+    "status": "Draft Standard",
+    "date": "2025-04-03",
+    "histUrl": "https://www.w3.org/standards/history/rdf12-semantics/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/WD-rdf12-semantics-20250403/",
+        "status": "Working Draft",
+        "date": "2025-04-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-rdf12-semantics-20250328/",
+        "status": "Working Draft",
+        "date": "2025-03-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-rdf12-semantics-20250327/",
+        "status": "Working Draft",
+        "date": "2025-03-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-rdf12-semantics-20250227/",
+        "status": "Working Draft",
+        "date": "2025-02-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-rdf12-semantics-20250225/",
+        "status": "Working Draft",
+        "date": "2025-02-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-rdf12-semantics-20250224/",
+        "status": "Working Draft",
+        "date": "2025-02-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-rdf12-semantics-20250220/",
+        "status": "Working Draft",
+        "date": "2025-02-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-rdf12-semantics-20250206/",
+        "status": "Working Draft",
+        "date": "2025-02-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-rdf12-semantics-20250204/",
+        "status": "Working Draft",
+        "date": "2025-02-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-rdf12-semantics-20250131/",
+        "status": "Working Draft",
+        "date": "2025-01-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-rdf12-semantics-20250124/",
+        "status": "Working Draft",
+        "date": "2025-01-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-rdf12-semantics-20241219/",
+        "status": "Working Draft",
+        "date": "2024-12-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-rdf12-semantics-20240627/",
+        "status": "Working Draft",
+        "date": "2024-06-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-rdf12-semantics-20240418/",
+        "status": "Working Draft",
+        "date": "2024-04-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-rdf12-semantics-20240125/",
+        "status": "Working Draft",
+        "date": "2024-01-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-semantics-20230922/",
+        "status": "Working Draft",
+        "date": "2023-09-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-semantics-20230615/",
+        "status": "Working Draft",
+        "date": "2023-06-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-semantics-20230606/",
+        "status": "First Public Working Draft",
+        "date": "2023-06-06"
+      }
+    ],
+    "abstract": "This document describes a precise semantics for RDF 1.2 Concepts and Abstract Syntax [RDF12-CONCEPTS] and RDF 1.2 Schema [RDF12-SCHEMA]. It defines a number of distinct entailment regimes and corresponding patterns of entailment. It is part of a suite of documents which comprise the full specification of RDF 1.2."
+  },
+  {
+    "url": "https://www.w3.org/TR/webcodecs-video-frame-metadata-registry/",
+    "title": "WebCodecs VideoFrame Metadata Registry",
+    "status": "Draft Registry",
+    "date": "2025-04-03",
+    "histUrl": "https://www.w3.org/standards/history/webcodecs-video-frame-metadata-registry/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/DRY-webcodecs-video-frame-metadata-registry-20250403/",
+        "status": "Draft Registry",
+        "date": "2025-04-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DRY-webcodecs-video-frame-metadata-registry-20241210/",
+        "status": "Draft Registry",
+        "date": "2024-12-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DRY-webcodecs-video-frame-metadata-registry-20240909/",
+        "status": "Draft Registry",
+        "date": "2024-09-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DRY-webcodecs-video-frame-metadata-registry-20240726/",
+        "status": "Draft Registry",
+        "date": "2024-07-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DRY-webcodecs-video-frame-metadata-registry-20240717/",
+        "status": "Draft Registry",
+        "date": "2024-07-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DRY-webcodecs-video-frame-metadata-registry-20240711/",
+        "status": "Draft Registry",
+        "date": "2024-07-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DRY-webcodecs-video-frame-metadata-registry-20240704/",
+        "status": "Draft Registry",
+        "date": "2024-07-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DRY-webcodecs-video-frame-metadata-registry-20240702/",
+        "status": "Draft Registry",
+        "date": "2024-07-02"
+      }
+    ],
+    "abstract": "This registry is intended to enumerate the metadata fields that can be attached to VideoFrame objects via the VideoFrameMetadata dictionary."
   },
   {
     "url": "https://www.w3.org/TR/webdriver-bidi/",
@@ -77450,5 +77345,145 @@
       }
     ],
     "abstract": "This document defines the BiDirectional WebDriver Protocol, a mechanism for remote control of user agents."
+  },
+  {
+    "url": "https://www.w3.org/TR/webxr-depth-sensing-1/",
+    "title": "WebXR Depth Sensing Module",
+    "status": "Draft Standard",
+    "date": "2025-04-03",
+    "histUrl": "https://www.w3.org/standards/history/webxr-depth-sensing-1/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webxr-depth-sensing-1-20250403/",
+        "status": "Working Draft",
+        "date": "2025-04-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webxr-depth-sensing-1-20250317/",
+        "status": "Working Draft",
+        "date": "2025-03-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-webxr-depth-sensing-1-20240923/",
+        "status": "Working Draft",
+        "date": "2024-09-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-webxr-depth-sensing-1-20240531/",
+        "status": "Working Draft",
+        "date": "2024-05-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-webxr-depth-sensing-1-20240528/",
+        "status": "Working Draft",
+        "date": "2024-05-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webxr-depth-sensing-1-20220419/",
+        "status": "Working Draft",
+        "date": "2022-04-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webxr-depth-sensing-1-20220223/",
+        "status": "Working Draft",
+        "date": "2022-02-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webxr-depth-sensing-1-20220215/",
+        "status": "Working Draft",
+        "date": "2022-02-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-webxr-depth-sensing-1-20210831/",
+        "status": "First Public Working Draft",
+        "date": "2021-08-31"
+      }
+    ],
+    "abstract": "Depth Sensing API is a module extending the capabilities of WebXR Device API. It enables apps to obtain depth information computed by supported XR devices in order to provide more immersive experiences. The example use cases of depth sensing API include (but are not limited to) simulating physical interactions of virtual objects with the real world, occlusion, and non-visual applications that can make use of increased awareness of users' environment."
+  },
+  {
+    "url": "https://www.w3.org/TR/clreq-gap/",
+    "title": "Chinese Layout Gap Analysis",
+    "status": "Draft Note",
+    "date": "2025-04-04",
+    "histUrl": "https://www.w3.org/standards/history/clreq-gap/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/DNOTE-clreq-gap-20250404/",
+        "status": "Draft Note",
+        "date": "2025-04-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/DNOTE-clreq-gap-20250109/",
+        "status": "Draft Note",
+        "date": "2025-01-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-clreq-gap-20240919/",
+        "status": "Draft Note",
+        "date": "2024-09-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-clreq-gap-20240709/",
+        "status": "Draft Note",
+        "date": "2024-07-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-clreq-gap-20240704/",
+        "status": "Draft Note",
+        "date": "2024-07-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-clreq-gap-20240208/",
+        "status": "Draft Note",
+        "date": "2024-02-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-clreq-gap-20231004/",
+        "status": "Draft Note",
+        "date": "2023-10-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-clreq-gap-20230721/",
+        "status": "Draft Note",
+        "date": "2023-07-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-clreq-gap-20230720/",
+        "status": "Draft Note",
+        "date": "2023-07-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-clreq-gap-20230615/",
+        "status": "Draft Note",
+        "date": "2023-06-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-clreq-gap-20220923/",
+        "status": "Draft Note",
+        "date": "2022-09-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-clreq-gap-20211119/",
+        "status": "Working Draft",
+        "date": "2021-11-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-clreq-gap-20210614/",
+        "status": "Working Draft",
+        "date": "2021-06-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-clreq-gap-20210525/",
+        "status": "Working Draft",
+        "date": "2021-05-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-clreq-gap-20200616/",
+        "status": "First Public Working Draft",
+        "date": "2020-06-16"
+      }
+    ],
+    "abstract": "This document describes and prioritises gaps for the support of the Chinese script on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, such as HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders."
   }
 ]
