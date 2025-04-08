@@ -48092,21 +48092,6 @@
     "abstract": "This specification defines an API enabling the creation and use of strong, attested, scoped, public key-based credentials by web applications, for the purpose of strongly authenticating users. Conceptually, one or more public key credentials, each scoped to a given WebAuthn Relying Party, are created by and bound to authenticators as requested by the web application. The user agent mediates access to authenticators and their public key credentials in order to preserve user privacy. Authenticators are responsible for ensuring that no operation is performed without user consent. Authenticators provide cryptographic proof of their properties to Relying Parties via attestation. This specification also describes the functional model for WebAuthn conformant authenticators, including their signature and attestation functionality."
   },
   {
-    "url": "https://www.w3.org/TR/did-1.1/",
-    "title": "Decentralized Identifiers (DIDs) v1.1",
-    "status": "Draft Standard",
-    "date": "2025-01-28",
-    "histUrl": "https://www.w3.org/standards/history/did-1.1/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/WD-did-1.1-20250128/",
-        "status": "First Public Working Draft",
-        "date": "2025-01-28"
-      }
-    ],
-    "abstract": "Decentralized identifiers (DIDs) are a new type of identifier that enables verifiable, decentralized digital identity. A DID refers to any subject (e.g., a person, organization, thing, data model, abstract entity, etc.) as determined by the controller of the DID. In contrast to typical, federated identifiers, DIDs have been designed so that they may be decoupled from centralized registries, identity providers, and certificate authorities. Specifically, while other parties might be used to help enable the discovery of information related to a DID, the design enables the controller of a DID to prove control over it without requiring permission from any other party. DIDs are URIs that associate a DID subject with a DID document allowing trustable interactions associated with that subject."
-  },
-  {
     "url": "https://www.w3.org/TR/miniapp-manifest/",
     "title": "MiniApp Manifest",
     "status": "Draft Standard",
@@ -77505,5 +77490,25 @@
       }
     ],
     "abstract": "This specification describes support for various layer types used in a WebXR session."
+  },
+  {
+    "url": "https://www.w3.org/TR/did-1.1/",
+    "title": "Decentralized Identifiers (DIDs) v1.1",
+    "status": "Draft Standard",
+    "date": "2025-04-08",
+    "histUrl": "https://www.w3.org/standards/history/did-1.1/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/WD-did-1.1-20250408/",
+        "status": "Working Draft",
+        "date": "2025-04-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-did-1.1-20250128/",
+        "status": "First Public Working Draft",
+        "date": "2025-01-28"
+      }
+    ],
+    "abstract": "Decentralized identifiers (DIDs) are a new type of identifier that enables verifiable, decentralized digital identity. A DID refers to any subject (e.g., a person, organization, thing, data model, abstract entity, etc.) as determined by the controller of the DID. In contrast to typical, federated identifiers, DIDs have been designed so that they may be decoupled from centralized registries, identity providers, and certificate authorities. Specifically, while other parties might be used to help enable the discovery of information related to a DID, the design enables the controller of a DID to prove control over it without requiring permission from any other party. DIDs are URIs that associate a DID subject with a DID document allowing trustable interactions associated with that subject."
   }
 ]
