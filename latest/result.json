@@ -40697,191 +40697,6 @@
     "abstract": "This registry is intended to enhance interoperability among implementations and users of [WEBCODECS]. In particular, this registry provides the means to identify and avoid collisions among codec strings and provides a mechanism to define codec-specific members of [WEBCODECS] codec configuration dictionaries."
   },
   {
-    "url": "https://www.w3.org/TR/geolocation/",
-    "title": "Geolocation",
-    "status": "Standard",
-    "date": "2024-09-16",
-    "histUrl": "https://www.w3.org/standards/history/geolocation/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/REC-geolocation-20240916/",
-        "status": "Recommendation",
-        "date": "2024-09-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/REC-geolocation-20240815/",
-        "status": "Recommendation",
-        "date": "2024-08-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/REC-geolocation-20240814/",
-        "status": "Recommendation",
-        "date": "2024-08-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/REC-geolocation-20240809/",
-        "status": "Recommendation",
-        "date": "2024-08-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/REC-geolocation-20240702/",
-        "status": "Recommendation",
-        "date": "2024-07-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/REC-geolocation-20240619/",
-        "status": "Recommendation",
-        "date": "2024-06-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/REC-geolocation-20240615/",
-        "status": "Recommendation",
-        "date": "2024-06-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/REC-geolocation-20240614/",
-        "status": "Recommendation",
-        "date": "2024-06-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/REC-geolocation-20240613/",
-        "status": "Recommendation",
-        "date": "2024-06-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/REC-geolocation-20220901/",
-        "status": "Recommendation",
-        "date": "2022-09-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/PR-geolocation-20220407/",
-        "status": "Proposed Recommendation",
-        "date": "2022-04-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/CRD-geolocation-20220318/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2022-03-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/CRD-geolocation-20220314/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2022-03-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/CRD-geolocation-20220307/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2022-03-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/CRD-geolocation-20220221/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2022-02-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/CR-geolocation-20220217/",
-        "status": "Candidate Recommendation Snapshot",
-        "date": "2022-02-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-geolocation-20220210/",
-        "status": "Working Draft",
-        "date": "2022-02-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-geolocation-20220129/",
-        "status": "Working Draft",
-        "date": "2022-01-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-geolocation-20211124/",
-        "status": "Working Draft",
-        "date": "2021-11-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-geolocation-20211123/",
-        "status": "Working Draft",
-        "date": "2021-11-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-geolocation-20211103/",
-        "status": "Working Draft",
-        "date": "2021-11-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-geolocation-20211012/",
-        "status": "Working Draft",
-        "date": "2021-10-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210930/",
-        "status": "Working Draft",
-        "date": "2021-09-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210812/",
-        "status": "Working Draft",
-        "date": "2021-08-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210730/",
-        "status": "Working Draft",
-        "date": "2021-07-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210727/",
-        "status": "Working Draft",
-        "date": "2021-07-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210726/",
-        "status": "Working Draft",
-        "date": "2021-07-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210715/",
-        "status": "Working Draft",
-        "date": "2021-07-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210708/",
-        "status": "Working Draft",
-        "date": "2021-07-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210615/",
-        "status": "Working Draft",
-        "date": "2021-06-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210610/",
-        "status": "Working Draft",
-        "date": "2021-06-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210607/",
-        "status": "Working Draft",
-        "date": "2021-06-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210601/",
-        "status": "Working Draft",
-        "date": "2021-06-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210531/",
-        "status": "Working Draft",
-        "date": "2021-05-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210527/",
-        "status": "First Public Working Draft",
-        "date": "2021-05-27"
-      }
-    ],
-    "abstract": "Geolocation provides access to geographical location information associated with the hosting device."
-  },
-  {
     "url": "https://www.w3.org/TR/mong-gap/",
     "title": "Mongolian Gap Analysis",
     "status": "Draft Note",
@@ -77365,6 +77180,196 @@
       }
     ],
     "abstract": "Shading language for WebGPU."
+  },
+  {
+    "url": "https://www.w3.org/TR/geolocation/",
+    "title": "Geolocation",
+    "status": "Standard",
+    "date": "2025-04-11",
+    "histUrl": "https://www.w3.org/standards/history/geolocation/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/REC-geolocation-20250411/",
+        "status": "Recommendation",
+        "date": "2025-04-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/REC-geolocation-20240916/",
+        "status": "Recommendation",
+        "date": "2024-09-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/REC-geolocation-20240815/",
+        "status": "Recommendation",
+        "date": "2024-08-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/REC-geolocation-20240814/",
+        "status": "Recommendation",
+        "date": "2024-08-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/REC-geolocation-20240809/",
+        "status": "Recommendation",
+        "date": "2024-08-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/REC-geolocation-20240702/",
+        "status": "Recommendation",
+        "date": "2024-07-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/REC-geolocation-20240619/",
+        "status": "Recommendation",
+        "date": "2024-06-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/REC-geolocation-20240615/",
+        "status": "Recommendation",
+        "date": "2024-06-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/REC-geolocation-20240614/",
+        "status": "Recommendation",
+        "date": "2024-06-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/REC-geolocation-20240613/",
+        "status": "Recommendation",
+        "date": "2024-06-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/REC-geolocation-20220901/",
+        "status": "Recommendation",
+        "date": "2022-09-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/PR-geolocation-20220407/",
+        "status": "Proposed Recommendation",
+        "date": "2022-04-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/CRD-geolocation-20220318/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2022-03-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/CRD-geolocation-20220314/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2022-03-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/CRD-geolocation-20220307/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2022-03-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/CRD-geolocation-20220221/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2022-02-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/CR-geolocation-20220217/",
+        "status": "Candidate Recommendation Snapshot",
+        "date": "2022-02-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-geolocation-20220210/",
+        "status": "Working Draft",
+        "date": "2022-02-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-geolocation-20220129/",
+        "status": "Working Draft",
+        "date": "2022-01-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-geolocation-20211124/",
+        "status": "Working Draft",
+        "date": "2021-11-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-geolocation-20211123/",
+        "status": "Working Draft",
+        "date": "2021-11-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-geolocation-20211103/",
+        "status": "Working Draft",
+        "date": "2021-11-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-geolocation-20211012/",
+        "status": "Working Draft",
+        "date": "2021-10-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210930/",
+        "status": "Working Draft",
+        "date": "2021-09-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210812/",
+        "status": "Working Draft",
+        "date": "2021-08-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210730/",
+        "status": "Working Draft",
+        "date": "2021-07-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210727/",
+        "status": "Working Draft",
+        "date": "2021-07-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210726/",
+        "status": "Working Draft",
+        "date": "2021-07-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210715/",
+        "status": "Working Draft",
+        "date": "2021-07-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210708/",
+        "status": "Working Draft",
+        "date": "2021-07-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210615/",
+        "status": "Working Draft",
+        "date": "2021-06-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210610/",
+        "status": "Working Draft",
+        "date": "2021-06-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210607/",
+        "status": "Working Draft",
+        "date": "2021-06-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210601/",
+        "status": "Working Draft",
+        "date": "2021-06-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210531/",
+        "status": "Working Draft",
+        "date": "2021-05-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210527/",
+        "status": "First Public Working Draft",
+        "date": "2021-05-27"
+      }
+    ],
+    "abstract": "Geolocation provides access to geographical location information associated with the hosting device."
   },
   {
     "url": "https://www.w3.org/TR/webdriver-bidi/",
