@@ -67827,36 +67827,6 @@
     "abstract": "This specification defines the authoring rules (author conformance requirements) for the use of Accessible Rich Internet Applications (WAI-ARIA) 1.2 and Digital Publishing WAI-ARIA Module 1.0 attributes on [HTML] elements. This specification's primary objective is to define requirements for use with conformance checking tools used by authors (i.e., web developers). These requirements will aid authors in their development of web content, including custom interfaces and widgets, which make use of ARIA to complement or extend the features of the host language [HTML]."
   },
   {
-    "url": "https://www.w3.org/TR/did-extensions-methods/",
-    "title": "DID Methods",
-    "status": "Note",
-    "date": "2025-04-09",
-    "histUrl": "https://www.w3.org/standards/history/did-extensions-methods/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/NOTE-did-extensions-methods-20250409/",
-        "status": "Note",
-        "date": "2025-04-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/NOTE-did-extensions-methods-20250219/",
-        "status": "Note",
-        "date": "2025-02-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/NOTE-did-extensions-methods-20250120/",
-        "status": "Note",
-        "date": "2025-01-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/NOTE-did-extensions-methods-20241119/",
-        "status": "Note",
-        "date": "2024-11-19"
-      }
-    ],
-    "abstract": "This document serves as a collection of known DID Methods."
-  },
-  {
     "url": "https://www.w3.org/TR/geolocation/",
     "title": "Geolocation",
     "status": "Standard",
@@ -77775,5 +77745,40 @@
       }
     ],
     "abstract": "This document describes a dedicated low-level API for neural network inference hardware acceleration."
+  },
+  {
+    "url": "https://www.w3.org/TR/did-extensions-methods/",
+    "title": "DID Methods",
+    "status": "Note",
+    "date": "2025-04-27",
+    "histUrl": "https://www.w3.org/standards/history/did-extensions-methods/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/NOTE-did-extensions-methods-20250427/",
+        "status": "Note",
+        "date": "2025-04-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/NOTE-did-extensions-methods-20250409/",
+        "status": "Note",
+        "date": "2025-04-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/NOTE-did-extensions-methods-20250219/",
+        "status": "Note",
+        "date": "2025-02-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/NOTE-did-extensions-methods-20250120/",
+        "status": "Note",
+        "date": "2025-01-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/NOTE-did-extensions-methods-20241119/",
+        "status": "Note",
+        "date": "2024-11-19"
+      }
+    ],
+    "abstract": "This document serves as a collection of known DID Methods."
   }
 ]
