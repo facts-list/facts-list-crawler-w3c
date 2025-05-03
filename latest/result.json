@@ -67537,41 +67537,6 @@
     "abstract": "EPUB® 3 defines a distribution and interchange format for digital publications and documents. The EPUB format provides a means of representing, packaging, and encoding structured and semantically enhanced web content — including HTML, CSS, SVG, and other resources — for distribution in a single-file container."
   },
   {
-    "url": "https://www.w3.org/TR/epub-a11y-111/",
-    "title": "EPUB Accessibility 1.1.1",
-    "status": "Draft Standard",
-    "date": "2025-04-17",
-    "histUrl": "https://www.w3.org/standards/history/epub-a11y-111/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/WD-epub-a11y-111-20250417/",
-        "status": "Working Draft",
-        "date": "2025-04-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-epub-a11y-111-20250327/",
-        "status": "First Public Working Draft",
-        "date": "2025-03-27"
-      }
-    ],
-    "abstract": "This specification specifies content conformance requirements for verifying the accessibility of EPUB® Publications. It also specifies accessibility metadata requirements for the discoverability of EPUB publications."
-  },
-  {
-    "url": "https://www.w3.org/TR/epub-a11y-tech-111/",
-    "title": "EPUB Accessibility Techniques 1.1.1",
-    "status": "Note",
-    "date": "2025-04-17",
-    "histUrl": "https://www.w3.org/standards/history/epub-a11y-tech-111/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/NOTE-epub-a11y-tech-111-20250417/",
-        "status": "Note",
-        "date": "2025-04-17"
-      }
-    ],
-    "abstract": "EPUB Accessibility Techniques defines discovery and content accessibility requirements for EPUB® Publications."
-  },
-  {
     "url": "https://www.w3.org/TR/international-specs/",
     "title": "Internationalization Best Practices for Spec Developers",
     "status": "Note",
@@ -69867,31 +69832,6 @@
     "abstract": "This specification describes CSS <color> values, and properties for foreground color and group opacity."
   },
   {
-    "url": "https://www.w3.org/TR/epub-rs-34/",
-    "title": "EPUB Reading Systems 3.4",
-    "status": "Draft Standard",
-    "date": "2025-04-24",
-    "histUrl": "https://www.w3.org/standards/history/epub-rs-34/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/WD-epub-rs-34-20250424/",
-        "status": "Working Draft",
-        "date": "2025-04-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-epub-rs-34-20250417/",
-        "status": "Working Draft",
-        "date": "2025-04-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-epub-rs-34-20250327/",
-        "status": "First Public Working Draft",
-        "date": "2025-03-27"
-      }
-    ],
-    "abstract": "EPUB® 3 defines a distribution and interchange format for digital publications and documents. The EPUB format provides a means of representing, packaging, and encoding structured and semantically enhanced web content — including HTML, CSS, SVG and other resources — for distribution in a single-file container."
-  },
-  {
     "url": "https://www.w3.org/TR/grek-lreq/",
     "title": "Greek Script Resources",
     "status": "Draft Note",
@@ -70665,36 +70605,6 @@
       }
     ],
     "abstract": "This document describes and prioritises gaps for the support of the Arabic script on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, such as HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders."
-  },
-  {
-    "url": "https://www.w3.org/TR/epub-34/",
-    "title": "EPUB 3.4",
-    "status": "Draft Standard",
-    "date": "2025-04-25",
-    "histUrl": "https://www.w3.org/standards/history/epub-34/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/WD-epub-34-20250425/",
-        "status": "Working Draft",
-        "date": "2025-04-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-epub-34-20250424/",
-        "status": "Working Draft",
-        "date": "2025-04-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-epub-34-20250417/",
-        "status": "Working Draft",
-        "date": "2025-04-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-epub-34-20250327/",
-        "status": "First Public Working Draft",
-        "date": "2025-03-27"
-      }
-    ],
-    "abstract": "EPUB® 3 defines a distribution and interchange format for digital publications and documents. The EPUB format provides a means of representing, packaging, and encoding structured and semantically enhanced web content — including HTML, CSS, SVG, and other resources — for distribution in a single-file container."
   },
   {
     "url": "https://www.w3.org/TR/wasm-js-api-2/",
@@ -77664,6 +77574,11 @@
     "histUrl": "https://www.w3.org/standards/history/dapt/",
     "history": [
       {
+        "url": "https://www.w3.org/TR/2025/CRD-dapt-20250502/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2025-05-02"
+      },
+      {
         "url": "https://www.w3.org/TR/2025/CRD-dapt-20250425/",
         "status": "Candidate Recommendation Draft",
         "date": "2025-04-25"
@@ -77850,5 +77765,115 @@
       }
     ],
     "abstract": "This specification defines DAPT, a TTML-based file format for the exchange of timed text content in dubbing and audio description workflows."
+  },
+  {
+    "url": "https://www.w3.org/TR/epub-34/",
+    "title": "EPUB 3.4",
+    "status": "Draft Standard",
+    "date": "2025-05-02",
+    "histUrl": "https://www.w3.org/standards/history/epub-34/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/WD-epub-34-20250502/",
+        "status": "Working Draft",
+        "date": "2025-05-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-epub-34-20250425/",
+        "status": "Working Draft",
+        "date": "2025-04-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-epub-34-20250424/",
+        "status": "Working Draft",
+        "date": "2025-04-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-epub-34-20250417/",
+        "status": "Working Draft",
+        "date": "2025-04-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-epub-34-20250327/",
+        "status": "First Public Working Draft",
+        "date": "2025-03-27"
+      }
+    ],
+    "abstract": "EPUB® 3 defines a distribution and interchange format for digital publications and documents. The EPUB format provides a means of representing, packaging, and encoding structured and semantically enhanced web content — including HTML, CSS, SVG, and other resources — for distribution in a single-file container."
+  },
+  {
+    "url": "https://www.w3.org/TR/epub-a11y-111/",
+    "title": "EPUB Accessibility 1.1.1",
+    "status": "Draft Standard",
+    "date": "2025-05-02",
+    "histUrl": "https://www.w3.org/standards/history/epub-a11y-111/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/WD-epub-a11y-111-20250502/",
+        "status": "Working Draft",
+        "date": "2025-05-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-epub-a11y-111-20250417/",
+        "status": "Working Draft",
+        "date": "2025-04-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-epub-a11y-111-20250327/",
+        "status": "First Public Working Draft",
+        "date": "2025-03-27"
+      }
+    ],
+    "abstract": "This specification specifies content conformance requirements for verifying the accessibility of EPUB® Publications. It also specifies accessibility metadata requirements for the discoverability of EPUB publications."
+  },
+  {
+    "url": "https://www.w3.org/TR/epub-a11y-tech-111/",
+    "title": "EPUB Accessibility Techniques 1.1.1",
+    "status": "Note",
+    "date": "2025-05-02",
+    "histUrl": "https://www.w3.org/standards/history/epub-a11y-tech-111/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/NOTE-epub-a11y-tech-111-20250502/",
+        "status": "Note",
+        "date": "2025-05-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/NOTE-epub-a11y-tech-111-20250417/",
+        "status": "Note",
+        "date": "2025-04-17"
+      }
+    ],
+    "abstract": "EPUB Accessibility Techniques defines discovery and content accessibility requirements for EPUB® Publications."
+  },
+  {
+    "url": "https://www.w3.org/TR/epub-rs-34/",
+    "title": "EPUB Reading Systems 3.4",
+    "status": "Draft Standard",
+    "date": "2025-05-02",
+    "histUrl": "https://www.w3.org/standards/history/epub-rs-34/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/WD-epub-rs-34-20250502/",
+        "status": "Working Draft",
+        "date": "2025-05-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-epub-rs-34-20250424/",
+        "status": "Working Draft",
+        "date": "2025-04-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-epub-rs-34-20250417/",
+        "status": "Working Draft",
+        "date": "2025-04-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-epub-rs-34-20250327/",
+        "status": "First Public Working Draft",
+        "date": "2025-03-27"
+      }
+    ],
+    "abstract": "EPUB® 3 defines a distribution and interchange format for digital publications and documents. The EPUB format provides a means of representing, packaging, and encoding structured and semantically enhanced web content — including HTML, CSS, SVG and other resources — for distribution in a single-file container."
   }
 ]
