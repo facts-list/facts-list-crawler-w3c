@@ -19789,6 +19789,51 @@
     "abstract": "Conformance requirements are expressed with a combination of descriptive assertions and RFC 2119 terminology. The key words “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT”, “SHOULD”, “SHOULD NOT”, “RECOMMENDED”, “MAY”, and “OPTIONAL” in the normative parts of this document are to be interpreted as described in RFC 2119. However, for readability, these words do not appear in all uppercase letters in this specification."
   },
   {
+    "url": "https://www.w3.org/TR/WebCryptoAPI/",
+    "title": "Web Cryptography API",
+    "status": "Standard",
+    "date": "2017-01-26",
+    "histUrl": "https://www.w3.org/standards/history/webcrypto-1/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2017/REC-WebCryptoAPI-20170126/",
+        "status": "Recommendation",
+        "date": "2017-01-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/PR-WebCryptoAPI-20161215/",
+        "status": "Proposed Recommendation",
+        "date": "2016-12-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2014/CR-WebCryptoAPI-20141211/",
+        "status": "Candidate Recommendation Snapshot",
+        "date": "2014-12-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2014/WD-WebCryptoAPI-20140325/",
+        "status": "Last Call Working Draft",
+        "date": "2014-03-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2013/WD-WebCryptoAPI-20130625/",
+        "status": "Working Draft",
+        "date": "2013-06-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2013/WD-WebCryptoAPI-20130108/",
+        "status": "Working Draft",
+        "date": "2013-01-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2012/WD-WebCryptoAPI-20120913/",
+        "status": "Working Draft",
+        "date": "2012-09-13"
+      }
+    ],
+    "abstract": "This specification describes a JavaScript API for performing basic cryptographic operations in web applications, such as hashing, signature generation and verification, and encryption and decryption. Additionally, it describes an API for applications to generate and/or manage the keying material necessary to perform these operations. Uses for this API range from user or service authentication, document or code signing, and the confidentiality and integrity of communications."
+  },
+  {
     "url": "https://www.w3.org/TR/dwbp/",
     "title": "Data on the Web Best Practices",
     "status": "Standard",
@@ -44267,76 +44312,6 @@
     "abstract": "W3C Accessibility Guidelines (WCAG) 3.0 will provide a wide range of recommendations for making web content more accessible to users with disabilities. Following these guidelines will address many of the needs of users with blindness, low vision and other vision impairments; deafness and hearing loss; limited movement and dexterity; speech disabilities; sensory disorders; cognitive and learning disabilities; and combinations of these. These guidelines address accessibility of web content on desktops, laptops, tablets, mobile devices, wearable devices, and other web of things devices. The guidelines apply to various types of web content including static, dynamic, interactive, and streaming content; visual and auditory media; virtual and augmented reality; and alternative access presentation and control. These guidelines also address related web tools such as user agents (browsers and assistive technologies), content management systems, authoring tools, and testing tools."
   },
   {
-    "url": "https://www.w3.org/TR/WCAG21/",
-    "title": "Web Content Accessibility Guidelines (WCAG) 2.1",
-    "status": "Standard",
-    "date": "2024-12-12",
-    "histUrl": "https://www.w3.org/standards/history/WCAG21/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/REC-WCAG21-20241212/",
-        "status": "Recommendation",
-        "date": "2024-12-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/REC-WCAG21-20230921/",
-        "status": "Recommendation",
-        "date": "2023-09-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
-        "status": "Recommendation",
-        "date": "2018-06-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/PR-WCAG21-20180424/",
-        "status": "Proposed Recommendation",
-        "date": "2018-04-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/CR-WCAG21-20180130/",
-        "status": "Candidate Recommendation Snapshot",
-        "date": "2018-01-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-WCAG21-20171207/",
-        "status": "Working Draft",
-        "date": "2017-12-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-WCAG21-20170912/",
-        "status": "Working Draft",
-        "date": "2017-09-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-WCAG21-20170816/",
-        "status": "Working Draft",
-        "date": "2017-08-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-WCAG21-20170728/",
-        "status": "Working Draft",
-        "date": "2017-07-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-WCAG21-20170630/",
-        "status": "Working Draft",
-        "date": "2017-06-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-WCAG21-20170419/",
-        "status": "Working Draft",
-        "date": "2017-04-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-WCAG21-20170228/",
-        "status": "First Public Working Draft",
-        "date": "2017-02-28"
-      }
-    ],
-    "abstract": "Web Content Accessibility Guidelines (WCAG) 2.1 covers a wide range of recommendations for making Web content more accessible. Following these guidelines will make content more accessible to a wider range of people with disabilities, including accommodations for blindness and low vision, deafness and hearing loss, limited movement, speech disabilities, photosensitivity, and combinations of these, and some accommodation for learning disabilities and cognitive limitations; but will not address every user need for people with these disabilities. These guidelines address accessibility of web content on desktops, laptops, tablets, and mobile devices. Following these guidelines will also often make Web content more usable to users in general."
-  },
-  {
     "url": "https://www.w3.org/TR/WCAG22/",
     "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
     "status": "Standard",
@@ -47105,171 +47080,6 @@
       }
     ],
     "abstract": "This module introduces masonry layout as an additional layout mode for CSS Grid containers."
-  },
-  {
-    "url": "https://www.w3.org/TR/permissions-policy-1/",
-    "title": "Permissions Policy",
-    "status": "Draft Standard",
-    "date": "2025-02-10",
-    "histUrl": "https://www.w3.org/standards/history/permissions-policy-1/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/WD-permissions-policy-1-20250210/",
-        "status": "Working Draft",
-        "date": "2025-02-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-permissions-policy-1-20250113/",
-        "status": "Working Draft",
-        "date": "2025-01-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-permissions-policy-1-20240925/",
-        "status": "Working Draft",
-        "date": "2024-09-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-permissions-policy-1-20240922/",
-        "status": "Working Draft",
-        "date": "2024-09-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-permissions-policy-1-20240921/",
-        "status": "Working Draft",
-        "date": "2024-09-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-permissions-policy-1-20240724/",
-        "status": "Working Draft",
-        "date": "2024-07-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-permissions-policy-1-20240723/",
-        "status": "Working Draft",
-        "date": "2024-07-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-permissions-policy-1-20240628/",
-        "status": "Working Draft",
-        "date": "2024-06-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-permissions-policy-1-20240627/",
-        "status": "Working Draft",
-        "date": "2024-06-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-permissions-policy-1-20240626/",
-        "status": "Working Draft",
-        "date": "2024-06-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-permissions-policy-1-20240619/",
-        "status": "Working Draft",
-        "date": "2024-06-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20231218/",
-        "status": "Working Draft",
-        "date": "2023-12-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20231017/",
-        "status": "Working Draft",
-        "date": "2023-10-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20231016/",
-        "status": "Working Draft",
-        "date": "2023-10-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20231013/",
-        "status": "Working Draft",
-        "date": "2023-10-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230912/",
-        "status": "Working Draft",
-        "date": "2023-09-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230911/",
-        "status": "Working Draft",
-        "date": "2023-09-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230717/",
-        "status": "Working Draft",
-        "date": "2023-07-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230705/",
-        "status": "Working Draft",
-        "date": "2023-07-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230630/",
-        "status": "Working Draft",
-        "date": "2023-06-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230607/",
-        "status": "Working Draft",
-        "date": "2023-06-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230322/",
-        "status": "Working Draft",
-        "date": "2023-03-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230222/",
-        "status": "Working Draft",
-        "date": "2023-02-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230217/",
-        "status": "Working Draft",
-        "date": "2023-02-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230123/",
-        "status": "Working Draft",
-        "date": "2023-01-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230111/",
-        "status": "Working Draft",
-        "date": "2023-01-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230110/",
-        "status": "Working Draft",
-        "date": "2023-01-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230109/",
-        "status": "Working Draft",
-        "date": "2023-01-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-permissions-policy-1-20221207/",
-        "status": "Working Draft",
-        "date": "2022-12-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-permissions-policy-1-20200716/",
-        "status": "Working Draft",
-        "date": "2020-07-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-feature-policy-1-20190416/",
-        "status": "First Public Working Draft",
-        "date": "2019-04-16"
-      }
-    ],
-    "abstract": "This specification defines a mechanism that allows developers to selectively enable and disable use of various browser features and APIs."
   },
   {
     "url": "https://www.w3.org/TR/webcodecs-aac-codec-registration/",
@@ -67352,6 +67162,21 @@
     "abstract": "This specification defines the key attribute values that must be used for KeyboardEvent’s key attribute, which is defined as part of the UI Events Specification [UIEvents]."
   },
   {
+    "url": "https://www.w3.org/TR/webcrypto-2/",
+    "title": "Web Cryptography Level 2",
+    "status": "Draft Standard",
+    "date": "2025-04-22",
+    "histUrl": "https://www.w3.org/standards/history/webcrypto-2/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webcrypto-2-20250422/",
+        "status": "First Public Working Draft",
+        "date": "2025-04-22"
+      }
+    ],
+    "abstract": "This specification describes a JavaScript API for performing basic cryptographic operations in web applications, such as hashing, signature generation and verification, and encryption and decryption. Additionally, it describes an API for applications to generate and/or manage the keying material necessary to perform these operations. Uses for this API range from user or service authentication, document or code signing, and the confidentiality and integrity of communications."
+  },
+  {
     "url": "https://www.w3.org/TR/did-resolution/",
     "title": "Decentralized Identifier Resolution (DID Resolution) v0.3",
     "status": "Draft Standard",
@@ -75717,206 +75542,6 @@
     "abstract": "Depth Sensing API is a module extending the capabilities of WebXR Device API. It enables apps to obtain depth information computed by supported XR devices in order to provide more immersive experiences. The example use cases of depth sensing API include (but are not limited to) simulating physical interactions of virtual objects with the real world, occlusion, and non-visual applications that can make use of increased awareness of users' environment."
   },
   {
-    "url": "https://www.w3.org/TR/dapt/",
-    "title": "Dubbing and Audio description Profiles of TTML2",
-    "status": "Candidate Standard",
-    "date": "2025-05-02",
-    "histUrl": "https://www.w3.org/standards/history/dapt/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/CRD-dapt-20250502/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2025-05-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/CRD-dapt-20250425/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2025-04-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/CRD-dapt-20250321/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2025-03-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/CR-dapt-20250311/",
-        "status": "Candidate Recommendation Snapshot",
-        "date": "2025-03-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20241220/",
-        "status": "Working Draft",
-        "date": "2024-12-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20241210/",
-        "status": "Working Draft",
-        "date": "2024-12-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20241121/",
-        "status": "Working Draft",
-        "date": "2024-11-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20241114/",
-        "status": "Working Draft",
-        "date": "2024-11-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20241113/",
-        "status": "Working Draft",
-        "date": "2024-11-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20241017/",
-        "status": "Working Draft",
-        "date": "2024-10-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20241011/",
-        "status": "Working Draft",
-        "date": "2024-10-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20241010/",
-        "status": "Working Draft",
-        "date": "2024-10-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20241009/",
-        "status": "Working Draft",
-        "date": "2024-10-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20241008/",
-        "status": "Working Draft",
-        "date": "2024-10-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20240928/",
-        "status": "Working Draft",
-        "date": "2024-09-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20240916/",
-        "status": "Working Draft",
-        "date": "2024-09-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20240829/",
-        "status": "Working Draft",
-        "date": "2024-08-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20240412/",
-        "status": "Working Draft",
-        "date": "2024-04-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20240328/",
-        "status": "Working Draft",
-        "date": "2024-03-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20240301/",
-        "status": "Working Draft",
-        "date": "2024-03-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20240215/",
-        "status": "Working Draft",
-        "date": "2024-02-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20240213/",
-        "status": "Working Draft",
-        "date": "2024-02-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-dapt-20240208/",
-        "status": "Working Draft",
-        "date": "2024-02-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20231221/",
-        "status": "Working Draft",
-        "date": "2023-12-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20231123/",
-        "status": "Working Draft",
-        "date": "2023-11-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20231102/",
-        "status": "Working Draft",
-        "date": "2023-11-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20231019/",
-        "status": "Working Draft",
-        "date": "2023-10-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20231013/",
-        "status": "Working Draft",
-        "date": "2023-10-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20231011/",
-        "status": "Working Draft",
-        "date": "2023-10-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20231006/",
-        "status": "Working Draft",
-        "date": "2023-10-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20230801/",
-        "status": "Working Draft",
-        "date": "2023-08-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20230727/",
-        "status": "Working Draft",
-        "date": "2023-07-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20230628/",
-        "status": "Working Draft",
-        "date": "2023-06-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20230619/",
-        "status": "Working Draft",
-        "date": "2023-06-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20230606/",
-        "status": "Working Draft",
-        "date": "2023-06-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20230505/",
-        "status": "Working Draft",
-        "date": "2023-05-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20230504/",
-        "status": "Working Draft",
-        "date": "2023-05-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-dapt-20230425/",
-        "status": "First Public Working Draft",
-        "date": "2023-04-25"
-      }
-    ],
-    "abstract": "This specification defines DAPT, a TTML-based file format for the exchange of timed text content in dubbing and audio description workflows."
-  },
-  {
     "url": "https://www.w3.org/TR/epub-34/",
     "title": "EPUB 3.4",
     "status": "Draft Standard",
@@ -76505,206 +76130,6 @@
       }
     ],
     "abstract": "The Resource Description Framework (RDF) is a framework for representing information on the Web. This document defines an abstract syntax (a data model) which serves to link all RDF-based languages and specifications. The abstract syntax has two key data structures:"
-  },
-  {
-    "url": "https://www.w3.org/TR/secure-payment-confirmation/",
-    "title": "Secure Payment Confirmation",
-    "status": "Candidate Standard",
-    "date": "2025-05-05",
-    "histUrl": "https://www.w3.org/standards/history/secure-payment-confirmation/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/CRD-secure-payment-confirmation-20250505/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2025-05-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/CRD-secure-payment-confirmation-20250415/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2025-04-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/CRD-secure-payment-confirmation-20250402/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2025-04-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/CRD-secure-payment-confirmation-20250213/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2025-02-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-secure-payment-confirmation-20241118/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-11-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-secure-payment-confirmation-20241111/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-11-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-secure-payment-confirmation-20241108/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-11-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-secure-payment-confirmation-20240813/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-08-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-secure-payment-confirmation-20231213/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-12-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-secure-payment-confirmation-20231018/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-10-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-secure-payment-confirmation-20230822/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-08-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-secure-payment-confirmation-20230731/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-07-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CRD-secure-payment-confirmation-20230621/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2023-06-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/CR-secure-payment-confirmation-20230615/",
-        "status": "Candidate Recommendation Snapshot",
-        "date": "2023-06-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-secure-payment-confirmation-20230530/",
-        "status": "Working Draft",
-        "date": "2023-05-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-secure-payment-confirmation-20230523/",
-        "status": "Working Draft",
-        "date": "2023-05-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-secure-payment-confirmation-20230510/",
-        "status": "Working Draft",
-        "date": "2023-05-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-secure-payment-confirmation-20230424/",
-        "status": "Working Draft",
-        "date": "2023-04-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-secure-payment-confirmation-20230422/",
-        "status": "Working Draft",
-        "date": "2023-04-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-secure-payment-confirmation-20230417/",
-        "status": "Working Draft",
-        "date": "2023-04-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-secure-payment-confirmation-20230414/",
-        "status": "Working Draft",
-        "date": "2023-04-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-secure-payment-confirmation-20230413/",
-        "status": "Working Draft",
-        "date": "2023-04-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-secure-payment-confirmation-20230323/",
-        "status": "Working Draft",
-        "date": "2023-03-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-secure-payment-confirmation-20230308/",
-        "status": "Working Draft",
-        "date": "2023-03-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-secure-payment-confirmation-20230130/",
-        "status": "Working Draft",
-        "date": "2023-01-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-secure-payment-confirmation-20230111/",
-        "status": "Working Draft",
-        "date": "2023-01-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-secure-payment-confirmation-20221209/",
-        "status": "Working Draft",
-        "date": "2022-12-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-secure-payment-confirmation-20221123/",
-        "status": "Working Draft",
-        "date": "2022-11-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-secure-payment-confirmation-20220927/",
-        "status": "Working Draft",
-        "date": "2022-09-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-secure-payment-confirmation-20220919/",
-        "status": "Working Draft",
-        "date": "2022-09-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-secure-payment-confirmation-20220914/",
-        "status": "Working Draft",
-        "date": "2022-09-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-secure-payment-confirmation-20220908/",
-        "status": "Working Draft",
-        "date": "2022-09-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-secure-payment-confirmation-20220831/",
-        "status": "Working Draft",
-        "date": "2022-08-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-secure-payment-confirmation-20220825/",
-        "status": "Working Draft",
-        "date": "2022-08-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-secure-payment-confirmation-20220812/",
-        "status": "Working Draft",
-        "date": "2022-08-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-secure-payment-confirmation-20220811/",
-        "status": "Working Draft",
-        "date": "2022-08-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-secure-payment-confirmation-20220810/",
-        "status": "Working Draft",
-        "date": "2022-08-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-secure-payment-confirmation-20210831/",
-        "status": "First Public Working Draft",
-        "date": "2021-08-31"
-      }
-    ],
-    "abstract": "Secure Payment Confirmation (SPC) is a Web API to support streamlined authentication during a payment transaction. It is designed to scale authentication across merchants, to be used within a wide range of authentication protocols, and to produce cryptographic evidence that the user has confirmed transaction details."
   },
   {
     "url": "https://www.w3.org/TR/sparql12-federated-query/",
@@ -77905,5 +77330,675 @@
       }
     ],
     "abstract": "This specification defines a JSON-based file format that provides developers with a centralized place to put metadata associated with a web application. This metadata includes, but is not limited to, the web application's name, links to icons, as well as the preferred URL to open when a user launches the web application. The manifest also allows developers to declare a default screen orientation for their web application, as well as providing the ability to set the display mode for the application (e.g., in fullscreen). Additionally, the manifest allows a developer to \"scope\" a web application to a URL. This restricts the URLs to which the manifest is applied and provides a means to \"deep link\" into a web application from other applications."
+  },
+  {
+    "url": "https://www.w3.org/TR/dapt/",
+    "title": "Dubbing and Audio description Profiles of TTML2",
+    "status": "Candidate Standard",
+    "date": "2025-05-06",
+    "histUrl": "https://www.w3.org/standards/history/dapt/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/CRD-dapt-20250506/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2025-05-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/CRD-dapt-20250502/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2025-05-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/CRD-dapt-20250425/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2025-04-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/CRD-dapt-20250321/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2025-03-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/CR-dapt-20250311/",
+        "status": "Candidate Recommendation Snapshot",
+        "date": "2025-03-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20241220/",
+        "status": "Working Draft",
+        "date": "2024-12-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20241210/",
+        "status": "Working Draft",
+        "date": "2024-12-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20241121/",
+        "status": "Working Draft",
+        "date": "2024-11-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20241114/",
+        "status": "Working Draft",
+        "date": "2024-11-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20241113/",
+        "status": "Working Draft",
+        "date": "2024-11-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20241017/",
+        "status": "Working Draft",
+        "date": "2024-10-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20241011/",
+        "status": "Working Draft",
+        "date": "2024-10-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20241010/",
+        "status": "Working Draft",
+        "date": "2024-10-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20241009/",
+        "status": "Working Draft",
+        "date": "2024-10-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20241008/",
+        "status": "Working Draft",
+        "date": "2024-10-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20240928/",
+        "status": "Working Draft",
+        "date": "2024-09-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20240916/",
+        "status": "Working Draft",
+        "date": "2024-09-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20240829/",
+        "status": "Working Draft",
+        "date": "2024-08-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20240412/",
+        "status": "Working Draft",
+        "date": "2024-04-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20240328/",
+        "status": "Working Draft",
+        "date": "2024-03-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20240301/",
+        "status": "Working Draft",
+        "date": "2024-03-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20240215/",
+        "status": "Working Draft",
+        "date": "2024-02-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20240213/",
+        "status": "Working Draft",
+        "date": "2024-02-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-dapt-20240208/",
+        "status": "Working Draft",
+        "date": "2024-02-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20231221/",
+        "status": "Working Draft",
+        "date": "2023-12-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20231123/",
+        "status": "Working Draft",
+        "date": "2023-11-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20231102/",
+        "status": "Working Draft",
+        "date": "2023-11-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20231019/",
+        "status": "Working Draft",
+        "date": "2023-10-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20231013/",
+        "status": "Working Draft",
+        "date": "2023-10-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20231011/",
+        "status": "Working Draft",
+        "date": "2023-10-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20231006/",
+        "status": "Working Draft",
+        "date": "2023-10-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20230801/",
+        "status": "Working Draft",
+        "date": "2023-08-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20230727/",
+        "status": "Working Draft",
+        "date": "2023-07-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20230628/",
+        "status": "Working Draft",
+        "date": "2023-06-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20230619/",
+        "status": "Working Draft",
+        "date": "2023-06-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20230606/",
+        "status": "Working Draft",
+        "date": "2023-06-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20230505/",
+        "status": "Working Draft",
+        "date": "2023-05-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20230504/",
+        "status": "Working Draft",
+        "date": "2023-05-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-dapt-20230425/",
+        "status": "First Public Working Draft",
+        "date": "2023-04-25"
+      }
+    ],
+    "abstract": "This specification defines DAPT, a TTML-based file format for the exchange of timed text content in dubbing and audio description workflows."
+  },
+  {
+    "url": "https://www.w3.org/TR/wcag2mobile-22/",
+    "title": "Guidance on Applying WCAG 2.2 to Mobile Applications (WCAG2Mobile)",
+    "status": "Draft Note",
+    "date": "2025-05-06",
+    "histUrl": "https://www.w3.org/standards/history/wcag2mobile-22/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/DNOTE-wcag2mobile-22-20250506/",
+        "status": "Draft Note",
+        "date": "2025-05-06"
+      }
+    ],
+    "abstract": "This document describes how Web Content Accessibility Guidelines (WCAG) 2.2 [WCAG22] principles, guidelines, and success criteria can be applied to mobile applications, including native mobile apps, mobile web apps and hybrid apps using web components inside native mobile apps. It provides informative guidance (guidance that is not normative and does not set requirements)."
+  },
+  {
+    "url": "https://www.w3.org/TR/permissions-policy-1/",
+    "title": "Permissions Policy",
+    "status": "Draft Standard",
+    "date": "2025-05-06",
+    "histUrl": "https://www.w3.org/standards/history/permissions-policy-1/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/WD-permissions-policy-1-20250506/",
+        "status": "Working Draft",
+        "date": "2025-05-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-permissions-policy-1-20250210/",
+        "status": "Working Draft",
+        "date": "2025-02-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-permissions-policy-1-20250113/",
+        "status": "Working Draft",
+        "date": "2025-01-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-permissions-policy-1-20240925/",
+        "status": "Working Draft",
+        "date": "2024-09-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-permissions-policy-1-20240922/",
+        "status": "Working Draft",
+        "date": "2024-09-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-permissions-policy-1-20240921/",
+        "status": "Working Draft",
+        "date": "2024-09-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-permissions-policy-1-20240724/",
+        "status": "Working Draft",
+        "date": "2024-07-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-permissions-policy-1-20240723/",
+        "status": "Working Draft",
+        "date": "2024-07-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-permissions-policy-1-20240628/",
+        "status": "Working Draft",
+        "date": "2024-06-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-permissions-policy-1-20240627/",
+        "status": "Working Draft",
+        "date": "2024-06-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-permissions-policy-1-20240626/",
+        "status": "Working Draft",
+        "date": "2024-06-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-permissions-policy-1-20240619/",
+        "status": "Working Draft",
+        "date": "2024-06-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20231218/",
+        "status": "Working Draft",
+        "date": "2023-12-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20231017/",
+        "status": "Working Draft",
+        "date": "2023-10-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20231016/",
+        "status": "Working Draft",
+        "date": "2023-10-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20231013/",
+        "status": "Working Draft",
+        "date": "2023-10-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230912/",
+        "status": "Working Draft",
+        "date": "2023-09-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230911/",
+        "status": "Working Draft",
+        "date": "2023-09-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230717/",
+        "status": "Working Draft",
+        "date": "2023-07-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230705/",
+        "status": "Working Draft",
+        "date": "2023-07-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230630/",
+        "status": "Working Draft",
+        "date": "2023-06-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230607/",
+        "status": "Working Draft",
+        "date": "2023-06-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230322/",
+        "status": "Working Draft",
+        "date": "2023-03-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230222/",
+        "status": "Working Draft",
+        "date": "2023-02-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230217/",
+        "status": "Working Draft",
+        "date": "2023-02-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230123/",
+        "status": "Working Draft",
+        "date": "2023-01-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230111/",
+        "status": "Working Draft",
+        "date": "2023-01-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230110/",
+        "status": "Working Draft",
+        "date": "2023-01-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230109/",
+        "status": "Working Draft",
+        "date": "2023-01-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-permissions-policy-1-20221207/",
+        "status": "Working Draft",
+        "date": "2022-12-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-permissions-policy-1-20200716/",
+        "status": "Working Draft",
+        "date": "2020-07-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-feature-policy-1-20190416/",
+        "status": "First Public Working Draft",
+        "date": "2019-04-16"
+      }
+    ],
+    "abstract": "This specification defines a mechanism that allows developers to selectively enable and disable use of various browser features and APIs."
+  },
+  {
+    "url": "https://www.w3.org/TR/secure-payment-confirmation/",
+    "title": "Secure Payment Confirmation",
+    "status": "Candidate Standard",
+    "date": "2025-05-06",
+    "histUrl": "https://www.w3.org/standards/history/secure-payment-confirmation/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/CRD-secure-payment-confirmation-20250506/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2025-05-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/CRD-secure-payment-confirmation-20250505/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2025-05-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/CRD-secure-payment-confirmation-20250415/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2025-04-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/CRD-secure-payment-confirmation-20250402/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2025-04-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/CRD-secure-payment-confirmation-20250213/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2025-02-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-secure-payment-confirmation-20241118/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-11-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-secure-payment-confirmation-20241111/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-11-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-secure-payment-confirmation-20241108/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-11-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/CRD-secure-payment-confirmation-20240813/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2024-08-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-secure-payment-confirmation-20231213/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-12-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-secure-payment-confirmation-20231018/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-10-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-secure-payment-confirmation-20230822/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-08-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-secure-payment-confirmation-20230731/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-07-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CRD-secure-payment-confirmation-20230621/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2023-06-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/CR-secure-payment-confirmation-20230615/",
+        "status": "Candidate Recommendation Snapshot",
+        "date": "2023-06-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-secure-payment-confirmation-20230530/",
+        "status": "Working Draft",
+        "date": "2023-05-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-secure-payment-confirmation-20230523/",
+        "status": "Working Draft",
+        "date": "2023-05-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-secure-payment-confirmation-20230510/",
+        "status": "Working Draft",
+        "date": "2023-05-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-secure-payment-confirmation-20230424/",
+        "status": "Working Draft",
+        "date": "2023-04-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-secure-payment-confirmation-20230422/",
+        "status": "Working Draft",
+        "date": "2023-04-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-secure-payment-confirmation-20230417/",
+        "status": "Working Draft",
+        "date": "2023-04-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-secure-payment-confirmation-20230414/",
+        "status": "Working Draft",
+        "date": "2023-04-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-secure-payment-confirmation-20230413/",
+        "status": "Working Draft",
+        "date": "2023-04-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-secure-payment-confirmation-20230323/",
+        "status": "Working Draft",
+        "date": "2023-03-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-secure-payment-confirmation-20230308/",
+        "status": "Working Draft",
+        "date": "2023-03-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-secure-payment-confirmation-20230130/",
+        "status": "Working Draft",
+        "date": "2023-01-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-secure-payment-confirmation-20230111/",
+        "status": "Working Draft",
+        "date": "2023-01-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-secure-payment-confirmation-20221209/",
+        "status": "Working Draft",
+        "date": "2022-12-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-secure-payment-confirmation-20221123/",
+        "status": "Working Draft",
+        "date": "2022-11-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-secure-payment-confirmation-20220927/",
+        "status": "Working Draft",
+        "date": "2022-09-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-secure-payment-confirmation-20220919/",
+        "status": "Working Draft",
+        "date": "2022-09-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-secure-payment-confirmation-20220914/",
+        "status": "Working Draft",
+        "date": "2022-09-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-secure-payment-confirmation-20220908/",
+        "status": "Working Draft",
+        "date": "2022-09-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-secure-payment-confirmation-20220831/",
+        "status": "Working Draft",
+        "date": "2022-08-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-secure-payment-confirmation-20220825/",
+        "status": "Working Draft",
+        "date": "2022-08-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-secure-payment-confirmation-20220812/",
+        "status": "Working Draft",
+        "date": "2022-08-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-secure-payment-confirmation-20220811/",
+        "status": "Working Draft",
+        "date": "2022-08-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-secure-payment-confirmation-20220810/",
+        "status": "Working Draft",
+        "date": "2022-08-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-secure-payment-confirmation-20210831/",
+        "status": "First Public Working Draft",
+        "date": "2021-08-31"
+      }
+    ],
+    "abstract": "Secure Payment Confirmation (SPC) is a Web API to support streamlined authentication during a payment transaction. It is designed to scale authentication across merchants, to be used within a wide range of authentication protocols, and to produce cryptographic evidence that the user has confirmed transaction details."
+  },
+  {
+    "url": "https://www.w3.org/TR/WCAG21/",
+    "title": "Web Content Accessibility Guidelines (WCAG) 2.1",
+    "status": "Standard",
+    "date": "2025-05-06",
+    "histUrl": "https://www.w3.org/standards/history/WCAG21/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/REC-WCAG21-20250506/",
+        "status": "Recommendation",
+        "date": "2025-05-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/REC-WCAG21-20241212/",
+        "status": "Recommendation",
+        "date": "2024-12-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/REC-WCAG21-20230921/",
+        "status": "Recommendation",
+        "date": "2023-09-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
+        "status": "Recommendation",
+        "date": "2018-06-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/PR-WCAG21-20180424/",
+        "status": "Proposed Recommendation",
+        "date": "2018-04-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/CR-WCAG21-20180130/",
+        "status": "Candidate Recommendation Snapshot",
+        "date": "2018-01-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-WCAG21-20171207/",
+        "status": "Working Draft",
+        "date": "2017-12-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-WCAG21-20170912/",
+        "status": "Working Draft",
+        "date": "2017-09-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-WCAG21-20170816/",
+        "status": "Working Draft",
+        "date": "2017-08-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-WCAG21-20170728/",
+        "status": "Working Draft",
+        "date": "2017-07-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-WCAG21-20170630/",
+        "status": "Working Draft",
+        "date": "2017-06-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-WCAG21-20170419/",
+        "status": "Working Draft",
+        "date": "2017-04-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-WCAG21-20170228/",
+        "status": "First Public Working Draft",
+        "date": "2017-02-28"
+      }
+    ],
+    "abstract": "Web Content Accessibility Guidelines (WCAG) 2.1 covers a wide range of recommendations for making web content more accessible. Following these guidelines will make content more accessible to a wider range of people with disabilities, including accommodations for blindness and low vision, deafness and hearing loss, limited movement, speech disabilities, photosensitivity, and combinations of these, and some accommodation for learning disabilities and cognitive limitations; but will not address every user need for people with these disabilities. These guidelines address accessibility of web content on any kind of device (including desktops, laptops, kiosks, and mobile devices). Following these guidelines will also often make web content more usable to users in general."
   }
 ]
