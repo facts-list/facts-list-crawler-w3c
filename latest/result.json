@@ -185,13 +185,6 @@
     "status": "Note",
     "date": "1999-02-18",
     "histUrl": "https://www.w3.org/standards/history/xml-infoset-req/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/1999/NOTE-xml-infoset-req-19990218",
-        "status": "Note",
-        "date": "1999-02-18"
-      }
-    ],
     "abstract": "This document lists the design principles and requirements for the XML Information Set, a meta-model for XML documents being developed by the World Wide Web Consortium's XML Information Set Working Group."
   },
   {
@@ -1805,23 +1798,6 @@
     "status": "Note",
     "date": "2003-10-10",
     "histUrl": "https://www.w3.org/standards/history/lbase/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2003/NOTE-lbase-20031010/",
-        "status": "Note",
-        "date": "2003-10-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2003/NOTE-lbase-20030905",
-        "status": "Note",
-        "date": "2003-09-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2003/NOTE-lbase-20030123",
-        "status": "Note",
-        "date": "2003-01-23"
-      }
-    ],
     "abstract": "This document presents a framework for specifying the semantics for the languages of the Semantic Web. Some of these languages (notably RDF [RDF-PRIMER] [RDF-VOCABULARY] [RDF-SYNTAX] [RDF-CONCEPTS] [RDF-SEMANTICS], and OWL [OWL]) are currently in various stages of development and we expect others to be developed in the future. This framework is intended to provide a framework for specifying the semantics of all of these languages in a uniform and coherent way. The strategy is to translate the various languages into a common 'base' language thereby providing them with a single coherent model theory."
   },
   {
@@ -3830,33 +3806,6 @@
     "status": "Standard",
     "date": "2005-06-28",
     "histUrl": "https://www.w3.org/standards/history/xkms2-bindings/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2005/REC-xkms2-bindings-20050628/",
-        "status": "Recommendation",
-        "date": "2005-06-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2005/PR-xkms2-bindings-20050502/",
-        "status": "Proposed Recommendation",
-        "date": "2005-05-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2004/CR-xkms2-bindings-20040405/",
-        "status": "Candidate Recommendation Snapshot",
-        "date": "2004-04-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2003/WD-xkms2-bindings-20030418/",
-        "status": "Last Call Working Draft",
-        "date": "2003-04-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2002/WD-xkms2-20020318/",
-        "status": "Working Draft",
-        "date": "2002-03-18"
-      }
-    ],
     "abstract": "[2]This document specifies protocol bindings with security characteristics for the XML Key Management Specification (XKMS)."
   },
   {
@@ -6670,13 +6619,6 @@
     "status": "Note",
     "date": "2008-07-02",
     "histUrl": "https://www.w3.org/standards/history/mmi-auth/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2008/NOTE-mmi-auth-20080702/",
-        "status": "Note",
-        "date": "2008-07-02"
-      }
-    ],
     "abstract": "This document describes a multimodal system which implements the W3C Multimodal Architecture and gives an example of a simple multimodal application authored using various W3C markup languages, including SCXML, CCXML, VoiceXML 2.1 and HTML."
   },
   {
@@ -7480,13 +7422,6 @@
     "status": "Note",
     "date": "2009-05-12",
     "histUrl": "https://www.w3.org/standards/history/di-testing/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2009/NOTE-di-testing-20090512/",
-        "status": "Note",
-        "date": "2009-05-12"
-      }
-    ],
     "abstract": "As support for Web technologies grows, it is important that tests writers develop test suites that will work as well as possible across devices. This document offers guidance in the form of simple guidelines to follow to create device-independent tests."
   },
   {
@@ -8120,13 +8055,6 @@
     "status": "Note",
     "date": "2009-10-15",
     "histUrl": "https://www.w3.org/standards/history/dap-api-reqs/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2009/NOTE-dap-api-reqs-20091015/",
-        "status": "Note",
-        "date": "2009-10-15"
-      }
-    ],
     "abstract": "These are the requirements intended to be met in the development of client-side APIs that enable the creation of Web Applications and Web Widgets that interact with devices services such as Calendar, Contacts, Camera, etc."
   },
   {
@@ -8585,13 +8513,6 @@
     "status": "Draft Standard",
     "date": "2010-01-26",
     "histUrl": "https://www.w3.org/standards/history/sparql11-property-paths/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2010/WD-sparql11-property-paths-20100126/",
-        "status": "Working Draft",
-        "date": "2010-01-26"
-      }
-    ],
     "abstract": "This document describes SPARQL Property Paths. Property Paths give a more succinct way to write parts of basic graph patterns and also extend matching of triple pattern to arbitrary length paths. Property paths do not invalidate or change any existing SPARQL query."
   },
   {
@@ -10820,68 +10741,6 @@
     "status": "Standard",
     "date": "2012-04-05",
     "histUrl": "https://www.w3.org/standards/history/xmlschema11-1/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2012/REC-xmlschema11-1-20120405/",
-        "status": "Recommendation",
-        "date": "2012-04-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2012/PR-xmlschema11-1-20120119/",
-        "status": "Proposed Recommendation",
-        "date": "2012-01-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2011/CR-xmlschema11-1-20110721/",
-        "status": "Candidate Recommendation Snapshot",
-        "date": "2011-07-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2009/WD-xmlschema11-1-20091203/",
-        "status": "Last Call Working Draft",
-        "date": "2009-12-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2009/CR-xmlschema11-1-20090430/",
-        "status": "Candidate Recommendation Snapshot",
-        "date": "2009-04-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2009/WD-xmlschema11-1-20090130/",
-        "status": "Last Call Working Draft",
-        "date": "2009-01-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2008/WD-xmlschema11-1-20080620/",
-        "status": "Last Call Working Draft",
-        "date": "2008-06-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2007/WD-xmlschema11-1-20070830/",
-        "status": "Last Call Working Draft",
-        "date": "2007-08-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2006/WD-xmlschema11-1-20060831/",
-        "status": "Working Draft",
-        "date": "2006-08-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2006/WD-xmlschema11-1-20060330/",
-        "status": "Working Draft",
-        "date": "2006-03-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2005/WD-xmlschema11-1-20050224/",
-        "status": "Working Draft",
-        "date": "2005-02-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2004/WD-xmlschema11-1-20040716/",
-        "status": "Working Draft",
-        "date": "2004-07-16"
-      }
-    ],
     "abstract": "This document specifies the XML Schema Definition Language, which offers facilities for describing the structure and constraining the contents of XML documents, including those which exploit the XML Namespace facility. The schema language, which is itself represented in an XML vocabulary and uses namespaces, substantially reconstructs and considerably extends the capabilities found in XML document type definitions (DTDs). This specification depends on XML Schema Definition Language 1.1 Part 2: Datatypes."
   },
   {
@@ -18809,13 +18668,6 @@
     "status": "Note",
     "date": "2016-02-25",
     "histUrl": "https://www.w3.org/standards/history/tabular-data-primer/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2016/NOTE-tabular-data-primer-20160225/",
-        "status": "Note",
-        "date": "2016-02-25"
-      }
-    ],
     "abstract": "CSV is one of the most popular formats for publishing data on the web. It is concise, easy to understand by both humans and computers, and aligns nicely to the tabular nature of most data."
   },
   {
@@ -26708,43 +26560,6 @@
     "status": "Candidate Standard",
     "date": "2021-08-05",
     "histUrl": "https://www.w3.org/standards/history/css-masking-1/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2021/CRD-css-masking-1-20210805/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2021-08-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2014/CR-css-masking-1-20140826/",
-        "status": "Candidate Recommendation Snapshot",
-        "date": "2014-08-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2014/WD-css-masking-1-20140522/",
-        "status": "Last Call Working Draft",
-        "date": "2014-05-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2014/WD-css-masking-1-20140213/",
-        "status": "Working Draft",
-        "date": "2014-02-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2013/WD-css-masking-1-20131029/",
-        "status": "Last Call Working Draft",
-        "date": "2013-10-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2013/WD-css-masking-20130620/",
-        "status": "Working Draft",
-        "date": "2013-06-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2012/WD-css-masking-20121115/",
-        "status": "Working Draft",
-        "date": "2012-11-15"
-      }
-    ],
     "abstract": "CSS Masking provides two means for partially or fully hiding portions of visual elements: masking and clipping."
   },
   {
@@ -27477,53 +27292,6 @@
     "status": "Candidate Standard",
     "date": "2022-01-13",
     "histUrl": "https://www.w3.org/standards/history/css-cascade-4/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2022/CR-css-cascade-4-20220113/",
-        "status": "Candidate Recommendation Snapshot",
-        "date": "2022-01-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-css-cascade-4-20211203/",
-        "status": "Working Draft",
-        "date": "2021-12-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-css-cascade-4-20211015/",
-        "status": "Working Draft",
-        "date": "2021-10-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-css-cascade-4-20210319/",
-        "status": "Working Draft",
-        "date": "2021-03-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-css-cascade-4-20200818/",
-        "status": "Working Draft",
-        "date": "2020-08-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/CR-css-cascade-4-20180828/",
-        "status": "Candidate Recommendation Snapshot",
-        "date": "2018-08-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2016/CR-css-cascade-4-20160114/",
-        "status": "Candidate Recommendation Snapshot",
-        "date": "2016-01-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2015/WD-css-cascade-4-20150908/",
-        "status": "Working Draft",
-        "date": "2015-09-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2015/WD-css-cascade-4-20150421/",
-        "status": "First Public Working Draft",
-        "date": "2015-04-21"
-      }
-    ],
     "abstract": "This CSS module describes how to collate style rules and assign values to all properties on all elements. By way of cascading and inheritance, values are propagated for all properties on all elements."
   },
   {
@@ -33297,83 +33065,6 @@
     "status": "Candidate Standard",
     "date": "2024-03-22",
     "histUrl": "https://www.w3.org/standards/history/css-values-3/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/CRD-css-values-3-20240322/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2024-03-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/CR-css-values-3-20221201/",
-        "status": "Candidate Recommendation Snapshot",
-        "date": "2022-12-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/CR-css-values-3-20190606/",
-        "status": "Candidate Recommendation Snapshot",
-        "date": "2019-06-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/CR-css-values-3-20190131/",
-        "status": "Candidate Recommendation Snapshot",
-        "date": "2019-01-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/CR-css-values-3-20180814/",
-        "status": "Candidate Recommendation Snapshot",
-        "date": "2018-08-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2016/CR-css-values-3-20160929/",
-        "status": "Candidate Recommendation Snapshot",
-        "date": "2016-09-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2015/CR-css-values-3-20150611/",
-        "status": "Candidate Recommendation Snapshot",
-        "date": "2015-06-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2013/CR-css3-values-20130730/",
-        "status": "Candidate Recommendation Snapshot",
-        "date": "2013-07-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2013/CR-css3-values-20130404/",
-        "status": "Candidate Recommendation Snapshot",
-        "date": "2013-04-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2012/CR-css3-values-20120828/",
-        "status": "Candidate Recommendation Snapshot",
-        "date": "2012-08-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2012/WD-css3-values-20120308/",
-        "status": "Last Call Working Draft",
-        "date": "2012-03-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2011/WD-css3-values-20110906/",
-        "status": "Working Draft",
-        "date": "2011-09-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2006/WD-css3-values-20060919",
-        "status": "Working Draft",
-        "date": "2006-09-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2005/WD-css3-values-20050726",
-        "status": "Working Draft",
-        "date": "2005-07-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2001/WD-css3-values-20010713/",
-        "status": "Working Draft",
-        "date": "2001-07-13"
-      }
-    ],
     "abstract": "This CSS module describes the common values and units that CSS properties accept and the syntax used for describing them in CSS property definitions."
   },
   {
@@ -43052,28 +42743,6 @@
     "status": "Draft Note",
     "date": "2024-11-14",
     "histUrl": "https://www.w3.org/standards/history/hebr-lreq/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-hebr-lreq-20241114/",
-        "status": "Draft Note",
-        "date": "2024-11-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-hebr-lreq-20240815/",
-        "status": "Draft Note",
-        "date": "2024-08-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-hebr-lreq-20240808/",
-        "status": "Draft Note",
-        "date": "2024-08-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-hebr-lreq-20240716/",
-        "status": "Draft Note",
-        "date": "2024-07-16"
-      }
-    ],
     "abstract": "This document points to resources for the layout and presentation of text in languages that use the Hebrew script. The target audience includes developers of Web standards and technologies, such as HTML, CSS, Mobile Web, Digital Publications, and Unicode, as well as implementers of web browsers, ebook readers, and other applications that need to render Hebrew text."
   },
   {
@@ -61222,68 +60891,6 @@
     "status": "Draft Note",
     "date": "2025-04-02",
     "histUrl": "https://www.w3.org/standards/history/gujr-gap/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/DNOTE-gujr-gap-20250402/",
-        "status": "Draft Note",
-        "date": "2025-04-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/DNOTE-gujr-gap-20250214/",
-        "status": "Draft Note",
-        "date": "2025-02-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-gujr-gap-20240710/",
-        "status": "Draft Note",
-        "date": "2024-07-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-gujr-gap-20240704/",
-        "status": "Draft Note",
-        "date": "2024-07-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-gujr-gap-20240702/",
-        "status": "Draft Note",
-        "date": "2024-07-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-gujr-gap-20231004/",
-        "status": "Draft Note",
-        "date": "2023-10-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-gujr-gap-20230614/",
-        "status": "Draft Note",
-        "date": "2023-06-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-gujr-gap-20220119/",
-        "status": "Draft Note",
-        "date": "2022-01-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-gujr-gap-20210525/",
-        "status": "Working Draft",
-        "date": "2021-05-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-gujr-gap-20210217/",
-        "status": "Working Draft",
-        "date": "2021-02-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-gujr-gap-20210127/",
-        "status": "Working Draft",
-        "date": "2021-01-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-gujr-gap-20200616/",
-        "status": "First Public Working Draft",
-        "date": "2020-06-16"
-      }
-    ],
     "abstract": "This document describes and prioritises gaps for the support of the Gujarati script on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, such as HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders."
   },
   {
@@ -67012,58 +66619,6 @@
     "status": "Candidate Standard",
     "date": "2025-04-25",
     "histUrl": "https://www.w3.org/standards/history/webxr-ar-module-1/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/CRD-webxr-ar-module-1-20250425/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2025-04-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/CRD-webxr-ar-module-1-20221102/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2022-11-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/CR-webxr-ar-module-1-20221101/",
-        "status": "Candidate Recommendation Snapshot",
-        "date": "2022-11-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webxr-ar-module-1-20220426/",
-        "status": "Working Draft",
-        "date": "2022-04-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webxr-ar-module-1-20220317/",
-        "status": "Working Draft",
-        "date": "2022-03-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webxr-ar-module-1-20220203/",
-        "status": "Working Draft",
-        "date": "2022-02-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webxr-ar-module-1-20211224/",
-        "status": "Working Draft",
-        "date": "2021-12-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webxr-ar-module-1-20211223/",
-        "status": "Working Draft",
-        "date": "2021-12-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webxr-ar-module-1-20210824/",
-        "status": "Working Draft",
-        "date": "2021-08-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-webxr-ar-module-1-20191010/",
-        "status": "First Public Working Draft",
-        "date": "2019-10-10"
-      }
-    ],
     "abstract": "The WebXR Augmented Reality module expands the WebXR Device API with the functionality available on AR hardware."
   },
   {
