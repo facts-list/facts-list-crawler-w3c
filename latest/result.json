@@ -48252,671 +48252,6 @@
     "abstract": "This registration is entered into the [webcodecs-codec-registry]. It describes, for AV1, the (1) fully qualified codec strings, (2) the codec-specific EncodedVideoChunk [[internal data]] bytes, (3) the codec-specific extensions to VideoEncoderConfig, (4) the VideoDecoderConfig.description bytes, (5) the values of EncodedVideoChunk [[type]], and (6) the codec-specific extensions to VideoEncoderEncodeOptions."
   },
   {
-    "url": "https://www.w3.org/TR/webcodecs-avc-codec-registration/",
-    "title": "AVC (H.264) WebCodecs Registration",
-    "status": "Draft Note",
-    "date": "2025-02-12",
-    "histUrl": "https://www.w3.org/standards/history/webcodecs-avc-codec-registration/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/DNOTE-webcodecs-avc-codec-registration-20250212/",
-        "status": "Draft Note",
-        "date": "2025-02-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-avc-codec-registration-20240909/",
-        "status": "Draft Note",
-        "date": "2024-09-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-avc-codec-registration-20240717/",
-        "status": "Draft Note",
-        "date": "2024-07-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-avc-codec-registration-20240711/",
-        "status": "Draft Note",
-        "date": "2024-07-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-avc-codec-registration-20240704/",
-        "status": "Draft Note",
-        "date": "2024-07-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-avc-codec-registration-20240614/",
-        "status": "Draft Note",
-        "date": "2024-06-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-avc-codec-registration-20240610/",
-        "status": "Draft Note",
-        "date": "2024-06-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-avc-codec-registration-20240520/",
-        "status": "Draft Note",
-        "date": "2024-05-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-avc-codec-registration-20240508/",
-        "status": "Draft Note",
-        "date": "2024-05-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-avc-codec-registration-20240503/",
-        "status": "Draft Note",
-        "date": "2024-05-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-avc-codec-registration-20240419/",
-        "status": "Draft Note",
-        "date": "2024-04-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-avc-codec-registration-20240408/",
-        "status": "Draft Note",
-        "date": "2024-04-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-avc-codec-registration-20240319/",
-        "status": "Draft Note",
-        "date": "2024-03-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-avc-codec-registration-20240318/",
-        "status": "Draft Note",
-        "date": "2024-03-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-avc-codec-registration-20240313/",
-        "status": "Draft Note",
-        "date": "2024-03-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-avc-codec-registration-20240312/",
-        "status": "Draft Note",
-        "date": "2024-03-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-avc-codec-registration-20240229/",
-        "status": "Draft Note",
-        "date": "2024-02-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-avc-codec-registration-20240228/",
-        "status": "Draft Note",
-        "date": "2024-02-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-avc-codec-registration-20240208/",
-        "status": "Draft Note",
-        "date": "2024-02-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-avc-codec-registration-20240206/",
-        "status": "Draft Note",
-        "date": "2024-02-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-avc-codec-registration-20240201/",
-        "status": "Draft Note",
-        "date": "2024-02-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-avc-codec-registration-20240129/",
-        "status": "Draft Note",
-        "date": "2024-01-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-avc-codec-registration-20240108/",
-        "status": "Draft Note",
-        "date": "2024-01-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20231123/",
-        "status": "Draft Note",
-        "date": "2023-11-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20231114/",
-        "status": "Draft Note",
-        "date": "2023-11-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20231103/",
-        "status": "Draft Note",
-        "date": "2023-11-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20231102/",
-        "status": "Draft Note",
-        "date": "2023-11-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20231101/",
-        "status": "Draft Note",
-        "date": "2023-11-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20231028/",
-        "status": "Draft Note",
-        "date": "2023-10-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20231026/",
-        "status": "Draft Note",
-        "date": "2023-10-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20231012/",
-        "status": "Draft Note",
-        "date": "2023-10-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20230930/",
-        "status": "Draft Note",
-        "date": "2023-09-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20230928/",
-        "status": "Draft Note",
-        "date": "2023-09-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20230826/",
-        "status": "Draft Note",
-        "date": "2023-08-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20230825/",
-        "status": "Draft Note",
-        "date": "2023-08-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20230821/",
-        "status": "Draft Note",
-        "date": "2023-08-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20230817/",
-        "status": "Draft Note",
-        "date": "2023-08-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20230726/",
-        "status": "Draft Note",
-        "date": "2023-07-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20230720/",
-        "status": "Draft Note",
-        "date": "2023-07-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20230719/",
-        "status": "Draft Note",
-        "date": "2023-07-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20230708/",
-        "status": "Draft Note",
-        "date": "2023-07-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20230707/",
-        "status": "Draft Note",
-        "date": "2023-07-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20230706/",
-        "status": "Draft Note",
-        "date": "2023-07-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20230705/",
-        "status": "Draft Note",
-        "date": "2023-07-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20230628/",
-        "status": "Draft Note",
-        "date": "2023-06-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20230511/",
-        "status": "Draft Note",
-        "date": "2023-05-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20230427/",
-        "status": "Draft Note",
-        "date": "2023-04-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20230419/",
-        "status": "Draft Note",
-        "date": "2023-04-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20230403/",
-        "status": "Draft Note",
-        "date": "2023-04-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20230317/",
-        "status": "Draft Note",
-        "date": "2023-03-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20230313/",
-        "status": "Draft Note",
-        "date": "2023-03-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20230310/",
-        "status": "Draft Note",
-        "date": "2023-03-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20230209/",
-        "status": "Draft Note",
-        "date": "2023-02-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20230208/",
-        "status": "Draft Note",
-        "date": "2023-02-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20230202/",
-        "status": "Draft Note",
-        "date": "2023-02-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20230201/",
-        "status": "Draft Note",
-        "date": "2023-02-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20230130/",
-        "status": "Draft Note",
-        "date": "2023-01-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20230125/",
-        "status": "Draft Note",
-        "date": "2023-01-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20230124/",
-        "status": "Draft Note",
-        "date": "2023-01-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20230104/",
-        "status": "Draft Note",
-        "date": "2023-01-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20221212/",
-        "status": "Draft Note",
-        "date": "2022-12-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20221122/",
-        "status": "Draft Note",
-        "date": "2022-11-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20221115/",
-        "status": "Draft Note",
-        "date": "2022-11-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20221101/",
-        "status": "Draft Note",
-        "date": "2022-11-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20221027/",
-        "status": "Draft Note",
-        "date": "2022-10-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20221021/",
-        "status": "Draft Note",
-        "date": "2022-10-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20221020/",
-        "status": "Draft Note",
-        "date": "2022-10-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20221019/",
-        "status": "Draft Note",
-        "date": "2022-10-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20221018/",
-        "status": "Draft Note",
-        "date": "2022-10-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20221017/",
-        "status": "Draft Note",
-        "date": "2022-10-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20221014/",
-        "status": "Draft Note",
-        "date": "2022-10-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20221010/",
-        "status": "Draft Note",
-        "date": "2022-10-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20221006/",
-        "status": "Draft Note",
-        "date": "2022-10-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20221003/",
-        "status": "Draft Note",
-        "date": "2022-10-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20220928/",
-        "status": "Draft Note",
-        "date": "2022-09-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20220919/",
-        "status": "Draft Note",
-        "date": "2022-09-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20220907/",
-        "status": "Draft Note",
-        "date": "2022-09-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20220906/",
-        "status": "Draft Note",
-        "date": "2022-09-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20220903/",
-        "status": "Draft Note",
-        "date": "2022-09-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20220831/",
-        "status": "Draft Note",
-        "date": "2022-08-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20220829/",
-        "status": "Draft Note",
-        "date": "2022-08-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20220823/",
-        "status": "Draft Note",
-        "date": "2022-08-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20220819/",
-        "status": "Draft Note",
-        "date": "2022-08-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20220818/",
-        "status": "Draft Note",
-        "date": "2022-08-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20220817/",
-        "status": "Draft Note",
-        "date": "2022-08-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20220816/",
-        "status": "Draft Note",
-        "date": "2022-08-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20220810/",
-        "status": "Draft Note",
-        "date": "2022-08-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20220809/",
-        "status": "Draft Note",
-        "date": "2022-08-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20220808/",
-        "status": "Draft Note",
-        "date": "2022-08-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20220802/",
-        "status": "Draft Note",
-        "date": "2022-08-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20220801/",
-        "status": "Draft Note",
-        "date": "2022-08-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20220728/",
-        "status": "Draft Note",
-        "date": "2022-07-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20220524/",
-        "status": "Draft Note",
-        "date": "2022-05-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20220504/",
-        "status": "Draft Note",
-        "date": "2022-05-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20220411/",
-        "status": "Draft Note",
-        "date": "2022-04-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20220321/",
-        "status": "Draft Note",
-        "date": "2022-03-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20220216/",
-        "status": "Draft Note",
-        "date": "2022-02-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20220209/",
-        "status": "Draft Note",
-        "date": "2022-02-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20220126/",
-        "status": "Draft Note",
-        "date": "2022-01-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20220125/",
-        "status": "Draft Note",
-        "date": "2022-01-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/DNOTE-webcodecs-avc-codec-registration-20211216/",
-        "status": "Draft Note",
-        "date": "2021-12-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webcodecs-avc-codec-registration-20211020/",
-        "status": "Working Draft",
-        "date": "2021-10-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webcodecs-avc-codec-registration-20211006/",
-        "status": "Working Draft",
-        "date": "2021-10-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webcodecs-avc-codec-registration-20210930/",
-        "status": "Working Draft",
-        "date": "2021-09-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webcodecs-avc-codec-registration-20210928/",
-        "status": "Working Draft",
-        "date": "2021-09-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webcodecs-avc-codec-registration-20210924/",
-        "status": "Working Draft",
-        "date": "2021-09-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webcodecs-avc-codec-registration-20210923/",
-        "status": "Working Draft",
-        "date": "2021-09-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webcodecs-avc-codec-registration-20210921/",
-        "status": "Working Draft",
-        "date": "2021-09-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webcodecs-avc-codec-registration-20210908/",
-        "status": "Working Draft",
-        "date": "2021-09-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webcodecs-avc-codec-registration-20210907/",
-        "status": "Working Draft",
-        "date": "2021-09-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webcodecs-avc-codec-registration-20210906/",
-        "status": "Working Draft",
-        "date": "2021-09-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webcodecs-avc-codec-registration-20210823/",
-        "status": "Working Draft",
-        "date": "2021-08-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webcodecs-avc-codec-registration-20210820/",
-        "status": "Working Draft",
-        "date": "2021-08-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webcodecs-avc-codec-registration-20210818/",
-        "status": "Working Draft",
-        "date": "2021-08-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webcodecs-avc-codec-registration-20210817/",
-        "status": "Working Draft",
-        "date": "2021-08-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webcodecs-avc-codec-registration-20210816/",
-        "status": "Working Draft",
-        "date": "2021-08-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webcodecs-avc-codec-registration-20210813/",
-        "status": "Working Draft",
-        "date": "2021-08-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webcodecs-avc-codec-registration-20210811/",
-        "status": "Working Draft",
-        "date": "2021-08-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webcodecs-avc-codec-registration-20210617/",
-        "status": "Working Draft",
-        "date": "2021-06-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webcodecs-avc-codec-registration-20210611/",
-        "status": "Working Draft",
-        "date": "2021-06-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webcodecs-avc-codec-registration-20210608/",
-        "status": "Working Draft",
-        "date": "2021-06-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webcodecs-avc-codec-registration-20210604/",
-        "status": "Working Draft",
-        "date": "2021-06-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webcodecs-avc-codec-registration-20210603/",
-        "status": "Working Draft",
-        "date": "2021-06-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webcodecs-avc-codec-registration-20210527/",
-        "status": "Working Draft",
-        "date": "2021-05-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webcodecs-avc-codec-registration-20210526/",
-        "status": "Working Draft",
-        "date": "2021-05-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webcodecs-avc-codec-registration-20210521/",
-        "status": "Working Draft",
-        "date": "2021-05-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webcodecs-avc-codec-registration-20210520/",
-        "status": "Working Draft",
-        "date": "2021-05-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webcodecs-avc-codec-registration-20210518/",
-        "status": "Working Draft",
-        "date": "2021-05-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webcodecs-avc-codec-registration-20210514/",
-        "status": "Working Draft",
-        "date": "2021-05-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webcodecs-avc-codec-registration-20210513/",
-        "status": "Working Draft",
-        "date": "2021-05-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webcodecs-avc-codec-registration-20210408/",
-        "status": "First Public Working Draft",
-        "date": "2021-04-08"
-      }
-    ],
-    "abstract": "This registration is entered into the [webcodecs-codec-registry]. It describes, for AVC (H.264), the (1) fully qualified codec strings, (2) the codec-specific EncodedVideoChunk [[internal data]] bytes, (3) the VideoDecoderConfig.description bytes, (4) the values of EncodedVideoChunk [[type]], (5) the codec-specific extensions to VideoEncoderConfig, and (6) the codec-specific extensions to VideoEncoderEncodeOptions."
-  },
-  {
     "url": "https://www.w3.org/TR/orientation-event/",
     "title": "Device Orientation and Motion",
     "status": "Candidate Standard",
@@ -49635,391 +48970,6 @@
       }
     ],
     "abstract": "This registration is entered into the [webcodecs-codec-registry]. It describes, for FLAC, the (1) fully qualified codec strings, (2) the codec-specific EncodedAudioChunk [[internal data]] bytes, (3) the AudioDecoderConfig.description bytes, (4) the values of EncodedAudioChunk [[type]], and (5) the codec-specific extensions to AudioEncoderConfig."
-  },
-  {
-    "url": "https://www.w3.org/TR/webcodecs-hevc-codec-registration/",
-    "title": "HEVC (H.265) WebCodecs Registration",
-    "status": "Draft Note",
-    "date": "2025-02-12",
-    "histUrl": "https://www.w3.org/standards/history/webcodecs-hevc-codec-registration/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/DNOTE-webcodecs-hevc-codec-registration-20250212/",
-        "status": "Draft Note",
-        "date": "2025-02-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-hevc-codec-registration-20240909/",
-        "status": "Draft Note",
-        "date": "2024-09-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-hevc-codec-registration-20240717/",
-        "status": "Draft Note",
-        "date": "2024-07-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-hevc-codec-registration-20240711/",
-        "status": "Draft Note",
-        "date": "2024-07-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-hevc-codec-registration-20240704/",
-        "status": "Draft Note",
-        "date": "2024-07-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-hevc-codec-registration-20240614/",
-        "status": "Draft Note",
-        "date": "2024-06-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-hevc-codec-registration-20240610/",
-        "status": "Draft Note",
-        "date": "2024-06-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-hevc-codec-registration-20240520/",
-        "status": "Draft Note",
-        "date": "2024-05-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-hevc-codec-registration-20240508/",
-        "status": "Draft Note",
-        "date": "2024-05-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-hevc-codec-registration-20240503/",
-        "status": "Draft Note",
-        "date": "2024-05-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-hevc-codec-registration-20240419/",
-        "status": "Draft Note",
-        "date": "2024-04-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-hevc-codec-registration-20240408/",
-        "status": "Draft Note",
-        "date": "2024-04-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-hevc-codec-registration-20240319/",
-        "status": "Draft Note",
-        "date": "2024-03-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-hevc-codec-registration-20240318/",
-        "status": "Draft Note",
-        "date": "2024-03-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-hevc-codec-registration-20240313/",
-        "status": "Draft Note",
-        "date": "2024-03-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-hevc-codec-registration-20240312/",
-        "status": "Draft Note",
-        "date": "2024-03-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-hevc-codec-registration-20240229/",
-        "status": "Draft Note",
-        "date": "2024-02-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-hevc-codec-registration-20240228/",
-        "status": "Draft Note",
-        "date": "2024-02-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-hevc-codec-registration-20240208/",
-        "status": "Draft Note",
-        "date": "2024-02-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-hevc-codec-registration-20240206/",
-        "status": "Draft Note",
-        "date": "2024-02-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-hevc-codec-registration-20240201/",
-        "status": "Draft Note",
-        "date": "2024-02-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-hevc-codec-registration-20240129/",
-        "status": "Draft Note",
-        "date": "2024-01-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-hevc-codec-registration-20240108/",
-        "status": "Draft Note",
-        "date": "2024-01-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20231123/",
-        "status": "Draft Note",
-        "date": "2023-11-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20231114/",
-        "status": "Draft Note",
-        "date": "2023-11-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20231103/",
-        "status": "Draft Note",
-        "date": "2023-11-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20231102/",
-        "status": "Draft Note",
-        "date": "2023-11-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20231101/",
-        "status": "Draft Note",
-        "date": "2023-11-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20231028/",
-        "status": "Draft Note",
-        "date": "2023-10-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20231026/",
-        "status": "Draft Note",
-        "date": "2023-10-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20231012/",
-        "status": "Draft Note",
-        "date": "2023-10-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20230930/",
-        "status": "Draft Note",
-        "date": "2023-09-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20230928/",
-        "status": "Draft Note",
-        "date": "2023-09-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20230826/",
-        "status": "Draft Note",
-        "date": "2023-08-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20230825/",
-        "status": "Draft Note",
-        "date": "2023-08-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20230821/",
-        "status": "Draft Note",
-        "date": "2023-08-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20230817/",
-        "status": "Draft Note",
-        "date": "2023-08-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20230726/",
-        "status": "Draft Note",
-        "date": "2023-07-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20230720/",
-        "status": "Draft Note",
-        "date": "2023-07-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20230719/",
-        "status": "Draft Note",
-        "date": "2023-07-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20230708/",
-        "status": "Draft Note",
-        "date": "2023-07-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20230707/",
-        "status": "Draft Note",
-        "date": "2023-07-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20230706/",
-        "status": "Draft Note",
-        "date": "2023-07-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20230705/",
-        "status": "Draft Note",
-        "date": "2023-07-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20230628/",
-        "status": "Draft Note",
-        "date": "2023-06-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20230511/",
-        "status": "Draft Note",
-        "date": "2023-05-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20230427/",
-        "status": "Draft Note",
-        "date": "2023-04-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20230419/",
-        "status": "Draft Note",
-        "date": "2023-04-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20230403/",
-        "status": "Draft Note",
-        "date": "2023-04-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20230317/",
-        "status": "Draft Note",
-        "date": "2023-03-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20230313/",
-        "status": "Draft Note",
-        "date": "2023-03-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20230310/",
-        "status": "Draft Note",
-        "date": "2023-03-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20230209/",
-        "status": "Draft Note",
-        "date": "2023-02-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20230208/",
-        "status": "Draft Note",
-        "date": "2023-02-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20230202/",
-        "status": "Draft Note",
-        "date": "2023-02-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20230201/",
-        "status": "Draft Note",
-        "date": "2023-02-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20230130/",
-        "status": "Draft Note",
-        "date": "2023-01-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20230125/",
-        "status": "Draft Note",
-        "date": "2023-01-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20230124/",
-        "status": "Draft Note",
-        "date": "2023-01-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20230104/",
-        "status": "Draft Note",
-        "date": "2023-01-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-hevc-codec-registration-20221212/",
-        "status": "Draft Note",
-        "date": "2022-12-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-hevc-codec-registration-20221122/",
-        "status": "Draft Note",
-        "date": "2022-11-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-hevc-codec-registration-20221115/",
-        "status": "Draft Note",
-        "date": "2022-11-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-hevc-codec-registration-20221101/",
-        "status": "Draft Note",
-        "date": "2022-11-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-hevc-codec-registration-20221027/",
-        "status": "Draft Note",
-        "date": "2022-10-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-hevc-codec-registration-20221021/",
-        "status": "Draft Note",
-        "date": "2022-10-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-hevc-codec-registration-20221020/",
-        "status": "Draft Note",
-        "date": "2022-10-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-hevc-codec-registration-20221019/",
-        "status": "Draft Note",
-        "date": "2022-10-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-hevc-codec-registration-20221018/",
-        "status": "Draft Note",
-        "date": "2022-10-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-hevc-codec-registration-20221017/",
-        "status": "Draft Note",
-        "date": "2022-10-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-hevc-codec-registration-20221014/",
-        "status": "Draft Note",
-        "date": "2022-10-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-hevc-codec-registration-20221010/",
-        "status": "Draft Note",
-        "date": "2022-10-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-hevc-codec-registration-20221006/",
-        "status": "Draft Note",
-        "date": "2022-10-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-hevc-codec-registration-20221003/",
-        "status": "Draft Note",
-        "date": "2022-10-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-hevc-codec-registration-20220927/",
-        "status": "Draft Note",
-        "date": "2022-09-27"
-      }
-    ],
-    "abstract": "This registration is entered into the [webcodecs-codec-registry]. It describes, for HEVC (H.265), the (1) fully qualified codec strings, (2) the codec-specific EncodedVideoChunk [[internal data]] bytes, (3) the VideoDecoderConfig.description bytes, (4) the values of EncodedVideoChunk [[type]], and (5) the codec-specific extensions to VideoEncoderConfig"
   },
   {
     "url": "https://www.w3.org/TR/magnetometer/",
@@ -51435,71 +50385,6 @@
       }
     ],
     "abstract": "This registration is entered into the [webcodecs-codec-registry]. It describes, for u-law encoded PCM, the (1) fully qualified codec strings, (2) the codec-specific EncodedAudioChunk [[internal data]] bytes, (3) the AudioDecoderConfig.description bytes, and (4) the values of EncodedAudioChunk [[type]]."
-  },
-  {
-    "url": "https://www.w3.org/TR/vc-overview/",
-    "title": "Verifiable Credentials Overview",
-    "status": "Note",
-    "date": "2025-02-12",
-    "histUrl": "https://www.w3.org/standards/history/vc-overview/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/NOTE-vc-overview-20250212/",
-        "status": "Note",
-        "date": "2025-02-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/NOTE-vc-overview-20250210/",
-        "status": "Note",
-        "date": "2025-02-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/NOTE-vc-overview-20250109/",
-        "status": "Note",
-        "date": "2025-01-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/NOTE-vc-overview-20250103/",
-        "status": "Note",
-        "date": "2025-01-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/NOTE-vc-overview-20241220/",
-        "status": "Note",
-        "date": "2024-12-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/NOTE-vc-overview-20241108/",
-        "status": "Note",
-        "date": "2024-11-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/NOTE-vc-overview-20241022/",
-        "status": "Note",
-        "date": "2024-10-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/NOTE-vc-overview-20241014/",
-        "status": "Note",
-        "date": "2024-10-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/NOTE-vc-overview-20240919/",
-        "status": "Note",
-        "date": "2024-09-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/NOTE-vc-overview-20240706/",
-        "status": "Note",
-        "date": "2024-07-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/NOTE-vc-overview-20240613/",
-        "status": "Note",
-        "date": "2024-06-13"
-      }
-    ],
-    "abstract": "Credentials are a part of our daily lives; driver's licenses are used to assert that we are capable of operating a motor vehicle, university degrees can be used to assert our level of education, and government-issued passports enable us to travel between countries. The family of W3C Recommendations for Verifiable Credentials, described in this overview document, provides a mechanism to express these sorts of credentials on the Web in a way that is cryptographically secure, privacy respecting, and machine-verifiable."
   },
   {
     "url": "https://www.w3.org/TR/vibration/",
@@ -75737,201 +74622,6 @@
     "abstract": "WebDriver is a remote control interface that enables introspection and control of user agents. It provides a platform- and language-neutral wire protocol as a way for out-of-process programs to remotely instruct the behavior of web browsers."
   },
   {
-    "url": "https://www.w3.org/TR/webdriver-bidi/",
-    "title": "WebDriver BiDi",
-    "status": "Draft Standard",
-    "date": "2025-05-12",
-    "histUrl": "https://www.w3.org/standards/history/webdriver-bidi/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250512/",
-        "status": "Working Draft",
-        "date": "2025-05-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250508/",
-        "status": "Working Draft",
-        "date": "2025-05-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250507/",
-        "status": "Working Draft",
-        "date": "2025-05-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250430/",
-        "status": "Working Draft",
-        "date": "2025-04-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250414/",
-        "status": "Working Draft",
-        "date": "2025-04-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250411/",
-        "status": "Working Draft",
-        "date": "2025-04-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250403/",
-        "status": "Working Draft",
-        "date": "2025-04-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250327/",
-        "status": "Working Draft",
-        "date": "2025-03-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250324/",
-        "status": "Working Draft",
-        "date": "2025-03-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250321/",
-        "status": "Working Draft",
-        "date": "2025-03-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250317/",
-        "status": "Working Draft",
-        "date": "2025-03-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250314/",
-        "status": "Working Draft",
-        "date": "2025-03-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250306/",
-        "status": "Working Draft",
-        "date": "2025-03-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250305/",
-        "status": "Working Draft",
-        "date": "2025-03-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250304/",
-        "status": "Working Draft",
-        "date": "2025-03-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250227/",
-        "status": "Working Draft",
-        "date": "2025-02-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250225/",
-        "status": "Working Draft",
-        "date": "2025-02-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250210/",
-        "status": "Working Draft",
-        "date": "2025-02-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250131/",
-        "status": "Working Draft",
-        "date": "2025-01-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250130/",
-        "status": "Working Draft",
-        "date": "2025-01-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250129/",
-        "status": "Working Draft",
-        "date": "2025-01-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250124/",
-        "status": "Working Draft",
-        "date": "2025-01-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250122/",
-        "status": "Working Draft",
-        "date": "2025-01-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250121/",
-        "status": "Working Draft",
-        "date": "2025-01-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250116/",
-        "status": "Working Draft",
-        "date": "2025-01-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250115/",
-        "status": "Working Draft",
-        "date": "2025-01-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250113/",
-        "status": "Working Draft",
-        "date": "2025-01-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250108/",
-        "status": "Working Draft",
-        "date": "2025-01-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250107/",
-        "status": "Working Draft",
-        "date": "2025-01-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250103/",
-        "status": "Working Draft",
-        "date": "2025-01-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-webdriver-bidi-20241220/",
-        "status": "Working Draft",
-        "date": "2024-12-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-webdriver-bidi-20241219/",
-        "status": "Working Draft",
-        "date": "2024-12-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-webdriver-bidi-20241218/",
-        "status": "Working Draft",
-        "date": "2024-12-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-webdriver-bidi-20241206/",
-        "status": "Working Draft",
-        "date": "2024-12-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-webdriver-bidi-20241203/",
-        "status": "Working Draft",
-        "date": "2024-12-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-webdriver-bidi-20241202/",
-        "status": "Working Draft",
-        "date": "2024-12-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-webdriver-bidi-20241121/",
-        "status": "First Public Working Draft",
-        "date": "2024-11-21"
-      }
-    ],
-    "abstract": "This document defines the BiDirectional WebDriver Protocol, a mechanism for remote control of user agents."
-  },
-  {
     "url": "https://www.w3.org/TR/WGSL/",
     "title": "WebGPU Shading Language",
     "status": "Candidate Standard",
@@ -78105,5 +76795,1340 @@
       }
     ],
     "abstract": "Shading language for WebGPU."
+  },
+  {
+    "url": "https://www.w3.org/TR/webcodecs-avc-codec-registration/",
+    "title": "AVC (H.264) WebCodecs Registration",
+    "status": "Draft Note",
+    "date": "2025-05-13",
+    "histUrl": "https://www.w3.org/standards/history/webcodecs-avc-codec-registration/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/DNOTE-webcodecs-avc-codec-registration-20250513/",
+        "status": "Draft Note",
+        "date": "2025-05-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/DNOTE-webcodecs-avc-codec-registration-20250212/",
+        "status": "Draft Note",
+        "date": "2025-02-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-avc-codec-registration-20240909/",
+        "status": "Draft Note",
+        "date": "2024-09-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-avc-codec-registration-20240717/",
+        "status": "Draft Note",
+        "date": "2024-07-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-avc-codec-registration-20240711/",
+        "status": "Draft Note",
+        "date": "2024-07-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-avc-codec-registration-20240704/",
+        "status": "Draft Note",
+        "date": "2024-07-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-avc-codec-registration-20240614/",
+        "status": "Draft Note",
+        "date": "2024-06-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-avc-codec-registration-20240610/",
+        "status": "Draft Note",
+        "date": "2024-06-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-avc-codec-registration-20240520/",
+        "status": "Draft Note",
+        "date": "2024-05-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-avc-codec-registration-20240508/",
+        "status": "Draft Note",
+        "date": "2024-05-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-avc-codec-registration-20240503/",
+        "status": "Draft Note",
+        "date": "2024-05-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-avc-codec-registration-20240419/",
+        "status": "Draft Note",
+        "date": "2024-04-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-avc-codec-registration-20240408/",
+        "status": "Draft Note",
+        "date": "2024-04-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-avc-codec-registration-20240319/",
+        "status": "Draft Note",
+        "date": "2024-03-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-avc-codec-registration-20240318/",
+        "status": "Draft Note",
+        "date": "2024-03-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-avc-codec-registration-20240313/",
+        "status": "Draft Note",
+        "date": "2024-03-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-avc-codec-registration-20240312/",
+        "status": "Draft Note",
+        "date": "2024-03-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-avc-codec-registration-20240229/",
+        "status": "Draft Note",
+        "date": "2024-02-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-avc-codec-registration-20240228/",
+        "status": "Draft Note",
+        "date": "2024-02-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-avc-codec-registration-20240208/",
+        "status": "Draft Note",
+        "date": "2024-02-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-avc-codec-registration-20240206/",
+        "status": "Draft Note",
+        "date": "2024-02-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-avc-codec-registration-20240201/",
+        "status": "Draft Note",
+        "date": "2024-02-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-avc-codec-registration-20240129/",
+        "status": "Draft Note",
+        "date": "2024-01-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-avc-codec-registration-20240108/",
+        "status": "Draft Note",
+        "date": "2024-01-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20231123/",
+        "status": "Draft Note",
+        "date": "2023-11-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20231114/",
+        "status": "Draft Note",
+        "date": "2023-11-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20231103/",
+        "status": "Draft Note",
+        "date": "2023-11-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20231102/",
+        "status": "Draft Note",
+        "date": "2023-11-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20231101/",
+        "status": "Draft Note",
+        "date": "2023-11-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20231028/",
+        "status": "Draft Note",
+        "date": "2023-10-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20231026/",
+        "status": "Draft Note",
+        "date": "2023-10-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20231012/",
+        "status": "Draft Note",
+        "date": "2023-10-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20230930/",
+        "status": "Draft Note",
+        "date": "2023-09-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20230928/",
+        "status": "Draft Note",
+        "date": "2023-09-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20230826/",
+        "status": "Draft Note",
+        "date": "2023-08-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20230825/",
+        "status": "Draft Note",
+        "date": "2023-08-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20230821/",
+        "status": "Draft Note",
+        "date": "2023-08-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20230817/",
+        "status": "Draft Note",
+        "date": "2023-08-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20230726/",
+        "status": "Draft Note",
+        "date": "2023-07-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20230720/",
+        "status": "Draft Note",
+        "date": "2023-07-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20230719/",
+        "status": "Draft Note",
+        "date": "2023-07-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20230708/",
+        "status": "Draft Note",
+        "date": "2023-07-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20230707/",
+        "status": "Draft Note",
+        "date": "2023-07-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20230706/",
+        "status": "Draft Note",
+        "date": "2023-07-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20230705/",
+        "status": "Draft Note",
+        "date": "2023-07-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20230628/",
+        "status": "Draft Note",
+        "date": "2023-06-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20230511/",
+        "status": "Draft Note",
+        "date": "2023-05-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20230427/",
+        "status": "Draft Note",
+        "date": "2023-04-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20230419/",
+        "status": "Draft Note",
+        "date": "2023-04-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20230403/",
+        "status": "Draft Note",
+        "date": "2023-04-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20230317/",
+        "status": "Draft Note",
+        "date": "2023-03-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20230313/",
+        "status": "Draft Note",
+        "date": "2023-03-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20230310/",
+        "status": "Draft Note",
+        "date": "2023-03-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20230209/",
+        "status": "Draft Note",
+        "date": "2023-02-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20230208/",
+        "status": "Draft Note",
+        "date": "2023-02-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20230202/",
+        "status": "Draft Note",
+        "date": "2023-02-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20230201/",
+        "status": "Draft Note",
+        "date": "2023-02-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20230130/",
+        "status": "Draft Note",
+        "date": "2023-01-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20230125/",
+        "status": "Draft Note",
+        "date": "2023-01-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20230124/",
+        "status": "Draft Note",
+        "date": "2023-01-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-avc-codec-registration-20230104/",
+        "status": "Draft Note",
+        "date": "2023-01-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20221212/",
+        "status": "Draft Note",
+        "date": "2022-12-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20221122/",
+        "status": "Draft Note",
+        "date": "2022-11-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20221115/",
+        "status": "Draft Note",
+        "date": "2022-11-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20221101/",
+        "status": "Draft Note",
+        "date": "2022-11-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20221027/",
+        "status": "Draft Note",
+        "date": "2022-10-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20221021/",
+        "status": "Draft Note",
+        "date": "2022-10-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20221020/",
+        "status": "Draft Note",
+        "date": "2022-10-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20221019/",
+        "status": "Draft Note",
+        "date": "2022-10-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20221018/",
+        "status": "Draft Note",
+        "date": "2022-10-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20221017/",
+        "status": "Draft Note",
+        "date": "2022-10-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20221014/",
+        "status": "Draft Note",
+        "date": "2022-10-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20221010/",
+        "status": "Draft Note",
+        "date": "2022-10-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20221006/",
+        "status": "Draft Note",
+        "date": "2022-10-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20221003/",
+        "status": "Draft Note",
+        "date": "2022-10-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20220928/",
+        "status": "Draft Note",
+        "date": "2022-09-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20220919/",
+        "status": "Draft Note",
+        "date": "2022-09-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20220907/",
+        "status": "Draft Note",
+        "date": "2022-09-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20220906/",
+        "status": "Draft Note",
+        "date": "2022-09-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20220903/",
+        "status": "Draft Note",
+        "date": "2022-09-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20220831/",
+        "status": "Draft Note",
+        "date": "2022-08-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20220829/",
+        "status": "Draft Note",
+        "date": "2022-08-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20220823/",
+        "status": "Draft Note",
+        "date": "2022-08-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20220819/",
+        "status": "Draft Note",
+        "date": "2022-08-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20220818/",
+        "status": "Draft Note",
+        "date": "2022-08-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20220817/",
+        "status": "Draft Note",
+        "date": "2022-08-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20220816/",
+        "status": "Draft Note",
+        "date": "2022-08-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20220810/",
+        "status": "Draft Note",
+        "date": "2022-08-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20220809/",
+        "status": "Draft Note",
+        "date": "2022-08-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20220808/",
+        "status": "Draft Note",
+        "date": "2022-08-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20220802/",
+        "status": "Draft Note",
+        "date": "2022-08-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20220801/",
+        "status": "Draft Note",
+        "date": "2022-08-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20220728/",
+        "status": "Draft Note",
+        "date": "2022-07-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20220524/",
+        "status": "Draft Note",
+        "date": "2022-05-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20220504/",
+        "status": "Draft Note",
+        "date": "2022-05-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20220411/",
+        "status": "Draft Note",
+        "date": "2022-04-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20220321/",
+        "status": "Draft Note",
+        "date": "2022-03-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20220216/",
+        "status": "Draft Note",
+        "date": "2022-02-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20220209/",
+        "status": "Draft Note",
+        "date": "2022-02-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20220126/",
+        "status": "Draft Note",
+        "date": "2022-01-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-avc-codec-registration-20220125/",
+        "status": "Draft Note",
+        "date": "2022-01-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/DNOTE-webcodecs-avc-codec-registration-20211216/",
+        "status": "Draft Note",
+        "date": "2021-12-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-webcodecs-avc-codec-registration-20211020/",
+        "status": "Working Draft",
+        "date": "2021-10-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-webcodecs-avc-codec-registration-20211006/",
+        "status": "Working Draft",
+        "date": "2021-10-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-webcodecs-avc-codec-registration-20210930/",
+        "status": "Working Draft",
+        "date": "2021-09-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-webcodecs-avc-codec-registration-20210928/",
+        "status": "Working Draft",
+        "date": "2021-09-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-webcodecs-avc-codec-registration-20210924/",
+        "status": "Working Draft",
+        "date": "2021-09-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-webcodecs-avc-codec-registration-20210923/",
+        "status": "Working Draft",
+        "date": "2021-09-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-webcodecs-avc-codec-registration-20210921/",
+        "status": "Working Draft",
+        "date": "2021-09-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-webcodecs-avc-codec-registration-20210908/",
+        "status": "Working Draft",
+        "date": "2021-09-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-webcodecs-avc-codec-registration-20210907/",
+        "status": "Working Draft",
+        "date": "2021-09-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-webcodecs-avc-codec-registration-20210906/",
+        "status": "Working Draft",
+        "date": "2021-09-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-webcodecs-avc-codec-registration-20210823/",
+        "status": "Working Draft",
+        "date": "2021-08-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-webcodecs-avc-codec-registration-20210820/",
+        "status": "Working Draft",
+        "date": "2021-08-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-webcodecs-avc-codec-registration-20210818/",
+        "status": "Working Draft",
+        "date": "2021-08-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-webcodecs-avc-codec-registration-20210817/",
+        "status": "Working Draft",
+        "date": "2021-08-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-webcodecs-avc-codec-registration-20210816/",
+        "status": "Working Draft",
+        "date": "2021-08-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-webcodecs-avc-codec-registration-20210813/",
+        "status": "Working Draft",
+        "date": "2021-08-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-webcodecs-avc-codec-registration-20210811/",
+        "status": "Working Draft",
+        "date": "2021-08-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-webcodecs-avc-codec-registration-20210617/",
+        "status": "Working Draft",
+        "date": "2021-06-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-webcodecs-avc-codec-registration-20210611/",
+        "status": "Working Draft",
+        "date": "2021-06-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-webcodecs-avc-codec-registration-20210608/",
+        "status": "Working Draft",
+        "date": "2021-06-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-webcodecs-avc-codec-registration-20210604/",
+        "status": "Working Draft",
+        "date": "2021-06-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-webcodecs-avc-codec-registration-20210603/",
+        "status": "Working Draft",
+        "date": "2021-06-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-webcodecs-avc-codec-registration-20210527/",
+        "status": "Working Draft",
+        "date": "2021-05-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-webcodecs-avc-codec-registration-20210526/",
+        "status": "Working Draft",
+        "date": "2021-05-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-webcodecs-avc-codec-registration-20210521/",
+        "status": "Working Draft",
+        "date": "2021-05-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-webcodecs-avc-codec-registration-20210520/",
+        "status": "Working Draft",
+        "date": "2021-05-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-webcodecs-avc-codec-registration-20210518/",
+        "status": "Working Draft",
+        "date": "2021-05-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-webcodecs-avc-codec-registration-20210514/",
+        "status": "Working Draft",
+        "date": "2021-05-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-webcodecs-avc-codec-registration-20210513/",
+        "status": "Working Draft",
+        "date": "2021-05-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-webcodecs-avc-codec-registration-20210408/",
+        "status": "First Public Working Draft",
+        "date": "2021-04-08"
+      }
+    ],
+    "abstract": "This registration is entered into the [webcodecs-codec-registry]. It describes, for AVC (H.264), the (1) fully qualified codec strings, (2) the codec-specific EncodedVideoChunk [[internal data]] bytes, (3) the VideoDecoderConfig.description bytes, (4) the values of EncodedVideoChunk [[type]], (5) the codec-specific extensions to VideoEncoderConfig, and (6) the codec-specific extensions to VideoEncoderEncodeOptions."
+  },
+  {
+    "url": "https://www.w3.org/TR/webcodecs-hevc-codec-registration/",
+    "title": "HEVC (H.265) WebCodecs Registration",
+    "status": "Draft Note",
+    "date": "2025-05-13",
+    "histUrl": "https://www.w3.org/standards/history/webcodecs-hevc-codec-registration/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/DNOTE-webcodecs-hevc-codec-registration-20250513/",
+        "status": "Draft Note",
+        "date": "2025-05-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/DNOTE-webcodecs-hevc-codec-registration-20250212/",
+        "status": "Draft Note",
+        "date": "2025-02-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-hevc-codec-registration-20240909/",
+        "status": "Draft Note",
+        "date": "2024-09-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-hevc-codec-registration-20240717/",
+        "status": "Draft Note",
+        "date": "2024-07-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-hevc-codec-registration-20240711/",
+        "status": "Draft Note",
+        "date": "2024-07-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-hevc-codec-registration-20240704/",
+        "status": "Draft Note",
+        "date": "2024-07-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-hevc-codec-registration-20240614/",
+        "status": "Draft Note",
+        "date": "2024-06-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-hevc-codec-registration-20240610/",
+        "status": "Draft Note",
+        "date": "2024-06-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-hevc-codec-registration-20240520/",
+        "status": "Draft Note",
+        "date": "2024-05-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-hevc-codec-registration-20240508/",
+        "status": "Draft Note",
+        "date": "2024-05-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-hevc-codec-registration-20240503/",
+        "status": "Draft Note",
+        "date": "2024-05-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-hevc-codec-registration-20240419/",
+        "status": "Draft Note",
+        "date": "2024-04-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-hevc-codec-registration-20240408/",
+        "status": "Draft Note",
+        "date": "2024-04-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-hevc-codec-registration-20240319/",
+        "status": "Draft Note",
+        "date": "2024-03-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-hevc-codec-registration-20240318/",
+        "status": "Draft Note",
+        "date": "2024-03-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-hevc-codec-registration-20240313/",
+        "status": "Draft Note",
+        "date": "2024-03-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-hevc-codec-registration-20240312/",
+        "status": "Draft Note",
+        "date": "2024-03-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-hevc-codec-registration-20240229/",
+        "status": "Draft Note",
+        "date": "2024-02-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-hevc-codec-registration-20240228/",
+        "status": "Draft Note",
+        "date": "2024-02-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-hevc-codec-registration-20240208/",
+        "status": "Draft Note",
+        "date": "2024-02-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-hevc-codec-registration-20240206/",
+        "status": "Draft Note",
+        "date": "2024-02-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-hevc-codec-registration-20240201/",
+        "status": "Draft Note",
+        "date": "2024-02-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-hevc-codec-registration-20240129/",
+        "status": "Draft Note",
+        "date": "2024-01-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/DNOTE-webcodecs-hevc-codec-registration-20240108/",
+        "status": "Draft Note",
+        "date": "2024-01-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20231123/",
+        "status": "Draft Note",
+        "date": "2023-11-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20231114/",
+        "status": "Draft Note",
+        "date": "2023-11-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20231103/",
+        "status": "Draft Note",
+        "date": "2023-11-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20231102/",
+        "status": "Draft Note",
+        "date": "2023-11-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20231101/",
+        "status": "Draft Note",
+        "date": "2023-11-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20231028/",
+        "status": "Draft Note",
+        "date": "2023-10-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20231026/",
+        "status": "Draft Note",
+        "date": "2023-10-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20231012/",
+        "status": "Draft Note",
+        "date": "2023-10-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20230930/",
+        "status": "Draft Note",
+        "date": "2023-09-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20230928/",
+        "status": "Draft Note",
+        "date": "2023-09-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20230826/",
+        "status": "Draft Note",
+        "date": "2023-08-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20230825/",
+        "status": "Draft Note",
+        "date": "2023-08-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20230821/",
+        "status": "Draft Note",
+        "date": "2023-08-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20230817/",
+        "status": "Draft Note",
+        "date": "2023-08-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20230726/",
+        "status": "Draft Note",
+        "date": "2023-07-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20230720/",
+        "status": "Draft Note",
+        "date": "2023-07-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20230719/",
+        "status": "Draft Note",
+        "date": "2023-07-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20230708/",
+        "status": "Draft Note",
+        "date": "2023-07-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20230707/",
+        "status": "Draft Note",
+        "date": "2023-07-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20230706/",
+        "status": "Draft Note",
+        "date": "2023-07-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20230705/",
+        "status": "Draft Note",
+        "date": "2023-07-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20230628/",
+        "status": "Draft Note",
+        "date": "2023-06-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20230511/",
+        "status": "Draft Note",
+        "date": "2023-05-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20230427/",
+        "status": "Draft Note",
+        "date": "2023-04-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20230419/",
+        "status": "Draft Note",
+        "date": "2023-04-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20230403/",
+        "status": "Draft Note",
+        "date": "2023-04-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20230317/",
+        "status": "Draft Note",
+        "date": "2023-03-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20230313/",
+        "status": "Draft Note",
+        "date": "2023-03-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20230310/",
+        "status": "Draft Note",
+        "date": "2023-03-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20230209/",
+        "status": "Draft Note",
+        "date": "2023-02-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20230208/",
+        "status": "Draft Note",
+        "date": "2023-02-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20230202/",
+        "status": "Draft Note",
+        "date": "2023-02-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20230201/",
+        "status": "Draft Note",
+        "date": "2023-02-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20230130/",
+        "status": "Draft Note",
+        "date": "2023-01-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20230125/",
+        "status": "Draft Note",
+        "date": "2023-01-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20230124/",
+        "status": "Draft Note",
+        "date": "2023-01-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/DNOTE-webcodecs-hevc-codec-registration-20230104/",
+        "status": "Draft Note",
+        "date": "2023-01-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-hevc-codec-registration-20221212/",
+        "status": "Draft Note",
+        "date": "2022-12-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-hevc-codec-registration-20221122/",
+        "status": "Draft Note",
+        "date": "2022-11-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-hevc-codec-registration-20221115/",
+        "status": "Draft Note",
+        "date": "2022-11-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-hevc-codec-registration-20221101/",
+        "status": "Draft Note",
+        "date": "2022-11-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-hevc-codec-registration-20221027/",
+        "status": "Draft Note",
+        "date": "2022-10-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-hevc-codec-registration-20221021/",
+        "status": "Draft Note",
+        "date": "2022-10-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-hevc-codec-registration-20221020/",
+        "status": "Draft Note",
+        "date": "2022-10-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-hevc-codec-registration-20221019/",
+        "status": "Draft Note",
+        "date": "2022-10-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-hevc-codec-registration-20221018/",
+        "status": "Draft Note",
+        "date": "2022-10-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-hevc-codec-registration-20221017/",
+        "status": "Draft Note",
+        "date": "2022-10-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-hevc-codec-registration-20221014/",
+        "status": "Draft Note",
+        "date": "2022-10-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-hevc-codec-registration-20221010/",
+        "status": "Draft Note",
+        "date": "2022-10-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-hevc-codec-registration-20221006/",
+        "status": "Draft Note",
+        "date": "2022-10-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-hevc-codec-registration-20221003/",
+        "status": "Draft Note",
+        "date": "2022-10-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/DNOTE-webcodecs-hevc-codec-registration-20220927/",
+        "status": "Draft Note",
+        "date": "2022-09-27"
+      }
+    ],
+    "abstract": "This registration is entered into the [webcodecs-codec-registry]. It describes, for HEVC (H.265), the (1) fully qualified codec strings, (2) the codec-specific EncodedVideoChunk [[internal data]] bytes, (3) the VideoDecoderConfig.description bytes, (4) the values of EncodedVideoChunk [[type]], and (5) the codec-specific extensions to VideoEncoderConfig"
+  },
+  {
+    "url": "https://www.w3.org/TR/vc-overview/",
+    "title": "Verifiable Credentials Overview",
+    "status": "Note",
+    "date": "2025-05-13",
+    "histUrl": "https://www.w3.org/standards/history/vc-overview/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/NOTE-vc-overview-20250513/",
+        "status": "Note",
+        "date": "2025-05-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/NOTE-vc-overview-20250212/",
+        "status": "Note",
+        "date": "2025-02-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/NOTE-vc-overview-20250210/",
+        "status": "Note",
+        "date": "2025-02-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/NOTE-vc-overview-20250109/",
+        "status": "Note",
+        "date": "2025-01-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/NOTE-vc-overview-20250103/",
+        "status": "Note",
+        "date": "2025-01-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/NOTE-vc-overview-20241220/",
+        "status": "Note",
+        "date": "2024-12-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/NOTE-vc-overview-20241108/",
+        "status": "Note",
+        "date": "2024-11-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/NOTE-vc-overview-20241022/",
+        "status": "Note",
+        "date": "2024-10-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/NOTE-vc-overview-20241014/",
+        "status": "Note",
+        "date": "2024-10-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/NOTE-vc-overview-20240919/",
+        "status": "Note",
+        "date": "2024-09-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/NOTE-vc-overview-20240706/",
+        "status": "Note",
+        "date": "2024-07-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/NOTE-vc-overview-20240613/",
+        "status": "Note",
+        "date": "2024-06-13"
+      }
+    ],
+    "abstract": "Credentials are a part of our daily lives; driver's licenses are used to assert that we are capable of operating a motor vehicle, university degrees can be used to assert our level of education, and government-issued passports enable us to travel between countries. The family of W3C Recommendations for Verifiable Credentials, described in this overview document, provides a mechanism to express these sorts of credentials on the Web in a way that is cryptographically secure, privacy respecting, and machine-verifiable."
+  },
+  {
+    "url": "https://www.w3.org/TR/webdriver-bidi/",
+    "title": "WebDriver BiDi",
+    "status": "Draft Standard",
+    "date": "2025-05-14",
+    "histUrl": "https://www.w3.org/standards/history/webdriver-bidi/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250514/",
+        "status": "Working Draft",
+        "date": "2025-05-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250513/",
+        "status": "Working Draft",
+        "date": "2025-05-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250512/",
+        "status": "Working Draft",
+        "date": "2025-05-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250508/",
+        "status": "Working Draft",
+        "date": "2025-05-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250507/",
+        "status": "Working Draft",
+        "date": "2025-05-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250430/",
+        "status": "Working Draft",
+        "date": "2025-04-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250414/",
+        "status": "Working Draft",
+        "date": "2025-04-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250411/",
+        "status": "Working Draft",
+        "date": "2025-04-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250403/",
+        "status": "Working Draft",
+        "date": "2025-04-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250327/",
+        "status": "Working Draft",
+        "date": "2025-03-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250324/",
+        "status": "Working Draft",
+        "date": "2025-03-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250321/",
+        "status": "Working Draft",
+        "date": "2025-03-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250317/",
+        "status": "Working Draft",
+        "date": "2025-03-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250314/",
+        "status": "Working Draft",
+        "date": "2025-03-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250306/",
+        "status": "Working Draft",
+        "date": "2025-03-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250305/",
+        "status": "Working Draft",
+        "date": "2025-03-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250304/",
+        "status": "Working Draft",
+        "date": "2025-03-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250227/",
+        "status": "Working Draft",
+        "date": "2025-02-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250225/",
+        "status": "Working Draft",
+        "date": "2025-02-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250210/",
+        "status": "Working Draft",
+        "date": "2025-02-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250131/",
+        "status": "Working Draft",
+        "date": "2025-01-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250130/",
+        "status": "Working Draft",
+        "date": "2025-01-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250129/",
+        "status": "Working Draft",
+        "date": "2025-01-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250124/",
+        "status": "Working Draft",
+        "date": "2025-01-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250122/",
+        "status": "Working Draft",
+        "date": "2025-01-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250121/",
+        "status": "Working Draft",
+        "date": "2025-01-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250116/",
+        "status": "Working Draft",
+        "date": "2025-01-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250115/",
+        "status": "Working Draft",
+        "date": "2025-01-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250113/",
+        "status": "Working Draft",
+        "date": "2025-01-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250108/",
+        "status": "Working Draft",
+        "date": "2025-01-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250107/",
+        "status": "Working Draft",
+        "date": "2025-01-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250103/",
+        "status": "Working Draft",
+        "date": "2025-01-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-webdriver-bidi-20241220/",
+        "status": "Working Draft",
+        "date": "2024-12-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-webdriver-bidi-20241219/",
+        "status": "Working Draft",
+        "date": "2024-12-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-webdriver-bidi-20241218/",
+        "status": "Working Draft",
+        "date": "2024-12-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-webdriver-bidi-20241206/",
+        "status": "Working Draft",
+        "date": "2024-12-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-webdriver-bidi-20241203/",
+        "status": "Working Draft",
+        "date": "2024-12-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-webdriver-bidi-20241202/",
+        "status": "Working Draft",
+        "date": "2024-12-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-webdriver-bidi-20241121/",
+        "status": "First Public Working Draft",
+        "date": "2024-11-21"
+      }
+    ],
+    "abstract": "This document defines the BiDirectional WebDriver Protocol, a mechanism for remote control of user agents."
   }
 ]
