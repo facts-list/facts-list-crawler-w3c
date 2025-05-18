@@ -21129,31 +21129,6 @@
     "abstract": "This explainer is an introduction to low-level and high-level motion sensors, their relationship, inner workings and common use-cases. Common cases of event filtering and sensor fusion are introduced with examples, showing how to apply that on sensors following the Generic Sensor API specification."
   },
   {
-    "url": "https://www.w3.org/TR/png-hdr-pq/",
-    "title": "Using the ITU BT.2100 PQ EOTF with the PNG Format",
-    "status": "Note",
-    "date": "2017-09-11",
-    "histUrl": "https://www.w3.org/standards/history/png-hdr-pq/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2017/NOTE-png-hdr-pq-20170911/",
-        "status": "Note",
-        "date": "2017-09-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/NOTE-png-hdr-pq-20170727/",
-        "status": "Note",
-        "date": "2017-07-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/NOTE-png-hdr-pq-20170725/",
-        "status": "Note",
-        "date": "2017-07-25"
-      }
-    ],
-    "abstract": "This specification defines a mechanism for storing images that use the Reference PQ EOTF specified in [BT2100-1] in the Portable Network Graphics (PNG) format (specified in [PNG]), without modification to existing chunks or the introduction of new chunks."
-  },
-  {
     "url": "https://www.w3.org/TR/encrypted-media-1/",
     "title": "Encrypted Media Extensions",
     "status": "Standard",
@@ -47815,61 +47790,6 @@
       }
     ],
     "abstract": "The Resource Description Framework (RDF) is a general-purpose language for representing information in the Web."
-  },
-  {
-    "url": "https://www.w3.org/TR/paint-timing/",
-    "title": "Paint Timing",
-    "status": "Draft Standard",
-    "date": "2025-02-24",
-    "histUrl": "https://www.w3.org/standards/history/paint-timing/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/WD-paint-timing-20250224/",
-        "status": "Working Draft",
-        "date": "2025-02-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-paint-timing-20241112/",
-        "status": "Working Draft",
-        "date": "2024-11-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-paint-timing-20241111/",
-        "status": "Working Draft",
-        "date": "2024-11-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-paint-timing-20240112/",
-        "status": "Working Draft",
-        "date": "2024-01-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-paint-timing-20240110/",
-        "status": "Working Draft",
-        "date": "2024-01-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-paint-timing-20231122/",
-        "status": "Working Draft",
-        "date": "2023-11-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-paint-timing-20231116/",
-        "status": "Working Draft",
-        "date": "2023-11-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-paint-timing-20230703/",
-        "status": "Working Draft",
-        "date": "2023-07-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-paint-timing-20170907/",
-        "status": "First Public Working Draft",
-        "date": "2017-09-07"
-      }
-    ],
-    "abstract": "This document defines an API that can be used to capture a series of key moments (first paint, first contentful paint) during pageload which developers care about."
   },
   {
     "url": "https://www.w3.org/TR/rdf12-schema/",
@@ -78320,5 +78240,95 @@
       }
     ],
     "abstract": "WebGPU exposes an API for performing operations, such as rendering and computation, on a Graphics Processing Unit."
+  },
+  {
+    "url": "https://www.w3.org/TR/paint-timing/",
+    "title": "Paint Timing",
+    "status": "Draft Standard",
+    "date": "2025-05-17",
+    "histUrl": "https://www.w3.org/standards/history/paint-timing/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/WD-paint-timing-20250517/",
+        "status": "Working Draft",
+        "date": "2025-05-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-paint-timing-20250224/",
+        "status": "Working Draft",
+        "date": "2025-02-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-paint-timing-20241112/",
+        "status": "Working Draft",
+        "date": "2024-11-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-paint-timing-20241111/",
+        "status": "Working Draft",
+        "date": "2024-11-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-paint-timing-20240112/",
+        "status": "Working Draft",
+        "date": "2024-01-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-paint-timing-20240110/",
+        "status": "Working Draft",
+        "date": "2024-01-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-paint-timing-20231122/",
+        "status": "Working Draft",
+        "date": "2023-11-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-paint-timing-20231116/",
+        "status": "Working Draft",
+        "date": "2023-11-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-paint-timing-20230703/",
+        "status": "Working Draft",
+        "date": "2023-07-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-paint-timing-20170907/",
+        "status": "First Public Working Draft",
+        "date": "2017-09-07"
+      }
+    ],
+    "abstract": "This document defines an API that can be used to capture a series of key moments (first paint, first contentful paint) during pageload which developers care about."
+  },
+  {
+    "url": "https://www.w3.org/TR/png-hdr-pq/",
+    "title": "Using the ITU BT.2100 PQ EOTF with the PNG Format",
+    "status": "Note",
+    "date": "2025-05-18",
+    "histUrl": "https://www.w3.org/standards/history/png-hdr-pq/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/NOTE-png-hdr-pq-20250518/",
+        "status": "Note",
+        "date": "2025-05-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/NOTE-png-hdr-pq-20170911/",
+        "status": "Note",
+        "date": "2017-09-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/NOTE-png-hdr-pq-20170727/",
+        "status": "Note",
+        "date": "2017-07-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/NOTE-png-hdr-pq-20170725/",
+        "status": "Note",
+        "date": "2017-07-25"
+      }
+    ],
+    "abstract": "This specification defines a mechanism for storing images that use the Reference PQ EOTF specified in [ITU-R-BT.2100] in the Portable Network Graphics (PNG) format (specified in [PNG]), without modification to existing chunks or the introduction of new chunks."
   }
 ]
