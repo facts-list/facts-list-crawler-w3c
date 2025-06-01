@@ -51512,26 +51512,6 @@
     "abstract": "This specification describes support for various layer types used in a WebXR session."
   },
   {
-    "url": "https://www.w3.org/TR/did-1.1/",
-    "title": "Decentralized Identifiers (DIDs) v1.1",
-    "status": "Draft Standard",
-    "date": "2025-04-08",
-    "histUrl": "https://www.w3.org/standards/history/did-1.1/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/WD-did-1.1-20250408/",
-        "status": "Working Draft",
-        "date": "2025-04-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-did-1.1-20250128/",
-        "status": "First Public Working Draft",
-        "date": "2025-01-28"
-      }
-    ],
-    "abstract": "Decentralized identifiers (DIDs) are a new type of identifier that enables verifiable, decentralized digital identity. A DID refers to any subject (e.g., a person, organization, thing, data model, abstract entity, etc.) as determined by the controller of the DID. In contrast to typical, federated identifiers, DIDs have been designed so that they may be decoupled from centralized registries, identity providers, and certificate authorities. Specifically, while other parties might be used to help enable the discovery of information related to a DID, the design enables the controller of a DID to prove control over it without requiring permission from any other party. DIDs are URIs that associate a DID subject with a DID document allowing trustable interactions associated with that subject."
-  },
-  {
     "url": "https://www.w3.org/TR/html-aria/",
     "title": "ARIA in HTML",
     "status": "Standard",
@@ -77575,6 +77555,31 @@
       }
     ],
     "abstract": "This document describes and prioritises gaps for the support of the Cyrillic script on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, such as HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders."
+  },
+  {
+    "url": "https://www.w3.org/TR/did-1.1/",
+    "title": "Decentralized Identifiers (DIDs) v1.1",
+    "status": "Draft Standard",
+    "date": "2025-05-31",
+    "histUrl": "https://www.w3.org/standards/history/did-1.1/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/WD-did-1.1-20250531/",
+        "status": "Working Draft",
+        "date": "2025-05-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-did-1.1-20250408/",
+        "status": "Working Draft",
+        "date": "2025-04-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-did-1.1-20250128/",
+        "status": "First Public Working Draft",
+        "date": "2025-01-28"
+      }
+    ],
+    "abstract": "Decentralized identifiers (DIDs) are a new type of identifier that enables verifiable, decentralized digital identity. A DID refers to any subject (e.g., a person, organization, thing, data model, abstract entity, etc.) as determined by the controller of the DID. In contrast to typical, federated identifiers, DIDs have been designed so that they may be decoupled from centralized registries, identity providers, and certificate authorities. Specifically, while other parties might be used to help enable the discovery of information related to a DID, the design enables the controller of a DID to prove control over it without requiring permission from any other party. DIDs are URIs that associate a DID subject with a DID document allowing trustable interactions associated with that subject."
   },
   {
     "url": "https://www.w3.org/TR/deva-gap/",
