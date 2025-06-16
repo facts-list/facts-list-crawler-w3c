@@ -51662,21 +51662,6 @@
     "abstract": "This document contains a set of questions to be used when evaluating the security and privacy implications of web platform technologies."
   },
   {
-    "url": "https://www.w3.org/TR/privacy-preserving-attribution/",
-    "title": "Privacy-Preserving Attribution: Level 1",
-    "status": "Draft Standard",
-    "date": "2025-04-22",
-    "histUrl": "https://www.w3.org/standards/history/privacy-preserving-attribution/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/WD-privacy-preserving-attribution-20250422/",
-        "status": "First Public Working Draft",
-        "date": "2025-04-22"
-      }
-    ],
-    "abstract": "This specifies a browser API for the measurement of advertising performance. The goal is to produce aggregate statistics about how advertising leads to conversions, without creating a risk to the privacy of individual web users. This API collates information about people from multiple web origins, which could be a significant risk to their privacy. To manage this risk, the information that is gathered is aggregated using an aggregation service that is trusted by the user-agent to perform aggregation within strict limits. Noise is added to the aggregates produced by this service to provide differential privacy. Websites may select an aggregation service from the list of approved aggregation services provided by the user-agent."
-  },
-  {
     "url": "https://www.w3.org/TR/sri-2/",
     "title": "Subresource Integrity",
     "status": "Draft Standard",
@@ -78880,5 +78865,25 @@
       }
     ],
     "abstract": "WebGPU exposes an API for performing operations, such as rendering and computation, on a Graphics Processing Unit."
+  },
+  {
+    "url": "https://www.w3.org/TR/privacy-preserving-attribution/",
+    "title": "Privacy-Preserving Attribution: Level 1",
+    "status": "Draft Standard",
+    "date": "2025-06-16",
+    "histUrl": "https://www.w3.org/standards/history/privacy-preserving-attribution/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/WD-privacy-preserving-attribution-20250616/",
+        "status": "Working Draft",
+        "date": "2025-06-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-privacy-preserving-attribution-20250422/",
+        "status": "First Public Working Draft",
+        "date": "2025-04-22"
+      }
+    ],
+    "abstract": "This specifies a browser API for the measurement of advertising performance. The goal is to produce aggregate statistics about how advertising leads to conversions, without creating a risk to the privacy of individual web users. This API collates information about people from multiple web origins, which could be a significant risk to their privacy. To manage this risk, the information that is gathered is aggregated using an aggregation service that is trusted by the user-agent to perform aggregation within strict limits. Noise is added to the aggregates produced by this service to provide differential privacy. Websites may select an aggregation service from the list of approved aggregation services provided by the user-agent."
   }
 ]
