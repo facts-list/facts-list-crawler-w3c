@@ -68582,221 +68582,6 @@
     "abstract": "This document contains a set of design principles to be used when designing web platform technologies. These principles have been collected during the Technical Architecture Group’s discussions in reviewing developing specifications, and build upon the Ethical Web Principles [ETHICAL-WEB]. We encourage specification designers to read this document and use it as a resource when making design decisions."
   },
   {
-    "url": "https://www.w3.org/TR/webdriver-bidi/",
-    "title": "WebDriver BiDi",
-    "status": "Draft Standard",
-    "date": "2025-06-03",
-    "histUrl": "https://www.w3.org/standards/history/webdriver-bidi/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250603/",
-        "status": "Working Draft",
-        "date": "2025-06-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250520/",
-        "status": "Working Draft",
-        "date": "2025-05-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250514/",
-        "status": "Working Draft",
-        "date": "2025-05-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250513/",
-        "status": "Working Draft",
-        "date": "2025-05-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250512/",
-        "status": "Working Draft",
-        "date": "2025-05-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250508/",
-        "status": "Working Draft",
-        "date": "2025-05-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250507/",
-        "status": "Working Draft",
-        "date": "2025-05-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250430/",
-        "status": "Working Draft",
-        "date": "2025-04-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250414/",
-        "status": "Working Draft",
-        "date": "2025-04-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250411/",
-        "status": "Working Draft",
-        "date": "2025-04-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250403/",
-        "status": "Working Draft",
-        "date": "2025-04-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250327/",
-        "status": "Working Draft",
-        "date": "2025-03-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250324/",
-        "status": "Working Draft",
-        "date": "2025-03-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250321/",
-        "status": "Working Draft",
-        "date": "2025-03-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250317/",
-        "status": "Working Draft",
-        "date": "2025-03-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250314/",
-        "status": "Working Draft",
-        "date": "2025-03-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250306/",
-        "status": "Working Draft",
-        "date": "2025-03-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250305/",
-        "status": "Working Draft",
-        "date": "2025-03-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250304/",
-        "status": "Working Draft",
-        "date": "2025-03-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250227/",
-        "status": "Working Draft",
-        "date": "2025-02-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250225/",
-        "status": "Working Draft",
-        "date": "2025-02-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250210/",
-        "status": "Working Draft",
-        "date": "2025-02-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250131/",
-        "status": "Working Draft",
-        "date": "2025-01-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250130/",
-        "status": "Working Draft",
-        "date": "2025-01-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250129/",
-        "status": "Working Draft",
-        "date": "2025-01-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250124/",
-        "status": "Working Draft",
-        "date": "2025-01-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250122/",
-        "status": "Working Draft",
-        "date": "2025-01-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250121/",
-        "status": "Working Draft",
-        "date": "2025-01-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250116/",
-        "status": "Working Draft",
-        "date": "2025-01-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250115/",
-        "status": "Working Draft",
-        "date": "2025-01-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250113/",
-        "status": "Working Draft",
-        "date": "2025-01-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250108/",
-        "status": "Working Draft",
-        "date": "2025-01-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250107/",
-        "status": "Working Draft",
-        "date": "2025-01-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250103/",
-        "status": "Working Draft",
-        "date": "2025-01-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-webdriver-bidi-20241220/",
-        "status": "Working Draft",
-        "date": "2024-12-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-webdriver-bidi-20241219/",
-        "status": "Working Draft",
-        "date": "2024-12-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-webdriver-bidi-20241218/",
-        "status": "Working Draft",
-        "date": "2024-12-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-webdriver-bidi-20241206/",
-        "status": "Working Draft",
-        "date": "2024-12-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-webdriver-bidi-20241203/",
-        "status": "Working Draft",
-        "date": "2024-12-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-webdriver-bidi-20241202/",
-        "status": "Working Draft",
-        "date": "2024-12-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-webdriver-bidi-20241121/",
-        "status": "First Public Working Draft",
-        "date": "2024-11-21"
-      }
-    ],
-    "abstract": "This document defines the BiDirectional WebDriver Protocol, a mechanism for remote control of user agents."
-  },
-  {
     "url": "https://www.w3.org/TR/CSP3/",
     "title": "Content Security Policy Level 3",
     "status": "Draft Standard",
@@ -72682,96 +72467,6 @@
     "abstract": "RDF Schema provides a data-modelling vocabulary for RDF data. RDF Schema is an extension of the basic RDF vocabulary."
   },
   {
-    "url": "https://www.w3.org/TR/rdf12-trig/",
-    "title": "RDF 1.2 TriG",
-    "status": "Draft Standard",
-    "date": "2025-06-13",
-    "histUrl": "https://www.w3.org/standards/history/rdf12-trig/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/WD-rdf12-trig-20250613/",
-        "status": "Working Draft",
-        "date": "2025-06-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-rdf12-trig-20250612/",
-        "status": "Working Draft",
-        "date": "2025-06-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-rdf12-trig-20241219/",
-        "status": "Working Draft",
-        "date": "2024-12-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-rdf12-trig-20241107/",
-        "status": "Working Draft",
-        "date": "2024-11-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-rdf12-trig-20241027/",
-        "status": "Working Draft",
-        "date": "2024-10-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-rdf12-trig-20240919/",
-        "status": "Working Draft",
-        "date": "2024-09-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-rdf12-trig-20240912/",
-        "status": "Working Draft",
-        "date": "2024-09-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-rdf12-trig-20240613/",
-        "status": "Working Draft",
-        "date": "2024-06-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-rdf12-trig-20240418/",
-        "status": "Working Draft",
-        "date": "2024-04-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-trig-20231104/",
-        "status": "Working Draft",
-        "date": "2023-11-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-trig-20231103/",
-        "status": "Working Draft",
-        "date": "2023-11-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-trig-20231013/",
-        "status": "Working Draft",
-        "date": "2023-10-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-trig-20230921/",
-        "status": "Working Draft",
-        "date": "2023-09-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-trig-20230727/",
-        "status": "Working Draft",
-        "date": "2023-07-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-trig-20230628/",
-        "status": "Working Draft",
-        "date": "2023-06-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-trig-20230516/",
-        "status": "First Public Working Draft",
-        "date": "2023-05-16"
-      }
-    ],
-    "abstract": "This document defines a textual syntax for RDF called TriG that allows an RDF dataset to be completely written in a compact and natural text form, with abbreviations for common usage patterns and datatypes. TriG is an extension of the Turtle [RDF12-TURTLE] format."
-  },
-  {
     "url": "https://www.w3.org/TR/rdf12-xml/",
     "title": "RDF 1.2 XML Syntax",
     "status": "Draft Standard",
@@ -75200,171 +74895,6 @@
       }
     ],
     "abstract": "The Resource Description Framework (RDF) is a framework for representing information on the Web. This document defines an abstract syntax (a data model) which serves to link all RDF-based languages and specifications. The abstract syntax has two key data structures:"
-  },
-  {
-    "url": "https://www.w3.org/TR/rdf12-turtle/",
-    "title": "RDF 1.2 Turtle",
-    "status": "Draft Standard",
-    "date": "2025-06-16",
-    "histUrl": "https://www.w3.org/standards/history/rdf12-turtle/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/WD-rdf12-turtle-20250616/",
-        "status": "Working Draft",
-        "date": "2025-06-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-rdf12-turtle-20250220/",
-        "status": "Working Draft",
-        "date": "2025-02-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-rdf12-turtle-20250109/",
-        "status": "Working Draft",
-        "date": "2025-01-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-rdf12-turtle-20241219/",
-        "status": "Working Draft",
-        "date": "2024-12-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-rdf12-turtle-20241031/",
-        "status": "Working Draft",
-        "date": "2024-10-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-rdf12-turtle-20241028/",
-        "status": "Working Draft",
-        "date": "2024-10-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-rdf12-turtle-20241024/",
-        "status": "Working Draft",
-        "date": "2024-10-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-rdf12-turtle-20241023/",
-        "status": "Working Draft",
-        "date": "2024-10-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-rdf12-turtle-20240930/",
-        "status": "Working Draft",
-        "date": "2024-09-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-rdf12-turtle-20240919/",
-        "status": "Working Draft",
-        "date": "2024-09-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-rdf12-turtle-20240912/",
-        "status": "Working Draft",
-        "date": "2024-09-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-rdf12-turtle-20240829/",
-        "status": "Working Draft",
-        "date": "2024-08-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-rdf12-turtle-20240822/",
-        "status": "Working Draft",
-        "date": "2024-08-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-rdf12-turtle-20240815/",
-        "status": "Working Draft",
-        "date": "2024-08-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-rdf12-turtle-20240808/",
-        "status": "Working Draft",
-        "date": "2024-08-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-rdf12-turtle-20240801/",
-        "status": "Working Draft",
-        "date": "2024-08-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-rdf12-turtle-20240613/",
-        "status": "Working Draft",
-        "date": "2024-06-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-rdf12-turtle-20240418/",
-        "status": "Working Draft",
-        "date": "2024-04-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-rdf12-turtle-20240208/",
-        "status": "Working Draft",
-        "date": "2024-02-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-turtle-20231104/",
-        "status": "Working Draft",
-        "date": "2023-11-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-turtle-20231103/",
-        "status": "Working Draft",
-        "date": "2023-11-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-turtle-20231013/",
-        "status": "Working Draft",
-        "date": "2023-10-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-turtle-20231012/",
-        "status": "Working Draft",
-        "date": "2023-10-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-turtle-20231005/",
-        "status": "Working Draft",
-        "date": "2023-10-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-turtle-20230928/",
-        "status": "Working Draft",
-        "date": "2023-09-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-turtle-20230925/",
-        "status": "Working Draft",
-        "date": "2023-09-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-turtle-20230921/",
-        "status": "Working Draft",
-        "date": "2023-09-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-turtle-20230831/",
-        "status": "Working Draft",
-        "date": "2023-08-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-turtle-20230727/",
-        "status": "Working Draft",
-        "date": "2023-07-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-turtle-20230615/",
-        "status": "Working Draft",
-        "date": "2023-06-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-turtle-20230516/",
-        "status": "First Public Working Draft",
-        "date": "2023-05-16"
-      }
-    ],
-    "abstract": "The Resource Description Framework (RDF) is a general-purpose language for representing information in the Web."
   },
   {
     "url": "https://www.w3.org/TR/secure-payment-confirmation/",
@@ -78970,5 +78500,490 @@
       }
     ],
     "abstract": "This document describes a dedicated low-level API for neural network inference hardware acceleration."
+  },
+  {
+    "url": "https://www.w3.org/TR/rdf12-trig/",
+    "title": "RDF 1.2 TriG",
+    "status": "Draft Standard",
+    "date": "2025-06-18",
+    "histUrl": "https://www.w3.org/standards/history/rdf12-trig/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/WD-rdf12-trig-20250618/",
+        "status": "Working Draft",
+        "date": "2025-06-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-rdf12-trig-20250613/",
+        "status": "Working Draft",
+        "date": "2025-06-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-rdf12-trig-20250612/",
+        "status": "Working Draft",
+        "date": "2025-06-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-rdf12-trig-20241219/",
+        "status": "Working Draft",
+        "date": "2024-12-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-rdf12-trig-20241107/",
+        "status": "Working Draft",
+        "date": "2024-11-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-rdf12-trig-20241027/",
+        "status": "Working Draft",
+        "date": "2024-10-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-rdf12-trig-20240919/",
+        "status": "Working Draft",
+        "date": "2024-09-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-rdf12-trig-20240912/",
+        "status": "Working Draft",
+        "date": "2024-09-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-rdf12-trig-20240613/",
+        "status": "Working Draft",
+        "date": "2024-06-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-rdf12-trig-20240418/",
+        "status": "Working Draft",
+        "date": "2024-04-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-trig-20231104/",
+        "status": "Working Draft",
+        "date": "2023-11-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-trig-20231103/",
+        "status": "Working Draft",
+        "date": "2023-11-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-trig-20231013/",
+        "status": "Working Draft",
+        "date": "2023-10-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-trig-20230921/",
+        "status": "Working Draft",
+        "date": "2023-09-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-trig-20230727/",
+        "status": "Working Draft",
+        "date": "2023-07-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-trig-20230628/",
+        "status": "Working Draft",
+        "date": "2023-06-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-trig-20230516/",
+        "status": "First Public Working Draft",
+        "date": "2023-05-16"
+      }
+    ],
+    "abstract": "This document defines a textual syntax for RDF called TriG that allows an RDF dataset to be completely written in a compact and natural text form, with abbreviations for common usage patterns and datatypes. TriG is an extension of the Turtle [RDF12-TURTLE] format."
+  },
+  {
+    "url": "https://www.w3.org/TR/rdf12-turtle/",
+    "title": "RDF 1.2 Turtle",
+    "status": "Draft Standard",
+    "date": "2025-06-18",
+    "histUrl": "https://www.w3.org/standards/history/rdf12-turtle/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/WD-rdf12-turtle-20250618/",
+        "status": "Working Draft",
+        "date": "2025-06-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-rdf12-turtle-20250616/",
+        "status": "Working Draft",
+        "date": "2025-06-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-rdf12-turtle-20250220/",
+        "status": "Working Draft",
+        "date": "2025-02-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-rdf12-turtle-20250109/",
+        "status": "Working Draft",
+        "date": "2025-01-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-rdf12-turtle-20241219/",
+        "status": "Working Draft",
+        "date": "2024-12-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-rdf12-turtle-20241031/",
+        "status": "Working Draft",
+        "date": "2024-10-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-rdf12-turtle-20241028/",
+        "status": "Working Draft",
+        "date": "2024-10-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-rdf12-turtle-20241024/",
+        "status": "Working Draft",
+        "date": "2024-10-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-rdf12-turtle-20241023/",
+        "status": "Working Draft",
+        "date": "2024-10-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-rdf12-turtle-20240930/",
+        "status": "Working Draft",
+        "date": "2024-09-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-rdf12-turtle-20240919/",
+        "status": "Working Draft",
+        "date": "2024-09-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-rdf12-turtle-20240912/",
+        "status": "Working Draft",
+        "date": "2024-09-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-rdf12-turtle-20240829/",
+        "status": "Working Draft",
+        "date": "2024-08-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-rdf12-turtle-20240822/",
+        "status": "Working Draft",
+        "date": "2024-08-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-rdf12-turtle-20240815/",
+        "status": "Working Draft",
+        "date": "2024-08-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-rdf12-turtle-20240808/",
+        "status": "Working Draft",
+        "date": "2024-08-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-rdf12-turtle-20240801/",
+        "status": "Working Draft",
+        "date": "2024-08-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-rdf12-turtle-20240613/",
+        "status": "Working Draft",
+        "date": "2024-06-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-rdf12-turtle-20240418/",
+        "status": "Working Draft",
+        "date": "2024-04-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-rdf12-turtle-20240208/",
+        "status": "Working Draft",
+        "date": "2024-02-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-turtle-20231104/",
+        "status": "Working Draft",
+        "date": "2023-11-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-turtle-20231103/",
+        "status": "Working Draft",
+        "date": "2023-11-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-turtle-20231013/",
+        "status": "Working Draft",
+        "date": "2023-10-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-turtle-20231012/",
+        "status": "Working Draft",
+        "date": "2023-10-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-turtle-20231005/",
+        "status": "Working Draft",
+        "date": "2023-10-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-turtle-20230928/",
+        "status": "Working Draft",
+        "date": "2023-09-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-turtle-20230925/",
+        "status": "Working Draft",
+        "date": "2023-09-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-turtle-20230921/",
+        "status": "Working Draft",
+        "date": "2023-09-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-turtle-20230831/",
+        "status": "Working Draft",
+        "date": "2023-08-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-turtle-20230727/",
+        "status": "Working Draft",
+        "date": "2023-07-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-turtle-20230615/",
+        "status": "Working Draft",
+        "date": "2023-06-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-turtle-20230516/",
+        "status": "First Public Working Draft",
+        "date": "2023-05-16"
+      }
+    ],
+    "abstract": "The Resource Description Framework (RDF) is a general-purpose language for representing information in the Web."
+  },
+  {
+    "url": "https://www.w3.org/TR/webdriver-bidi/",
+    "title": "WebDriver BiDi",
+    "status": "Draft Standard",
+    "date": "2025-06-18",
+    "histUrl": "https://www.w3.org/standards/history/webdriver-bidi/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250618/",
+        "status": "Working Draft",
+        "date": "2025-06-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250603/",
+        "status": "Working Draft",
+        "date": "2025-06-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250520/",
+        "status": "Working Draft",
+        "date": "2025-05-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250514/",
+        "status": "Working Draft",
+        "date": "2025-05-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250513/",
+        "status": "Working Draft",
+        "date": "2025-05-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250512/",
+        "status": "Working Draft",
+        "date": "2025-05-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250508/",
+        "status": "Working Draft",
+        "date": "2025-05-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250507/",
+        "status": "Working Draft",
+        "date": "2025-05-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250430/",
+        "status": "Working Draft",
+        "date": "2025-04-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250414/",
+        "status": "Working Draft",
+        "date": "2025-04-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250411/",
+        "status": "Working Draft",
+        "date": "2025-04-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250403/",
+        "status": "Working Draft",
+        "date": "2025-04-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250327/",
+        "status": "Working Draft",
+        "date": "2025-03-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250324/",
+        "status": "Working Draft",
+        "date": "2025-03-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250321/",
+        "status": "Working Draft",
+        "date": "2025-03-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250317/",
+        "status": "Working Draft",
+        "date": "2025-03-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250314/",
+        "status": "Working Draft",
+        "date": "2025-03-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250306/",
+        "status": "Working Draft",
+        "date": "2025-03-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250305/",
+        "status": "Working Draft",
+        "date": "2025-03-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250304/",
+        "status": "Working Draft",
+        "date": "2025-03-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250227/",
+        "status": "Working Draft",
+        "date": "2025-02-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250225/",
+        "status": "Working Draft",
+        "date": "2025-02-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250210/",
+        "status": "Working Draft",
+        "date": "2025-02-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250131/",
+        "status": "Working Draft",
+        "date": "2025-01-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250130/",
+        "status": "Working Draft",
+        "date": "2025-01-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250129/",
+        "status": "Working Draft",
+        "date": "2025-01-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250124/",
+        "status": "Working Draft",
+        "date": "2025-01-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250122/",
+        "status": "Working Draft",
+        "date": "2025-01-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250121/",
+        "status": "Working Draft",
+        "date": "2025-01-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250116/",
+        "status": "Working Draft",
+        "date": "2025-01-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250115/",
+        "status": "Working Draft",
+        "date": "2025-01-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250113/",
+        "status": "Working Draft",
+        "date": "2025-01-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250108/",
+        "status": "Working Draft",
+        "date": "2025-01-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250107/",
+        "status": "Working Draft",
+        "date": "2025-01-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250103/",
+        "status": "Working Draft",
+        "date": "2025-01-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-webdriver-bidi-20241220/",
+        "status": "Working Draft",
+        "date": "2024-12-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-webdriver-bidi-20241219/",
+        "status": "Working Draft",
+        "date": "2024-12-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-webdriver-bidi-20241218/",
+        "status": "Working Draft",
+        "date": "2024-12-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-webdriver-bidi-20241206/",
+        "status": "Working Draft",
+        "date": "2024-12-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-webdriver-bidi-20241203/",
+        "status": "Working Draft",
+        "date": "2024-12-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-webdriver-bidi-20241202/",
+        "status": "Working Draft",
+        "date": "2024-12-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-webdriver-bidi-20241121/",
+        "status": "First Public Working Draft",
+        "date": "2024-11-21"
+      }
+    ],
+    "abstract": "This document defines the BiDirectional WebDriver Protocol, a mechanism for remote control of user agents."
   }
 ]
