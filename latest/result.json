@@ -50242,21 +50242,6 @@
     "abstract": "This document contains a set of questions to be used when evaluating the security and privacy implications of web platform technologies."
   },
   {
-    "url": "https://www.w3.org/TR/sri-2/",
-    "title": "Subresource Integrity",
-    "status": "Draft Standard",
-    "date": "2025-04-22",
-    "histUrl": "https://www.w3.org/standards/history/sri-2/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/WD-sri-2-20250422/",
-        "status": "First Public Working Draft",
-        "date": "2025-04-22"
-      }
-    ],
-    "abstract": "This specification defines a mechanism by which user agents may verify that a fetched resource has been delivered without unexpected manipulation."
-  },
-  {
     "url": "https://www.w3.org/TR/uievents-code/",
     "title": "UI Events KeyboardEvent code Values",
     "status": "Standard",
@@ -79445,5 +79430,25 @@
       }
     ],
     "abstract": "This document describes a precise semantics for RDF 1.2 Concepts and Abstract Syntax [RDF12-CONCEPTS] and RDF 1.2 Schema [RDF12-SCHEMA]. It defines a number of distinct entailment regimes and corresponding patterns of entailment. It is part of a suite of documents which comprise the full specification of RDF 1.2."
+  },
+  {
+    "url": "https://www.w3.org/TR/sri-2/",
+    "title": "Subresource Integrity",
+    "status": "Draft Standard",
+    "date": "2025-07-06",
+    "histUrl": "https://www.w3.org/standards/history/sri-2/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/WD-sri-2-20250706/",
+        "status": "Working Draft",
+        "date": "2025-07-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-sri-2-20250422/",
+        "status": "First Public Working Draft",
+        "date": "2025-04-22"
+      }
+    ],
+    "abstract": "This specification defines a mechanism by which user agents may verify that a fetched resource has been delivered without unexpected manipulation."
   }
 ]
