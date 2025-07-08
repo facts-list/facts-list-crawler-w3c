@@ -33207,61 +33207,6 @@
     "abstract": "This specification defines standard HTTP headers and a value format to propagate context information that enables distributed tracing scenarios. The specification standardizes how context information is sent and modified between services. Context information uniquely identifies individual requests in a distributed system and also defines a means to add and propagate provider-specific context information."
   },
   {
-    "url": "https://www.w3.org/TR/webxr-gamepads-module-1/",
-    "title": "WebXR Gamepads Module - Level 1",
-    "status": "Draft Standard",
-    "date": "2024-04-09",
-    "histUrl": "https://www.w3.org/standards/history/webxr-gamepads-module-1/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2024/WD-webxr-gamepads-module-1-20240409/",
-        "status": "Working Draft",
-        "date": "2024-04-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webxr-gamepads-module-1-20220426/",
-        "status": "Working Draft",
-        "date": "2022-04-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webxr-gamepads-module-1-20220203/",
-        "status": "Working Draft",
-        "date": "2022-02-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webxr-gamepads-module-1-20220105/",
-        "status": "Working Draft",
-        "date": "2022-01-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webxr-gamepads-module-1-20220104/",
-        "status": "Working Draft",
-        "date": "2022-01-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webxr-gamepads-module-1-20211228/",
-        "status": "Working Draft",
-        "date": "2021-12-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webxr-gamepads-module-1-20211224/",
-        "status": "Working Draft",
-        "date": "2021-12-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webxr-gamepads-module-1-20210824/",
-        "status": "Working Draft",
-        "date": "2021-08-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-webxr-gamepads-module-1-20191010/",
-        "status": "First Public Working Draft",
-        "date": "2019-10-10"
-      }
-    ],
-    "abstract": "This specification module describes support for accessing button, trigger, thumbstick, and touchpad data associated with virtual reality (VR) and augmented reality (AR) devices on the Web."
-  },
-  {
     "url": "https://www.w3.org/TR/css-box-3/",
     "title": "CSS Box Model Module Level 3",
     "status": "Standard",
@@ -46065,36 +46010,6 @@
       }
     ],
     "abstract": "This module extends CSS Color [css-color-4] to add color modification functions, custom color spaces (ICC profiles), contrast-color(), light-dark() and device-cmyk()."
-  },
-  {
-    "url": "https://www.w3.org/TR/shacl12-core/",
-    "title": "SHACL 1.2 Core",
-    "status": "Draft Standard",
-    "date": "2025-03-18",
-    "histUrl": "https://www.w3.org/standards/history/shacl12-core/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/WD-shacl12-core-20250318/",
-        "status": "First Public Working Draft",
-        "date": "2025-03-18"
-      }
-    ],
-    "abstract": "This document defines the Core of the SHACL Shapes Constraint Language. SHACL is a language for validating RDF graphs against a set of conditions. These conditions are provided as shapes and other constructs expressed in the form of an RDF graph. RDF graphs that are used in this manner are called \"shapes graphs\" in SHACL and the RDF graphs that are validated against a shapes graph are called \"data graphs\". As SHACL shape graphs are used to validate that data graphs satisfy a set of conditions they can also be viewed as a description of the data graphs that do satisfy these conditions. Such descriptions may be used for a variety of purposes beside validation, including user interface building, code generation and data integration."
-  },
-  {
-    "url": "https://www.w3.org/TR/shacl12-sparql/",
-    "title": "SHACL 1.2 SPARQL Extensions",
-    "status": "Draft Standard",
-    "date": "2025-03-18",
-    "histUrl": "https://www.w3.org/standards/history/shacl12-sparql/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/WD-shacl12-sparql-20250318/",
-        "status": "First Public Working Draft",
-        "date": "2025-03-18"
-      }
-    ],
-    "abstract": "This document defines SPARQL-related extensions of the SHACL Shapes Constraint Language. SHACL is a language for validating RDF graphs against a set of conditions. These conditions are provided as shapes and other constructs expressed in the form of an RDF graph. While the Core part of SHACL defines the basic syntax of shapes and the most common constraint components supported by SHACL, the SPARQL-related extensions cover features that extend the expressiveness of Core by means of SPARQL. In particular, this document defines how constraints and constraint components can be defined using SPARQL."
   },
   {
     "url": "https://www.w3.org/TR/hani-lreq/",
@@ -79432,12 +79347,37 @@
     "abstract": "This document describes a precise semantics for RDF 1.2 Concepts and Abstract Syntax [RDF12-CONCEPTS] and RDF 1.2 Schema [RDF12-SCHEMA]. It defines a number of distinct entailment regimes and corresponding patterns of entailment. It is part of a suite of documents which comprise the full specification of RDF 1.2."
   },
   {
+    "url": "https://www.w3.org/TR/shacl12-sparql/",
+    "title": "SHACL 1.2 SPARQL Extensions",
+    "status": "Draft Standard",
+    "date": "2025-07-07",
+    "histUrl": "https://www.w3.org/standards/history/shacl12-sparql/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/WD-shacl12-sparql-20250707/",
+        "status": "Working Draft",
+        "date": "2025-07-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-shacl12-sparql-20250318/",
+        "status": "First Public Working Draft",
+        "date": "2025-03-18"
+      }
+    ],
+    "abstract": "This document defines SPARQL-related extensions of the SHACL Shapes Constraint Language. SHACL is a language for validating RDF graphs against a set of conditions. These conditions are provided as shapes and other constructs expressed in the form of an RDF graph. While the Core part of SHACL defines the basic syntax of shapes and the most common constraint components supported by SHACL, the SPARQL-related extensions cover features that extend the expressiveness of Core by means of SPARQL. In particular, this document defines how constraints and constraint components can be defined using SPARQL."
+  },
+  {
     "url": "https://www.w3.org/TR/sri-2/",
     "title": "Subresource Integrity",
     "status": "Draft Standard",
-    "date": "2025-07-06",
+    "date": "2025-07-07",
     "histUrl": "https://www.w3.org/standards/history/sri-2/",
     "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/WD-sri-2-20250707/",
+        "status": "Working Draft",
+        "date": "2025-07-07"
+      },
       {
         "url": "https://www.w3.org/TR/2025/WD-sri-2-20250706/",
         "status": "Working Draft",
@@ -79450,5 +79390,100 @@
       }
     ],
     "abstract": "This specification defines a mechanism by which user agents may verify that a fetched resource has been delivered without unexpected manipulation."
+  },
+  {
+    "url": "https://www.w3.org/TR/webxr-gamepads-module-1/",
+    "title": "WebXR Gamepads Module - Level 1",
+    "status": "Draft Standard",
+    "date": "2025-07-07",
+    "histUrl": "https://www.w3.org/standards/history/webxr-gamepads-module-1/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webxr-gamepads-module-1-20250707/",
+        "status": "Working Draft",
+        "date": "2025-07-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-webxr-gamepads-module-1-20240409/",
+        "status": "Working Draft",
+        "date": "2024-04-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webxr-gamepads-module-1-20220426/",
+        "status": "Working Draft",
+        "date": "2022-04-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webxr-gamepads-module-1-20220203/",
+        "status": "Working Draft",
+        "date": "2022-02-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webxr-gamepads-module-1-20220105/",
+        "status": "Working Draft",
+        "date": "2022-01-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webxr-gamepads-module-1-20220104/",
+        "status": "Working Draft",
+        "date": "2022-01-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-webxr-gamepads-module-1-20211228/",
+        "status": "Working Draft",
+        "date": "2021-12-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-webxr-gamepads-module-1-20211224/",
+        "status": "Working Draft",
+        "date": "2021-12-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-webxr-gamepads-module-1-20210824/",
+        "status": "Working Draft",
+        "date": "2021-08-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-webxr-gamepads-module-1-20191010/",
+        "status": "First Public Working Draft",
+        "date": "2019-10-10"
+      }
+    ],
+    "abstract": "This specification module describes support for accessing button, trigger, thumbstick, and touchpad data associated with virtual reality (VR) and augmented reality (AR) devices on the Web."
+  },
+  {
+    "url": "https://www.w3.org/TR/css-position-4/",
+    "title": "CSS Positioned Layout Module Level 4",
+    "status": "Draft Standard",
+    "date": "2025-07-08",
+    "histUrl": "https://www.w3.org/standards/history/css-position-4/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/WD-css-position-4-20250708/",
+        "status": "First Public Working Draft",
+        "date": "2025-07-08"
+      }
+    ],
+    "abstract": "This module contains defines coordinate-based positioning and offsetting schemes of CSS: relative positioning, sticky positioning, absolute positioning, and fixed positioning."
+  },
+  {
+    "url": "https://www.w3.org/TR/shacl12-core/",
+    "title": "SHACL 1.2 Core",
+    "status": "Draft Standard",
+    "date": "2025-07-08",
+    "histUrl": "https://www.w3.org/standards/history/shacl12-core/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/WD-shacl12-core-20250708/",
+        "status": "Working Draft",
+        "date": "2025-07-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-shacl12-core-20250318/",
+        "status": "First Public Working Draft",
+        "date": "2025-03-18"
+      }
+    ],
+    "abstract": "This document defines the Core of the SHACL Shapes Constraint Language. SHACL is a language for validating RDF graphs against a set of conditions. These conditions are provided as shapes and other constructs expressed in the form of an RDF graph. RDF graphs that are used in this manner are called \"shapes graphs\" in SHACL and the RDF graphs that are validated against a shapes graph are called \"data graphs\". As SHACL shape graphs are used to validate that data graphs satisfy a set of conditions they can also be viewed as a description of the data graphs that do satisfy these conditions. Such descriptions may be used for a variety of purposes beside validation, including user interface building, code generation and data integration."
   }
 ]
