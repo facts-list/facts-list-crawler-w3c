@@ -73732,46 +73732,6 @@
     "abstract": "RDF is a directed, labeled graph data model for representing information in the Web. This specification defines the syntax and semantics of the SPARQL Query Language for RDF. SPARQL can be used to express queries across diverse data sources, whether the data is stored natively as RDF or viewed as RDF via middleware. SPARQL contains capabilities for querying required and optional graph patterns along with their conjunctions and disjunctions. SPARQL also supports aggregation, subqueries, negation, creating values by expressions, extensible value testing, and constraining queries by source RDF graph. The results of SPARQL queries can be result sets or RDF graphs."
   },
   {
-    "url": "https://www.w3.org/TR/digital-credentials/",
-    "title": "Digital Credentials",
-    "status": "Draft Standard",
-    "date": "2025-08-06",
-    "histUrl": "https://www.w3.org/standards/history/digital-credentials/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/WD-digital-credentials-20250806/",
-        "status": "Working Draft",
-        "date": "2025-08-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-digital-credentials-20250805/",
-        "status": "Working Draft",
-        "date": "2025-08-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-digital-credentials-20250803/",
-        "status": "Working Draft",
-        "date": "2025-08-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-digital-credentials-20250727/",
-        "status": "Working Draft",
-        "date": "2025-07-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-digital-credentials-20250710/",
-        "status": "Working Draft",
-        "date": "2025-07-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-digital-credentials-20250701/",
-        "status": "First Public Working Draft",
-        "date": "2025-07-01"
-      }
-    ],
-    "abstract": "This document specifies an API to enable user agents to mediate presentation and issuance of digital credentials such as a driver's license, government-issued identification card, and/or other types of digital credential. The API builds on Credential Management Level 1 as a means by which to request or issue a digital credential from a user agent or underlying platform."
-  },
-  {
     "url": "https://www.w3.org/TR/permissions-policy-1/",
     "title": "Permissions Policy",
     "status": "Draft Standard",
@@ -75380,306 +75340,6 @@
       }
     ],
     "abstract": "This specification standardizes an API to allow merchants (i.e. web sites selling physical or digital goods) to utilize one or more payment methods with minimal integration. User agents (e.g., browsers) facilitate the payment flow between merchant and user."
-  },
-  {
-    "url": "https://www.w3.org/TR/webdriver-bidi/",
-    "title": "WebDriver BiDi",
-    "status": "Draft Standard",
-    "date": "2025-08-08",
-    "histUrl": "https://www.w3.org/standards/history/webdriver-bidi/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250808/",
-        "status": "Working Draft",
-        "date": "2025-08-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250805/",
-        "status": "Working Draft",
-        "date": "2025-08-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250729/",
-        "status": "Working Draft",
-        "date": "2025-07-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250728/",
-        "status": "Working Draft",
-        "date": "2025-07-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250718/",
-        "status": "Working Draft",
-        "date": "2025-07-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250716/",
-        "status": "Working Draft",
-        "date": "2025-07-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250711/",
-        "status": "Working Draft",
-        "date": "2025-07-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250708/",
-        "status": "Working Draft",
-        "date": "2025-07-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250703/",
-        "status": "Working Draft",
-        "date": "2025-07-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250702/",
-        "status": "Working Draft",
-        "date": "2025-07-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250630/",
-        "status": "Working Draft",
-        "date": "2025-06-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250627/",
-        "status": "Working Draft",
-        "date": "2025-06-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250626/",
-        "status": "Working Draft",
-        "date": "2025-06-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250624/",
-        "status": "Working Draft",
-        "date": "2025-06-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250620/",
-        "status": "Working Draft",
-        "date": "2025-06-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250619/",
-        "status": "Working Draft",
-        "date": "2025-06-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250618/",
-        "status": "Working Draft",
-        "date": "2025-06-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250603/",
-        "status": "Working Draft",
-        "date": "2025-06-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250520/",
-        "status": "Working Draft",
-        "date": "2025-05-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250514/",
-        "status": "Working Draft",
-        "date": "2025-05-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250513/",
-        "status": "Working Draft",
-        "date": "2025-05-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250512/",
-        "status": "Working Draft",
-        "date": "2025-05-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250508/",
-        "status": "Working Draft",
-        "date": "2025-05-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250507/",
-        "status": "Working Draft",
-        "date": "2025-05-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250430/",
-        "status": "Working Draft",
-        "date": "2025-04-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250414/",
-        "status": "Working Draft",
-        "date": "2025-04-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250411/",
-        "status": "Working Draft",
-        "date": "2025-04-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250403/",
-        "status": "Working Draft",
-        "date": "2025-04-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250327/",
-        "status": "Working Draft",
-        "date": "2025-03-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250324/",
-        "status": "Working Draft",
-        "date": "2025-03-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250321/",
-        "status": "Working Draft",
-        "date": "2025-03-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250317/",
-        "status": "Working Draft",
-        "date": "2025-03-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250314/",
-        "status": "Working Draft",
-        "date": "2025-03-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250306/",
-        "status": "Working Draft",
-        "date": "2025-03-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250305/",
-        "status": "Working Draft",
-        "date": "2025-03-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250304/",
-        "status": "Working Draft",
-        "date": "2025-03-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250227/",
-        "status": "Working Draft",
-        "date": "2025-02-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250225/",
-        "status": "Working Draft",
-        "date": "2025-02-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250210/",
-        "status": "Working Draft",
-        "date": "2025-02-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250131/",
-        "status": "Working Draft",
-        "date": "2025-01-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250130/",
-        "status": "Working Draft",
-        "date": "2025-01-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250129/",
-        "status": "Working Draft",
-        "date": "2025-01-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250124/",
-        "status": "Working Draft",
-        "date": "2025-01-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250122/",
-        "status": "Working Draft",
-        "date": "2025-01-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250121/",
-        "status": "Working Draft",
-        "date": "2025-01-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250116/",
-        "status": "Working Draft",
-        "date": "2025-01-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250115/",
-        "status": "Working Draft",
-        "date": "2025-01-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250113/",
-        "status": "Working Draft",
-        "date": "2025-01-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250108/",
-        "status": "Working Draft",
-        "date": "2025-01-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250107/",
-        "status": "Working Draft",
-        "date": "2025-01-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250103/",
-        "status": "Working Draft",
-        "date": "2025-01-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-webdriver-bidi-20241220/",
-        "status": "Working Draft",
-        "date": "2024-12-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-webdriver-bidi-20241219/",
-        "status": "Working Draft",
-        "date": "2024-12-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-webdriver-bidi-20241218/",
-        "status": "Working Draft",
-        "date": "2024-12-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-webdriver-bidi-20241206/",
-        "status": "Working Draft",
-        "date": "2024-12-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-webdriver-bidi-20241203/",
-        "status": "Working Draft",
-        "date": "2024-12-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-webdriver-bidi-20241202/",
-        "status": "Working Draft",
-        "date": "2024-12-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-webdriver-bidi-20241121/",
-        "status": "First Public Working Draft",
-        "date": "2024-11-21"
-      }
-    ],
-    "abstract": "This document defines the BiDirectional WebDriver Protocol, a mechanism for remote control of user agents."
   },
   {
     "url": "https://www.w3.org/TR/gpc/",
@@ -80100,5 +79760,355 @@
       }
     ],
     "abstract": "Shading language for WebGPU."
+  },
+  {
+    "url": "https://www.w3.org/TR/digital-credentials/",
+    "title": "Digital Credentials",
+    "status": "Draft Standard",
+    "date": "2025-08-11",
+    "histUrl": "https://www.w3.org/standards/history/digital-credentials/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/WD-digital-credentials-20250811/",
+        "status": "Working Draft",
+        "date": "2025-08-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-digital-credentials-20250806/",
+        "status": "Working Draft",
+        "date": "2025-08-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-digital-credentials-20250805/",
+        "status": "Working Draft",
+        "date": "2025-08-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-digital-credentials-20250803/",
+        "status": "Working Draft",
+        "date": "2025-08-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-digital-credentials-20250727/",
+        "status": "Working Draft",
+        "date": "2025-07-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-digital-credentials-20250710/",
+        "status": "Working Draft",
+        "date": "2025-07-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-digital-credentials-20250701/",
+        "status": "First Public Working Draft",
+        "date": "2025-07-01"
+      }
+    ],
+    "abstract": "This document specifies an API to enable user agents to mediate presentation and issuance of digital credentials such as a driver's license, government-issued identification card, and/or other types of digital credential. The API builds on Credential Management Level 1 as a means by which to request or issue a digital credential from a user agent or underlying platform."
+  },
+  {
+    "url": "https://www.w3.org/TR/webdriver-bidi/",
+    "title": "WebDriver BiDi",
+    "status": "Draft Standard",
+    "date": "2025-08-11",
+    "histUrl": "https://www.w3.org/standards/history/webdriver-bidi/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250811/",
+        "status": "Working Draft",
+        "date": "2025-08-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250808/",
+        "status": "Working Draft",
+        "date": "2025-08-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250805/",
+        "status": "Working Draft",
+        "date": "2025-08-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250729/",
+        "status": "Working Draft",
+        "date": "2025-07-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250728/",
+        "status": "Working Draft",
+        "date": "2025-07-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250718/",
+        "status": "Working Draft",
+        "date": "2025-07-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250716/",
+        "status": "Working Draft",
+        "date": "2025-07-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250711/",
+        "status": "Working Draft",
+        "date": "2025-07-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250708/",
+        "status": "Working Draft",
+        "date": "2025-07-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250703/",
+        "status": "Working Draft",
+        "date": "2025-07-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250702/",
+        "status": "Working Draft",
+        "date": "2025-07-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250630/",
+        "status": "Working Draft",
+        "date": "2025-06-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250627/",
+        "status": "Working Draft",
+        "date": "2025-06-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250626/",
+        "status": "Working Draft",
+        "date": "2025-06-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250624/",
+        "status": "Working Draft",
+        "date": "2025-06-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250620/",
+        "status": "Working Draft",
+        "date": "2025-06-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250619/",
+        "status": "Working Draft",
+        "date": "2025-06-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250618/",
+        "status": "Working Draft",
+        "date": "2025-06-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250603/",
+        "status": "Working Draft",
+        "date": "2025-06-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250520/",
+        "status": "Working Draft",
+        "date": "2025-05-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250514/",
+        "status": "Working Draft",
+        "date": "2025-05-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250513/",
+        "status": "Working Draft",
+        "date": "2025-05-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250512/",
+        "status": "Working Draft",
+        "date": "2025-05-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250508/",
+        "status": "Working Draft",
+        "date": "2025-05-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250507/",
+        "status": "Working Draft",
+        "date": "2025-05-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250430/",
+        "status": "Working Draft",
+        "date": "2025-04-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250414/",
+        "status": "Working Draft",
+        "date": "2025-04-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250411/",
+        "status": "Working Draft",
+        "date": "2025-04-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250403/",
+        "status": "Working Draft",
+        "date": "2025-04-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250327/",
+        "status": "Working Draft",
+        "date": "2025-03-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250324/",
+        "status": "Working Draft",
+        "date": "2025-03-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250321/",
+        "status": "Working Draft",
+        "date": "2025-03-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250317/",
+        "status": "Working Draft",
+        "date": "2025-03-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250314/",
+        "status": "Working Draft",
+        "date": "2025-03-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250306/",
+        "status": "Working Draft",
+        "date": "2025-03-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250305/",
+        "status": "Working Draft",
+        "date": "2025-03-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250304/",
+        "status": "Working Draft",
+        "date": "2025-03-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250227/",
+        "status": "Working Draft",
+        "date": "2025-02-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250225/",
+        "status": "Working Draft",
+        "date": "2025-02-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250210/",
+        "status": "Working Draft",
+        "date": "2025-02-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250131/",
+        "status": "Working Draft",
+        "date": "2025-01-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250130/",
+        "status": "Working Draft",
+        "date": "2025-01-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250129/",
+        "status": "Working Draft",
+        "date": "2025-01-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250124/",
+        "status": "Working Draft",
+        "date": "2025-01-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250122/",
+        "status": "Working Draft",
+        "date": "2025-01-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250121/",
+        "status": "Working Draft",
+        "date": "2025-01-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250116/",
+        "status": "Working Draft",
+        "date": "2025-01-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250115/",
+        "status": "Working Draft",
+        "date": "2025-01-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250113/",
+        "status": "Working Draft",
+        "date": "2025-01-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250108/",
+        "status": "Working Draft",
+        "date": "2025-01-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250107/",
+        "status": "Working Draft",
+        "date": "2025-01-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webdriver-bidi-20250103/",
+        "status": "Working Draft",
+        "date": "2025-01-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-webdriver-bidi-20241220/",
+        "status": "Working Draft",
+        "date": "2024-12-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-webdriver-bidi-20241219/",
+        "status": "Working Draft",
+        "date": "2024-12-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-webdriver-bidi-20241218/",
+        "status": "Working Draft",
+        "date": "2024-12-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-webdriver-bidi-20241206/",
+        "status": "Working Draft",
+        "date": "2024-12-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-webdriver-bidi-20241203/",
+        "status": "Working Draft",
+        "date": "2024-12-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-webdriver-bidi-20241202/",
+        "status": "Working Draft",
+        "date": "2024-12-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-webdriver-bidi-20241121/",
+        "status": "First Public Working Draft",
+        "date": "2024-11-21"
+      }
+    ],
+    "abstract": "This document defines the BiDirectional WebDriver Protocol, a mechanism for remote control of user agents."
   }
 ]
