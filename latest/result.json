@@ -73412,46 +73412,6 @@
     "abstract": "The Accessibility Maturity Model (AMM) provides a framework that equips individuals and organizations of all sizes to develop, deploy, and maintain the accessibility of both internal and external digital resources over time. This comprehensive framework encompasses all aspects of managing an organization's staff resources as well as its ever-evolving public ones. It readily scales in support of:"
   },
   {
-    "url": "https://www.w3.org/TR/did-1.1/",
-    "title": "Decentralized Identifiers (DIDs) v1.1",
-    "status": "Draft Standard",
-    "date": "2025-08-28",
-    "histUrl": "https://www.w3.org/standards/history/did-1.1/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/WD-did-1.1-20250828/",
-        "status": "Working Draft",
-        "date": "2025-08-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-did-1.1-20250731/",
-        "status": "Working Draft",
-        "date": "2025-07-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-did-1.1-20250710/",
-        "status": "Working Draft",
-        "date": "2025-07-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-did-1.1-20250531/",
-        "status": "Working Draft",
-        "date": "2025-05-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-did-1.1-20250408/",
-        "status": "Working Draft",
-        "date": "2025-04-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-did-1.1-20250128/",
-        "status": "First Public Working Draft",
-        "date": "2025-01-28"
-      }
-    ],
-    "abstract": "Decentralized identifiers (DIDs) are a new type of identifier that enables verifiable, decentralized digital identity. A DID refers to any subject (e.g., a person, organization, thing, data model, abstract entity, etc.) as determined by the controller of the DID. In contrast to typical, federated identifiers, DIDs have been designed so that they may be decoupled from centralized registries, identity providers, and certificate authorities. Specifically, while other parties might be used to help enable the discovery of information related to a DID, the design enables the controller of a DID to prove control over it without requiring permission from any other party. DIDs are URIs that associate a DID subject with a DID document allowing trustable interactions associated with that subject."
-  },
-  {
     "url": "https://www.w3.org/TR/epub-multi-rend-11/",
     "title": "EPUB 3 Multiple-Rendition Publications 1.1",
     "status": "Note",
@@ -76930,71 +76890,6 @@
       }
     ],
     "abstract": "HTML Accessibility API Mappings (HTML-AAM) defines how user agents map HTML [HTML] elements and attributes to platform accessibility application programming interfaces (APIs). It leverages and extends the Core Accessibility API Mappings 1.2 and the Accessible Name and Description Computation 1.2 for use with the HTML host language. Documenting these mappings promotes interoperable exposure of roles, states, properties, and events implemented by accessibility APIs and helps to ensure that this information appears in a manner consistent with author intent."
-  },
-  {
-    "url": "https://www.w3.org/TR/rdf12-schema/",
-    "title": "RDF 1.2 Schema",
-    "status": "Draft Standard",
-    "date": "2025-09-03",
-    "histUrl": "https://www.w3.org/standards/history/rdf12-schema/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/WD-rdf12-schema-20250903/",
-        "status": "Working Draft",
-        "date": "2025-09-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-rdf12-schema-20250901/",
-        "status": "Working Draft",
-        "date": "2025-09-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-rdf12-schema-20250818/",
-        "status": "Working Draft",
-        "date": "2025-08-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-rdf12-schema-20250811/",
-        "status": "Working Draft",
-        "date": "2025-08-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-rdf12-schema-20250613/",
-        "status": "Working Draft",
-        "date": "2025-06-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-rdf12-schema-20250224/",
-        "status": "Working Draft",
-        "date": "2025-02-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-rdf12-schema-20241219/",
-        "status": "Working Draft",
-        "date": "2024-12-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-rdf12-schema-20240418/",
-        "status": "Working Draft",
-        "date": "2024-04-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-schema-20230928/",
-        "status": "Working Draft",
-        "date": "2023-09-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-schema-20230615/",
-        "status": "Working Draft",
-        "date": "2023-06-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-schema-20230516/",
-        "status": "First Public Working Draft",
-        "date": "2023-05-16"
-      }
-    ],
-    "abstract": "RDF Schema provides a data-modelling vocabulary for RDF data. RDF Schema is an extension of the basic RDF vocabulary."
   },
   {
     "url": "https://www.w3.org/TR/appmanifest/",
@@ -80777,6 +80672,51 @@
     "abstract": "EPUB® 3 defines a distribution and interchange format for digital publications and documents. The EPUB format provides a means of representing, packaging, and encoding structured and semantically enhanced web content — including HTML, CSS, SVG and other resources — for distribution in a single-file container."
   },
   {
+    "url": "https://www.w3.org/TR/did-1.1/",
+    "title": "Decentralized Identifiers (DIDs) v1.1",
+    "status": "Draft Standard",
+    "date": "2025-09-06",
+    "histUrl": "https://www.w3.org/standards/history/did-1.1/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/WD-did-1.1-20250906/",
+        "status": "Working Draft",
+        "date": "2025-09-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-did-1.1-20250828/",
+        "status": "Working Draft",
+        "date": "2025-08-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-did-1.1-20250731/",
+        "status": "Working Draft",
+        "date": "2025-07-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-did-1.1-20250710/",
+        "status": "Working Draft",
+        "date": "2025-07-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-did-1.1-20250531/",
+        "status": "Working Draft",
+        "date": "2025-05-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-did-1.1-20250408/",
+        "status": "Working Draft",
+        "date": "2025-04-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-did-1.1-20250128/",
+        "status": "First Public Working Draft",
+        "date": "2025-01-28"
+      }
+    ],
+    "abstract": "Decentralized identifiers (DIDs) are a new type of identifier that enables verifiable, decentralized digital identity. A DID refers to any subject (e.g., a person, organization, thing, data model, abstract entity, etc.) as determined by the controller of the DID. In contrast to typical, federated identifiers, DIDs have been designed so that they may be decoupled from centralized registries, identity providers, and certificate authorities. Specifically, while other parties might be used to help enable the discovery of information related to a DID, the design enables the controller of a DID to prove control over it without requiring permission from any other party. DIDs are URIs that associate a DID subject with a DID document allowing trustable interactions associated with that subject."
+  },
+  {
     "url": "https://www.w3.org/TR/java-gap/",
     "title": "Javanese Script Gap Analysis",
     "status": "Draft Note",
@@ -80835,5 +80775,75 @@
       }
     ],
     "abstract": "This document describes and prioritises gaps for the support of the Javanese script on the Web and in eBooks. In particular, it is concerned with text layout. It checks that needed features are supported in W3C specifications, such as HTML and CSS and those relating to digital publications. It also checks whether the features have been implemented in browsers and ereaders."
+  },
+  {
+    "url": "https://www.w3.org/TR/rdf12-schema/",
+    "title": "RDF 1.2 Schema",
+    "status": "Draft Standard",
+    "date": "2025-09-06",
+    "histUrl": "https://www.w3.org/standards/history/rdf12-schema/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/WD-rdf12-schema-20250906/",
+        "status": "Working Draft",
+        "date": "2025-09-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-rdf12-schema-20250903/",
+        "status": "Working Draft",
+        "date": "2025-09-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-rdf12-schema-20250901/",
+        "status": "Working Draft",
+        "date": "2025-09-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-rdf12-schema-20250818/",
+        "status": "Working Draft",
+        "date": "2025-08-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-rdf12-schema-20250811/",
+        "status": "Working Draft",
+        "date": "2025-08-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-rdf12-schema-20250613/",
+        "status": "Working Draft",
+        "date": "2025-06-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-rdf12-schema-20250224/",
+        "status": "Working Draft",
+        "date": "2025-02-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-rdf12-schema-20241219/",
+        "status": "Working Draft",
+        "date": "2024-12-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-rdf12-schema-20240418/",
+        "status": "Working Draft",
+        "date": "2024-04-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-schema-20230928/",
+        "status": "Working Draft",
+        "date": "2023-09-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-schema-20230615/",
+        "status": "Working Draft",
+        "date": "2023-06-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-schema-20230516/",
+        "status": "First Public Working Draft",
+        "date": "2023-05-16"
+      }
+    ],
+    "abstract": "RDF Schema provides a data-modelling vocabulary for RDF data. RDF Schema is an extension of the basic RDF vocabulary."
   }
 ]
