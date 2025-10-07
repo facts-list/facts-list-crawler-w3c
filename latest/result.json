@@ -30042,61 +30042,6 @@
     "abstract": "This module contains the features of CSS relating to scrollable overflow handling in visual media. It builds on the CSS Overflow Module Level 3, defining line-clamp, its longhands, and its legacy pre-standard syntax; adding a block-ellipsis property; and expanding overflow-clip-margin with longhands. An appendix also contains a more experimental exploration of redirecting overflow by fragmentation."
   },
   {
-    "url": "https://www.w3.org/TR/css-overflow-3/",
-    "title": "CSS Overflow Module Level 3",
-    "status": "Draft Standard",
-    "date": "2023-03-29",
-    "histUrl": "https://www.w3.org/standards/history/css-overflow-3/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2023/WD-css-overflow-3-20230329/",
-        "status": "Working Draft",
-        "date": "2023-03-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-css-overflow-3-20230321/",
-        "status": "Working Draft",
-        "date": "2023-03-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-css-overflow-3-20221231/",
-        "status": "Working Draft",
-        "date": "2022-12-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-css-overflow-3-20211223/",
-        "status": "Working Draft",
-        "date": "2021-12-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-css-overflow-3-20211202/",
-        "status": "Working Draft",
-        "date": "2021-12-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-css-overflow-3-20200603/",
-        "status": "Working Draft",
-        "date": "2020-06-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-css-overflow-3-20180731/",
-        "status": "Working Draft",
-        "date": "2018-07-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2016/WD-css-overflow-3-20160531/",
-        "status": "Working Draft",
-        "date": "2016-05-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2013/WD-css-overflow-3-20130418/",
-        "status": "Working Draft",
-        "date": "2013-04-18"
-      }
-    ],
-    "abstract": "This module contains the features of CSS relating to scrollable overflow handling in visual media. This level is focused on completing a precise specification for the existing overflow features, including the overflow property and its longhands; and the text-overflow property. A few additional features introduced in support of [CSS-CONTAIN-1] and [CSS-CONTAIN-2] are also defined: overflow: clip and the overflow-clip-margin property."
-  },
-  {
     "url": "https://www.w3.org/TR/css-display-3/",
     "title": "CSS Display Module Level 3",
     "status": "Candidate Standard",
@@ -43147,66 +43092,6 @@
     "abstract": "This module contains the features of CSS relating to the alignment of boxes within their containers in the various CSS box layout models: block layout, table layout, flex layout, and grid layout. (The alignment of text and inline-level content is defined in [CSS-TEXT-3] and [CSS-INLINE-3].)"
   },
   {
-    "url": "https://www.w3.org/TR/css-position-3/",
-    "title": "CSS Positioned Layout Module Level 3",
-    "status": "Draft Standard",
-    "date": "2025-03-11",
-    "histUrl": "https://www.w3.org/standards/history/css-position-3/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/WD-css-position-3-20250311/",
-        "status": "Working Draft",
-        "date": "2025-03-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-css-position-3-20240810/",
-        "status": "Working Draft",
-        "date": "2024-08-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-css-position-3-20230403/",
-        "status": "Working Draft",
-        "date": "2023-04-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-css-position-3-20230217/",
-        "status": "Working Draft",
-        "date": "2023-02-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-css-position-3-20220901/",
-        "status": "Working Draft",
-        "date": "2022-09-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-css-position-3-20211216/",
-        "status": "Working Draft",
-        "date": "2021-12-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-css-position-3-20200519/",
-        "status": "Working Draft",
-        "date": "2020-05-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2016/WD-css-position-3-20160517/",
-        "status": "Working Draft",
-        "date": "2016-05-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2015/WD-css3-positioning-20150203/",
-        "status": "Working Draft",
-        "date": "2015-02-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2012/WD-css3-positioning-20120207/",
-        "status": "Working Draft",
-        "date": "2012-02-07"
-      }
-    ],
-    "abstract": "This module contains defines coordinate-based positioning and offsetting schemes of CSS: relative positioning, sticky positioning, absolute positioning, and fixed positioning."
-  },
-  {
     "url": "https://www.w3.org/TR/epub-overview-33/",
     "title": "EPUB 3 Overview",
     "status": "Note",
@@ -46750,41 +46635,6 @@
       }
     ],
     "abstract": "Web Content Accessibility Guidelines (WCAG) 2.1 covers a wide range of recommendations for making web content more accessible. Following these guidelines will make content more accessible to a wider range of people with disabilities, including accommodations for blindness and low vision, deafness and hearing loss, limited movement, speech disabilities, photosensitivity, and combinations of these, and some accommodation for learning disabilities and cognitive limitations; but will not address every user need for people with these disabilities. These guidelines address accessibility of web content on any kind of device (including desktops, laptops, kiosks, and mobile devices). Following these guidelines will also often make web content more usable to users in general."
-  },
-  {
-    "url": "https://www.w3.org/TR/css-anchor-position-1/",
-    "title": "CSS Anchor Positioning",
-    "status": "Draft Standard",
-    "date": "2025-05-09",
-    "histUrl": "https://www.w3.org/standards/history/css-anchor-position-1/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/WD-css-anchor-position-1-20250509/",
-        "status": "Working Draft",
-        "date": "2025-05-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-css-anchor-position-1-20241004/",
-        "status": "Working Draft",
-        "date": "2024-10-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-css-anchor-position-1-20240326/",
-        "status": "Working Draft",
-        "date": "2024-03-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-css-anchor-position-1-20240314/",
-        "status": "Working Draft",
-        "date": "2024-03-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-css-anchor-position-1-20230629/",
-        "status": "First Public Working Draft",
-        "date": "2023-06-29"
-      }
-    ],
-    "abstract": "This specification defines anchor positioning, where a positioned element can size and position itself relative to one or more “anchor elements” elsewhere on the page."
   },
   {
     "url": "https://www.w3.org/TR/dapt-reqs/",
@@ -59492,21 +59342,6 @@
     "abstract": "This specification module describes support for accessing button, trigger, thumbstick, and touchpad data associated with virtual reality (VR) and augmented reality (AR) devices on the Web."
   },
   {
-    "url": "https://www.w3.org/TR/css-position-4/",
-    "title": "CSS Positioned Layout Module Level 4",
-    "status": "Draft Standard",
-    "date": "2025-07-08",
-    "histUrl": "https://www.w3.org/standards/history/css-position-4/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/WD-css-position-4-20250708/",
-        "status": "First Public Working Draft",
-        "date": "2025-07-08"
-      }
-    ],
-    "abstract": "This module contains defines coordinate-based positioning and offsetting schemes of CSS: relative positioning, sticky positioning, absolute positioning, and fixed positioning."
-  },
-  {
     "url": "https://www.w3.org/TR/webcodecs/",
     "title": "WebCodecs",
     "status": "Draft Standard",
@@ -62290,186 +62125,6 @@
       }
     ],
     "abstract": "This specification defines the authoring rules (author conformance requirements) for the use of Accessible Rich Internet Applications (WAI-ARIA) 1.2 and Digital Publishing WAI-ARIA Module 1.0 attributes on [HTML] elements. This specification's primary objective is to define requirements for use with conformance checking tools used by authors (i.e., web developers). These requirements will aid authors in their development of web content, including custom interfaces and widgets, which make use of ARIA to complement or extend the features of the host language [HTML]."
-  },
-  {
-    "url": "https://www.w3.org/TR/permissions-policy-1/",
-    "title": "Permissions Policy",
-    "status": "Draft Standard",
-    "date": "2025-08-06",
-    "histUrl": "https://www.w3.org/standards/history/permissions-policy-1/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/WD-permissions-policy-1-20250806/",
-        "status": "Working Draft",
-        "date": "2025-08-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-permissions-policy-1-20250718/",
-        "status": "Working Draft",
-        "date": "2025-07-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-permissions-policy-1-20250506/",
-        "status": "Working Draft",
-        "date": "2025-05-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-permissions-policy-1-20250210/",
-        "status": "Working Draft",
-        "date": "2025-02-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-permissions-policy-1-20250113/",
-        "status": "Working Draft",
-        "date": "2025-01-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-permissions-policy-1-20240925/",
-        "status": "Working Draft",
-        "date": "2024-09-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-permissions-policy-1-20240922/",
-        "status": "Working Draft",
-        "date": "2024-09-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-permissions-policy-1-20240921/",
-        "status": "Working Draft",
-        "date": "2024-09-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-permissions-policy-1-20240724/",
-        "status": "Working Draft",
-        "date": "2024-07-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-permissions-policy-1-20240723/",
-        "status": "Working Draft",
-        "date": "2024-07-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-permissions-policy-1-20240628/",
-        "status": "Working Draft",
-        "date": "2024-06-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-permissions-policy-1-20240627/",
-        "status": "Working Draft",
-        "date": "2024-06-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-permissions-policy-1-20240626/",
-        "status": "Working Draft",
-        "date": "2024-06-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-permissions-policy-1-20240619/",
-        "status": "Working Draft",
-        "date": "2024-06-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20231218/",
-        "status": "Working Draft",
-        "date": "2023-12-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20231017/",
-        "status": "Working Draft",
-        "date": "2023-10-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20231016/",
-        "status": "Working Draft",
-        "date": "2023-10-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20231013/",
-        "status": "Working Draft",
-        "date": "2023-10-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230912/",
-        "status": "Working Draft",
-        "date": "2023-09-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230911/",
-        "status": "Working Draft",
-        "date": "2023-09-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230717/",
-        "status": "Working Draft",
-        "date": "2023-07-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230705/",
-        "status": "Working Draft",
-        "date": "2023-07-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230630/",
-        "status": "Working Draft",
-        "date": "2023-06-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230607/",
-        "status": "Working Draft",
-        "date": "2023-06-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230322/",
-        "status": "Working Draft",
-        "date": "2023-03-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230222/",
-        "status": "Working Draft",
-        "date": "2023-02-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230217/",
-        "status": "Working Draft",
-        "date": "2023-02-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230123/",
-        "status": "Working Draft",
-        "date": "2023-01-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230111/",
-        "status": "Working Draft",
-        "date": "2023-01-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230110/",
-        "status": "Working Draft",
-        "date": "2023-01-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230109/",
-        "status": "Working Draft",
-        "date": "2023-01-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-permissions-policy-1-20221207/",
-        "status": "Working Draft",
-        "date": "2022-12-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-permissions-policy-1-20200716/",
-        "status": "Working Draft",
-        "date": "2020-07-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-feature-policy-1-20190416/",
-        "status": "First Public Working Draft",
-        "date": "2019-04-16"
-      }
-    ],
-    "abstract": "This specification defines a mechanism that allows developers to selectively enable and disable use of various browser features and APIs."
   },
   {
     "url": "https://www.w3.org/TR/pronunciation-gap-analysis/",
@@ -68227,126 +67882,6 @@
     "abstract": "Decentralized identifiers (DIDs) are a new type of identifier that enables verifiable, decentralized digital identity. A DID refers to any subject (e.g., a person, organization, thing, data model, abstract entity, etc.) as determined by the controller of the DID. In contrast to typical, federated identifiers, DIDs have been designed so that they may be decoupled from centralized registries, identity providers, and certificate authorities. Specifically, while other parties might be used to help enable the discovery of information related to a DID, the design enables the controller of a DID to prove control over it without requiring permission from any other party. DIDs are URIs that associate a DID subject with a DID document allowing trustable interactions associated with that subject."
   },
   {
-    "url": "https://www.w3.org/TR/design-principles/",
-    "title": "Web Platform Design Principles",
-    "status": "Note",
-    "date": "2025-09-18",
-    "histUrl": "https://www.w3.org/standards/history/design-principles/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/NOTE-design-principles-20250918/",
-        "status": "Note",
-        "date": "2025-09-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/NOTE-design-principles-20250702/",
-        "status": "Note",
-        "date": "2025-07-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/NOTE-design-principles-20250626/",
-        "status": "Note",
-        "date": "2025-06-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/NOTE-design-principles-20250603/",
-        "status": "Note",
-        "date": "2025-06-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/NOTE-design-principles-20250522/",
-        "status": "Note",
-        "date": "2025-05-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/NOTE-design-principles-20250519/",
-        "status": "Note",
-        "date": "2025-05-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/NOTE-design-principles-20250516/",
-        "status": "Note",
-        "date": "2025-05-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/NOTE-design-principles-20250430/",
-        "status": "Note",
-        "date": "2025-04-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/NOTE-design-principles-20250325/",
-        "status": "Note",
-        "date": "2025-03-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/NOTE-design-principles-20250306/",
-        "status": "Note",
-        "date": "2025-03-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/NOTE-design-principles-20250304/",
-        "status": "Note",
-        "date": "2025-03-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/NOTE-design-principles-20250226/",
-        "status": "Note",
-        "date": "2025-02-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/NOTE-design-principles-20250106/",
-        "status": "Note",
-        "date": "2025-01-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/NOTE-design-principles-20240718/",
-        "status": "Note",
-        "date": "2024-07-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/NOTE-design-principles-20240130/",
-        "status": "Note",
-        "date": "2024-01-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-design-principles-20230907/",
-        "status": "Note",
-        "date": "2023-09-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-design-principles-20230426/",
-        "status": "Note",
-        "date": "2023-04-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-design-principles-20230224/",
-        "status": "Note",
-        "date": "2023-02-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-design-principles-20220824/",
-        "status": "Note",
-        "date": "2022-08-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-design-principles-20211216/",
-        "status": "Note",
-        "date": "2021-12-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-design-principles-20210923/",
-        "status": "Note",
-        "date": "2021-09-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/NOTE-design-principles-20201110/",
-        "status": "Note",
-        "date": "2020-11-10"
-      }
-    ],
-    "abstract": "This document contains a set of design principles to be used when designing web platform technologies. These principles have been collected during the Technical Architecture Group’s discussions in reviewing developing specifications, and build upon the Ethical Web Principles [ETHICAL-WEB]. We encourage specification designers to read this document and use it as a resource when making design decisions."
-  },
-  {
     "url": "https://www.w3.org/TR/webrtc-encoded-transform/",
     "title": "WebRTC Encoded Transform",
     "status": "Draft Standard",
@@ -68770,211 +68305,6 @@
       }
     ],
     "abstract": "This specification defines the concept of environment variables and the env() function, which work similarly to custom properties and the var() function, but are defined globally for a document. These can be defined either by the user agent, providing values that can be used on the page based on information the UA has special access to, or provided by the author for \"global\" variables that are guaranteed to be the same no matter where in the document they’re used."
-  },
-  {
-    "url": "https://www.w3.org/TR/geolocation/",
-    "title": "Geolocation",
-    "status": "Standard",
-    "date": "2025-09-23",
-    "histUrl": "https://www.w3.org/standards/history/geolocation/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/REC-geolocation-20250923/",
-        "status": "Recommendation",
-        "date": "2025-09-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/REC-geolocation-20250818/",
-        "status": "Recommendation",
-        "date": "2025-08-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/REC-geolocation-20250711/",
-        "status": "Recommendation",
-        "date": "2025-07-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/REC-geolocation-20250411/",
-        "status": "Recommendation",
-        "date": "2025-04-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/REC-geolocation-20240916/",
-        "status": "Recommendation",
-        "date": "2024-09-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/REC-geolocation-20240815/",
-        "status": "Recommendation",
-        "date": "2024-08-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/REC-geolocation-20240814/",
-        "status": "Recommendation",
-        "date": "2024-08-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/REC-geolocation-20240809/",
-        "status": "Recommendation",
-        "date": "2024-08-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/REC-geolocation-20240702/",
-        "status": "Recommendation",
-        "date": "2024-07-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/REC-geolocation-20240619/",
-        "status": "Recommendation",
-        "date": "2024-06-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/REC-geolocation-20240615/",
-        "status": "Recommendation",
-        "date": "2024-06-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/REC-geolocation-20240614/",
-        "status": "Recommendation",
-        "date": "2024-06-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/REC-geolocation-20240613/",
-        "status": "Recommendation",
-        "date": "2024-06-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/REC-geolocation-20220901/",
-        "status": "Recommendation",
-        "date": "2022-09-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/PR-geolocation-20220407/",
-        "status": "Proposed Recommendation",
-        "date": "2022-04-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/CRD-geolocation-20220318/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2022-03-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/CRD-geolocation-20220314/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2022-03-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/CRD-geolocation-20220307/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2022-03-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/CRD-geolocation-20220221/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2022-02-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/CR-geolocation-20220217/",
-        "status": "Candidate Recommendation Snapshot",
-        "date": "2022-02-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-geolocation-20220210/",
-        "status": "Working Draft",
-        "date": "2022-02-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-geolocation-20220129/",
-        "status": "Working Draft",
-        "date": "2022-01-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-geolocation-20211124/",
-        "status": "Working Draft",
-        "date": "2021-11-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-geolocation-20211123/",
-        "status": "Working Draft",
-        "date": "2021-11-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-geolocation-20211103/",
-        "status": "Working Draft",
-        "date": "2021-11-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-geolocation-20211012/",
-        "status": "Working Draft",
-        "date": "2021-10-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210930/",
-        "status": "Working Draft",
-        "date": "2021-09-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210812/",
-        "status": "Working Draft",
-        "date": "2021-08-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210730/",
-        "status": "Working Draft",
-        "date": "2021-07-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210727/",
-        "status": "Working Draft",
-        "date": "2021-07-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210726/",
-        "status": "Working Draft",
-        "date": "2021-07-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210715/",
-        "status": "Working Draft",
-        "date": "2021-07-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210708/",
-        "status": "Working Draft",
-        "date": "2021-07-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210615/",
-        "status": "Working Draft",
-        "date": "2021-06-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210610/",
-        "status": "Working Draft",
-        "date": "2021-06-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210607/",
-        "status": "Working Draft",
-        "date": "2021-06-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210601/",
-        "status": "Working Draft",
-        "date": "2021-06-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210531/",
-        "status": "Working Draft",
-        "date": "2021-05-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210527/",
-        "status": "First Public Working Draft",
-        "date": "2021-05-27"
-      }
-    ],
-    "abstract": "Geolocation provides access to geographical location information associated with the hosting device."
   },
   {
     "url": "https://www.w3.org/TR/vc-overview/",
@@ -75647,56 +74977,6 @@
     "abstract": "This specification defines an API that provides scripted access to raw mouse movement data while locking the target of mouse events to a single element and removing the cursor from view. This is an essential input mode for certain classes of applications, especially first person perspective 3D applications and 3D modeling software."
   },
   {
-    "url": "https://www.w3.org/TR/badging/",
-    "title": "Badging API",
-    "status": "Draft Standard",
-    "date": "2025-09-30",
-    "histUrl": "https://www.w3.org/standards/history/badging/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/WD-badging-20250930/",
-        "status": "Working Draft",
-        "date": "2025-09-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-badging-20250925/",
-        "status": "Working Draft",
-        "date": "2025-09-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-badging-20250922/",
-        "status": "Working Draft",
-        "date": "2025-09-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-badging-20250910/",
-        "status": "Working Draft",
-        "date": "2025-09-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-badging-20250903/",
-        "status": "Working Draft",
-        "date": "2025-09-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-badging-20230503/",
-        "status": "Working Draft",
-        "date": "2023-05-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-badging-20230411/",
-        "status": "Working Draft",
-        "date": "2023-04-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-badging-20230406/",
-        "status": "First Public Working Draft",
-        "date": "2023-04-06"
-      }
-    ],
-    "abstract": "This specification defines an API that allows installed web applications to set an application badge, which is usually shown alongside the application's icon on the device's home screen or application dock."
-  },
-  {
     "url": "https://www.w3.org/TR/css-images-4/",
     "title": "CSS Images Module Level 4",
     "status": "Draft Standard",
@@ -77107,111 +76387,6 @@
     "abstract": "This document describes a dedicated low-level API for neural network inference hardware acceleration."
   },
   {
-    "url": "https://www.w3.org/TR/digital-credentials/",
-    "title": "Digital Credentials",
-    "status": "Draft Standard",
-    "date": "2025-10-01",
-    "histUrl": "https://www.w3.org/standards/history/digital-credentials/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/WD-digital-credentials-20251001/",
-        "status": "Working Draft",
-        "date": "2025-10-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-digital-credentials-20250923/",
-        "status": "Working Draft",
-        "date": "2025-09-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-digital-credentials-20250917/",
-        "status": "Working Draft",
-        "date": "2025-09-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-digital-credentials-20250916/",
-        "status": "Working Draft",
-        "date": "2025-09-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-digital-credentials-20250904/",
-        "status": "Working Draft",
-        "date": "2025-09-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-digital-credentials-20250903/",
-        "status": "Working Draft",
-        "date": "2025-09-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-digital-credentials-20250827/",
-        "status": "Working Draft",
-        "date": "2025-08-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-digital-credentials-20250826/",
-        "status": "Working Draft",
-        "date": "2025-08-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-digital-credentials-20250822/",
-        "status": "Working Draft",
-        "date": "2025-08-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-digital-credentials-20250820/",
-        "status": "Working Draft",
-        "date": "2025-08-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-digital-credentials-20250819/",
-        "status": "Working Draft",
-        "date": "2025-08-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-digital-credentials-20250812/",
-        "status": "Working Draft",
-        "date": "2025-08-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-digital-credentials-20250811/",
-        "status": "Working Draft",
-        "date": "2025-08-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-digital-credentials-20250806/",
-        "status": "Working Draft",
-        "date": "2025-08-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-digital-credentials-20250805/",
-        "status": "Working Draft",
-        "date": "2025-08-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-digital-credentials-20250803/",
-        "status": "Working Draft",
-        "date": "2025-08-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-digital-credentials-20250727/",
-        "status": "Working Draft",
-        "date": "2025-07-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-digital-credentials-20250710/",
-        "status": "Working Draft",
-        "date": "2025-07-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-digital-credentials-20250701/",
-        "status": "First Public Working Draft",
-        "date": "2025-07-01"
-      }
-    ],
-    "abstract": "This document specifies an API to enable user agents to mediate presentation and issuance of digital credentials such as a driver's license, government-issued identification card, and/or other types of digital credential. The API builds on Credential Management Level 1 as a means by which to request or issue a digital credential from a user agent or underlying platform."
-  },
-  {
     "url": "https://www.w3.org/TR/webxr/",
     "title": "WebXR Device API",
     "status": "Candidate Standard",
@@ -78272,21 +77447,6 @@
     "abstract": "This document describes a precise semantics for RDF 1.2 Concepts and Abstract Data Model [RDF12-CONCEPTS] and RDF 1.2 Schema [RDF12-SCHEMA]. It defines a number of distinct entailment regimes and corresponding patterns of entailment. It is part of a suite of documents which comprise the full specification of RDF 1.2."
   },
   {
-    "url": "https://www.w3.org/TR/web-sustainability-guidelines/",
-    "title": "Web Sustainability Guidelines (WSG)",
-    "status": "Draft Note",
-    "date": "2025-10-02",
-    "histUrl": "https://www.w3.org/standards/history/web-sustainability-guidelines/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/DNOTE-web-sustainability-guidelines-20251002/",
-        "status": "Draft Note",
-        "date": "2025-10-02"
-      }
-    ],
-    "abstract": "The Web Sustainability Guidelines (WSG) cover a wide range of recommendations to make web products and services more sustainable. These guidelines use planetary, people, and prosperity principles (the PPP approach) throughout the decision-making process, allowing users to minimize their environmental impact in various ways. These include user-centered design, performant web development, carbon-free infrastructure, sustainable business strategy, and, supported by measurability data, various combinations thereof. It should be noted that these guidelines will not address every possible mechanism or strategy to become more sustainable. These guidelines, which are notably web-focused, should be seen as the starting point of a sustainability journey that may ultimately cover other areas beyond the current scope, for example manufacturing or shipping of physical products. Following these guidelines will often make web content and services more accessible, usable, performant, and secure as a by-product."
-  },
-  {
     "url": "https://www.w3.org/TR/webdriver-bidi/",
     "title": "WebDriver BiDi",
     "status": "Draft Standard",
@@ -78677,12 +77837,592 @@
     "abstract": "This document defines the BiDirectional WebDriver Protocol, a mechanism for remote control of user agents."
   },
   {
+    "url": "https://www.w3.org/TR/rdf12-schema/",
+    "title": "RDF 1.2 Schema",
+    "status": "Draft Standard",
+    "date": "2025-10-03",
+    "histUrl": "https://www.w3.org/standards/history/rdf12-schema/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/WD-rdf12-schema-20251003/",
+        "status": "Working Draft",
+        "date": "2025-10-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-rdf12-schema-20250906/",
+        "status": "Working Draft",
+        "date": "2025-09-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-rdf12-schema-20250903/",
+        "status": "Working Draft",
+        "date": "2025-09-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-rdf12-schema-20250901/",
+        "status": "Working Draft",
+        "date": "2025-09-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-rdf12-schema-20250818/",
+        "status": "Working Draft",
+        "date": "2025-08-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-rdf12-schema-20250811/",
+        "status": "Working Draft",
+        "date": "2025-08-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-rdf12-schema-20250613/",
+        "status": "Working Draft",
+        "date": "2025-06-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-rdf12-schema-20250224/",
+        "status": "Working Draft",
+        "date": "2025-02-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-rdf12-schema-20241219/",
+        "status": "Working Draft",
+        "date": "2024-12-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-rdf12-schema-20240418/",
+        "status": "Working Draft",
+        "date": "2024-04-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-schema-20230928/",
+        "status": "Working Draft",
+        "date": "2023-09-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-schema-20230615/",
+        "status": "Working Draft",
+        "date": "2023-06-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-rdf12-schema-20230516/",
+        "status": "First Public Working Draft",
+        "date": "2023-05-16"
+      }
+    ],
+    "abstract": "RDF Schema provides a data-modelling vocabulary for RDF data. RDF Schema is an extension of the basic RDF vocabulary."
+  },
+  {
+    "url": "https://www.w3.org/TR/epub-overview-34/",
+    "title": "EPUB 3 Overview",
+    "status": "Note",
+    "date": "2025-10-04",
+    "histUrl": "https://www.w3.org/standards/history/epub-overview-34/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/NOTE-epub-overview-34-20251004/",
+        "status": "Note",
+        "date": "2025-10-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/NOTE-epub-overview-34-20250819/",
+        "status": "Note",
+        "date": "2025-08-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/NOTE-epub-overview-34-20250818/",
+        "status": "Note",
+        "date": "2025-08-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/NOTE-epub-overview-34-20250714/",
+        "status": "Note",
+        "date": "2025-07-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/NOTE-epub-overview-34-20250627/",
+        "status": "Note",
+        "date": "2025-06-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/NOTE-epub-overview-34-20250417/",
+        "status": "Note",
+        "date": "2025-04-17"
+      }
+    ],
+    "abstract": "EPUB® 3 defines a distribution and interchange format for digital publications and documents. The EPUB format provides a means of representing, packaging, and encoding structured and semantically enhanced web content — including HTML, CSS, SVG, and other resources — for distribution in a single-file container."
+  },
+  {
+    "url": "https://www.w3.org/TR/epub-34/",
+    "title": "EPUB 3.4",
+    "status": "Draft Standard",
+    "date": "2025-10-04",
+    "histUrl": "https://www.w3.org/standards/history/epub-34/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/WD-epub-34-20251004/",
+        "status": "Working Draft",
+        "date": "2025-10-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-epub-34-20250905/",
+        "status": "Working Draft",
+        "date": "2025-09-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-epub-34-20250903/",
+        "status": "Working Draft",
+        "date": "2025-09-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-epub-34-20250828/",
+        "status": "Working Draft",
+        "date": "2025-08-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-epub-34-20250819/",
+        "status": "Working Draft",
+        "date": "2025-08-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-epub-34-20250818/",
+        "status": "Working Draft",
+        "date": "2025-08-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-epub-34-20250714/",
+        "status": "Working Draft",
+        "date": "2025-07-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-epub-34-20250628/",
+        "status": "Working Draft",
+        "date": "2025-06-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-epub-34-20250627/",
+        "status": "Working Draft",
+        "date": "2025-06-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-epub-34-20250626/",
+        "status": "Working Draft",
+        "date": "2025-06-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-epub-34-20250625/",
+        "status": "Working Draft",
+        "date": "2025-06-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-epub-34-20250609/",
+        "status": "Working Draft",
+        "date": "2025-06-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-epub-34-20250603/",
+        "status": "Working Draft",
+        "date": "2025-06-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-epub-34-20250522/",
+        "status": "Working Draft",
+        "date": "2025-05-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-epub-34-20250514/",
+        "status": "Working Draft",
+        "date": "2025-05-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-epub-34-20250502/",
+        "status": "Working Draft",
+        "date": "2025-05-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-epub-34-20250425/",
+        "status": "Working Draft",
+        "date": "2025-04-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-epub-34-20250424/",
+        "status": "Working Draft",
+        "date": "2025-04-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-epub-34-20250417/",
+        "status": "Working Draft",
+        "date": "2025-04-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-epub-34-20250327/",
+        "status": "First Public Working Draft",
+        "date": "2025-03-27"
+      }
+    ],
+    "abstract": "EPUB® 3 defines a distribution and interchange format for digital publications and documents. The EPUB format provides a means of representing, packaging, and encoding structured and semantically enhanced web content — including HTML, CSS, SVG, and other resources — for distribution in a single-file container."
+  },
+  {
+    "url": "https://www.w3.org/TR/epub-rs-34/",
+    "title": "EPUB Reading Systems 3.4",
+    "status": "Draft Standard",
+    "date": "2025-10-04",
+    "histUrl": "https://www.w3.org/standards/history/epub-rs-34/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/WD-epub-rs-34-20251004/",
+        "status": "Working Draft",
+        "date": "2025-10-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-epub-rs-34-20250905/",
+        "status": "Working Draft",
+        "date": "2025-09-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-epub-rs-34-20250828/",
+        "status": "Working Draft",
+        "date": "2025-08-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-epub-rs-34-20250819/",
+        "status": "Working Draft",
+        "date": "2025-08-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-epub-rs-34-20250818/",
+        "status": "Working Draft",
+        "date": "2025-08-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-epub-rs-34-20250626/",
+        "status": "Working Draft",
+        "date": "2025-06-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-epub-rs-34-20250625/",
+        "status": "Working Draft",
+        "date": "2025-06-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-epub-rs-34-20250609/",
+        "status": "Working Draft",
+        "date": "2025-06-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-epub-rs-34-20250603/",
+        "status": "Working Draft",
+        "date": "2025-06-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-epub-rs-34-20250522/",
+        "status": "Working Draft",
+        "date": "2025-05-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-epub-rs-34-20250514/",
+        "status": "Working Draft",
+        "date": "2025-05-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-epub-rs-34-20250502/",
+        "status": "Working Draft",
+        "date": "2025-05-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-epub-rs-34-20250424/",
+        "status": "Working Draft",
+        "date": "2025-04-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-epub-rs-34-20250417/",
+        "status": "Working Draft",
+        "date": "2025-04-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-epub-rs-34-20250327/",
+        "status": "First Public Working Draft",
+        "date": "2025-03-27"
+      }
+    ],
+    "abstract": "EPUB® 3 defines a distribution and interchange format for digital publications and documents. The EPUB format provides a means of representing, packaging, and encoding structured and semantically enhanced web content — including HTML, CSS, SVG and other resources — for distribution in a single-file container."
+  },
+  {
+    "url": "https://www.w3.org/TR/badging/",
+    "title": "Badging API",
+    "status": "Draft Standard",
+    "date": "2025-10-06",
+    "histUrl": "https://www.w3.org/standards/history/badging/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/WD-badging-20251006/",
+        "status": "Working Draft",
+        "date": "2025-10-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-badging-20250930/",
+        "status": "Working Draft",
+        "date": "2025-09-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-badging-20250925/",
+        "status": "Working Draft",
+        "date": "2025-09-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-badging-20250922/",
+        "status": "Working Draft",
+        "date": "2025-09-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-badging-20250910/",
+        "status": "Working Draft",
+        "date": "2025-09-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-badging-20250903/",
+        "status": "Working Draft",
+        "date": "2025-09-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-badging-20230503/",
+        "status": "Working Draft",
+        "date": "2023-05-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-badging-20230411/",
+        "status": "Working Draft",
+        "date": "2023-04-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-badging-20230406/",
+        "status": "First Public Working Draft",
+        "date": "2023-04-06"
+      }
+    ],
+    "abstract": "This specification defines an API that allows installed web applications to set an application badge, which is usually shown alongside the application's icon on the device's home screen or application dock."
+  },
+  {
+    "url": "https://www.w3.org/TR/digital-credentials/",
+    "title": "Digital Credentials",
+    "status": "Draft Standard",
+    "date": "2025-10-06",
+    "histUrl": "https://www.w3.org/standards/history/digital-credentials/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/WD-digital-credentials-20251006/",
+        "status": "Working Draft",
+        "date": "2025-10-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-digital-credentials-20251001/",
+        "status": "Working Draft",
+        "date": "2025-10-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-digital-credentials-20250923/",
+        "status": "Working Draft",
+        "date": "2025-09-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-digital-credentials-20250917/",
+        "status": "Working Draft",
+        "date": "2025-09-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-digital-credentials-20250916/",
+        "status": "Working Draft",
+        "date": "2025-09-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-digital-credentials-20250904/",
+        "status": "Working Draft",
+        "date": "2025-09-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-digital-credentials-20250903/",
+        "status": "Working Draft",
+        "date": "2025-09-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-digital-credentials-20250827/",
+        "status": "Working Draft",
+        "date": "2025-08-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-digital-credentials-20250826/",
+        "status": "Working Draft",
+        "date": "2025-08-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-digital-credentials-20250822/",
+        "status": "Working Draft",
+        "date": "2025-08-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-digital-credentials-20250820/",
+        "status": "Working Draft",
+        "date": "2025-08-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-digital-credentials-20250819/",
+        "status": "Working Draft",
+        "date": "2025-08-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-digital-credentials-20250812/",
+        "status": "Working Draft",
+        "date": "2025-08-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-digital-credentials-20250811/",
+        "status": "Working Draft",
+        "date": "2025-08-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-digital-credentials-20250806/",
+        "status": "Working Draft",
+        "date": "2025-08-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-digital-credentials-20250805/",
+        "status": "Working Draft",
+        "date": "2025-08-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-digital-credentials-20250803/",
+        "status": "Working Draft",
+        "date": "2025-08-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-digital-credentials-20250727/",
+        "status": "Working Draft",
+        "date": "2025-07-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-digital-credentials-20250710/",
+        "status": "Working Draft",
+        "date": "2025-07-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-digital-credentials-20250701/",
+        "status": "First Public Working Draft",
+        "date": "2025-07-01"
+      }
+    ],
+    "abstract": "This document specifies an API to enable user agents to mediate presentation and issuance of digital credentials such as a driver's license, government-issued identification card, and/or other types of digital credential. The API builds on Credential Management Level 1 as a means by which to request or issue a digital credential from a user agent or underlying platform."
+  },
+  {
+    "url": "https://www.w3.org/TR/mathml4/",
+    "title": "Mathematical Markup Language (MathML) Version 4.0",
+    "status": "Draft Standard",
+    "date": "2025-10-06",
+    "histUrl": "https://www.w3.org/standards/history/mathml4/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/WD-mathml4-20251006/",
+        "status": "Working Draft",
+        "date": "2025-10-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-mathml4-20251005/",
+        "status": "Working Draft",
+        "date": "2025-10-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-mathml4-20250919/",
+        "status": "Working Draft",
+        "date": "2025-09-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-mathml4-20250918/",
+        "status": "Working Draft",
+        "date": "2025-09-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-mathml4-20250606/",
+        "status": "Working Draft",
+        "date": "2025-06-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-mathml4-20250402/",
+        "status": "Working Draft",
+        "date": "2025-04-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-mathml4-20250328/",
+        "status": "Working Draft",
+        "date": "2025-03-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-mathml4-20250326/",
+        "status": "Working Draft",
+        "date": "2025-03-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-mathml4-20250320/",
+        "status": "Working Draft",
+        "date": "2025-03-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-mathml4-20250315/",
+        "status": "Working Draft",
+        "date": "2025-03-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-mathml4-20241119/",
+        "status": "Working Draft",
+        "date": "2024-11-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-mathml4-20241115/",
+        "status": "Working Draft",
+        "date": "2024-11-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-mathml4-20241114/",
+        "status": "Working Draft",
+        "date": "2024-11-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-mathml4-20241108/",
+        "status": "Working Draft",
+        "date": "2024-11-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-mathml4-20241107/",
+        "status": "Working Draft",
+        "date": "2024-11-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-mathml4-20241101/",
+        "status": "Working Draft",
+        "date": "2024-11-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-mathml4-20241028/",
+        "status": "Working Draft",
+        "date": "2024-10-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-mathml4-20220908/",
+        "status": "First Public Working Draft",
+        "date": "2022-09-08"
+      }
+    ],
+    "abstract": "This specification defines the Mathematical Markup Language, or MathML. MathML is a markup language for describing mathematical notation and capturing both its structure and content. The goal of MathML is to enable mathematics to be served, received, and processed on the World Wide Web, just as [HTML] has enabled this functionality for text."
+  },
+  {
     "url": "https://www.w3.org/TR/permissions/",
     "title": "Permissions",
     "status": "Draft Standard",
-    "date": "2025-10-03",
+    "date": "2025-10-06",
     "histUrl": "https://www.w3.org/standards/history/permissions/",
     "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/WD-permissions-20251006/",
+        "status": "Working Draft",
+        "date": "2025-10-06"
+      },
       {
         "url": "https://www.w3.org/TR/2025/WD-permissions-20251003/",
         "status": "Working Draft",
@@ -78992,87 +78732,222 @@
     "abstract": "This specification defines common infrastructure that other specifications can use to interact with browser permissions. These permissions represent a user's choice to allow or deny access to \"powerful features\" of the platform. For developers, the specification standardizes an API to query the permission state of a powerful feature, and be notified if a permission to use a powerful feature changes state."
   },
   {
-    "url": "https://www.w3.org/TR/rdf12-schema/",
-    "title": "RDF 1.2 Schema",
+    "url": "https://www.w3.org/TR/permissions-policy-1/",
+    "title": "Permissions Policy",
     "status": "Draft Standard",
-    "date": "2025-10-03",
-    "histUrl": "https://www.w3.org/standards/history/rdf12-schema/",
+    "date": "2025-10-06",
+    "histUrl": "https://www.w3.org/standards/history/permissions-policy-1/",
     "history": [
       {
-        "url": "https://www.w3.org/TR/2025/WD-rdf12-schema-20251003/",
+        "url": "https://www.w3.org/TR/2025/WD-permissions-policy-1-20251006/",
         "status": "Working Draft",
-        "date": "2025-10-03"
+        "date": "2025-10-06"
       },
       {
-        "url": "https://www.w3.org/TR/2025/WD-rdf12-schema-20250906/",
+        "url": "https://www.w3.org/TR/2025/WD-permissions-policy-1-20250806/",
         "status": "Working Draft",
-        "date": "2025-09-06"
+        "date": "2025-08-06"
       },
       {
-        "url": "https://www.w3.org/TR/2025/WD-rdf12-schema-20250903/",
+        "url": "https://www.w3.org/TR/2025/WD-permissions-policy-1-20250718/",
         "status": "Working Draft",
-        "date": "2025-09-03"
+        "date": "2025-07-18"
       },
       {
-        "url": "https://www.w3.org/TR/2025/WD-rdf12-schema-20250901/",
+        "url": "https://www.w3.org/TR/2025/WD-permissions-policy-1-20250506/",
         "status": "Working Draft",
-        "date": "2025-09-01"
+        "date": "2025-05-06"
       },
       {
-        "url": "https://www.w3.org/TR/2025/WD-rdf12-schema-20250818/",
+        "url": "https://www.w3.org/TR/2025/WD-permissions-policy-1-20250210/",
         "status": "Working Draft",
-        "date": "2025-08-18"
+        "date": "2025-02-10"
       },
       {
-        "url": "https://www.w3.org/TR/2025/WD-rdf12-schema-20250811/",
+        "url": "https://www.w3.org/TR/2025/WD-permissions-policy-1-20250113/",
         "status": "Working Draft",
-        "date": "2025-08-11"
+        "date": "2025-01-13"
       },
       {
-        "url": "https://www.w3.org/TR/2025/WD-rdf12-schema-20250613/",
+        "url": "https://www.w3.org/TR/2024/WD-permissions-policy-1-20240925/",
         "status": "Working Draft",
-        "date": "2025-06-13"
+        "date": "2024-09-25"
       },
       {
-        "url": "https://www.w3.org/TR/2025/WD-rdf12-schema-20250224/",
+        "url": "https://www.w3.org/TR/2024/WD-permissions-policy-1-20240922/",
         "status": "Working Draft",
-        "date": "2025-02-24"
+        "date": "2024-09-22"
       },
       {
-        "url": "https://www.w3.org/TR/2024/WD-rdf12-schema-20241219/",
+        "url": "https://www.w3.org/TR/2024/WD-permissions-policy-1-20240921/",
         "status": "Working Draft",
-        "date": "2024-12-19"
+        "date": "2024-09-21"
       },
       {
-        "url": "https://www.w3.org/TR/2024/WD-rdf12-schema-20240418/",
+        "url": "https://www.w3.org/TR/2024/WD-permissions-policy-1-20240724/",
         "status": "Working Draft",
-        "date": "2024-04-18"
+        "date": "2024-07-24"
       },
       {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-schema-20230928/",
+        "url": "https://www.w3.org/TR/2024/WD-permissions-policy-1-20240723/",
         "status": "Working Draft",
-        "date": "2023-09-28"
+        "date": "2024-07-23"
       },
       {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-schema-20230615/",
+        "url": "https://www.w3.org/TR/2024/WD-permissions-policy-1-20240628/",
         "status": "Working Draft",
-        "date": "2023-06-15"
+        "date": "2024-06-28"
       },
       {
-        "url": "https://www.w3.org/TR/2023/WD-rdf12-schema-20230516/",
+        "url": "https://www.w3.org/TR/2024/WD-permissions-policy-1-20240627/",
+        "status": "Working Draft",
+        "date": "2024-06-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-permissions-policy-1-20240626/",
+        "status": "Working Draft",
+        "date": "2024-06-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-permissions-policy-1-20240619/",
+        "status": "Working Draft",
+        "date": "2024-06-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20231218/",
+        "status": "Working Draft",
+        "date": "2023-12-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20231017/",
+        "status": "Working Draft",
+        "date": "2023-10-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20231016/",
+        "status": "Working Draft",
+        "date": "2023-10-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20231013/",
+        "status": "Working Draft",
+        "date": "2023-10-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230912/",
+        "status": "Working Draft",
+        "date": "2023-09-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230911/",
+        "status": "Working Draft",
+        "date": "2023-09-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230717/",
+        "status": "Working Draft",
+        "date": "2023-07-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230705/",
+        "status": "Working Draft",
+        "date": "2023-07-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230630/",
+        "status": "Working Draft",
+        "date": "2023-06-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230607/",
+        "status": "Working Draft",
+        "date": "2023-06-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230322/",
+        "status": "Working Draft",
+        "date": "2023-03-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230222/",
+        "status": "Working Draft",
+        "date": "2023-02-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230217/",
+        "status": "Working Draft",
+        "date": "2023-02-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230123/",
+        "status": "Working Draft",
+        "date": "2023-01-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230111/",
+        "status": "Working Draft",
+        "date": "2023-01-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230110/",
+        "status": "Working Draft",
+        "date": "2023-01-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-permissions-policy-1-20230109/",
+        "status": "Working Draft",
+        "date": "2023-01-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-permissions-policy-1-20221207/",
+        "status": "Working Draft",
+        "date": "2022-12-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-permissions-policy-1-20200716/",
+        "status": "Working Draft",
+        "date": "2020-07-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-feature-policy-1-20190416/",
         "status": "First Public Working Draft",
-        "date": "2023-05-16"
+        "date": "2019-04-16"
       }
     ],
-    "abstract": "RDF Schema provides a data-modelling vocabulary for RDF data. RDF Schema is an extension of the basic RDF vocabulary."
+    "abstract": "This specification defines a mechanism that allows developers to selectively enable and disable use of various browser features and APIs."
+  },
+  {
+    "url": "https://www.w3.org/TR/web-sustainability-guidelines/",
+    "title": "Web Sustainability Guidelines (WSG)",
+    "status": "Draft Note",
+    "date": "2025-10-06",
+    "histUrl": "https://www.w3.org/standards/history/web-sustainability-guidelines/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/DNOTE-web-sustainability-guidelines-20251006/",
+        "status": "Draft Note",
+        "date": "2025-10-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/DNOTE-web-sustainability-guidelines-20251002/",
+        "status": "Draft Note",
+        "date": "2025-10-02"
+      }
+    ],
+    "abstract": "The Web Sustainability Guidelines (WSG) cover a wide range of recommendations to make web products and services more sustainable. These guidelines use planetary, people, and prosperity principles (the PPP approach) throughout the decision-making process, allowing users to minimize their environmental impact in various ways. These include user-centered design, performant web development, carbon-free infrastructure, sustainable business strategy, and, supported by measurability data, various combinations thereof. It should be noted that these guidelines will not address every possible mechanism or strategy to become more sustainable. These guidelines, which are notably web-focused, should be seen as the starting point of a sustainability journey that may ultimately cover other areas beyond the current scope, for example manufacturing or shipping of physical products. Following these guidelines will often make web content and services more accessible, usable, performant, and secure as a by-product."
   },
   {
     "url": "https://www.w3.org/TR/webgpu/",
     "title": "WebGPU",
     "status": "Candidate Standard",
-    "date": "2025-10-03",
+    "date": "2025-10-06",
     "histUrl": "https://www.w3.org/standards/history/webgpu/",
     "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/CRD-webgpu-20251006/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2025-10-06"
+      },
       {
         "url": "https://www.w3.org/TR/2025/CRD-webgpu-20251003/",
         "status": "Candidate Recommendation Draft",
@@ -81227,333 +81102,523 @@
     "abstract": "WebGPU exposes an API for performing operations, such as rendering and computation, on a Graphics Processing Unit."
   },
   {
-    "url": "https://www.w3.org/TR/epub-overview-34/",
-    "title": "EPUB 3 Overview",
+    "url": "https://www.w3.org/TR/css-anchor-position-1/",
+    "title": "CSS Anchor Positioning",
+    "status": "Draft Standard",
+    "date": "2025-10-07",
+    "histUrl": "https://www.w3.org/standards/history/css-anchor-position-1/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/WD-css-anchor-position-1-20251007/",
+        "status": "Working Draft",
+        "date": "2025-10-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-css-anchor-position-1-20250509/",
+        "status": "Working Draft",
+        "date": "2025-05-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-css-anchor-position-1-20241004/",
+        "status": "Working Draft",
+        "date": "2024-10-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-css-anchor-position-1-20240326/",
+        "status": "Working Draft",
+        "date": "2024-03-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-css-anchor-position-1-20240314/",
+        "status": "Working Draft",
+        "date": "2024-03-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-css-anchor-position-1-20230629/",
+        "status": "First Public Working Draft",
+        "date": "2023-06-29"
+      }
+    ],
+    "abstract": "This specification defines anchor positioning, where a positioned element can size and position itself relative to one or more “anchor elements” elsewhere on the page."
+  },
+  {
+    "url": "https://www.w3.org/TR/css-overflow-3/",
+    "title": "CSS Overflow Module Level 3",
+    "status": "Draft Standard",
+    "date": "2025-10-07",
+    "histUrl": "https://www.w3.org/standards/history/css-overflow-3/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/WD-css-overflow-3-20251007/",
+        "status": "Working Draft",
+        "date": "2025-10-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-css-overflow-3-20230329/",
+        "status": "Working Draft",
+        "date": "2023-03-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-css-overflow-3-20230321/",
+        "status": "Working Draft",
+        "date": "2023-03-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-css-overflow-3-20221231/",
+        "status": "Working Draft",
+        "date": "2022-12-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-css-overflow-3-20211223/",
+        "status": "Working Draft",
+        "date": "2021-12-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-css-overflow-3-20211202/",
+        "status": "Working Draft",
+        "date": "2021-12-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-css-overflow-3-20200603/",
+        "status": "Working Draft",
+        "date": "2020-06-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-css-overflow-3-20180731/",
+        "status": "Working Draft",
+        "date": "2018-07-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/WD-css-overflow-3-20160531/",
+        "status": "Working Draft",
+        "date": "2016-05-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2013/WD-css-overflow-3-20130418/",
+        "status": "Working Draft",
+        "date": "2013-04-18"
+      }
+    ],
+    "abstract": "This module contains the features of CSS relating to scrollable overflow handling in visual media. This level is focused on completing a precise specification for the existing overflow features, including the overflow property and its longhands; and the text-overflow property. A few additional features introduced in support of [CSS-CONTAIN-1] and [CSS-CONTAIN-2] are also defined: overflow: clip and the overflow-clip-margin property."
+  },
+  {
+    "url": "https://www.w3.org/TR/css-position-3/",
+    "title": "CSS Positioned Layout Module Level 3",
+    "status": "Draft Standard",
+    "date": "2025-10-07",
+    "histUrl": "https://www.w3.org/standards/history/css-position-3/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/WD-css-position-3-20251007/",
+        "status": "Working Draft",
+        "date": "2025-10-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-css-position-3-20250311/",
+        "status": "Working Draft",
+        "date": "2025-03-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-css-position-3-20240810/",
+        "status": "Working Draft",
+        "date": "2024-08-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-css-position-3-20230403/",
+        "status": "Working Draft",
+        "date": "2023-04-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-css-position-3-20230217/",
+        "status": "Working Draft",
+        "date": "2023-02-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-css-position-3-20220901/",
+        "status": "Working Draft",
+        "date": "2022-09-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-css-position-3-20211216/",
+        "status": "Working Draft",
+        "date": "2021-12-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-css-position-3-20200519/",
+        "status": "Working Draft",
+        "date": "2020-05-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/WD-css-position-3-20160517/",
+        "status": "Working Draft",
+        "date": "2016-05-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2015/WD-css3-positioning-20150203/",
+        "status": "Working Draft",
+        "date": "2015-02-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2012/WD-css3-positioning-20120207/",
+        "status": "Working Draft",
+        "date": "2012-02-07"
+      }
+    ],
+    "abstract": "This module contains defines coordinate-based positioning and offsetting schemes of CSS: relative positioning, sticky positioning, absolute positioning, and fixed positioning."
+  },
+  {
+    "url": "https://www.w3.org/TR/css-position-4/",
+    "title": "CSS Positioned Layout Module Level 4",
+    "status": "Draft Standard",
+    "date": "2025-10-07",
+    "histUrl": "https://www.w3.org/standards/history/css-position-4/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/WD-css-position-4-20251007/",
+        "status": "Working Draft",
+        "date": "2025-10-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-css-position-4-20250708/",
+        "status": "First Public Working Draft",
+        "date": "2025-07-08"
+      }
+    ],
+    "abstract": "This module contains defines coordinate-based positioning and offsetting schemes of CSS: relative positioning, sticky positioning, absolute positioning, and fixed positioning."
+  },
+  {
+    "url": "https://www.w3.org/TR/geolocation/",
+    "title": "Geolocation",
+    "status": "Standard",
+    "date": "2025-10-07",
+    "histUrl": "https://www.w3.org/standards/history/geolocation/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/REC-geolocation-20251007/",
+        "status": "Recommendation",
+        "date": "2025-10-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/REC-geolocation-20250923/",
+        "status": "Recommendation",
+        "date": "2025-09-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/REC-geolocation-20250818/",
+        "status": "Recommendation",
+        "date": "2025-08-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/REC-geolocation-20250711/",
+        "status": "Recommendation",
+        "date": "2025-07-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/REC-geolocation-20250411/",
+        "status": "Recommendation",
+        "date": "2025-04-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/REC-geolocation-20240916/",
+        "status": "Recommendation",
+        "date": "2024-09-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/REC-geolocation-20240815/",
+        "status": "Recommendation",
+        "date": "2024-08-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/REC-geolocation-20240814/",
+        "status": "Recommendation",
+        "date": "2024-08-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/REC-geolocation-20240809/",
+        "status": "Recommendation",
+        "date": "2024-08-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/REC-geolocation-20240702/",
+        "status": "Recommendation",
+        "date": "2024-07-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/REC-geolocation-20240619/",
+        "status": "Recommendation",
+        "date": "2024-06-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/REC-geolocation-20240615/",
+        "status": "Recommendation",
+        "date": "2024-06-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/REC-geolocation-20240614/",
+        "status": "Recommendation",
+        "date": "2024-06-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/REC-geolocation-20240613/",
+        "status": "Recommendation",
+        "date": "2024-06-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/REC-geolocation-20220901/",
+        "status": "Recommendation",
+        "date": "2022-09-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/PR-geolocation-20220407/",
+        "status": "Proposed Recommendation",
+        "date": "2022-04-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/CRD-geolocation-20220318/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2022-03-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/CRD-geolocation-20220314/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2022-03-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/CRD-geolocation-20220307/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2022-03-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/CRD-geolocation-20220221/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2022-02-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/CR-geolocation-20220217/",
+        "status": "Candidate Recommendation Snapshot",
+        "date": "2022-02-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-geolocation-20220210/",
+        "status": "Working Draft",
+        "date": "2022-02-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-geolocation-20220129/",
+        "status": "Working Draft",
+        "date": "2022-01-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-geolocation-20211124/",
+        "status": "Working Draft",
+        "date": "2021-11-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-geolocation-20211123/",
+        "status": "Working Draft",
+        "date": "2021-11-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-geolocation-20211103/",
+        "status": "Working Draft",
+        "date": "2021-11-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-geolocation-20211012/",
+        "status": "Working Draft",
+        "date": "2021-10-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210930/",
+        "status": "Working Draft",
+        "date": "2021-09-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210812/",
+        "status": "Working Draft",
+        "date": "2021-08-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210730/",
+        "status": "Working Draft",
+        "date": "2021-07-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210727/",
+        "status": "Working Draft",
+        "date": "2021-07-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210726/",
+        "status": "Working Draft",
+        "date": "2021-07-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210715/",
+        "status": "Working Draft",
+        "date": "2021-07-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210708/",
+        "status": "Working Draft",
+        "date": "2021-07-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210615/",
+        "status": "Working Draft",
+        "date": "2021-06-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210610/",
+        "status": "Working Draft",
+        "date": "2021-06-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210607/",
+        "status": "Working Draft",
+        "date": "2021-06-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210601/",
+        "status": "Working Draft",
+        "date": "2021-06-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210531/",
+        "status": "Working Draft",
+        "date": "2021-05-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-geolocation-20210527/",
+        "status": "First Public Working Draft",
+        "date": "2021-05-27"
+      }
+    ],
+    "abstract": "Geolocation provides access to geographical location information associated with the hosting device."
+  },
+  {
+    "url": "https://www.w3.org/TR/design-principles/",
+    "title": "Web Platform Design Principles",
     "status": "Note",
-    "date": "2025-10-04",
-    "histUrl": "https://www.w3.org/standards/history/epub-overview-34/",
+    "date": "2025-10-07",
+    "histUrl": "https://www.w3.org/standards/history/design-principles/",
     "history": [
       {
-        "url": "https://www.w3.org/TR/2025/NOTE-epub-overview-34-20251004/",
+        "url": "https://www.w3.org/TR/2025/NOTE-design-principles-20251007/",
         "status": "Note",
-        "date": "2025-10-04"
+        "date": "2025-10-07"
       },
       {
-        "url": "https://www.w3.org/TR/2025/NOTE-epub-overview-34-20250819/",
+        "url": "https://www.w3.org/TR/2025/NOTE-design-principles-20250918/",
         "status": "Note",
-        "date": "2025-08-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/NOTE-epub-overview-34-20250818/",
-        "status": "Note",
-        "date": "2025-08-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/NOTE-epub-overview-34-20250714/",
-        "status": "Note",
-        "date": "2025-07-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/NOTE-epub-overview-34-20250627/",
-        "status": "Note",
-        "date": "2025-06-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/NOTE-epub-overview-34-20250417/",
-        "status": "Note",
-        "date": "2025-04-17"
-      }
-    ],
-    "abstract": "EPUB® 3 defines a distribution and interchange format for digital publications and documents. The EPUB format provides a means of representing, packaging, and encoding structured and semantically enhanced web content — including HTML, CSS, SVG, and other resources — for distribution in a single-file container."
-  },
-  {
-    "url": "https://www.w3.org/TR/epub-34/",
-    "title": "EPUB 3.4",
-    "status": "Draft Standard",
-    "date": "2025-10-04",
-    "histUrl": "https://www.w3.org/standards/history/epub-34/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/WD-epub-34-20251004/",
-        "status": "Working Draft",
-        "date": "2025-10-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-epub-34-20250905/",
-        "status": "Working Draft",
-        "date": "2025-09-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-epub-34-20250903/",
-        "status": "Working Draft",
-        "date": "2025-09-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-epub-34-20250828/",
-        "status": "Working Draft",
-        "date": "2025-08-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-epub-34-20250819/",
-        "status": "Working Draft",
-        "date": "2025-08-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-epub-34-20250818/",
-        "status": "Working Draft",
-        "date": "2025-08-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-epub-34-20250714/",
-        "status": "Working Draft",
-        "date": "2025-07-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-epub-34-20250628/",
-        "status": "Working Draft",
-        "date": "2025-06-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-epub-34-20250627/",
-        "status": "Working Draft",
-        "date": "2025-06-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-epub-34-20250626/",
-        "status": "Working Draft",
-        "date": "2025-06-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-epub-34-20250625/",
-        "status": "Working Draft",
-        "date": "2025-06-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-epub-34-20250609/",
-        "status": "Working Draft",
-        "date": "2025-06-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-epub-34-20250603/",
-        "status": "Working Draft",
-        "date": "2025-06-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-epub-34-20250522/",
-        "status": "Working Draft",
-        "date": "2025-05-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-epub-34-20250514/",
-        "status": "Working Draft",
-        "date": "2025-05-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-epub-34-20250502/",
-        "status": "Working Draft",
-        "date": "2025-05-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-epub-34-20250425/",
-        "status": "Working Draft",
-        "date": "2025-04-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-epub-34-20250424/",
-        "status": "Working Draft",
-        "date": "2025-04-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-epub-34-20250417/",
-        "status": "Working Draft",
-        "date": "2025-04-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-epub-34-20250327/",
-        "status": "First Public Working Draft",
-        "date": "2025-03-27"
-      }
-    ],
-    "abstract": "EPUB® 3 defines a distribution and interchange format for digital publications and documents. The EPUB format provides a means of representing, packaging, and encoding structured and semantically enhanced web content — including HTML, CSS, SVG, and other resources — for distribution in a single-file container."
-  },
-  {
-    "url": "https://www.w3.org/TR/epub-rs-34/",
-    "title": "EPUB Reading Systems 3.4",
-    "status": "Draft Standard",
-    "date": "2025-10-04",
-    "histUrl": "https://www.w3.org/standards/history/epub-rs-34/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/WD-epub-rs-34-20251004/",
-        "status": "Working Draft",
-        "date": "2025-10-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-epub-rs-34-20250905/",
-        "status": "Working Draft",
-        "date": "2025-09-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-epub-rs-34-20250828/",
-        "status": "Working Draft",
-        "date": "2025-08-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-epub-rs-34-20250819/",
-        "status": "Working Draft",
-        "date": "2025-08-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-epub-rs-34-20250818/",
-        "status": "Working Draft",
-        "date": "2025-08-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-epub-rs-34-20250626/",
-        "status": "Working Draft",
-        "date": "2025-06-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-epub-rs-34-20250625/",
-        "status": "Working Draft",
-        "date": "2025-06-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-epub-rs-34-20250609/",
-        "status": "Working Draft",
-        "date": "2025-06-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-epub-rs-34-20250603/",
-        "status": "Working Draft",
-        "date": "2025-06-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-epub-rs-34-20250522/",
-        "status": "Working Draft",
-        "date": "2025-05-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-epub-rs-34-20250514/",
-        "status": "Working Draft",
-        "date": "2025-05-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-epub-rs-34-20250502/",
-        "status": "Working Draft",
-        "date": "2025-05-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-epub-rs-34-20250424/",
-        "status": "Working Draft",
-        "date": "2025-04-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-epub-rs-34-20250417/",
-        "status": "Working Draft",
-        "date": "2025-04-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-epub-rs-34-20250327/",
-        "status": "First Public Working Draft",
-        "date": "2025-03-27"
-      }
-    ],
-    "abstract": "EPUB® 3 defines a distribution and interchange format for digital publications and documents. The EPUB format provides a means of representing, packaging, and encoding structured and semantically enhanced web content — including HTML, CSS, SVG and other resources — for distribution in a single-file container."
-  },
-  {
-    "url": "https://www.w3.org/TR/mathml4/",
-    "title": "Mathematical Markup Language (MathML) Version 4.0",
-    "status": "Draft Standard",
-    "date": "2025-10-05",
-    "histUrl": "https://www.w3.org/standards/history/mathml4/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/WD-mathml4-20251005/",
-        "status": "Working Draft",
-        "date": "2025-10-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-mathml4-20250919/",
-        "status": "Working Draft",
-        "date": "2025-09-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-mathml4-20250918/",
-        "status": "Working Draft",
         "date": "2025-09-18"
       },
       {
-        "url": "https://www.w3.org/TR/2025/WD-mathml4-20250606/",
-        "status": "Working Draft",
-        "date": "2025-06-06"
+        "url": "https://www.w3.org/TR/2025/NOTE-design-principles-20250702/",
+        "status": "Note",
+        "date": "2025-07-02"
       },
       {
-        "url": "https://www.w3.org/TR/2025/WD-mathml4-20250402/",
-        "status": "Working Draft",
-        "date": "2025-04-02"
+        "url": "https://www.w3.org/TR/2025/NOTE-design-principles-20250626/",
+        "status": "Note",
+        "date": "2025-06-26"
       },
       {
-        "url": "https://www.w3.org/TR/2025/WD-mathml4-20250328/",
-        "status": "Working Draft",
-        "date": "2025-03-28"
+        "url": "https://www.w3.org/TR/2025/NOTE-design-principles-20250603/",
+        "status": "Note",
+        "date": "2025-06-03"
       },
       {
-        "url": "https://www.w3.org/TR/2025/WD-mathml4-20250326/",
-        "status": "Working Draft",
-        "date": "2025-03-26"
+        "url": "https://www.w3.org/TR/2025/NOTE-design-principles-20250522/",
+        "status": "Note",
+        "date": "2025-05-22"
       },
       {
-        "url": "https://www.w3.org/TR/2025/WD-mathml4-20250320/",
-        "status": "Working Draft",
-        "date": "2025-03-20"
+        "url": "https://www.w3.org/TR/2025/NOTE-design-principles-20250519/",
+        "status": "Note",
+        "date": "2025-05-19"
       },
       {
-        "url": "https://www.w3.org/TR/2025/WD-mathml4-20250315/",
-        "status": "Working Draft",
-        "date": "2025-03-15"
+        "url": "https://www.w3.org/TR/2025/NOTE-design-principles-20250516/",
+        "status": "Note",
+        "date": "2025-05-16"
       },
       {
-        "url": "https://www.w3.org/TR/2024/WD-mathml4-20241119/",
-        "status": "Working Draft",
-        "date": "2024-11-19"
+        "url": "https://www.w3.org/TR/2025/NOTE-design-principles-20250430/",
+        "status": "Note",
+        "date": "2025-04-30"
       },
       {
-        "url": "https://www.w3.org/TR/2024/WD-mathml4-20241115/",
-        "status": "Working Draft",
-        "date": "2024-11-15"
+        "url": "https://www.w3.org/TR/2025/NOTE-design-principles-20250325/",
+        "status": "Note",
+        "date": "2025-03-25"
       },
       {
-        "url": "https://www.w3.org/TR/2024/WD-mathml4-20241114/",
-        "status": "Working Draft",
-        "date": "2024-11-14"
+        "url": "https://www.w3.org/TR/2025/NOTE-design-principles-20250306/",
+        "status": "Note",
+        "date": "2025-03-06"
       },
       {
-        "url": "https://www.w3.org/TR/2024/WD-mathml4-20241108/",
-        "status": "Working Draft",
-        "date": "2024-11-08"
+        "url": "https://www.w3.org/TR/2025/NOTE-design-principles-20250304/",
+        "status": "Note",
+        "date": "2025-03-04"
       },
       {
-        "url": "https://www.w3.org/TR/2024/WD-mathml4-20241107/",
-        "status": "Working Draft",
-        "date": "2024-11-07"
+        "url": "https://www.w3.org/TR/2025/NOTE-design-principles-20250226/",
+        "status": "Note",
+        "date": "2025-02-26"
       },
       {
-        "url": "https://www.w3.org/TR/2024/WD-mathml4-20241101/",
-        "status": "Working Draft",
-        "date": "2024-11-01"
+        "url": "https://www.w3.org/TR/2025/NOTE-design-principles-20250106/",
+        "status": "Note",
+        "date": "2025-01-06"
       },
       {
-        "url": "https://www.w3.org/TR/2024/WD-mathml4-20241028/",
-        "status": "Working Draft",
-        "date": "2024-10-28"
+        "url": "https://www.w3.org/TR/2024/NOTE-design-principles-20240718/",
+        "status": "Note",
+        "date": "2024-07-18"
       },
       {
-        "url": "https://www.w3.org/TR/2022/WD-mathml4-20220908/",
-        "status": "First Public Working Draft",
-        "date": "2022-09-08"
+        "url": "https://www.w3.org/TR/2024/NOTE-design-principles-20240130/",
+        "status": "Note",
+        "date": "2024-01-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-design-principles-20230907/",
+        "status": "Note",
+        "date": "2023-09-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-design-principles-20230426/",
+        "status": "Note",
+        "date": "2023-04-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-design-principles-20230224/",
+        "status": "Note",
+        "date": "2023-02-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-design-principles-20220824/",
+        "status": "Note",
+        "date": "2022-08-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-design-principles-20211216/",
+        "status": "Note",
+        "date": "2021-12-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-design-principles-20210923/",
+        "status": "Note",
+        "date": "2021-09-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/NOTE-design-principles-20201110/",
+        "status": "Note",
+        "date": "2020-11-10"
       }
     ],
-    "abstract": "This specification defines the Mathematical Markup Language, or MathML. MathML is a markup language for describing mathematical notation and capturing both its structure and content. The goal of MathML is to enable mathematics to be served, received, and processed on the World Wide Web, just as [HTML] has enabled this functionality for text."
+    "abstract": "This document contains a set of design principles to be used when designing web platform technologies. These principles have been collected during the Technical Architecture Group’s discussions in reviewing developing specifications, and build upon the Ethical Web Principles [ETHICAL-WEB]. We encourage specification designers to read this document and use it as a resource when making design decisions."
   }
 ]
