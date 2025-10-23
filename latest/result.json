@@ -72027,76 +72027,6 @@
     "abstract": "This document summarizes text composition requirements in the Chinese writing system. One of the goals of the task force is to describe issues for Chinese layout, another is to describe correspondences with existing standards (such as Unicode), as well as to encourage vendors to implement relevant features correctly."
   },
   {
-    "url": "https://www.w3.org/TR/webtransport/",
-    "title": "WebTransport",
-    "status": "Draft Standard",
-    "date": "2025-10-08",
-    "histUrl": "https://www.w3.org/standards/history/webtransport/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webtransport-20251008/",
-        "status": "Working Draft",
-        "date": "2025-10-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webtransport-20250702/",
-        "status": "Working Draft",
-        "date": "2025-07-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-webtransport-20250212/",
-        "status": "Working Draft",
-        "date": "2025-02-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-webtransport-20240531/",
-        "status": "Working Draft",
-        "date": "2024-05-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-webtransport-20231220/",
-        "status": "Working Draft",
-        "date": "2023-12-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-webtransport-20230712/",
-        "status": "Working Draft",
-        "date": "2023-07-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-webtransport-20230405/",
-        "status": "Working Draft",
-        "date": "2023-04-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-webtransport-20230118/",
-        "status": "Working Draft",
-        "date": "2023-01-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webtransport-20220623/",
-        "status": "Working Draft",
-        "date": "2022-06-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-webtransport-20220311/",
-        "status": "Working Draft",
-        "date": "2022-03-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webtransport-20211014/",
-        "status": "Working Draft",
-        "date": "2021-10-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-webtransport-20210504/",
-        "status": "First Public Working Draft",
-        "date": "2021-05-04"
-      }
-    ],
-    "abstract": "This document defines a set of ECMAScript APIs in WebIDL to allow data to be sent and received between a browser and server, utilizing [WEB-TRANSPORT-OVERVIEW]. This specification is being developed in conjunction with protocol specifications developed by the IETF WEBTRANS Working Group."
-  },
-  {
     "url": "https://www.w3.org/TR/audio-output/",
     "title": "Audio Output Devices API",
     "status": "Candidate Standard",
@@ -73830,986 +73760,6 @@
       }
     ],
     "abstract": "The specification describes a CSS box model optimized for user interface design. In the flex layout model, the children of a flex container can be laid out in any direction, and can “flex” their sizes, either growing to fill unused space or shrinking to avoid overflowing the parent. Both horizontal and vertical alignment of the children can be easily manipulated. Nesting of these boxes (horizontal inside vertical, or vertical inside horizontal) can be used to build layouts in two dimensions."
-  },
-  {
-    "url": "https://www.w3.org/TR/html-aam-1.0/",
-    "title": "HTML Accessibility API Mappings 1.0",
-    "status": "Draft Standard",
-    "date": "2025-10-14",
-    "histUrl": "https://www.w3.org/standards/history/html-aam-1.0/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/WD-html-aam-1.0-20251014/",
-        "status": "Working Draft",
-        "date": "2025-10-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-html-aam-1.0-20251010/",
-        "status": "Working Draft",
-        "date": "2025-10-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-html-aam-1.0-20250926/",
-        "status": "Working Draft",
-        "date": "2025-09-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-html-aam-1.0-20250925/",
-        "status": "Working Draft",
-        "date": "2025-09-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-html-aam-1.0-20250918/",
-        "status": "Working Draft",
-        "date": "2025-09-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-html-aam-1.0-20250917/",
-        "status": "Working Draft",
-        "date": "2025-09-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-html-aam-1.0-20250903/",
-        "status": "Working Draft",
-        "date": "2025-09-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-html-aam-1.0-20250730/",
-        "status": "Working Draft",
-        "date": "2025-07-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-html-aam-1.0-20250725/",
-        "status": "Working Draft",
-        "date": "2025-07-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-html-aam-1.0-20250627/",
-        "status": "Working Draft",
-        "date": "2025-06-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-html-aam-1.0-20250617/",
-        "status": "Working Draft",
-        "date": "2025-06-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-html-aam-1.0-20250613/",
-        "status": "Working Draft",
-        "date": "2025-06-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-html-aam-1.0-20250529/",
-        "status": "Working Draft",
-        "date": "2025-05-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-html-aam-1.0-20250522/",
-        "status": "Working Draft",
-        "date": "2025-05-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-html-aam-1.0-20250508/",
-        "status": "Working Draft",
-        "date": "2025-05-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-html-aam-1.0-20250402/",
-        "status": "Working Draft",
-        "date": "2025-04-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-html-aam-1.0-20250324/",
-        "status": "Working Draft",
-        "date": "2025-03-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-html-aam-1.0-20250320/",
-        "status": "Working Draft",
-        "date": "2025-03-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-html-aam-1.0-20250307/",
-        "status": "Working Draft",
-        "date": "2025-03-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-html-aam-1.0-20250301/",
-        "status": "Working Draft",
-        "date": "2025-03-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-html-aam-1.0-20250226/",
-        "status": "Working Draft",
-        "date": "2025-02-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-html-aam-1.0-20250212/",
-        "status": "Working Draft",
-        "date": "2025-02-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-html-aam-1.0-20250207/",
-        "status": "Working Draft",
-        "date": "2025-02-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-html-aam-1.0-20250116/",
-        "status": "Working Draft",
-        "date": "2025-01-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-html-aam-1.0-20250115/",
-        "status": "Working Draft",
-        "date": "2025-01-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-html-aam-1.0-20250110/",
-        "status": "Working Draft",
-        "date": "2025-01-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-html-aam-1.0-20241211/",
-        "status": "Working Draft",
-        "date": "2024-12-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-html-aam-1.0-20241121/",
-        "status": "Working Draft",
-        "date": "2024-11-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-html-aam-1.0-20241111/",
-        "status": "Working Draft",
-        "date": "2024-11-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-html-aam-1.0-20240819/",
-        "status": "Working Draft",
-        "date": "2024-08-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-html-aam-1.0-20240815/",
-        "status": "Working Draft",
-        "date": "2024-08-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-html-aam-1.0-20240716/",
-        "status": "Working Draft",
-        "date": "2024-07-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-html-aam-1.0-20240711/",
-        "status": "Working Draft",
-        "date": "2024-07-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-html-aam-1.0-20240626/",
-        "status": "Working Draft",
-        "date": "2024-06-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-html-aam-1.0-20240621/",
-        "status": "Working Draft",
-        "date": "2024-06-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-html-aam-1.0-20240418/",
-        "status": "Working Draft",
-        "date": "2024-04-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-html-aam-1.0-20240408/",
-        "status": "Working Draft",
-        "date": "2024-04-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-html-aam-1.0-20240226/",
-        "status": "Working Draft",
-        "date": "2024-02-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-html-aam-1.0-20240208/",
-        "status": "Working Draft",
-        "date": "2024-02-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-html-aam-1.0-20240206/",
-        "status": "Working Draft",
-        "date": "2024-02-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20231204/",
-        "status": "Working Draft",
-        "date": "2023-12-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20231102/",
-        "status": "Working Draft",
-        "date": "2023-11-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20231016/",
-        "status": "Working Draft",
-        "date": "2023-10-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20231009/",
-        "status": "Working Draft",
-        "date": "2023-10-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20231003/",
-        "status": "Working Draft",
-        "date": "2023-10-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230925/",
-        "status": "Working Draft",
-        "date": "2023-09-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230902/",
-        "status": "Working Draft",
-        "date": "2023-09-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230825/",
-        "status": "Working Draft",
-        "date": "2023-08-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230818/",
-        "status": "Working Draft",
-        "date": "2023-08-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230728/",
-        "status": "Working Draft",
-        "date": "2023-07-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230705/",
-        "status": "Working Draft",
-        "date": "2023-07-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230627/",
-        "status": "Working Draft",
-        "date": "2023-06-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230617/",
-        "status": "Working Draft",
-        "date": "2023-06-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230609/",
-        "status": "Working Draft",
-        "date": "2023-06-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230606/",
-        "status": "Working Draft",
-        "date": "2023-06-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230519/",
-        "status": "Working Draft",
-        "date": "2023-05-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230515/",
-        "status": "Working Draft",
-        "date": "2023-05-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230510/",
-        "status": "Working Draft",
-        "date": "2023-05-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230509/",
-        "status": "Working Draft",
-        "date": "2023-05-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230503/",
-        "status": "Working Draft",
-        "date": "2023-05-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230427/",
-        "status": "Working Draft",
-        "date": "2023-04-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230411/",
-        "status": "Working Draft",
-        "date": "2023-04-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230328/",
-        "status": "Working Draft",
-        "date": "2023-03-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230324/",
-        "status": "Working Draft",
-        "date": "2023-03-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230322/",
-        "status": "Working Draft",
-        "date": "2023-03-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230308/",
-        "status": "Working Draft",
-        "date": "2023-03-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230202/",
-        "status": "Working Draft",
-        "date": "2023-02-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230131/",
-        "status": "Working Draft",
-        "date": "2023-01-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20221212/",
-        "status": "Working Draft",
-        "date": "2022-12-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20221208/",
-        "status": "Working Draft",
-        "date": "2022-12-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20221128/",
-        "status": "Working Draft",
-        "date": "2022-11-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20221104/",
-        "status": "Working Draft",
-        "date": "2022-11-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20221026/",
-        "status": "Working Draft",
-        "date": "2022-10-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20221004/",
-        "status": "Working Draft",
-        "date": "2022-10-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220829/",
-        "status": "Working Draft",
-        "date": "2022-08-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220719/",
-        "status": "Working Draft",
-        "date": "2022-07-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220714/",
-        "status": "Working Draft",
-        "date": "2022-07-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220713/",
-        "status": "Working Draft",
-        "date": "2022-07-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220711/",
-        "status": "Working Draft",
-        "date": "2022-07-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220709/",
-        "status": "Working Draft",
-        "date": "2022-07-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220708/",
-        "status": "Working Draft",
-        "date": "2022-07-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220602/",
-        "status": "Working Draft",
-        "date": "2022-06-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220531/",
-        "status": "Working Draft",
-        "date": "2022-05-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220526/",
-        "status": "Working Draft",
-        "date": "2022-05-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220524/",
-        "status": "Working Draft",
-        "date": "2022-05-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220504/",
-        "status": "Working Draft",
-        "date": "2022-05-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220503/",
-        "status": "Working Draft",
-        "date": "2022-05-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220502/",
-        "status": "Working Draft",
-        "date": "2022-05-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220429/",
-        "status": "Working Draft",
-        "date": "2022-04-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220413/",
-        "status": "Working Draft",
-        "date": "2022-04-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220404/",
-        "status": "Working Draft",
-        "date": "2022-04-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220307/",
-        "status": "Working Draft",
-        "date": "2022-03-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220121/",
-        "status": "Working Draft",
-        "date": "2022-01-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220120/",
-        "status": "Working Draft",
-        "date": "2022-01-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-html-aam-1.0-20210813/",
-        "status": "Working Draft",
-        "date": "2021-08-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-html-aam-1.0-20210811/",
-        "status": "Working Draft",
-        "date": "2021-08-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/WD-html-aam-1.0-20210810/",
-        "status": "Working Draft",
-        "date": "2021-08-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-html-aam-1.0-20200817/",
-        "status": "Working Draft",
-        "date": "2020-08-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-html-aam-1.0-20200811/",
-        "status": "Working Draft",
-        "date": "2020-08-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-html-aam-1.0-20200718/",
-        "status": "Working Draft",
-        "date": "2020-07-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-html-aam-1.0-20200629/",
-        "status": "Working Draft",
-        "date": "2020-06-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-html-aam-1.0-20200601/",
-        "status": "Working Draft",
-        "date": "2020-06-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/WD-html-aam-1.0-20200529/",
-        "status": "Working Draft",
-        "date": "2020-05-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20191217/",
-        "status": "Working Draft",
-        "date": "2019-12-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20191213/",
-        "status": "Working Draft",
-        "date": "2019-12-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20191212/",
-        "status": "Working Draft",
-        "date": "2019-12-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20191210/",
-        "status": "Working Draft",
-        "date": "2019-12-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20191112/",
-        "status": "Working Draft",
-        "date": "2019-11-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20191111/",
-        "status": "Working Draft",
-        "date": "2019-11-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20191018/",
-        "status": "Working Draft",
-        "date": "2019-10-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20191006/",
-        "status": "Working Draft",
-        "date": "2019-10-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20191005/",
-        "status": "Working Draft",
-        "date": "2019-10-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190923/",
-        "status": "Working Draft",
-        "date": "2019-09-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190922/",
-        "status": "Working Draft",
-        "date": "2019-09-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190919/",
-        "status": "Working Draft",
-        "date": "2019-09-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190918/",
-        "status": "Working Draft",
-        "date": "2019-09-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190914/",
-        "status": "Working Draft",
-        "date": "2019-09-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190913/",
-        "status": "Working Draft",
-        "date": "2019-09-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190911/",
-        "status": "Working Draft",
-        "date": "2019-09-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190715/",
-        "status": "Working Draft",
-        "date": "2019-07-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190710/",
-        "status": "Working Draft",
-        "date": "2019-07-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190703/",
-        "status": "Working Draft",
-        "date": "2019-07-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190628/",
-        "status": "Working Draft",
-        "date": "2019-06-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190614/",
-        "status": "Working Draft",
-        "date": "2019-06-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190610/",
-        "status": "Working Draft",
-        "date": "2019-06-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190603/",
-        "status": "Working Draft",
-        "date": "2019-06-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190531/",
-        "status": "Working Draft",
-        "date": "2019-05-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190530/",
-        "status": "Working Draft",
-        "date": "2019-05-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190131/",
-        "status": "Working Draft",
-        "date": "2019-01-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190124/",
-        "status": "Working Draft",
-        "date": "2019-01-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190118/",
-        "status": "Working Draft",
-        "date": "2019-01-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20181214/",
-        "status": "Working Draft",
-        "date": "2018-12-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20181025/",
-        "status": "Working Draft",
-        "date": "2018-10-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20181022/",
-        "status": "Working Draft",
-        "date": "2018-10-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20181018/",
-        "status": "Working Draft",
-        "date": "2018-10-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20181005/",
-        "status": "Working Draft",
-        "date": "2018-10-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180926/",
-        "status": "Working Draft",
-        "date": "2018-09-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180907/",
-        "status": "Working Draft",
-        "date": "2018-09-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180802/",
-        "status": "Working Draft",
-        "date": "2018-08-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180725/",
-        "status": "Working Draft",
-        "date": "2018-07-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180530/",
-        "status": "Working Draft",
-        "date": "2018-05-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180528/",
-        "status": "Working Draft",
-        "date": "2018-05-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180519/",
-        "status": "Working Draft",
-        "date": "2018-05-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180503/",
-        "status": "Working Draft",
-        "date": "2018-05-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180307/",
-        "status": "Working Draft",
-        "date": "2018-03-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180302/",
-        "status": "Working Draft",
-        "date": "2018-03-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180301/",
-        "status": "Working Draft",
-        "date": "2018-03-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180226/",
-        "status": "Working Draft",
-        "date": "2018-02-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180131/",
-        "status": "Working Draft",
-        "date": "2018-01-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180128/",
-        "status": "Working Draft",
-        "date": "2018-01-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180109/",
-        "status": "Working Draft",
-        "date": "2018-01-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180108/",
-        "status": "Working Draft",
-        "date": "2018-01-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180105/",
-        "status": "Working Draft",
-        "date": "2018-01-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20171218/",
-        "status": "Working Draft",
-        "date": "2017-12-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20171207/",
-        "status": "Working Draft",
-        "date": "2017-12-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20171130/",
-        "status": "Working Draft",
-        "date": "2017-11-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20171123/",
-        "status": "Working Draft",
-        "date": "2017-11-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20171027/",
-        "status": "Working Draft",
-        "date": "2017-10-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20171010/",
-        "status": "Working Draft",
-        "date": "2017-10-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20170606/",
-        "status": "Working Draft",
-        "date": "2017-06-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20170602/",
-        "status": "Working Draft",
-        "date": "2017-06-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20170531/",
-        "status": "Working Draft",
-        "date": "2017-05-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20170524/",
-        "status": "Working Draft",
-        "date": "2017-05-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20170510/",
-        "status": "Working Draft",
-        "date": "2017-05-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20170504/",
-        "status": "Working Draft",
-        "date": "2017-05-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20170501/",
-        "status": "Working Draft",
-        "date": "2017-05-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20170427/",
-        "status": "Working Draft",
-        "date": "2017-04-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20170419/",
-        "status": "Working Draft",
-        "date": "2017-04-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20170322/",
-        "status": "Working Draft",
-        "date": "2017-03-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20170215/",
-        "status": "Working Draft",
-        "date": "2017-02-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20170214/",
-        "status": "Working Draft",
-        "date": "2017-02-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2016/WD-html-aam-1.0-20161223/",
-        "status": "Working Draft",
-        "date": "2016-12-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2016/WD-html-aam-1.0-20161222/",
-        "status": "Working Draft",
-        "date": "2016-12-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2016/WD-html-aam-1.0-20161221/",
-        "status": "Working Draft",
-        "date": "2016-12-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2016/WD-html-aam-1.0-20161214/",
-        "status": "Working Draft",
-        "date": "2016-12-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2016/WD-html-aam-1.0-20161212/",
-        "status": "Working Draft",
-        "date": "2016-12-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2016/WD-html-aam-1.0-20161211/",
-        "status": "Working Draft",
-        "date": "2016-12-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2016/WD-html-aam-1.0-20161208/",
-        "status": "Working Draft",
-        "date": "2016-12-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2015/WD-html-aam-1.0-20151203/",
-        "status": "Working Draft",
-        "date": "2015-12-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2015/WD-html-aam-1.0-20150407/",
-        "status": "First Public Working Draft",
-        "date": "2015-04-07"
-      }
-    ],
-    "abstract": "HTML Accessibility API Mappings (HTML-AAM) defines how user agents map HTML [HTML] elements and attributes to platform accessibility application programming interfaces (APIs). It leverages and extends the Core Accessibility API Mappings 1.2 and the Accessible Name and Description Computation 1.2 for use with the HTML host language. Documenting these mappings promotes interoperable exposure of roles, states, properties, and events implemented by accessibility APIs and helps to ensure that this information appears in a manner consistent with author intent."
-  },
-  {
-    "url": "https://www.w3.org/TR/pointerevents4/",
-    "title": "Pointer Events",
-    "status": "Draft Standard",
-    "date": "2025-10-15",
-    "histUrl": "https://www.w3.org/standards/history/pointerevents4/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/WD-pointerevents4-20251015/",
-        "status": "Working Draft",
-        "date": "2025-10-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-pointerevents4-20250501/",
-        "status": "Working Draft",
-        "date": "2025-05-01"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-pointerevents4-20250319/",
-        "status": "Working Draft",
-        "date": "2025-03-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-pointerevents4-20250318/",
-        "status": "Working Draft",
-        "date": "2025-03-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-pointerevents4-20250313/",
-        "status": "Working Draft",
-        "date": "2025-03-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-pointerevents4-20250312/",
-        "status": "Working Draft",
-        "date": "2025-03-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-pointerevents4-20250226/",
-        "status": "Working Draft",
-        "date": "2025-02-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-pointerevents4-20250213/",
-        "status": "Working Draft",
-        "date": "2025-02-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-pointerevents4-20250212/",
-        "status": "Working Draft",
-        "date": "2025-02-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-pointerevents4-20250129/",
-        "status": "Working Draft",
-        "date": "2025-01-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-pointerevents4-20241129/",
-        "status": "Working Draft",
-        "date": "2024-11-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-pointerevents4-20241128/",
-        "status": "First Public Working Draft",
-        "date": "2024-11-28"
-      }
-    ],
-    "abstract": "The features in this specification extend or modify those found in Pointer Events, a W3C Recommendation that describes events and related interfaces for handling hardware-agnostic pointer input from devices including a mouse, pen, or touchscreen. For compatibility with existing mouse-based content, this specification also describes a mapping to fire Mouse Events for other pointer device types."
   },
   {
     "url": "https://www.w3.org/TR/did-resolution/",
@@ -79227,141 +78177,6 @@
     "abstract": "The Resource Description Framework (RDF) is a framework for representing information on the Web. This document defines an abstract data model which serves to link all RDF-based languages and specifications. The abstract data model has two key data structures:"
   },
   {
-    "url": "https://www.w3.org/TR/design-principles/",
-    "title": "Web Platform Design Principles",
-    "status": "Note",
-    "date": "2025-10-21",
-    "histUrl": "https://www.w3.org/standards/history/design-principles/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/NOTE-design-principles-20251021/",
-        "status": "Note",
-        "date": "2025-10-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/NOTE-design-principles-20251020/",
-        "status": "Note",
-        "date": "2025-10-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/NOTE-design-principles-20251007/",
-        "status": "Note",
-        "date": "2025-10-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/NOTE-design-principles-20250918/",
-        "status": "Note",
-        "date": "2025-09-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/NOTE-design-principles-20250702/",
-        "status": "Note",
-        "date": "2025-07-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/NOTE-design-principles-20250626/",
-        "status": "Note",
-        "date": "2025-06-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/NOTE-design-principles-20250603/",
-        "status": "Note",
-        "date": "2025-06-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/NOTE-design-principles-20250522/",
-        "status": "Note",
-        "date": "2025-05-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/NOTE-design-principles-20250519/",
-        "status": "Note",
-        "date": "2025-05-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/NOTE-design-principles-20250516/",
-        "status": "Note",
-        "date": "2025-05-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/NOTE-design-principles-20250430/",
-        "status": "Note",
-        "date": "2025-04-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/NOTE-design-principles-20250325/",
-        "status": "Note",
-        "date": "2025-03-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/NOTE-design-principles-20250306/",
-        "status": "Note",
-        "date": "2025-03-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/NOTE-design-principles-20250304/",
-        "status": "Note",
-        "date": "2025-03-04"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/NOTE-design-principles-20250226/",
-        "status": "Note",
-        "date": "2025-02-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/NOTE-design-principles-20250106/",
-        "status": "Note",
-        "date": "2025-01-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/NOTE-design-principles-20240718/",
-        "status": "Note",
-        "date": "2024-07-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/NOTE-design-principles-20240130/",
-        "status": "Note",
-        "date": "2024-01-30"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-design-principles-20230907/",
-        "status": "Note",
-        "date": "2023-09-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-design-principles-20230426/",
-        "status": "Note",
-        "date": "2023-04-26"
-      },
-      {
-        "url": "https://www.w3.org/TR/2023/NOTE-design-principles-20230224/",
-        "status": "Note",
-        "date": "2023-02-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2022/NOTE-design-principles-20220824/",
-        "status": "Note",
-        "date": "2022-08-24"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-design-principles-20211216/",
-        "status": "Note",
-        "date": "2021-12-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2021/NOTE-design-principles-20210923/",
-        "status": "Note",
-        "date": "2021-09-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2020/NOTE-design-principles-20201110/",
-        "status": "Note",
-        "date": "2020-11-10"
-      }
-    ],
-    "abstract": "This document contains a set of design principles to be used when designing web platform technologies. These principles have been collected during the Technical Architecture Group’s discussions in reviewing developing specifications, and build upon the Ethical Web Principles [ethical-web-principles]. We encourage specification designers to read this document and use it as a resource when making design decisions."
-  },
-  {
     "url": "https://www.w3.org/TR/webdriver-bidi/",
     "title": "WebDriver BiDi",
     "status": "Draft Standard",
@@ -79765,6 +78580,1136 @@
       }
     ],
     "abstract": "This document defines the BiDirectional WebDriver Protocol, a mechanism for remote control of user agents."
+  },
+  {
+    "url": "https://www.w3.org/TR/html-aam-1.0/",
+    "title": "HTML Accessibility API Mappings 1.0",
+    "status": "Draft Standard",
+    "date": "2025-10-22",
+    "histUrl": "https://www.w3.org/standards/history/html-aam-1.0/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/WD-html-aam-1.0-20251022/",
+        "status": "Working Draft",
+        "date": "2025-10-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-html-aam-1.0-20251014/",
+        "status": "Working Draft",
+        "date": "2025-10-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-html-aam-1.0-20251010/",
+        "status": "Working Draft",
+        "date": "2025-10-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-html-aam-1.0-20250926/",
+        "status": "Working Draft",
+        "date": "2025-09-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-html-aam-1.0-20250925/",
+        "status": "Working Draft",
+        "date": "2025-09-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-html-aam-1.0-20250918/",
+        "status": "Working Draft",
+        "date": "2025-09-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-html-aam-1.0-20250917/",
+        "status": "Working Draft",
+        "date": "2025-09-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-html-aam-1.0-20250903/",
+        "status": "Working Draft",
+        "date": "2025-09-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-html-aam-1.0-20250730/",
+        "status": "Working Draft",
+        "date": "2025-07-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-html-aam-1.0-20250725/",
+        "status": "Working Draft",
+        "date": "2025-07-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-html-aam-1.0-20250627/",
+        "status": "Working Draft",
+        "date": "2025-06-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-html-aam-1.0-20250617/",
+        "status": "Working Draft",
+        "date": "2025-06-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-html-aam-1.0-20250613/",
+        "status": "Working Draft",
+        "date": "2025-06-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-html-aam-1.0-20250529/",
+        "status": "Working Draft",
+        "date": "2025-05-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-html-aam-1.0-20250522/",
+        "status": "Working Draft",
+        "date": "2025-05-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-html-aam-1.0-20250508/",
+        "status": "Working Draft",
+        "date": "2025-05-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-html-aam-1.0-20250402/",
+        "status": "Working Draft",
+        "date": "2025-04-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-html-aam-1.0-20250324/",
+        "status": "Working Draft",
+        "date": "2025-03-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-html-aam-1.0-20250320/",
+        "status": "Working Draft",
+        "date": "2025-03-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-html-aam-1.0-20250307/",
+        "status": "Working Draft",
+        "date": "2025-03-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-html-aam-1.0-20250301/",
+        "status": "Working Draft",
+        "date": "2025-03-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-html-aam-1.0-20250226/",
+        "status": "Working Draft",
+        "date": "2025-02-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-html-aam-1.0-20250212/",
+        "status": "Working Draft",
+        "date": "2025-02-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-html-aam-1.0-20250207/",
+        "status": "Working Draft",
+        "date": "2025-02-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-html-aam-1.0-20250116/",
+        "status": "Working Draft",
+        "date": "2025-01-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-html-aam-1.0-20250115/",
+        "status": "Working Draft",
+        "date": "2025-01-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-html-aam-1.0-20250110/",
+        "status": "Working Draft",
+        "date": "2025-01-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-html-aam-1.0-20241211/",
+        "status": "Working Draft",
+        "date": "2024-12-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-html-aam-1.0-20241121/",
+        "status": "Working Draft",
+        "date": "2024-11-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-html-aam-1.0-20241111/",
+        "status": "Working Draft",
+        "date": "2024-11-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-html-aam-1.0-20240819/",
+        "status": "Working Draft",
+        "date": "2024-08-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-html-aam-1.0-20240815/",
+        "status": "Working Draft",
+        "date": "2024-08-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-html-aam-1.0-20240716/",
+        "status": "Working Draft",
+        "date": "2024-07-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-html-aam-1.0-20240711/",
+        "status": "Working Draft",
+        "date": "2024-07-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-html-aam-1.0-20240626/",
+        "status": "Working Draft",
+        "date": "2024-06-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-html-aam-1.0-20240621/",
+        "status": "Working Draft",
+        "date": "2024-06-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-html-aam-1.0-20240418/",
+        "status": "Working Draft",
+        "date": "2024-04-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-html-aam-1.0-20240408/",
+        "status": "Working Draft",
+        "date": "2024-04-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-html-aam-1.0-20240226/",
+        "status": "Working Draft",
+        "date": "2024-02-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-html-aam-1.0-20240208/",
+        "status": "Working Draft",
+        "date": "2024-02-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-html-aam-1.0-20240206/",
+        "status": "Working Draft",
+        "date": "2024-02-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20231204/",
+        "status": "Working Draft",
+        "date": "2023-12-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20231102/",
+        "status": "Working Draft",
+        "date": "2023-11-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20231016/",
+        "status": "Working Draft",
+        "date": "2023-10-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20231009/",
+        "status": "Working Draft",
+        "date": "2023-10-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20231003/",
+        "status": "Working Draft",
+        "date": "2023-10-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230925/",
+        "status": "Working Draft",
+        "date": "2023-09-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230902/",
+        "status": "Working Draft",
+        "date": "2023-09-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230825/",
+        "status": "Working Draft",
+        "date": "2023-08-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230818/",
+        "status": "Working Draft",
+        "date": "2023-08-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230728/",
+        "status": "Working Draft",
+        "date": "2023-07-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230705/",
+        "status": "Working Draft",
+        "date": "2023-07-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230627/",
+        "status": "Working Draft",
+        "date": "2023-06-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230617/",
+        "status": "Working Draft",
+        "date": "2023-06-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230609/",
+        "status": "Working Draft",
+        "date": "2023-06-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230606/",
+        "status": "Working Draft",
+        "date": "2023-06-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230519/",
+        "status": "Working Draft",
+        "date": "2023-05-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230515/",
+        "status": "Working Draft",
+        "date": "2023-05-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230510/",
+        "status": "Working Draft",
+        "date": "2023-05-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230509/",
+        "status": "Working Draft",
+        "date": "2023-05-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230503/",
+        "status": "Working Draft",
+        "date": "2023-05-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230427/",
+        "status": "Working Draft",
+        "date": "2023-04-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230411/",
+        "status": "Working Draft",
+        "date": "2023-04-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230328/",
+        "status": "Working Draft",
+        "date": "2023-03-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230324/",
+        "status": "Working Draft",
+        "date": "2023-03-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230322/",
+        "status": "Working Draft",
+        "date": "2023-03-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230308/",
+        "status": "Working Draft",
+        "date": "2023-03-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230202/",
+        "status": "Working Draft",
+        "date": "2023-02-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-html-aam-1.0-20230131/",
+        "status": "Working Draft",
+        "date": "2023-01-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20221212/",
+        "status": "Working Draft",
+        "date": "2022-12-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20221208/",
+        "status": "Working Draft",
+        "date": "2022-12-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20221128/",
+        "status": "Working Draft",
+        "date": "2022-11-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20221104/",
+        "status": "Working Draft",
+        "date": "2022-11-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20221026/",
+        "status": "Working Draft",
+        "date": "2022-10-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20221004/",
+        "status": "Working Draft",
+        "date": "2022-10-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220829/",
+        "status": "Working Draft",
+        "date": "2022-08-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220719/",
+        "status": "Working Draft",
+        "date": "2022-07-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220714/",
+        "status": "Working Draft",
+        "date": "2022-07-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220713/",
+        "status": "Working Draft",
+        "date": "2022-07-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220711/",
+        "status": "Working Draft",
+        "date": "2022-07-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220709/",
+        "status": "Working Draft",
+        "date": "2022-07-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220708/",
+        "status": "Working Draft",
+        "date": "2022-07-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220602/",
+        "status": "Working Draft",
+        "date": "2022-06-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220531/",
+        "status": "Working Draft",
+        "date": "2022-05-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220526/",
+        "status": "Working Draft",
+        "date": "2022-05-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220524/",
+        "status": "Working Draft",
+        "date": "2022-05-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220504/",
+        "status": "Working Draft",
+        "date": "2022-05-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220503/",
+        "status": "Working Draft",
+        "date": "2022-05-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220502/",
+        "status": "Working Draft",
+        "date": "2022-05-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220429/",
+        "status": "Working Draft",
+        "date": "2022-04-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220413/",
+        "status": "Working Draft",
+        "date": "2022-04-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220404/",
+        "status": "Working Draft",
+        "date": "2022-04-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220307/",
+        "status": "Working Draft",
+        "date": "2022-03-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220121/",
+        "status": "Working Draft",
+        "date": "2022-01-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-html-aam-1.0-20220120/",
+        "status": "Working Draft",
+        "date": "2022-01-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-html-aam-1.0-20210813/",
+        "status": "Working Draft",
+        "date": "2021-08-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-html-aam-1.0-20210811/",
+        "status": "Working Draft",
+        "date": "2021-08-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-html-aam-1.0-20210810/",
+        "status": "Working Draft",
+        "date": "2021-08-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-html-aam-1.0-20200817/",
+        "status": "Working Draft",
+        "date": "2020-08-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-html-aam-1.0-20200811/",
+        "status": "Working Draft",
+        "date": "2020-08-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-html-aam-1.0-20200718/",
+        "status": "Working Draft",
+        "date": "2020-07-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-html-aam-1.0-20200629/",
+        "status": "Working Draft",
+        "date": "2020-06-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-html-aam-1.0-20200601/",
+        "status": "Working Draft",
+        "date": "2020-06-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/WD-html-aam-1.0-20200529/",
+        "status": "Working Draft",
+        "date": "2020-05-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20191217/",
+        "status": "Working Draft",
+        "date": "2019-12-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20191213/",
+        "status": "Working Draft",
+        "date": "2019-12-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20191212/",
+        "status": "Working Draft",
+        "date": "2019-12-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20191210/",
+        "status": "Working Draft",
+        "date": "2019-12-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20191112/",
+        "status": "Working Draft",
+        "date": "2019-11-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20191111/",
+        "status": "Working Draft",
+        "date": "2019-11-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20191018/",
+        "status": "Working Draft",
+        "date": "2019-10-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20191006/",
+        "status": "Working Draft",
+        "date": "2019-10-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20191005/",
+        "status": "Working Draft",
+        "date": "2019-10-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190923/",
+        "status": "Working Draft",
+        "date": "2019-09-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190922/",
+        "status": "Working Draft",
+        "date": "2019-09-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190919/",
+        "status": "Working Draft",
+        "date": "2019-09-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190918/",
+        "status": "Working Draft",
+        "date": "2019-09-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190914/",
+        "status": "Working Draft",
+        "date": "2019-09-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190913/",
+        "status": "Working Draft",
+        "date": "2019-09-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190911/",
+        "status": "Working Draft",
+        "date": "2019-09-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190715/",
+        "status": "Working Draft",
+        "date": "2019-07-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190710/",
+        "status": "Working Draft",
+        "date": "2019-07-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190703/",
+        "status": "Working Draft",
+        "date": "2019-07-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190628/",
+        "status": "Working Draft",
+        "date": "2019-06-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190614/",
+        "status": "Working Draft",
+        "date": "2019-06-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190610/",
+        "status": "Working Draft",
+        "date": "2019-06-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190603/",
+        "status": "Working Draft",
+        "date": "2019-06-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190531/",
+        "status": "Working Draft",
+        "date": "2019-05-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190530/",
+        "status": "Working Draft",
+        "date": "2019-05-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190131/",
+        "status": "Working Draft",
+        "date": "2019-01-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190124/",
+        "status": "Working Draft",
+        "date": "2019-01-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2019/WD-html-aam-1.0-20190118/",
+        "status": "Working Draft",
+        "date": "2019-01-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20181214/",
+        "status": "Working Draft",
+        "date": "2018-12-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20181025/",
+        "status": "Working Draft",
+        "date": "2018-10-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20181022/",
+        "status": "Working Draft",
+        "date": "2018-10-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20181018/",
+        "status": "Working Draft",
+        "date": "2018-10-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20181005/",
+        "status": "Working Draft",
+        "date": "2018-10-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180926/",
+        "status": "Working Draft",
+        "date": "2018-09-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180907/",
+        "status": "Working Draft",
+        "date": "2018-09-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180802/",
+        "status": "Working Draft",
+        "date": "2018-08-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180725/",
+        "status": "Working Draft",
+        "date": "2018-07-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180530/",
+        "status": "Working Draft",
+        "date": "2018-05-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180528/",
+        "status": "Working Draft",
+        "date": "2018-05-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180519/",
+        "status": "Working Draft",
+        "date": "2018-05-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180503/",
+        "status": "Working Draft",
+        "date": "2018-05-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180307/",
+        "status": "Working Draft",
+        "date": "2018-03-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180302/",
+        "status": "Working Draft",
+        "date": "2018-03-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180301/",
+        "status": "Working Draft",
+        "date": "2018-03-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180226/",
+        "status": "Working Draft",
+        "date": "2018-02-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180131/",
+        "status": "Working Draft",
+        "date": "2018-01-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180128/",
+        "status": "Working Draft",
+        "date": "2018-01-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180109/",
+        "status": "Working Draft",
+        "date": "2018-01-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180108/",
+        "status": "Working Draft",
+        "date": "2018-01-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2018/WD-html-aam-1.0-20180105/",
+        "status": "Working Draft",
+        "date": "2018-01-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20171218/",
+        "status": "Working Draft",
+        "date": "2017-12-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20171207/",
+        "status": "Working Draft",
+        "date": "2017-12-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20171130/",
+        "status": "Working Draft",
+        "date": "2017-11-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20171123/",
+        "status": "Working Draft",
+        "date": "2017-11-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20171027/",
+        "status": "Working Draft",
+        "date": "2017-10-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20171010/",
+        "status": "Working Draft",
+        "date": "2017-10-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20170606/",
+        "status": "Working Draft",
+        "date": "2017-06-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20170602/",
+        "status": "Working Draft",
+        "date": "2017-06-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20170531/",
+        "status": "Working Draft",
+        "date": "2017-05-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20170524/",
+        "status": "Working Draft",
+        "date": "2017-05-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20170510/",
+        "status": "Working Draft",
+        "date": "2017-05-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20170504/",
+        "status": "Working Draft",
+        "date": "2017-05-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20170501/",
+        "status": "Working Draft",
+        "date": "2017-05-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20170427/",
+        "status": "Working Draft",
+        "date": "2017-04-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20170419/",
+        "status": "Working Draft",
+        "date": "2017-04-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20170322/",
+        "status": "Working Draft",
+        "date": "2017-03-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20170215/",
+        "status": "Working Draft",
+        "date": "2017-02-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2017/WD-html-aam-1.0-20170214/",
+        "status": "Working Draft",
+        "date": "2017-02-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/WD-html-aam-1.0-20161223/",
+        "status": "Working Draft",
+        "date": "2016-12-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/WD-html-aam-1.0-20161222/",
+        "status": "Working Draft",
+        "date": "2016-12-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/WD-html-aam-1.0-20161221/",
+        "status": "Working Draft",
+        "date": "2016-12-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/WD-html-aam-1.0-20161214/",
+        "status": "Working Draft",
+        "date": "2016-12-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/WD-html-aam-1.0-20161212/",
+        "status": "Working Draft",
+        "date": "2016-12-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/WD-html-aam-1.0-20161211/",
+        "status": "Working Draft",
+        "date": "2016-12-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2016/WD-html-aam-1.0-20161208/",
+        "status": "Working Draft",
+        "date": "2016-12-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2015/WD-html-aam-1.0-20151203/",
+        "status": "Working Draft",
+        "date": "2015-12-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2015/WD-html-aam-1.0-20150407/",
+        "status": "First Public Working Draft",
+        "date": "2015-04-07"
+      }
+    ],
+    "abstract": "HTML Accessibility API Mappings (HTML-AAM) defines how user agents map HTML [HTML] elements and attributes to platform accessibility application programming interfaces (APIs). It leverages and extends the Core Accessibility API Mappings 1.2 and the Accessible Name and Description Computation 1.2 for use with the HTML host language. Documenting these mappings promotes interoperable exposure of roles, states, properties, and events implemented by accessibility APIs and helps to ensure that this information appears in a manner consistent with author intent."
+  },
+  {
+    "url": "https://www.w3.org/TR/pointerevents4/",
+    "title": "Pointer Events",
+    "status": "Draft Standard",
+    "date": "2025-10-22",
+    "histUrl": "https://www.w3.org/standards/history/pointerevents4/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/WD-pointerevents4-20251022/",
+        "status": "Working Draft",
+        "date": "2025-10-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-pointerevents4-20251015/",
+        "status": "Working Draft",
+        "date": "2025-10-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-pointerevents4-20250501/",
+        "status": "Working Draft",
+        "date": "2025-05-01"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-pointerevents4-20250319/",
+        "status": "Working Draft",
+        "date": "2025-03-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-pointerevents4-20250318/",
+        "status": "Working Draft",
+        "date": "2025-03-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-pointerevents4-20250313/",
+        "status": "Working Draft",
+        "date": "2025-03-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-pointerevents4-20250312/",
+        "status": "Working Draft",
+        "date": "2025-03-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-pointerevents4-20250226/",
+        "status": "Working Draft",
+        "date": "2025-02-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-pointerevents4-20250213/",
+        "status": "Working Draft",
+        "date": "2025-02-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-pointerevents4-20250212/",
+        "status": "Working Draft",
+        "date": "2025-02-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-pointerevents4-20250129/",
+        "status": "Working Draft",
+        "date": "2025-01-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-pointerevents4-20241129/",
+        "status": "Working Draft",
+        "date": "2024-11-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-pointerevents4-20241128/",
+        "status": "First Public Working Draft",
+        "date": "2024-11-28"
+      }
+    ],
+    "abstract": "The features in this specification extend or modify those found in Pointer Events, a W3C Recommendation that describes events and related interfaces for handling hardware-agnostic pointer input from devices including a mouse, pen, or touchscreen. For compatibility with existing mouse-based content, this specification also describes a mapping to fire Mouse Events for other pointer device types."
+  },
+  {
+    "url": "https://www.w3.org/TR/design-principles/",
+    "title": "Web Platform Design Principles",
+    "status": "Note",
+    "date": "2025-10-22",
+    "histUrl": "https://www.w3.org/standards/history/design-principles/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/NOTE-design-principles-20251022/",
+        "status": "Note",
+        "date": "2025-10-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/NOTE-design-principles-20251021/",
+        "status": "Note",
+        "date": "2025-10-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/NOTE-design-principles-20251020/",
+        "status": "Note",
+        "date": "2025-10-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/NOTE-design-principles-20251007/",
+        "status": "Note",
+        "date": "2025-10-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/NOTE-design-principles-20250918/",
+        "status": "Note",
+        "date": "2025-09-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/NOTE-design-principles-20250702/",
+        "status": "Note",
+        "date": "2025-07-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/NOTE-design-principles-20250626/",
+        "status": "Note",
+        "date": "2025-06-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/NOTE-design-principles-20250603/",
+        "status": "Note",
+        "date": "2025-06-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/NOTE-design-principles-20250522/",
+        "status": "Note",
+        "date": "2025-05-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/NOTE-design-principles-20250519/",
+        "status": "Note",
+        "date": "2025-05-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/NOTE-design-principles-20250516/",
+        "status": "Note",
+        "date": "2025-05-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/NOTE-design-principles-20250430/",
+        "status": "Note",
+        "date": "2025-04-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/NOTE-design-principles-20250325/",
+        "status": "Note",
+        "date": "2025-03-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/NOTE-design-principles-20250306/",
+        "status": "Note",
+        "date": "2025-03-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/NOTE-design-principles-20250304/",
+        "status": "Note",
+        "date": "2025-03-04"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/NOTE-design-principles-20250226/",
+        "status": "Note",
+        "date": "2025-02-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/NOTE-design-principles-20250106/",
+        "status": "Note",
+        "date": "2025-01-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/NOTE-design-principles-20240718/",
+        "status": "Note",
+        "date": "2024-07-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/NOTE-design-principles-20240130/",
+        "status": "Note",
+        "date": "2024-01-30"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-design-principles-20230907/",
+        "status": "Note",
+        "date": "2023-09-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-design-principles-20230426/",
+        "status": "Note",
+        "date": "2023-04-26"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/NOTE-design-principles-20230224/",
+        "status": "Note",
+        "date": "2023-02-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/NOTE-design-principles-20220824/",
+        "status": "Note",
+        "date": "2022-08-24"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-design-principles-20211216/",
+        "status": "Note",
+        "date": "2021-12-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/NOTE-design-principles-20210923/",
+        "status": "Note",
+        "date": "2021-09-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2020/NOTE-design-principles-20201110/",
+        "status": "Note",
+        "date": "2020-11-10"
+      }
+    ],
+    "abstract": "This document contains a set of design principles to be used when designing web platform technologies. These principles have been collected during the Technical Architecture Group’s discussions in reviewing developing specifications, and build upon the Ethical Web Principles [ethical-web-principles]. We encourage specification designers to read this document and use it as a resource when making design decisions."
   },
   {
     "url": "https://www.w3.org/TR/webgpu/",
@@ -81940,5 +81885,80 @@
       }
     ],
     "abstract": "WebGPU exposes an API for performing operations, such as rendering and computation, on a Graphics Processing Unit."
+  },
+  {
+    "url": "https://www.w3.org/TR/webtransport/",
+    "title": "WebTransport",
+    "status": "Draft Standard",
+    "date": "2025-10-22",
+    "histUrl": "https://www.w3.org/standards/history/webtransport/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webtransport-20251022/",
+        "status": "Working Draft",
+        "date": "2025-10-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webtransport-20251008/",
+        "status": "Working Draft",
+        "date": "2025-10-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webtransport-20250702/",
+        "status": "Working Draft",
+        "date": "2025-07-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-webtransport-20250212/",
+        "status": "Working Draft",
+        "date": "2025-02-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-webtransport-20240531/",
+        "status": "Working Draft",
+        "date": "2024-05-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-webtransport-20231220/",
+        "status": "Working Draft",
+        "date": "2023-12-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-webtransport-20230712/",
+        "status": "Working Draft",
+        "date": "2023-07-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-webtransport-20230405/",
+        "status": "Working Draft",
+        "date": "2023-04-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2023/WD-webtransport-20230118/",
+        "status": "Working Draft",
+        "date": "2023-01-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webtransport-20220623/",
+        "status": "Working Draft",
+        "date": "2022-06-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2022/WD-webtransport-20220311/",
+        "status": "Working Draft",
+        "date": "2022-03-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-webtransport-20211014/",
+        "status": "Working Draft",
+        "date": "2021-10-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2021/WD-webtransport-20210504/",
+        "status": "First Public Working Draft",
+        "date": "2021-05-04"
+      }
+    ],
+    "abstract": "This document defines a set of ECMAScript APIs in WebIDL to allow data to be sent and received between a browser and server, utilizing [WEB-TRANSPORT-OVERVIEW]. This specification is being developed in conjunction with protocol specifications developed by the IETF WEBTRANS Working Group."
   }
 ]
