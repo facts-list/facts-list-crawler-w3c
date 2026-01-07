@@ -71057,86 +71057,6 @@
     "abstract": "This specification describes support for exposing estimates of environmental lighting conditions to WebXR sessions."
   },
   {
-    "url": "https://www.w3.org/TR/did-extensions-methods/",
-    "title": "DID Methods",
-    "status": "Note",
-    "date": "2025-12-12",
-    "histUrl": "https://www.w3.org/standards/history/did-extensions-methods/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/NOTE-did-extensions-methods-20251212/",
-        "status": "Note",
-        "date": "2025-12-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/NOTE-did-extensions-methods-20251211/",
-        "status": "Note",
-        "date": "2025-12-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/NOTE-did-extensions-methods-20251114/",
-        "status": "Note",
-        "date": "2025-11-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/NOTE-did-extensions-methods-20251028/",
-        "status": "Note",
-        "date": "2025-10-28"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/NOTE-did-extensions-methods-20250929/",
-        "status": "Note",
-        "date": "2025-09-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/NOTE-did-extensions-methods-20250927/",
-        "status": "Note",
-        "date": "2025-09-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/NOTE-did-extensions-methods-20250922/",
-        "status": "Note",
-        "date": "2025-09-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/NOTE-did-extensions-methods-20250902/",
-        "status": "Note",
-        "date": "2025-09-02"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/NOTE-did-extensions-methods-20250429/",
-        "status": "Note",
-        "date": "2025-04-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/NOTE-did-extensions-methods-20250427/",
-        "status": "Note",
-        "date": "2025-04-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/NOTE-did-extensions-methods-20250409/",
-        "status": "Note",
-        "date": "2025-04-09"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/NOTE-did-extensions-methods-20250219/",
-        "status": "Note",
-        "date": "2025-02-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/NOTE-did-extensions-methods-20250120/",
-        "status": "Note",
-        "date": "2025-01-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/NOTE-did-extensions-methods-20241119/",
-        "status": "Note",
-        "date": "2024-11-19"
-      }
-    ],
-    "abstract": "This document serves as a collection of known DID Methods."
-  },
-  {
     "url": "https://www.w3.org/TR/service-workers/",
     "title": "Service Workers Nightly",
     "status": "Candidate Standard",
@@ -77242,51 +77162,6 @@
     "abstract": "RDF is a directed, labeled graph data model for representing information in the Web. This specification defines the syntax and semantics of the SPARQL Query Language for RDF. SPARQL can be used to express queries across diverse data sources, whether the data is stored natively as RDF or viewed as RDF via middleware. SPARQL contains capabilities for querying required and optional graph patterns along with their conjunctions and disjunctions. SPARQL also supports aggregation, subqueries, negation, creating values by expressions, extensible value testing, and constraining queries by source RDF graph. The results of SPARQL queries can be result sets or RDF graphs."
   },
   {
-    "url": "https://www.w3.org/TR/attribution/",
-    "title": "Attribution Level 1",
-    "status": "Draft Standard",
-    "date": "2026-01-05",
-    "histUrl": "https://www.w3.org/standards/history/attribution/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2026/WD-attribution-20260105/",
-        "status": "Working Draft",
-        "date": "2026-01-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-attribution-20251218/",
-        "status": "Working Draft",
-        "date": "2025-12-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-attribution-20251216/",
-        "status": "Working Draft",
-        "date": "2025-12-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-attribution-20251212/",
-        "status": "Working Draft",
-        "date": "2025-12-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-attribution-20251211/",
-        "status": "Working Draft",
-        "date": "2025-12-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-privacy-preserving-attribution-20250616/",
-        "status": "Working Draft",
-        "date": "2025-06-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-privacy-preserving-attribution-20250422/",
-        "status": "First Public Working Draft",
-        "date": "2025-04-22"
-      }
-    ],
-    "abstract": "This specifies a browser API for the measurement of advertising performance. The goal is to produce aggregate statistics about how advertising leads to conversions, without creating a risk to the privacy of individual web users. This API collates information about people from multiple web origins, which could be a significant risk to their privacy. To manage this risk, the information that is gathered is aggregated using an aggregation service that is trusted by the user-agent to perform aggregation within strict limits. Noise is added to the aggregates produced by this service to provide differential privacy. Websites may select an aggregation service from the list of approved aggregation services provided by the user-agent."
-  },
-  {
     "url": "https://www.w3.org/TR/did-resolution/",
     "title": "Decentralized Identifier Resolution (DID Resolution) v0.3",
     "status": "Draft Standard",
@@ -78755,6 +78630,141 @@
       }
     ],
     "abstract": "This specification defines a JSON-based file format that provides developers with a centralized place to put metadata associated with a web application. This metadata includes, but is not limited to, the web application's name, links to icons, as well as the preferred URL to open when a user launches the web application. The manifest also allows developers to declare a default screen orientation for their web application, as well as providing the ability to set the display mode for the application (e.g., in fullscreen). Additionally, the manifest allows a developer to \"scope\" a web application to a URL. This restricts the URLs to which the manifest is applied and provides a means to \"deep link\" into a web application from other applications."
+  },
+  {
+    "url": "https://www.w3.org/TR/attribution/",
+    "title": "Attribution Level 1",
+    "status": "Draft Standard",
+    "date": "2026-01-06",
+    "histUrl": "https://www.w3.org/standards/history/attribution/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2026/WD-attribution-20260106/",
+        "status": "Working Draft",
+        "date": "2026-01-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2026/WD-attribution-20260105/",
+        "status": "Working Draft",
+        "date": "2026-01-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-attribution-20251218/",
+        "status": "Working Draft",
+        "date": "2025-12-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-attribution-20251216/",
+        "status": "Working Draft",
+        "date": "2025-12-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-attribution-20251212/",
+        "status": "Working Draft",
+        "date": "2025-12-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-attribution-20251211/",
+        "status": "Working Draft",
+        "date": "2025-12-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-privacy-preserving-attribution-20250616/",
+        "status": "Working Draft",
+        "date": "2025-06-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-privacy-preserving-attribution-20250422/",
+        "status": "First Public Working Draft",
+        "date": "2025-04-22"
+      }
+    ],
+    "abstract": "This specifies a browser API for the measurement of advertising performance. The goal is to produce aggregate statistics about how advertising leads to conversions, without creating a risk to the privacy of individual web users. This API collates information about people from multiple web origins, which could be a significant risk to their privacy. To manage this risk, the information that is gathered is aggregated using an aggregation service that is trusted by the user-agent to perform aggregation within strict limits. Noise is added to the aggregates produced by this service to provide differential privacy. Websites may select an aggregation service from the list of approved aggregation services provided by the user-agent."
+  },
+  {
+    "url": "https://www.w3.org/TR/did-extensions-methods/",
+    "title": "DID Methods",
+    "status": "Note",
+    "date": "2026-01-06",
+    "histUrl": "https://www.w3.org/standards/history/did-extensions-methods/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2026/NOTE-did-extensions-methods-20260106/",
+        "status": "Note",
+        "date": "2026-01-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/NOTE-did-extensions-methods-20251212/",
+        "status": "Note",
+        "date": "2025-12-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/NOTE-did-extensions-methods-20251211/",
+        "status": "Note",
+        "date": "2025-12-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/NOTE-did-extensions-methods-20251114/",
+        "status": "Note",
+        "date": "2025-11-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/NOTE-did-extensions-methods-20251028/",
+        "status": "Note",
+        "date": "2025-10-28"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/NOTE-did-extensions-methods-20250929/",
+        "status": "Note",
+        "date": "2025-09-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/NOTE-did-extensions-methods-20250927/",
+        "status": "Note",
+        "date": "2025-09-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/NOTE-did-extensions-methods-20250922/",
+        "status": "Note",
+        "date": "2025-09-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/NOTE-did-extensions-methods-20250902/",
+        "status": "Note",
+        "date": "2025-09-02"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/NOTE-did-extensions-methods-20250429/",
+        "status": "Note",
+        "date": "2025-04-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/NOTE-did-extensions-methods-20250427/",
+        "status": "Note",
+        "date": "2025-04-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/NOTE-did-extensions-methods-20250409/",
+        "status": "Note",
+        "date": "2025-04-09"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/NOTE-did-extensions-methods-20250219/",
+        "status": "Note",
+        "date": "2025-02-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/NOTE-did-extensions-methods-20250120/",
+        "status": "Note",
+        "date": "2025-01-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/NOTE-did-extensions-methods-20241119/",
+        "status": "Note",
+        "date": "2024-11-19"
+      }
+    ],
+    "abstract": "This document serves as a collection of known DID Methods."
   },
   {
     "url": "https://www.w3.org/TR/webgpu/",
