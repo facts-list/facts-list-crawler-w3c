@@ -80977,216 +80977,6 @@
     "abstract": "This specifies a browser API for the measurement of advertising performance. The goal is to produce aggregate statistics about how advertising leads to conversions, without creating a risk to the privacy of individual web users. This API collates information about people from multiple web origins, which could be a significant risk to their privacy. To manage this risk, the information that is gathered is aggregated using an aggregation service that is trusted by the user-agent to perform aggregation within strict limits. Noise is added to the aggregates produced by this service to provide differential privacy. Websites may select an aggregation service from the list of approved aggregation services provided by the user-agent."
   },
   {
-    "url": "https://www.w3.org/TR/did-resolution/",
-    "title": "Decentralized Identifier Resolution (DID Resolution) v0.3",
-    "status": "Draft Standard",
-    "date": "2026-01-15",
-    "histUrl": "https://www.w3.org/standards/history/did-resolution/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2026/WD-did-resolution-20260115/",
-        "status": "Working Draft",
-        "date": "2026-01-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2026/WD-did-resolution-20260113/",
-        "status": "Working Draft",
-        "date": "2026-01-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2026/WD-did-resolution-20260112/",
-        "status": "Working Draft",
-        "date": "2026-01-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2026/WD-did-resolution-20260111/",
-        "status": "Working Draft",
-        "date": "2026-01-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2026/WD-did-resolution-20260108/",
-        "status": "Working Draft",
-        "date": "2026-01-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2026/WD-did-resolution-20260107/",
-        "status": "Working Draft",
-        "date": "2026-01-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2026/WD-did-resolution-20260105/",
-        "status": "Working Draft",
-        "date": "2026-01-05"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20251218/",
-        "status": "Working Draft",
-        "date": "2025-12-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20251217/",
-        "status": "Working Draft",
-        "date": "2025-12-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20251211/",
-        "status": "Working Draft",
-        "date": "2025-12-11"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20251120/",
-        "status": "Working Draft",
-        "date": "2025-11-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20251016/",
-        "status": "Working Draft",
-        "date": "2025-10-16"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20251013/",
-        "status": "Working Draft",
-        "date": "2025-10-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20251008/",
-        "status": "Working Draft",
-        "date": "2025-10-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20251007/",
-        "status": "Working Draft",
-        "date": "2025-10-07"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20250929/",
-        "status": "Working Draft",
-        "date": "2025-09-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20250918/",
-        "status": "Working Draft",
-        "date": "2025-09-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20250908/",
-        "status": "Working Draft",
-        "date": "2025-09-08"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20250821/",
-        "status": "Working Draft",
-        "date": "2025-08-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20250803/",
-        "status": "Working Draft",
-        "date": "2025-08-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20250731/",
-        "status": "Working Draft",
-        "date": "2025-07-31"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20250729/",
-        "status": "Working Draft",
-        "date": "2025-07-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20250710/",
-        "status": "Working Draft",
-        "date": "2025-07-10"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20250619/",
-        "status": "Working Draft",
-        "date": "2025-06-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20250617/",
-        "status": "Working Draft",
-        "date": "2025-06-17"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20250529/",
-        "status": "Working Draft",
-        "date": "2025-05-29"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20250522/",
-        "status": "Working Draft",
-        "date": "2025-05-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20250423/",
-        "status": "Working Draft",
-        "date": "2025-04-23"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20250327/",
-        "status": "Working Draft",
-        "date": "2025-03-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20250322/",
-        "status": "Working Draft",
-        "date": "2025-03-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20250313/",
-        "status": "Working Draft",
-        "date": "2025-03-13"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20250227/",
-        "status": "Working Draft",
-        "date": "2025-02-27"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20250221/",
-        "status": "Working Draft",
-        "date": "2025-02-21"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20250214/",
-        "status": "Working Draft",
-        "date": "2025-02-14"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20250206/",
-        "status": "Working Draft",
-        "date": "2025-02-06"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20250122/",
-        "status": "Working Draft",
-        "date": "2025-01-22"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20250115/",
-        "status": "Working Draft",
-        "date": "2025-01-15"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-did-resolution-20241212/",
-        "status": "Working Draft",
-        "date": "2024-12-12"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-did-resolution-20241203/",
-        "status": "Working Draft",
-        "date": "2024-12-03"
-      },
-      {
-        "url": "https://www.w3.org/TR/2024/WD-did-resolution-20241128/",
-        "status": "First Public Working Draft",
-        "date": "2024-11-28"
-      }
-    ],
-    "abstract": "Decentralized identifier (DID) resolution is the process of obtaining a DID document and accompanying metadata for a specific DID. The process takes a DID and a set of resolution options as its input and returns a DID document and associated metadata about the resolved document and the resolution request. A resolved DID document is a set of information which enables cryptographically verifiable interactions with the DID subject, including mechanisms such as cryptographic public keys. This specification covers the algorithms and guidelines to be used for DID resolution and relies on the core DID specification, Decentralized Identifiers (DIDs) v1.0, which describes the underlying DID architecture in full detail."
-  },
-  {
     "url": "https://www.w3.org/TR/digital-credentials/",
     "title": "Digital Credentials",
     "status": "Draft Standard",
@@ -83565,5 +83355,220 @@
       }
     ],
     "abstract": "This document describes a dedicated low-level API for neural network inference hardware acceleration."
+  },
+  {
+    "url": "https://www.w3.org/TR/did-resolution/",
+    "title": "Decentralized Identifier Resolution (DID Resolution) v0.3",
+    "status": "Draft Standard",
+    "date": "2026-01-17",
+    "histUrl": "https://www.w3.org/standards/history/did-resolution/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2026/WD-did-resolution-20260117/",
+        "status": "Working Draft",
+        "date": "2026-01-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2026/WD-did-resolution-20260115/",
+        "status": "Working Draft",
+        "date": "2026-01-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2026/WD-did-resolution-20260113/",
+        "status": "Working Draft",
+        "date": "2026-01-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2026/WD-did-resolution-20260112/",
+        "status": "Working Draft",
+        "date": "2026-01-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2026/WD-did-resolution-20260111/",
+        "status": "Working Draft",
+        "date": "2026-01-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2026/WD-did-resolution-20260108/",
+        "status": "Working Draft",
+        "date": "2026-01-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2026/WD-did-resolution-20260107/",
+        "status": "Working Draft",
+        "date": "2026-01-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2026/WD-did-resolution-20260105/",
+        "status": "Working Draft",
+        "date": "2026-01-05"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20251218/",
+        "status": "Working Draft",
+        "date": "2025-12-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20251217/",
+        "status": "Working Draft",
+        "date": "2025-12-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20251211/",
+        "status": "Working Draft",
+        "date": "2025-12-11"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20251120/",
+        "status": "Working Draft",
+        "date": "2025-11-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20251016/",
+        "status": "Working Draft",
+        "date": "2025-10-16"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20251013/",
+        "status": "Working Draft",
+        "date": "2025-10-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20251008/",
+        "status": "Working Draft",
+        "date": "2025-10-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20251007/",
+        "status": "Working Draft",
+        "date": "2025-10-07"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20250929/",
+        "status": "Working Draft",
+        "date": "2025-09-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20250918/",
+        "status": "Working Draft",
+        "date": "2025-09-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20250908/",
+        "status": "Working Draft",
+        "date": "2025-09-08"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20250821/",
+        "status": "Working Draft",
+        "date": "2025-08-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20250803/",
+        "status": "Working Draft",
+        "date": "2025-08-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20250731/",
+        "status": "Working Draft",
+        "date": "2025-07-31"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20250729/",
+        "status": "Working Draft",
+        "date": "2025-07-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20250710/",
+        "status": "Working Draft",
+        "date": "2025-07-10"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20250619/",
+        "status": "Working Draft",
+        "date": "2025-06-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20250617/",
+        "status": "Working Draft",
+        "date": "2025-06-17"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20250529/",
+        "status": "Working Draft",
+        "date": "2025-05-29"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20250522/",
+        "status": "Working Draft",
+        "date": "2025-05-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20250423/",
+        "status": "Working Draft",
+        "date": "2025-04-23"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20250327/",
+        "status": "Working Draft",
+        "date": "2025-03-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20250322/",
+        "status": "Working Draft",
+        "date": "2025-03-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20250313/",
+        "status": "Working Draft",
+        "date": "2025-03-13"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20250227/",
+        "status": "Working Draft",
+        "date": "2025-02-27"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20250221/",
+        "status": "Working Draft",
+        "date": "2025-02-21"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20250214/",
+        "status": "Working Draft",
+        "date": "2025-02-14"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20250206/",
+        "status": "Working Draft",
+        "date": "2025-02-06"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20250122/",
+        "status": "Working Draft",
+        "date": "2025-01-22"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-did-resolution-20250115/",
+        "status": "Working Draft",
+        "date": "2025-01-15"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-did-resolution-20241212/",
+        "status": "Working Draft",
+        "date": "2024-12-12"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-did-resolution-20241203/",
+        "status": "Working Draft",
+        "date": "2024-12-03"
+      },
+      {
+        "url": "https://www.w3.org/TR/2024/WD-did-resolution-20241128/",
+        "status": "First Public Working Draft",
+        "date": "2024-11-28"
+      }
+    ],
+    "abstract": "Decentralized identifier (DID) resolution is the process of obtaining a DID document and accompanying metadata for a specific DID. The process takes a DID and a set of resolution options as its input and returns a DID document and associated metadata about the resolved document and the resolution request. A resolved DID document is a set of information which enables cryptographically verifiable interactions with the DID subject, including mechanisms such as cryptographic public keys. This specification covers the algorithms and guidelines to be used for DID resolution and relies on the core DID specification, Decentralized Identifiers (DIDs) v1.0, which describes the underlying DID architecture in full detail."
   }
 ]
