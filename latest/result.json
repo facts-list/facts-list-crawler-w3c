@@ -71172,41 +71172,6 @@
     "abstract": "This API defines an API surface for manipulating the bits on MediaStreamTracks being sent via an RTCPeerConnection."
   },
   {
-    "url": "https://www.w3.org/TR/ttml-imsc1.3/",
-    "title": "IMSC Text Profile 1.3",
-    "status": "Candidate Standard",
-    "date": "2025-12-20",
-    "histUrl": "https://www.w3.org/standards/history/ttml-imsc1.3/",
-    "history": [
-      {
-        "url": "https://www.w3.org/TR/2025/CRD-ttml-imsc1.3-20251220/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2025-12-20"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/CRD-ttml-imsc1.3-20251219/",
-        "status": "Candidate Recommendation Draft",
-        "date": "2025-12-19"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/CR-ttml-imsc1.3-20251218/",
-        "status": "Candidate Recommendation Snapshot",
-        "date": "2025-12-18"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-ttml-imsc1.3-20250925/",
-        "status": "Working Draft",
-        "date": "2025-09-25"
-      },
-      {
-        "url": "https://www.w3.org/TR/2025/WD-ttml-imsc1.3-20250722/",
-        "status": "First Public Working Draft",
-        "date": "2025-07-22"
-      }
-    ],
-    "abstract": "This specification defines a text-only profile of [ttml2] intended for subtitle and caption delivery applications worldwide."
-  },
-  {
     "url": "https://www.w3.org/TR/css-anchor-position-1/",
     "title": "CSS Anchor Positioning Module Level 1",
     "status": "Draft Standard",
@@ -83570,5 +83535,45 @@
       }
     ],
     "abstract": "Decentralized identifier (DID) resolution is the process of obtaining a DID document and accompanying metadata for a specific DID. The process takes a DID and a set of resolution options as its input and returns a DID document and associated metadata about the resolved document and the resolution request. A resolved DID document is a set of information which enables cryptographically verifiable interactions with the DID subject, including mechanisms such as cryptographic public keys. This specification covers the algorithms and guidelines to be used for DID resolution and relies on the core DID specification, Decentralized Identifiers (DIDs) v1.0, which describes the underlying DID architecture in full detail."
+  },
+  {
+    "url": "https://www.w3.org/TR/ttml-imsc1.3/",
+    "title": "IMSC Text Profile 1.3",
+    "status": "Candidate Standard",
+    "date": "2026-01-19",
+    "histUrl": "https://www.w3.org/standards/history/ttml-imsc1.3/",
+    "history": [
+      {
+        "url": "https://www.w3.org/TR/2026/CRD-ttml-imsc1.3-20260119/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2026-01-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/CRD-ttml-imsc1.3-20251220/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2025-12-20"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/CRD-ttml-imsc1.3-20251219/",
+        "status": "Candidate Recommendation Draft",
+        "date": "2025-12-19"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/CR-ttml-imsc1.3-20251218/",
+        "status": "Candidate Recommendation Snapshot",
+        "date": "2025-12-18"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-ttml-imsc1.3-20250925/",
+        "status": "Working Draft",
+        "date": "2025-09-25"
+      },
+      {
+        "url": "https://www.w3.org/TR/2025/WD-ttml-imsc1.3-20250722/",
+        "status": "First Public Working Draft",
+        "date": "2025-07-22"
+      }
+    ],
+    "abstract": "This specification defines a text-only profile of [ttml2] intended for subtitle and caption delivery applications worldwide."
   }
 ]
